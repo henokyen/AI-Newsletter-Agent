@@ -1,0 +1,100 @@
+Contents Menu Expand Light mode Dark mode Auto light/dark mode
+Hide navigation sidebar
+Hide table of contents sidebar
+Toggle site navigation sidebar
+[PyMuPDF 1.25.4 documentation](https://pymupdf.readthedocs.io/en/latest/index.html)
+Toggle Light / Dark / Auto color theme
+Toggle table of contents sidebar
+[ ![Light Logo](https://pymupdf.readthedocs.io/en/latest/_static/sidebar-logo-dark.svg) ![Dark Logo](https://pymupdf.readthedocs.io/en/latest/_static/sidebar-logo-light.svg) PyMuPDF 1.25.4 documentation ](https://pymupdf.readthedocs.io/en/latest/index.html)
+About
+  * [Features Comparison](https://pymupdf.readthedocs.io/en/latest/about.html)
+  * [Performance](https://pymupdf.readthedocs.io/en/latest/about.html#performance)
+  * [License and Copyright](https://pymupdf.readthedocs.io/en/latest/about.html#license-and-copyright)
+  * [PyMuPDF4LLM](https://pymupdf.readthedocs.io/en/latest/pymupdf4llm/index.html)
+  * [PyMuPDF Pro](https://pymupdf.readthedocs.io/en/latest/pymupdf-pro.html)
+
+
+User Guide
+  * [Installation](https://pymupdf.readthedocs.io/en/latest/installation.html)
+  * [The Basics](https://pymupdf.readthedocs.io/en/latest/the-basics.html)
+  * [Tutorial](https://pymupdf.readthedocs.io/en/latest/tutorial.html)
+  * [PyMuPDF, LLM & RAG](https://pymupdf.readthedocs.io/en/latest/rag.html)
+  * [Resources](https://pymupdf.readthedocs.io/en/latest/resources.html)
+
+
+How to Guide
+  * [Opening Files](https://pymupdf.readthedocs.io/en/latest/how-to-open-a-file.html)
+  * [Text](https://pymupdf.readthedocs.io/en/latest/recipes-text.html)
+  * [Images](https://pymupdf.readthedocs.io/en/latest/recipes-images.html)
+  * [Annotations](https://pymupdf.readthedocs.io/en/latest/recipes-annotations.html)
+  * [Drawing and Graphics](https://pymupdf.readthedocs.io/en/latest/recipes-drawing-and-graphics.html)
+  * [Stories](https://pymupdf.readthedocs.io/en/latest/recipes-stories.html)
+  * [Journalling](https://pymupdf.readthedocs.io/en/latest/recipes-journalling.html)
+  * [Multiprocessing](https://pymupdf.readthedocs.io/en/latest/recipes-multiprocessing.html)
+  * [OCR - Optical Character Recognition](https://pymupdf.readthedocs.io/en/latest/recipes-ocr.html)
+  * [Optional Content Support](https://pymupdf.readthedocs.io/en/latest/recipes-optional-content.html)
+  * [Low-Level Interfaces](https://pymupdf.readthedocs.io/en/latest/recipes-low-level-interfaces.html)
+  * [Common Issues and their Solutions](https://pymupdf.readthedocs.io/en/latest/recipes-common-issues-and-their-solutions.html)
+
+
+API Reference
+  * [Command line interface](https://pymupdf.readthedocs.io/en/latest/module.html)
+  * [Classes](https://pymupdf.readthedocs.io/en/latest/classes.html)
+Toggle child pages in navigation
+    * [Annot](https://pymupdf.readthedocs.io/en/latest/annot.html)
+    * [Archive](https://pymupdf.readthedocs.io/en/latest/archive-class.html)
+    * [Colorspace](https://pymupdf.readthedocs.io/en/latest/colorspace.html)
+    * [DisplayList](https://pymupdf.readthedocs.io/en/latest/displaylist.html)
+    * [Document](https://pymupdf.readthedocs.io/en/latest/document.html)
+    * [DocumentWriter](https://pymupdf.readthedocs.io/en/latest/document-writer-class.html)
+    * [Font](https://pymupdf.readthedocs.io/en/latest/font.html)
+    * [Identity](https://pymupdf.readthedocs.io/en/latest/identity.html)
+    * [IRect](https://pymupdf.readthedocs.io/en/latest/irect.html)
+    * [Link](https://pymupdf.readthedocs.io/en/latest/link.html)
+    * [linkDest](https://pymupdf.readthedocs.io/en/latest/linkdest.html)
+    * [Matrix](https://pymupdf.readthedocs.io/en/latest/matrix.html)
+    * [Outline](https://pymupdf.readthedocs.io/en/latest/outline.html)
+    * [Page](https://pymupdf.readthedocs.io/en/latest/page.html)
+    * [Pixmap](https://pymupdf.readthedocs.io/en/latest/pixmap.html)
+    * [Point](https://pymupdf.readthedocs.io/en/latest/point.html)
+    * [Quad](https://pymupdf.readthedocs.io/en/latest/quad.html)
+    * [Rect](https://pymupdf.readthedocs.io/en/latest/rect.html)
+    * [Shape](https://pymupdf.readthedocs.io/en/latest/shape.html)
+    * [Story](https://pymupdf.readthedocs.io/en/latest/story-class.html)
+    * [TextPage](https://pymupdf.readthedocs.io/en/latest/textpage.html)
+    * [TextWriter](https://pymupdf.readthedocs.io/en/latest/textwriter.html)
+    * [Tools](https://pymupdf.readthedocs.io/en/latest/tools.html)
+    * [Widget](https://pymupdf.readthedocs.io/en/latest/widget.html)
+    * [Xml](https://pymupdf.readthedocs.io/en/latest/xml-class.html)
+  * [Operator Algebra for Geometry Objects](https://pymupdf.readthedocs.io/en/latest/algebra.html)
+  * [Low Level Functions and Classes](https://pymupdf.readthedocs.io/en/latest/lowlevel.html)
+Toggle child pages in navigation
+    * [Functions](https://pymupdf.readthedocs.io/en/latest/functions.html)
+    * [Device](https://pymupdf.readthedocs.io/en/latest/device.html)
+    * [Working together: DisplayList and TextPage](https://pymupdf.readthedocs.io/en/latest/coop_low.html)
+  * [Glossary](https://pymupdf.readthedocs.io/en/latest/glossary.html)
+  * [Constants and Enumerations](https://pymupdf.readthedocs.io/en/latest/vars.html)
+  * [Color Database](https://pymupdf.readthedocs.io/en/latest/colors.html)
+
+
+Other
+  * [Appendix 1: Details on Text Extraction](https://pymupdf.readthedocs.io/en/latest/app1.html)
+  * [Appendix 2: Considerations on Embedded Files](https://pymupdf.readthedocs.io/en/latest/app2.html)
+  * [Appendix 3: Assorted Technical Information](https://pymupdf.readthedocs.io/en/latest/app3.html)
+  * [Appendix 4: Performance Comparison Methodology](https://pymupdf.readthedocs.io/en/latest/app4.html)
+  * [Change Log](https://pymupdf.readthedocs.io/en/latest/changes.html)
+  * [Deprecated Names](https://pymupdf.readthedocs.io/en/latest/znames.html)
+
+
+[ Back to top ](https://pymupdf.readthedocs.io/en/latest/pymupdf4llm/index.html/)
+Toggle Light / Dark / Auto color theme
+Toggle table of contents sidebar
+# 404![#](https://pymupdf.readthedocs.io/en/latest/pymupdf4llm/index.html/#id1 "Permalink to this heading")
+**This page is not available.**
+Please use the menu or search to find what you are looking for.
+[Do you have any feedback on this page?](https://artifex.com/contributor/feedback.php?utm_source=rtd-pymupdf&utm_medium=rtd&utm_content=footer-link&url=https://pymupdf.readthedocs.io/en/latest/pymupdf4llm/index.html/)
+This software is provided AS-IS with no warranty, either express or implied. This software is distributed under license and may not be copied, modified or distributed except as expressly authorized under the terms of that license. Refer to licensing information at [artifex.com](https://www.artifex.com?utm_source=rtd-pymupdf&utm_medium=rtd&utm_content=footer-link) or contact Artifex Software Inc., 39 Mesa Street, Suite 108A, San Francisco CA 94129, United States for further information.
+This documentation covers all versions up to 1.25.4.
+Copyright © 2015-2025, Artifex 
+Made with [Furo](https://github.com/pradyunsg/furo)
+Last updated on 14. Mar 2025

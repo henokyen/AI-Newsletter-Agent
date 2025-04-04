@@ -1,0 +1,61 @@
+{
+    "id": "a4523dd6cd88a83571aeeec633e4073a",
+    "metadata": {
+        "id": "a4523dd6cd88a83571aeeec633e4073a",
+        "url": "https://www.youtube.com/watch?v=9vBRjGgdyTY/",
+        "title": "Real-Time Search and Recommendation at Scale Using Embeddings and Hopsworks - YouTube",
+        "properties": {
+            "description": "The dominant paradigm today for real-time personalized recommendations and personalized search is the retrieval and ranking architecture based on embeddings....",
+            "keywords": "Databricks",
+            "author": null,
+            "og:site_name": "YouTube",
+            "og:url": "https://www.youtube.com/watch?v=9vBRjGgdyTY",
+            "og:title": "Real-Time Search and Recommendation at Scale Using Embeddings and Hopsworks",
+            "og:image": "https://i.ytimg.com/vi/9vBRjGgdyTY/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGEgYShhMA8=&rs=AOn4CLBF6bGALL4wZ4tBj4_bGR4G5yt_EQ",
+            "og:image:width": "1280",
+            "og:image:height": "720",
+            "og:description": "The dominant paradigm today for real-time personalized recommendations and personalized search is the retrieval and ranking architecture based on embeddings....",
+            "og:type": "video.other",
+            "og:video:url": "https://www.youtube.com/embed/9vBRjGgdyTY",
+            "og:video:secure_url": "https://www.youtube.com/embed/9vBRjGgdyTY",
+            "og:video:type": "text/html",
+            "og:video:width": "1280",
+            "og:video:height": "720",
+            "og:video:tag": "Databricks",
+            "twitter:card": "player",
+            "twitter:site": "@youtube",
+            "twitter:url": "https://www.youtube.com/watch?v=9vBRjGgdyTY",
+            "twitter:title": "Real-Time Search and Recommendation at Scale Using Embeddings and Hopsworks",
+            "twitter:description": "The dominant paradigm today for real-time personalized recommendations and personalized search is the retrieval and ranking architecture based on embeddings....",
+            "twitter:image": "https://i.ytimg.com/vi/9vBRjGgdyTY/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGEgYShhMA8=&rs=AOn4CLBF6bGALL4wZ4tBj4_bGR4G5yt_EQ",
+            "twitter:app:name:iphone": "YouTube",
+            "twitter:app:id:iphone": "544007664",
+            "twitter:app:name:ipad": "YouTube",
+            "twitter:app:id:ipad": "544007664",
+            "twitter:app:url:iphone": "vnd.youtube://www.youtube.com/watch?v=9vBRjGgdyTY%2F&feature=applinks",
+            "twitter:app:url:ipad": "vnd.youtube://www.youtube.com/watch?v=9vBRjGgdyTY%2F&feature=applinks",
+            "twitter:app:name:googleplay": "YouTube",
+            "twitter:app:id:googleplay": "com.google.android.youtube",
+            "twitter:app:url:googleplay": "https://www.youtube.com/watch?v=9vBRjGgdyTY",
+            "twitter:player": "https://www.youtube.com/embed/9vBRjGgdyTY",
+            "twitter:player:width": "1280",
+            "twitter:player:height": "720"
+        }
+    },
+    "parent_metadata": {
+        "id": "d4e0bda813dbcd7cd4cfbedc3df27f6f",
+        "url": "https://www.notion.so/RecSys-Two-tower-architecture-d4e0bda813dbcd7cd4cfbedc3df27f6f",
+        "title": "RecSys: Two-tower architecture",
+        "properties": {
+            "Type": [
+                "Leaf"
+            ]
+        }
+    },
+    "content": "Real-Time Search and Recommendation at Scale Using Embeddings and Hopsworks\nSearch\nWatch later\nShare\nCopy link\nInfo\nShopping\nTap to unmute\n2x\nIf playback doesn't begin shortly, try restarting your device.\n•\nUp next\nLiveUpcoming\nCancelPlay Now\nYou're signed out\nVideos you watch may be added to the TV's watch history and influence TV recommendations. To avoid this, cancel and sign in to YouTube on your computer.\nCancelConfirm\nShare\nInclude playlist\nAn error occurred while retrieving sharing information. Please try again later.\n0:00\n0:00 / 37:08•Watch full videoLive\n•\n•\nScroll for details\n•\nNaN / NaN\nBack  [ ](https://www.youtube.com/)\nSearch \n[ ](https://www.youtube.com/)\n",
+    "content_quality_score": 0.0,
+    "summary": null,
+    "child_urls": [
+        "https://www.youtube.com/"
+    ]
+}

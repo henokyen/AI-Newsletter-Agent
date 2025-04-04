@@ -1,0 +1,23 @@
+{
+    "id": "3a1e2c81ddbe0cdfabd4ff2b470cd3fc",
+    "metadata": {
+        "id": "3a1e2c81ddbe0cdfabd4ff2b470cd3fc",
+        "url": "https://www.notion.so/Prompt-Optimization-3a1e2c81ddbe0cdfabd4ff2b470cd3fc",
+        "title": "Prompt Optimization",
+        "properties": {
+            "Type": "Leaf"
+        }
+    },
+    "parent_metadata": {
+        "id": "acaba26c8d6db32d81e0f8dfbeed215f",
+        "url": "",
+        "title": "",
+        "properties": {}
+    },
+    "content": "# Resources [Community]\n\n\t[https://medium.com/aiguys/textgrad-controlling-llm-behavior-via-text-2a82e2073d10](https://medium.com/aiguys/textgrad-controlling-llm-behavior-via-text-2a82e2073d10)\n\n# Resources [Science]\n\n# Tools",
+    "content_quality_score": 0.0,
+    "summary": null,
+    "child_urls": [
+        "https://medium.com/aiguys/textgrad-controlling-llm-behavior-via-text-2a82e2073d10/"
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "id": "e1bf5f7feafb8adadc7abefc92b7d90e",
+    "metadata": {
+        "id": "e1bf5f7feafb8adadc7abefc92b7d90e",
+        "url": "https://www.notion.so/gRPC-with-Python-e1bf5f7feafb8adadc7abefc92b7d90e",
+        "title": "gRPC with Python",
+        "properties": {
+            "Type": [
+                "Leaf"
+            ],
+            "Language": null,
+            "Created": {
+                "id": "tmas",
+                "type": "created_time",
+                "created_time": "2024-12-30T08:32:00.000Z"
+            }
+        }
+    },
+    "parent_metadata": {
+        "id": "8bc62d5ff3ccbe94ca2d9fa4fd7fde37",
+        "url": "",
+        "title": "",
+        "properties": {}
+    },
+    "content": "[https://martinheinz.dev/blog/23](https://martinheinz.dev/blog/23)",
+    "content_quality_score": 0.0,
+    "summary": null,
+    "child_urls": [
+        "https://martinheinz.dev/blog/23/"
+    ]
+}

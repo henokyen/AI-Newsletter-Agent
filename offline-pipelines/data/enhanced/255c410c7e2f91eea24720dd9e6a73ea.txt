@@ -1,0 +1,388 @@
+[Skip to content](https://github.com/pallets/click/#start-of-content)
+## Navigation Menu
+Toggle navigation
+[ ](https://github.com/)
+[ Sign in ](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fpallets%2Fclick%2F)
+  * Product 
+    * [ GitHub Copilot Write better code with AI  ](https://github.com/features/copilot)
+    * [ Security Find and fix vulnerabilities  ](https://github.com/features/security)
+    * [ Actions Automate any workflow  ](https://github.com/features/actions)
+    * [ Codespaces Instant dev environments  ](https://github.com/features/codespaces)
+    * [ Issues Plan and track work  ](https://github.com/features/issues)
+    * [ Code Review Manage code changes  ](https://github.com/features/code-review)
+    * [ Discussions Collaborate outside of code  ](https://github.com/features/discussions)
+    * [ Code Search Find more, search less  ](https://github.com/features/code-search)
+Explore
+    * [ All features ](https://github.com/features)
+    * [ Documentation ](https://docs.github.com)
+    * [ GitHub Skills ](https://skills.github.com)
+    * [ Blog ](https://github.blog)
+  * Solutions 
+By company size
+    * [ Enterprises ](https://github.com/enterprise)
+    * [ Small and medium teams ](https://github.com/team)
+    * [ Startups ](https://github.com/enterprise/startups)
+    * [ Nonprofits ](https://github.com/solutions/industry/nonprofits)
+By use case
+    * [ DevSecOps ](https://github.com/solutions/use-case/devsecops)
+    * [ DevOps ](https://github.com/solutions/use-case/devops)
+    * [ CI/CD ](https://github.com/solutions/use-case/ci-cd)
+    * [ View all use cases ](https://github.com/solutions/use-case)
+By industry
+    * [ Healthcare ](https://github.com/solutions/industry/healthcare)
+    * [ Financial services ](https://github.com/solutions/industry/financial-services)
+    * [ Manufacturing ](https://github.com/solutions/industry/manufacturing)
+    * [ Government ](https://github.com/solutions/industry/government)
+    * [ View all industries ](https://github.com/solutions/industry)
+[ View all solutions ](https://github.com/solutions)
+  * Resources 
+Topics
+    * [ AI ](https://github.com/resources/articles/ai)
+    * [ DevOps ](https://github.com/resources/articles/devops)
+    * [ Security ](https://github.com/resources/articles/security)
+    * [ Software Development ](https://github.com/resources/articles/software-development)
+    * [ View all ](https://github.com/resources/articles)
+Explore
+    * [ Learning Pathways ](https://resources.github.com/learn/pathways)
+    * [ Events & Webinars ](https://resources.github.com)
+    * [ Ebooks & Whitepapers ](https://github.com/resources/whitepapers)
+    * [ Customer Stories ](https://github.com/customer-stories)
+    * [ Partners ](https://partner.github.com)
+    * [ Executive Insights ](https://github.com/solutions/executive-insights)
+  * Open Source 
+    * [ GitHub Sponsors Fund open source developers  ](https://github.com/sponsors)
+    * [ The ReadME Project GitHub community articles  ](https://github.com/readme)
+Repositories
+    * [ Topics ](https://github.com/topics)
+    * [ Trending ](https://github.com/trending)
+    * [ Collections ](https://github.com/collections)
+  * Enterprise 
+    * [ Enterprise platform AI-powered developer platform  ](https://github.com/enterprise)
+Available add-ons
+    * [ Advanced Security Enterprise-grade security features  ](https://github.com/enterprise/advanced-security)
+    * [ Copilot for business Enterprise-grade AI features  ](https://github.com/features/copilot/copilot-business)
+    * [ Premium Support Enterprise-grade 24/7 support  ](https://github.com/premium-support)
+  * [Pricing](https://github.com/pricing)
+
+
+Search or jump to...
+# Search code, repositories, users, issues, pull requests...
+Search 
+Clear
+[Search syntax tips](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax)
+#  Provide feedback 
+We read every piece of feedback, and take your input very seriously.
+Include my email address so I can be contacted
+Cancel  Submit feedback 
+#  Saved searches 
+## Use saved searches to filter your results more quickly
+Name
+Query
+To see all available qualifiers, see our [documentation](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax). 
+Cancel  Create saved search 
+[ Sign in ](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fpallets%2Fclick%2F)
+[ Sign up ](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E&source=header-repo&source_repo=pallets%2Fclick) Reseting focus
+You signed in with another tab or window. [Reload](https://github.com/pallets/click/) to refresh your session. You signed out in another tab or window. [Reload](https://github.com/pallets/click/) to refresh your session. You switched accounts on another tab or window. [Reload](https://github.com/pallets/click/) to refresh your session. Dismiss alert
+{{ message }}
+[ pallets ](https://github.com/pallets) / **[click](https://github.com/pallets/click) ** Public
+  * Sponsor
+#  Sponsor pallets/click 
+  * [ Notifications ](https://github.com/login?return_to=%2Fpallets%2Fclick) You must be signed in to change notification settings
+  * [ Fork 1.4k ](https://github.com/login?return_to=%2Fpallets%2Fclick)
+  * [ Star  16.2k ](https://github.com/login?return_to=%2Fpallets%2Fclick)
+
+
+Python composable command line interface toolkit 
+[click.palletsprojects.com](https://click.palletsprojects.com "https://click.palletsprojects.com")
+### License
+[ BSD-3-Clause license ](https://github.com/pallets/click/blob/main/LICENSE.txt)
+[ 16.2k stars ](https://github.com/pallets/click/stargazers) [ 1.4k forks ](https://github.com/pallets/click/forks) [ Branches ](https://github.com/pallets/click/branches) [ Tags ](https://github.com/pallets/click/tags) [ Activity ](https://github.com/pallets/click/activity)
+[ Star  ](https://github.com/login?return_to=%2Fpallets%2Fclick)
+[ Notifications ](https://github.com/login?return_to=%2Fpallets%2Fclick) You must be signed in to change notification settings
+  * [ Code ](https://github.com/pallets/click)
+  * [ Issues 100 ](https://github.com/pallets/click/issues)
+  * [ Pull requests 17 ](https://github.com/pallets/click/pulls)
+  * [ Discussions ](https://github.com/pallets/click/discussions)
+  * [ Actions ](https://github.com/pallets/click/actions)
+  * [ Security ](https://github.com/pallets/click/security)
+  * [ Insights ](https://github.com/pallets/click/pulse)
+
+
+Additional navigation options
+  * [ Code  ](https://github.com/pallets/click)
+  * [ Issues  ](https://github.com/pallets/click/issues)
+  * [ Pull requests  ](https://github.com/pallets/click/pulls)
+  * [ Discussions  ](https://github.com/pallets/click/discussions)
+  * [ Actions  ](https://github.com/pallets/click/actions)
+  * [ Security  ](https://github.com/pallets/click/security)
+  * [ Insights  ](https://github.com/pallets/click/pulse)
+
+
+# pallets/click
+main
+[**8** Branches](https://github.com/pallets/click/branches)[**60** Tags](https://github.com/pallets/click/tags)
+[](https://github.com/pallets/click/branches)[](https://github.com/pallets/click/tags)
+Go to file
+Code
+## Folders and files
+Name| Name| Last commit message| Last commit date  
+---|---|---|---  
+## Latest commit
+[![Rowlando13](https://avatars.githubusercontent.com/u/67291205?v=4&size=40)](https://github.com/Rowlando13)[Rowlando13](https://github.com/pallets/click/commits?author=Rowlando13)[Move](https://github.com/pallets/click/commit/c9f7d9d8a02f0cf9b24db6210b083e687a5cf020) `--help[](https://github.com/pallets/click/commit/c9f7d9d8a02f0cf9b24db6210b083e687a5cf020)` [option defaults from its class to its decorator (](https://github.com/pallets/click/commit/c9f7d9d8a02f0cf9b24db6210b083e687a5cf020)[#2840](https://github.com/pallets/click/pull/2840)[)](https://github.com/pallets/click/commit/c9f7d9d8a02f0cf9b24db6210b083e687a5cf020)Mar 18, 2025[c9f7d9d](https://github.com/pallets/click/commit/c9f7d9d8a02f0cf9b24db6210b083e687a5cf020) · Mar 18, 2025
+## History
+[2,565 Commits](https://github.com/pallets/click/commits/main/)[](https://github.com/pallets/click/commits/main/)  
+[.devcontainer](https://github.com/pallets/click/tree/main/.devcontainer ".devcontainer")| [.devcontainer](https://github.com/pallets/click/tree/main/.devcontainer ".devcontainer")| [update project files](https://github.com/pallets/click/commit/525c5f1f284bca3a9f516d8ee24de419aa7d0e24 "update project files
+* update pre-commit hooks
+* add devcontainer
+* show url in publish environment
+* update actions versions
+* separate typing job
+* use dependabot grouped updates
+* use sphinx.ext.extlinks instead of sphinx-issues
+* update .editorconfig
+* update .gitignore
+* update .readthedocs.yaml
+* license is txt, readme is md
+* use pyproject.toml and flit_core instead of setuptools
+ add typed classifier
+ add pyright config
+ simplify urls
+* tox builds docs in place
+* add tox env to update all dev dependencies
+* update issue and pr templates
+* simplify matrix")| Apr 24, 2024  
+[.github](https://github.com/pallets/click/tree/main/.github ".github")| [.github](https://github.com/pallets/click/tree/main/.github ".github")| [update test workflow trigger](https://github.com/pallets/click/commit/02046e7a19480f85fff7e4577486518abe47e401 "update test workflow trigger")| Oct 24, 2024  
+[artwork](https://github.com/pallets/click/tree/main/artwork "artwork")| [artwork](https://github.com/pallets/click/tree/main/artwork "artwork")| [Initial commit](https://github.com/pallets/click/commit/4101de3daf91c6d35b92395a72bf84132ef48f7c "Initial commit")| Apr 24, 2014  
+[docs](https://github.com/pallets/click/tree/main/docs "docs")| [docs](https://github.com/pallets/click/tree/main/docs "docs")| [Rewrite Commands and Groups docs. (](https://github.com/pallets/click/commit/0bf333e1b77b4ae0e85d387531b38930fc657f12 "Rewrite Commands and Groups docs. \(#2838\)
+
+  Rename commands and groups -> Advanced Groups and Context
+  Add basic commands, groups, context doc
+    collects up and add sections for basic command and groups stuff such as renaming, deprecating
+    Add sections for group separation, arbitrary nesting, and lazily attaching
+  Moved custom groups section to Advanced patterns
+  Remove sections from Advanced Groups and Context to rewrite them better in basic commands, groups, context doc
+    passing parameters
+    group invocation without command")[#2838](https://github.com/pallets/click/pull/2838)[)](https://github.com/pallets/click/commit/0bf333e1b77b4ae0e85d387531b38930fc657f12 "Rewrite Commands and Groups docs. \(#2838\)
+
+  Rename commands and groups -> Advanced Groups and Context
+  Add basic commands, groups, context doc
+    collects up and add sections for basic command and groups stuff such as renaming, deprecating
+    Add sections for group separation, arbitrary nesting, and lazily attaching
+  Moved custom groups section to Advanced patterns
+  Remove sections from Advanced Groups and Context to rewrite them better in basic commands, groups, context doc
+    passing parameters
+    group invocation without command")| Mar 17, 2025  
+[examples](https://github.com/pallets/click/tree/main/examples "examples")| [examples](https://github.com/pallets/click/tree/main/examples "examples")| [remove mentions of deprecated base classes](https://github.com/pallets/click/commit/238ee070af40576d23418e41fa96d1c41e53f6b1 "remove mentions of deprecated base classes")| Aug 19, 2023  
+[requirements](https://github.com/pallets/click/tree/main/requirements "requirements")| [requirements](https://github.com/pallets/click/tree/main/requirements "requirements")| [Move testing docs to myst.](https://github.com/pallets/click/commit/e5abf2002d8d91a367eb7b4f4481bed8b8d4650c "Move testing docs to myst.")| Feb 16, 2025  
+[src/click](https://github.com/pallets/click/tree/main/src/click "This path skips through empty directories")| [src/click](https://github.com/pallets/click/tree/main/src/click "This path skips through empty directories")| [Allow customization of help option right from its decorator.](https://github.com/pallets/click/commit/0b7a9acc63dac907088de7d9238f7f4b2afe02ea "Allow customization of help option right from its decorator.
+Removes `click.decorators.HelpOption` class.
+Closes #2832.
+# Conflicts:
+#	CHANGES.rst")| Mar 18, 2025  
+[tests](https://github.com/pallets/click/tree/main/tests "tests")| [tests](https://github.com/pallets/click/tree/main/tests "tests")| [Allow customization of help option right from its decorator.](https://github.com/pallets/click/commit/0b7a9acc63dac907088de7d9238f7f4b2afe02ea "Allow customization of help option right from its decorator.
+Removes `click.decorators.HelpOption` class.
+Closes #2832.
+# Conflicts:
+#	CHANGES.rst")| Mar 18, 2025  
+[.editorconfig](https://github.com/pallets/click/blob/main/.editorconfig ".editorconfig")| [.editorconfig](https://github.com/pallets/click/blob/main/.editorconfig ".editorconfig")| [update project files](https://github.com/pallets/click/commit/525c5f1f284bca3a9f516d8ee24de419aa7d0e24 "update project files
+* update pre-commit hooks
+* add devcontainer
+* show url in publish environment
+* update actions versions
+* separate typing job
+* use dependabot grouped updates
+* use sphinx.ext.extlinks instead of sphinx-issues
+* update .editorconfig
+* update .gitignore
+* update .readthedocs.yaml
+* license is txt, readme is md
+* use pyproject.toml and flit_core instead of setuptools
+ add typed classifier
+ add pyright config
+ simplify urls
+* tox builds docs in place
+* add tox env to update all dev dependencies
+* update issue and pr templates
+* simplify matrix")| Apr 24, 2024  
+[.gitignore](https://github.com/pallets/click/blob/main/.gitignore ".gitignore")| [.gitignore](https://github.com/pallets/click/blob/main/.gitignore ".gitignore")| [Add functionality to hide the progress bar](https://github.com/pallets/click/commit/fcd85032cff78aa536a6d2b455fb83bfcc02b228 "Add functionality to hide the progress bar #2609 \(#2727\)
+Co-authored-by: Andreas Backx <andreas@backx.org>") [#2609](https://github.com/pallets/click/issues/2609) [(](https://github.com/pallets/click/commit/fcd85032cff78aa536a6d2b455fb83bfcc02b228 "Add functionality to hide the progress bar #2609 \(#2727\)
+Co-authored-by: Andreas Backx <andreas@backx.org>")[#2727](https://github.com/pallets/click/pull/2727)[)](https://github.com/pallets/click/commit/fcd85032cff78aa536a6d2b455fb83bfcc02b228 "Add functionality to hide the progress bar #2609 \(#2727\)
+Co-authored-by: Andreas Backx <andreas@backx.org>")| Nov 3, 2024  
+[.pre-commit-config.yaml](https://github.com/pallets/click/blob/main/.pre-commit-config.yaml ".pre-commit-config.yaml")| [.pre-commit-config.yaml](https://github.com/pallets/click/blob/main/.pre-commit-config.yaml ".pre-commit-config.yaml")| [update dev dependencies](https://github.com/pallets/click/commit/22b9a30e8bac327f35a04abbb4e4183763c4f64a "update dev dependencies")| Oct 24, 2024  
+[.readthedocs.yaml](https://github.com/pallets/click/blob/main/.readthedocs.yaml ".readthedocs.yaml")| [.readthedocs.yaml](https://github.com/pallets/click/blob/main/.readthedocs.yaml ".readthedocs.yaml")| [Fix read the docs configuration](https://github.com/pallets/click/commit/e2288bb36c3b30264bf8b78ec0e6ab8e4a81b699 "Fix read the docs configuration")| Jan 25, 2025  
+[CHANGES.rst](https://github.com/pallets/click/blob/main/CHANGES.rst "CHANGES.rst")| [CHANGES.rst](https://github.com/pallets/click/blob/main/CHANGES.rst "CHANGES.rst")| [Allow customization of help option right from its decorator.](https://github.com/pallets/click/commit/0b7a9acc63dac907088de7d9238f7f4b2afe02ea "Allow customization of help option right from its decorator.
+Removes `click.decorators.HelpOption` class.
+Closes #2832.
+# Conflicts:
+#	CHANGES.rst")| Mar 18, 2025  
+[CONTRIBUTING.rst](https://github.com/pallets/click/blob/main/CONTRIBUTING.rst "CONTRIBUTING.rst")| [CONTRIBUTING.rst](https://github.com/pallets/click/blob/main/CONTRIBUTING.rst "CONTRIBUTING.rst")| [Merge branch '8.1.x'](https://github.com/pallets/click/commit/99015e1456b6952054fda8312b40ea646737168d "Merge branch '8.1.x'")| Aug 23, 2024  
+[LICENSE.txt](https://github.com/pallets/click/blob/main/LICENSE.txt "LICENSE.txt")| [LICENSE.txt](https://github.com/pallets/click/blob/main/LICENSE.txt "LICENSE.txt")| [update project files](https://github.com/pallets/click/commit/525c5f1f284bca3a9f516d8ee24de419aa7d0e24 "update project files
+* update pre-commit hooks
+* add devcontainer
+* show url in publish environment
+* update actions versions
+* separate typing job
+* use dependabot grouped updates
+* use sphinx.ext.extlinks instead of sphinx-issues
+* update .editorconfig
+* update .gitignore
+* update .readthedocs.yaml
+* license is txt, readme is md
+* use pyproject.toml and flit_core instead of setuptools
+ add typed classifier
+ add pyright config
+ simplify urls
+* tox builds docs in place
+* add tox env to update all dev dependencies
+* update issue and pr templates
+* simplify matrix")| Apr 24, 2024  
+[README.md](https://github.com/pallets/click/blob/main/README.md "README.md")| [README.md](https://github.com/pallets/click/blob/main/README.md "README.md")| [update project files](https://github.com/pallets/click/commit/525c5f1f284bca3a9f516d8ee24de419aa7d0e24 "update project files
+* update pre-commit hooks
+* add devcontainer
+* show url in publish environment
+* update actions versions
+* separate typing job
+* use dependabot grouped updates
+* use sphinx.ext.extlinks instead of sphinx-issues
+* update .editorconfig
+* update .gitignore
+* update .readthedocs.yaml
+* license is txt, readme is md
+* use pyproject.toml and flit_core instead of setuptools
+ add typed classifier
+ add pyright config
+ simplify urls
+* tox builds docs in place
+* add tox env to update all dev dependencies
+* update issue and pr templates
+* simplify matrix")| Apr 24, 2024  
+[pyproject.toml](https://github.com/pallets/click/blob/main/pyproject.toml "pyproject.toml")| [pyproject.toml](https://github.com/pallets/click/blob/main/pyproject.toml "pyproject.toml")| [Merge branch '8.1.x'](https://github.com/pallets/click/commit/99015e1456b6952054fda8312b40ea646737168d "Merge branch '8.1.x'")| Aug 23, 2024  
+[tox.ini](https://github.com/pallets/click/blob/main/tox.ini "tox.ini")| [tox.ini](https://github.com/pallets/click/blob/main/tox.ini "tox.ini")| [Improve typing on Windows (](https://github.com/pallets/click/commit/45f89cd5d39db37b9aa1a014da000f12da532ddc "Improve typing on Windows \(#2803\)")[#2803](https://github.com/pallets/click/pull/2803)[)](https://github.com/pallets/click/commit/45f89cd5d39db37b9aa1a014da000f12da532ddc "Improve typing on Windows \(#2803\)")| Dec 22, 2024  
+View all files  
+## Repository files navigation
+  * [README](https://github.com/pallets/click/)
+  * [Code of conduct](https://github.com/pallets/click/)
+  * [BSD-3-Clause license](https://github.com/pallets/click/)
+  * [Security](https://github.com/pallets/click/)
+
+
+# $ click_
+[](https://github.com/pallets/click/#-click_)
+Click is a Python package for creating beautiful command line interfaces in a composable way with as little code as necessary. It's the "Command Line Interface Creation Kit". It's highly configurable but comes with sensible defaults out of the box.
+It aims to make the process of writing command line tools quick and fun while also preventing any frustration caused by the inability to implement an intended CLI API.
+Click in three points:
+  * Arbitrary nesting of commands
+  * Automatic help page generation
+  * Supports lazy loading of subcommands at runtime
+
+
+## A Simple Example
+[](https://github.com/pallets/click/#a-simple-example)
+```
+import click
+@click.command()
+@click.option("--count", default=1, help="Number of greetings.")
+@click.option("--name", prompt="Your name", help="The person to greet.")
+def hello(count, name):
+  """Simple program that greets NAME for a total of COUNT times."""
+  for _ in range(count):
+    click.echo(f"Hello, {name}!")
+if __name__ == '__main__':
+  hello()
+```
+
+```
+$ python hello.py --count=3
+Your name: Click
+Hello, Click!
+Hello, Click!
+Hello, Click!
+
+```
+
+## Donate
+[](https://github.com/pallets/click/#donate)
+The Pallets organization develops and supports Click and other popular packages. In order to grow the community of contributors and users, and allow the maintainers to devote more time to the projects, [please donate today](https://palletsprojects.com/donate).
+## About
+Python composable command line interface toolkit 
+[click.palletsprojects.com](https://click.palletsprojects.com "https://click.palletsprojects.com")
+### Topics
+[ python ](https://github.com/topics/python "Topic: python") [ cli ](https://github.com/topics/cli "Topic: cli") [ click ](https://github.com/topics/click "Topic: click") [ pallets ](https://github.com/topics/pallets "Topic: pallets")
+### Resources
+[ Readme ](https://github.com/pallets/click/#readme-ov-file)
+### License
+[ BSD-3-Clause license ](https://github.com/pallets/click/#BSD-3-Clause-1-ov-file)
+### Code of conduct
+[ Code of conduct ](https://github.com/pallets/click/#coc-ov-file)
+### Security policy
+[ Security policy ](https://github.com/pallets/click/#security-ov-file)
+[ Activity](https://github.com/pallets/click/activity)
+[ Custom properties](https://github.com/pallets/click/custom-properties)
+### Stars
+[ **16.2k** stars](https://github.com/pallets/click/stargazers)
+### Watchers
+[ **183** watching](https://github.com/pallets/click/watchers)
+### Forks
+[ **1.4k** forks](https://github.com/pallets/click/forks)
+[ Report repository ](https://github.com/contact/report-content?content_url=https%3A%2F%2Fgithub.com%2Fpallets%2Fclick&report=pallets+%28user%29)
+##  [Releases 19](https://github.com/pallets/click/releases)
+[ 8.1.8 Latest  Dec 21, 2024 ](https://github.com/pallets/click/releases/tag/8.1.8)
+[+ 18 releases](https://github.com/pallets/click/releases)
+## Sponsor this project
+  * [ ![@pallets](https://avatars.githubusercontent.com/u/16748505?s=64&v=4) ](https://github.com/pallets) [ **pallets** Pallets ](https://github.com/pallets) [ ](https://github.com/sponsors/pallets)
+
+
+  * <https://palletsprojects.com/donate>
+  * ![tidelift](https://github.githubassets.com/assets/tidelift-8cea37dea8fc.svg) [tidelift.com/funding/github/**pypi/Flask**](https://tidelift.com/funding/github/pypi/Flask)
+  * ![thanks_dev](https://github.githubassets.com/assets/thanks_dev-0fe87803d1ed.svg) [thanks.dev/**u/gh/pallets**](https://thanks.dev/u/gh/pallets)
+
+
+[Learn more about GitHub Sponsors](https://github.com/sponsors)
+##  [Used by 2.1m](https://github.com/pallets/click/network/dependents)
+[
+  * ![@maulikdang87](https://avatars.githubusercontent.com/u/77011598?s=64&v=4)
+  * ![@23f1000718](https://avatars.githubusercontent.com/u/199354670?s=64&v=4)
+  * ![@tvdinner](https://avatars.githubusercontent.com/u/6165270?s=64&v=4)
+  * ![@hualiqnc](https://avatars.githubusercontent.com/u/145919106?s=64&v=4)
+  * ![@rs-dkd](https://avatars.githubusercontent.com/u/131733621?s=64&v=4)
+  * ![@Scsant](https://avatars.githubusercontent.com/u/110061187?s=64&v=4)
+  * ![@AKASH-CODZ](https://avatars.githubusercontent.com/u/196541199?s=64&v=4)
+  * ![@shefaliisharma](https://avatars.githubusercontent.com/u/145866901?s=64&v=4)
+
++ 2,091,151  ](https://github.com/pallets/click/network/dependents)
+##  [Contributors 361](https://github.com/pallets/click/graphs/contributors)
+  * [ ![@davidism](https://avatars.githubusercontent.com/u/1242887?s=64&v=4) ](https://github.com/davidism)
+  * [ ![@mitsuhiko](https://avatars.githubusercontent.com/u/7396?s=64&v=4) ](https://github.com/mitsuhiko)
+  * [ ![@dependabot-preview\[bot\]](https://avatars.githubusercontent.com/in/2141?s=64&v=4) ](https://github.com/apps/dependabot-preview)
+  * [ ![@untitaker](https://avatars.githubusercontent.com/u/837573?s=64&v=4) ](https://github.com/untitaker)
+  * [ ![@dependabot\[bot\]](https://avatars.githubusercontent.com/in/29110?s=64&v=4) ](https://github.com/apps/dependabot)
+  * [ ![@sirosen](https://avatars.githubusercontent.com/u/1300022?s=64&v=4) ](https://github.com/sirosen)
+  * [ ![@Rowlando13](https://avatars.githubusercontent.com/u/67291205?s=64&v=4) ](https://github.com/Rowlando13)
+  * [ ![@pre-commit-ci\[bot\]](https://avatars.githubusercontent.com/in/68672?s=64&v=4) ](https://github.com/apps/pre-commit-ci)
+  * [ ![@jcrotts](https://avatars.githubusercontent.com/u/29685007?s=64&v=4) ](https://github.com/jcrotts)
+  * [ ![@AndreasBackx](https://avatars.githubusercontent.com/u/1593486?s=64&v=4) ](https://github.com/AndreasBackx)
+  * [ ![@zacbir](https://avatars.githubusercontent.com/u/2717?s=64&v=4) ](https://github.com/zacbir)
+  * [ ![@julen](https://avatars.githubusercontent.com/u/16768?s=64&v=4) ](https://github.com/julen)
+  * [ ![@jdufresne](https://avatars.githubusercontent.com/u/347634?s=64&v=4) ](https://github.com/jdufresne)
+  * [ ![@iKevinY](https://avatars.githubusercontent.com/u/2434728?s=64&v=4) ](https://github.com/iKevinY)
+
+
+[+ 347 contributors](https://github.com/pallets/click/graphs/contributors)
+## Languages
+  * [ Python 100.0% ](https://github.com/pallets/click/search?l=python)
+
+
+## Footer
+[ ](https://github.com "GitHub") © 2025 GitHub, Inc. 
+### Footer navigation
+  * [Terms](https://docs.github.com/site-policy/github-terms/github-terms-of-service)
+  * [Privacy](https://docs.github.com/site-policy/privacy-policies/github-privacy-statement)
+  * [Security](https://github.com/security)
+  * [Status](https://www.githubstatus.com/)
+  * [Docs](https://docs.github.com/)
+  * [Contact](https://support.github.com?tags=dotcom-footer)
+  * Manage cookies 
+  * Do not share my personal information 
+
+
+You can’t perform that action at this time. 

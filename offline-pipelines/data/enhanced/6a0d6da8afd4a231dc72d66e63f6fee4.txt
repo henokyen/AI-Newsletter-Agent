@@ -1,0 +1,311 @@
+## Select your cookie preferences
+We use essential cookies and similar tools that are necessary to provide our site and services. We use performance cookies to collect anonymous statistics, so we can understand how customers use our site and make improvements. Essential cookies cannot be deactivated, but you can choose “Customize” or “Decline” to decline performance cookies. If you agree, AWS and approved third parties will also use cookies to provide useful site features, remember your preferences, and display relevant content, including relevant advertising. To accept or decline all non-essential cookies, choose “Accept” or “Decline.” To make more detailed choices, choose “Customize.”
+AcceptDeclineCustomize
+## Customize cookie preferences
+We use cookies and similar tools (collectively, "cookies") for the following purposes.
+### Essential
+Essential cookies are necessary to provide our site and services and cannot be deactivated. They are usually set in response to your actions on the site, such as setting your privacy preferences, signing in, or filling in forms. 
+### Performance
+Performance cookies provide anonymous statistics about how customers navigate our site so we can improve site experience and performance. Approved third parties may perform analytics on our behalf, but they cannot use the data for their own purposes.
+Allow performance category
+Allowed
+### Functional
+Functional cookies help us provide useful site features, remember your preferences, and display relevant content. Approved third parties may set these cookies to provide certain site features. If you do not allow these cookies, then some or all of these services may not function properly.
+Allow functional category
+Allowed
+### Advertising
+Advertising cookies may be set through our site by us or our advertising partners and help us deliver relevant marketing content. If you do not allow these cookies, you will experience less relevant advertising.
+Allow advertising category
+Allowed
+Blocking some types of cookies may impact your experience of our sites. You may review and change your choices at any time by selecting Cookie preferences in the footer of this site. We and selected third-parties use cookies or similar technologies as specified in the [AWS Cookie Notice](https://aws.amazon.com/legal/cookies/).
+CancelSave preferences
+## Your privacy choices
+We display ads relevant to your interests on AWS sites and on other properties, including cross-context behavioral advertising. Cross-context behavioral advertising uses data from one site or app to advertise to you on a different company’s site or app.
+To not allow AWS cross-context behavioral advertising based on cookies or similar technologies, select “Don't allow” and “Save privacy choices” below, or visit an AWS site with a legally-recognized decline signal enabled, such as the Global Privacy Control. If you delete your cookies or visit this site from a different browser or device, you will need to make your selection again. For more information about cookies and how we use them, please read our [AWS Cookie Notice](https://aws.amazon.com/legal/cookies/).
+Cross-context behavioral ads
+AllowDon't allow
+To not allow all other AWS cross-context behavioral advertising, [complete this form by email](https://pulse.aws/application/ZRPLWLL6?p=0).
+For more information about how AWS handles your information, please read the [AWS Privacy Notice](https://aws.amazon.com/privacy/).
+CancelSave privacy choices
+## Unable to save cookie preferences
+We will only store essential cookies at this time, because we were unable to save your cookie preferences.If you want to change your cookie preferences, try again later using the link in the AWS console footer, or contact support if the problem persists.
+Dismiss
+[ Skip to Main Content](https://aws.amazon.com/blogs/machine-learning/category/artificial-intelligence/sagemaker/?sc_icampaign=pac-sagemaker-blogpost&sc_ichannel=ha&sc_icontent=awssm-2276&sc_iplace=console-right&trk=ha_awssm-2276/#aws-page-content-main)
+[Click here to return to Amazon Web Services homepage](https://aws.amazon.com/?nc2=h_lg)
+[About AWS](https://aws.amazon.com/about-aws/?nc2=h_header) [Contact Us](https://aws.amazon.com/contact-us/?nc2=h_header) [ Support ](https://aws.amazon.com/blogs/machine-learning/category/artificial-intelligence/sagemaker/?sc_icampaign=pac-sagemaker-blogpost&sc_ichannel=ha&sc_icontent=awssm-2276&sc_iplace=console-right&trk=ha_awssm-2276/) [ English ](https://aws.amazon.com/blogs/machine-learning/category/artificial-intelligence/sagemaker/?sc_icampaign=pac-sagemaker-blogpost&sc_ichannel=ha&sc_icontent=awssm-2276&sc_iplace=console-right&trk=ha_awssm-2276/) [ My Account ](https://aws.amazon.com/blogs/machine-learning/category/artificial-intelligence/sagemaker/?sc_icampaign=pac-sagemaker-blogpost&sc_ichannel=ha&sc_icontent=awssm-2276&sc_iplace=console-right&trk=ha_awssm-2276/)
+[ Sign In](https://console.aws.amazon.com/console/home?nc2=h_ct&src=header-signin)
+[ Create an AWS Account ](https://portal.aws.amazon.com/gp/aws/developer/registration/index.html?nc2=h_ct&src=header_signup)
+  * [Amazon Q](https://aws.amazon.com/q/?nc2=h_ql_prod_l1_q)
+  * [Products](https://aws.amazon.com/products/?nc2=h_ql_prod)
+  * [Solutions](https://aws.amazon.com/solutions/?nc2=h_ql_sol)
+  * [Pricing](https://aws.amazon.com/pricing/?nc2=h_ql_pr)
+  * [Documentation](https://aws.amazon.com/documentation-overview/?nc2=h_ql_doc_do)
+  * [Learn](https://aws.amazon.com/getting-started/?nc2=h_ql_le)
+  * [Partner Network](https://aws.amazon.com/partners/?nc2=h_ql_pn)
+  * [AWS Marketplace](https://aws.amazon.com/marketplace/?nc2=h_ql_mp)
+  * [Customer Enablement](https://aws.amazon.com/customer-enablement/?nc2=h_ql_ce)
+  * [Events](https://aws.amazon.com/events/?nc2=h_ql_ev)
+  * [Explore More ](https://aws.amazon.com/contact-us/?nc2=h_ql_exm)
+
+
+Close
+  * [عربي](https://aws.amazon.com/ar/?nc1=h_ls)
+  * [Bahasa Indonesia](https://aws.amazon.com/id/?nc1=h_ls)
+  * [Deutsch](https://aws.amazon.com/de/?nc1=h_ls)
+  * [English](https://aws.amazon.com/?nc1=h_ls)
+  * [Español](https://aws.amazon.com/es/?nc1=h_ls)
+  * [Français](https://aws.amazon.com/fr/?nc1=h_ls)
+  * [Italiano](https://aws.amazon.com/it/?nc1=h_ls)
+  * [Português](https://aws.amazon.com/pt/?nc1=h_ls)
+
+
+  * [Tiếng Việt](https://aws.amazon.com/vi/?nc1=f_ls)
+  * [Türkçe](https://aws.amazon.com/tr/?nc1=h_ls)
+  * [Ρусский](https://aws.amazon.com/ru/?nc1=h_ls)
+  * [ไทย](https://aws.amazon.com/th/?nc1=f_ls)
+  * [日本語](https://aws.amazon.com/jp/?nc1=h_ls)
+  * [한국어](https://aws.amazon.com/ko/?nc1=h_ls)
+  * [中文 (简体)](https://aws.amazon.com/cn/?nc1=h_ls)
+  * [中文 (繁體)](https://aws.amazon.com/tw/?nc1=h_ls)
+
+
+Close
+  * [My Profile](https://aws.amazon.com/profile/?nc2=h_m_mc)
+  * [Sign out of AWS Builder ID](https://auth.aws.amazon.com/sign-out/?nc2=h_m_mc)
+  * [AWS Management Console](https://console.aws.amazon.com/?nc2=h_m_mc)
+  * [Account Settings](https://console.aws.amazon.com/billing/home#/account?nc2=h_m_ma)
+  * [Billing & Cost Management](https://console.aws.amazon.com/billing/home?nc2=h_m_bc)
+  * [Security Credentials](https://console.aws.amazon.com/iam/home?nc2=h_m_sc#security_credential)
+  * [AWS Personal Health Dashboard](https://phd.aws.amazon.com/?nc2=h_m_sc)
+
+
+Close
+  * [Support Center](https://console.aws.amazon.com/support/home/?nc2=h_ql_cu)
+  * [Expert Help](https://iq.aws.amazon.com/?utm=mkt.nav)
+  * [Knowledge Center](https://repost.aws/knowledge-center/?nc2=h_m_ma)
+  * [AWS Support Overview](https://aws.amazon.com/premiumsupport/?nc2=h_m_bc)
+  * [AWS re:Post](https://repost.aws/)
+
+
+[Click here to return to Amazon Web Services homepage](https://aws.amazon.com/?nc2=h_lg)
+[ Get Started for Free ](https://portal.aws.amazon.com/gp/aws/developer/registration/index.html?nc2=h_mobile)
+[ Contact Us ](https://aws.amazon.com/contact-us/?nc2=h_mobile)
+  * [Products](https://aws.amazon.com/products/?nc2=h_mo)
+  * [Solutions](https://aws.amazon.com/solutions/?nc2=h_mo)
+  * [Pricing](https://aws.amazon.com/pricing/?nc2=h_mo)
+  * [Introduction to AWS](https://aws.amazon.com/what-is-aws/?nc2=h_mo)
+  * [Getting Started](https://aws.amazon.com/getting-started/?nc2=h_mo)
+  * [Documentation](https://aws.amazon.com/documentation-overview/?nc2=h_mo)
+  * [Training and Certification](https://aws.amazon.com/training/?nc2=h_mo)
+  * [Developer Center](https://aws.amazon.com/developer/?nc2=h_mo)
+  * [Customer Success](https://aws.amazon.com/solutions/case-studies/?nc2=h_mo)
+  * [Partner Network](https://aws.amazon.com/partners/?nc2=h_mo)
+  * [AWS Marketplace](https://aws.amazon.com/marketplace/?nc2=h_mo)
+  * [Support](https://console.aws.amazon.com/support/home?nc2=h_ql_cu)
+  * [AWS re:Post](https://repost.aws/)
+  * [Log into Console](https://console.aws.amazon.com/console/home)
+  * [Download the Mobile App](https://aws.amazon.com/console/mobile/)
+
+
+[ AWS Blog Home](https://aws.amazon.com/blogs) [ Blogs ](https://aws.amazon.com/blogs/machine-learning/category/artificial-intelligence/sagemaker/?sc_icampaign=pac-sagemaker-blogpost&sc_ichannel=ha&sc_icontent=awssm-2276&sc_iplace=console-right&trk=ha_awssm-2276/) [ Editions ](https://aws.amazon.com/blogs/machine-learning/category/artificial-intelligence/sagemaker/?sc_icampaign=pac-sagemaker-blogpost&sc_ichannel=ha&sc_icontent=awssm-2276&sc_iplace=console-right&trk=ha_awssm-2276/)
+Close
+[ Architecture](https://aws.amazon.com/blogs/architecture/) [ AWS Cloud Operations](https://aws.amazon.com/blogs/mt/) [ AWS for Games](https://aws.amazon.com/blogs/gametech/) [ AWS Insights](https://aws.amazon.com/blogs/aws-insights/) [ AWS Marketplace](https://aws.amazon.com/blogs/awsmarketplace/) [ AWS News](https://aws.amazon.com/blogs/aws/) [ AWS Partner Network](https://aws.amazon.com/blogs/apn/) [ AWS Smart Business](https://aws.amazon.com/blogs/smb/) [ Big Data](https://aws.amazon.com/blogs/big-data/) [ Business Intelligence](https://aws.amazon.com/blogs/business-intelligence/) [ Business Productivity](https://aws.amazon.com/blogs/business-productivity/) [ Cloud Enterprise Strategy](https://aws.amazon.com/blogs/enterprise-strategy/) [ Cloud Financial Management](https://aws.amazon.com/blogs/aws-cloud-financial-management/) [ Compute](https://aws.amazon.com/blogs/compute/) [ Contact Center](https://aws.amazon.com/blogs/contact-center/) [ Containers](https://aws.amazon.com/blogs/containers/) [ Database](https://aws.amazon.com/blogs/database/) [ Desktop & Application Streaming](https://aws.amazon.com/blogs/desktop-and-application-streaming/) [ Developer Tools](https://aws.amazon.com/blogs/developer/) [ DevOps & Developer Productivity](https://aws.amazon.com/blogs/devops/) [ Front-End Web & Mobile](https://aws.amazon.com/blogs/mobile/)
+[ HPC](https://aws.amazon.com/blogs/hpc/) [ IBM and Red Hat](https://aws.amazon.com/blogs/ibm-redhat/) [ Industries](https://aws.amazon.com/blogs/industries/) [ Integration & Automation](https://aws.amazon.com/blogs/infrastructure-and-automation/) [ Internet of Things](https://aws.amazon.com/blogs/iot/) [ Machine Learning](https://aws.amazon.com/blogs/machine-learning/) [ Media](https://aws.amazon.com/blogs/media/) [ Messaging & Targeting](https://aws.amazon.com/blogs/messaging-and-targeting/) [ Microsoft Workloads on AWS](https://aws.amazon.com/blogs/modernizing-with-aws/) [ Migration and Modernization](https://aws.amazon.com/blogs/migration-and-modernization/) [ .NET on AWS](https://aws.amazon.com/blogs/dotnet/) [ Networking & Content Delivery](https://aws.amazon.com/blogs/networking-and-content-delivery/) [ Open Source](https://aws.amazon.com/blogs/opensource/) [ Public Sector](https://aws.amazon.com/blogs/publicsector/) [ Quantum Computing](https://aws.amazon.com/blogs/quantum-computing/) [ Robotics](https://aws.amazon.com/blogs/robotics/) [ SAP](https://aws.amazon.com/blogs/awsforsap/) [ Security](https://aws.amazon.com/security/blogs/) [ Spatial Computing](https://aws.amazon.com/blogs/spatial/) [ Startups](https://aws.amazon.com/blogs/startups/) [ Storage](https://aws.amazon.com/blogs/storage/) [ Supply Chain & Logistics](https://aws.amazon.com/blogs/supply-chain/) [ Training & Certification](https://aws.amazon.com/blogs/training-and-certification/)
+Close
+  * [المدوَّنة العربية](https://aws.amazon.com/ar/blogs/arabic/)
+  * [中国版](https://aws.amazon.com/cn/blogs/china/)
+  * [日本版](https://aws.amazon.com/jp/blogs/news/)
+  * [한국 에디션](https://aws.amazon.com/ko/blogs/korea/)
+  * [기술 블로그](https://aws.amazon.com/ko/blogs/tech/)
+  * [Edisi Bahasa Indonesia](https://aws.amazon.com/id/blogs/indonesia/)
+  * [AWS Thai Blog](https://aws.amazon.com/th/blogs/thailand/)
+  * [Édition Française](https://aws.amazon.com/fr/blogs/france/)
+  * [Deutsche Edition](https://aws.amazon.com/de/blogs/germany/)
+  * [Edição em Português](https://aws.amazon.com/pt/blogs/aws-brasil/)
+  * [Edición en Español](https://aws.amazon.com/es/blogs/aws-spanish/)
+  * [Версия на русском](https://aws.amazon.com/ru/blogs/rus/)
+  * [Türkçe Sürüm](https://aws.amazon.com/tr/blogs/turkey/)
+
+
+## [AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/)
+# Category: Amazon SageMaker
+[![](https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/03/27/canvascustom-1024x576.png)](https://aws.amazon.com/blogs/machine-learning/integrating-custom-dependencies-in-amazon-sagemaker-canvas-workflows/)
+## [Integrating custom dependencies in Amazon SageMaker Canvas workflows](https://aws.amazon.com/blogs/machine-learning/integrating-custom-dependencies-in-amazon-sagemaker-canvas-workflows/)
+by Nadhya Polanco on 27 MAR 2025 in [Amazon SageMaker Canvas](https://aws.amazon.com/blogs/machine-learning/category/artificial-intelligence/sagemaker/amazon-sagemaker-canvas/ "View all posts in Amazon SageMaker Canvas"), [Amazon SageMaker Data Wrangler](https://aws.amazon.com/blogs/machine-learning/category/artificial-intelligence/sagemaker/amazon-sagemaker-data-wrangler/ "View all posts in Amazon SageMaker Data Wrangler"), [Customer Solutions](https://aws.amazon.com/blogs/machine-learning/category/post-types/customer-solutions/ "View all posts in Customer Solutions"), [Intermediate (200)](https://aws.amazon.com/blogs/machine-learning/category/learning-levels/intermediate-200/ "View all posts in Intermediate \(200\)"), [Technical How-to](https://aws.amazon.com/blogs/machine-learning/category/post-types/technical-how-to/ "View all posts in Technical How-to") [Permalink](https://aws.amazon.com/blogs/machine-learning/integrating-custom-dependencies-in-amazon-sagemaker-canvas-workflows/) [ Comments](https://aws.amazon.com/blogs/machine-learning/integrating-custom-dependencies-in-amazon-sagemaker-canvas-workflows/#Comments) [ Share](https://aws.amazon.com/blogs/machine-learning/category/artificial-intelligence/sagemaker/?sc_icampaign=pac-sagemaker-blogpost&sc_ichannel=ha&sc_icontent=awssm-2276&sc_iplace=console-right&trk=ha_awssm-2276/)
+  * [](https://www.facebook.com/sharer/sharer.php?u=https://aws.amazon.com/blogs/machine-learning/integrating-custom-dependencies-in-amazon-sagemaker-canvas-workflows/)
+  * [](https://twitter.com/intent/tweet/?text=Integrating%20custom%20dependencies%20in%20Amazon%20SageMaker%20Canvas%20workflows&via=awscloud&url=https://aws.amazon.com/blogs/machine-learning/integrating-custom-dependencies-in-amazon-sagemaker-canvas-workflows/)
+  * [](https://www.linkedin.com/shareArticle?mini=true&title=Integrating%20custom%20dependencies%20in%20Amazon%20SageMaker%20Canvas%20workflows&source=Amazon%20Web%20Services&url=https://aws.amazon.com/blogs/machine-learning/integrating-custom-dependencies-in-amazon-sagemaker-canvas-workflows/)
+  * 
+
+When implementing machine learning workflows in Amazon SageMaker Canvas, organizations might need to consider external dependencies required for their specific use cases. Although SageMaker Canvas provides powerful no-code and low-code capabilities for rapid experimentation, some projects might require specialized dependencies and libraries that aren’t included by default in SageMaker Canvas. This post provides an example of how to incorporate code that relies on external dependencies into your SageMaker Canvas workflows.
+[![](https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/03/26/featured-images-ml-18118-1-1024x576.jpg)](https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-jumpstart-adds-fine-tuning-support-for-models-in-a-private-model-hub/)
+## [Amazon SageMaker JumpStart adds fine-tuning support for models in a private model hub](https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-jumpstart-adds-fine-tuning-support-for-models-in-a-private-model-hub/)
+by Marc Karp, Benjamin Crabtree, Banu Nagasundaram, and Niris Okram on 26 MAR 2025 in [Amazon SageMaker](https://aws.amazon.com/blogs/machine-learning/category/artificial-intelligence/sagemaker/ "View all posts in Amazon SageMaker"), [Amazon SageMaker JumpStart](https://aws.amazon.com/blogs/machine-learning/category/artificial-intelligence/sagemaker/amazon-sagemaker-jumpstart/ "View all posts in Amazon SageMaker JumpStart"), [Announcements](https://aws.amazon.com/blogs/machine-learning/category/post-types/announcements/ "View all posts in Announcements") [Permalink](https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-jumpstart-adds-fine-tuning-support-for-models-in-a-private-model-hub/) [ Comments](https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-jumpstart-adds-fine-tuning-support-for-models-in-a-private-model-hub/#Comments) [ Share](https://aws.amazon.com/blogs/machine-learning/category/artificial-intelligence/sagemaker/?sc_icampaign=pac-sagemaker-blogpost&sc_ichannel=ha&sc_icontent=awssm-2276&sc_iplace=console-right&trk=ha_awssm-2276/)
+  * [](https://www.facebook.com/sharer/sharer.php?u=https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-jumpstart-adds-fine-tuning-support-for-models-in-a-private-model-hub/)
+  * [](https://twitter.com/intent/tweet/?text=Amazon%20SageMaker%20JumpStart%20adds%20fine-tuning%20support%20for%20models%20in%20a%20private%20model%20hub&via=awscloud&url=https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-jumpstart-adds-fine-tuning-support-for-models-in-a-private-model-hub/)
+  * [](https://www.linkedin.com/shareArticle?mini=true&title=Amazon%20SageMaker%20JumpStart%20adds%20fine-tuning%20support%20for%20models%20in%20a%20private%20model%20hub&source=Amazon%20Web%20Services&url=https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-jumpstart-adds-fine-tuning-support-for-models-in-a-private-model-hub/)
+  * 
+
+Today, we are announcing an enhanced private hub feature with several new capabilities that give organizations greater control over their ML assets. These enhancements include the ability to fine-tune SageMaker JumpStart models directly within the private hub, support for adding and managing custom-trained models, deep linking capabilities for associated notebooks, and improved model version management.
+[![](https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/03/25/featured-images-ML-18441-1024x576.jpg)](https://aws.amazon.com/blogs/machine-learning/enhance-deployment-guardrails-with-inference-component-rolling-updates-for-amazon-sagemaker-ai-inference/)
+## [Enhance deployment guardrails with inference component rolling updates for Amazon SageMaker AI inference](https://aws.amazon.com/blogs/machine-learning/enhance-deployment-guardrails-with-inference-component-rolling-updates-for-amazon-sagemaker-ai-inference/)
+by Melanie Li, Andrew Smith, Dustin Liu, June Won, Shikher Mishra, and Vivek Gangasani on 25 MAR 2025 in [Amazon SageMaker](https://aws.amazon.com/blogs/machine-learning/category/artificial-intelligence/sagemaker/ "View all posts in Amazon SageMaker"), [Amazon SageMaker AI](https://aws.amazon.com/blogs/machine-learning/category/artificial-intelligence/sagemaker/amazon-sagemaker-ai/ "View all posts in Amazon SageMaker AI"), [Intermediate (200)](https://aws.amazon.com/blogs/machine-learning/category/learning-levels/intermediate-200/ "View all posts in Intermediate \(200\)") [Permalink](https://aws.amazon.com/blogs/machine-learning/enhance-deployment-guardrails-with-inference-component-rolling-updates-for-amazon-sagemaker-ai-inference/) [ Comments](https://aws.amazon.com/blogs/machine-learning/enhance-deployment-guardrails-with-inference-component-rolling-updates-for-amazon-sagemaker-ai-inference/#Comments) [ Share](https://aws.amazon.com/blogs/machine-learning/category/artificial-intelligence/sagemaker/?sc_icampaign=pac-sagemaker-blogpost&sc_ichannel=ha&sc_icontent=awssm-2276&sc_iplace=console-right&trk=ha_awssm-2276/)
+  * [](https://www.facebook.com/sharer/sharer.php?u=https://aws.amazon.com/blogs/machine-learning/enhance-deployment-guardrails-with-inference-component-rolling-updates-for-amazon-sagemaker-ai-inference/)
+  * [](https://twitter.com/intent/tweet/?text=Enhance%20deployment%20guardrails%20with%20inference%20component%20rolling%20updates%20for%20Amazon%20SageMaker%20AI%20inference&via=awscloud&url=https://aws.amazon.com/blogs/machine-learning/enhance-deployment-guardrails-with-inference-component-rolling-updates-for-amazon-sagemaker-ai-inference/)
+  * [](https://www.linkedin.com/shareArticle?mini=true&title=Enhance%20deployment%20guardrails%20with%20inference%20component%20rolling%20updates%20for%20Amazon%20SageMaker%20AI%20inference&source=Amazon%20Web%20Services&url=https://aws.amazon.com/blogs/machine-learning/enhance-deployment-guardrails-with-inference-component-rolling-updates-for-amazon-sagemaker-ai-inference/)
+  * 
+
+In this post, we discuss the challenges faced by organizations when updating models in production. Then we deep dive into the new rolling update feature for inference components and provide practical examples using DeepSeek distilled models to demonstrate this feature. Finally, we explore how to set up rolling updates in different scenarios.
+[![](https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/03/10/featured-images-ML-18120-1024x576.jpg)](https://aws.amazon.com/blogs/machine-learning/unleashing-the-multimodal-power-of-amazon-bedrock-data-automation-to-transform-unstructured-data-into-actionable-insights/)
+## [Unleashing the multimodal power of Amazon Bedrock Data Automation to transform unstructured data into actionable insights](https://aws.amazon.com/blogs/machine-learning/unleashing-the-multimodal-power-of-amazon-bedrock-data-automation-to-transform-unstructured-data-into-actionable-insights/)
+by Wrick Talukdar, Julia Hu, Keith Mascarenhas, and Lana Zhang on 20 MAR 2025 in [Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/category/artificial-intelligence/amazon-machine-learning/amazon-bedrock/ "View all posts in Amazon Bedrock"), [Amazon Comprehend](https://aws.amazon.com/blogs/machine-learning/category/artificial-intelligence/amazon-comprehend/ "View all posts in Amazon Comprehend"), [Amazon Rekognition](https://aws.amazon.com/blogs/machine-learning/category/artificial-intelligence/amazon-rekognition/ "View all posts in Amazon Rekognition"), [Amazon SageMaker](https://aws.amazon.com/blogs/machine-learning/category/artificial-intelligence/sagemaker/ "View all posts in Amazon SageMaker"), [Amazon Textract](https://aws.amazon.com/blogs/machine-learning/category/artificial-intelligence/amazon-textract/ "View all posts in Amazon Textract"), [Amazon Transcribe](https://aws.amazon.com/blogs/machine-learning/category/artificial-intelligence/amazon-transcribe/ "View all posts in Amazon Transcribe"), [Announcements](https://aws.amazon.com/blogs/machine-learning/category/post-types/announcements/ "View all posts in Announcements"), [Generative AI](https://aws.amazon.com/blogs/machine-learning/category/artificial-intelligence/generative-ai/ "View all posts in Generative AI") [Permalink](https://aws.amazon.com/blogs/machine-learning/unleashing-the-multimodal-power-of-amazon-bedrock-data-automation-to-transform-unstructured-data-into-actionable-insights/) [ Comments](https://aws.amazon.com/blogs/machine-learning/unleashing-the-multimodal-power-of-amazon-bedrock-data-automation-to-transform-unstructured-data-into-actionable-insights/#Comments) [ Share](https://aws.amazon.com/blogs/machine-learning/category/artificial-intelligence/sagemaker/?sc_icampaign=pac-sagemaker-blogpost&sc_ichannel=ha&sc_icontent=awssm-2276&sc_iplace=console-right&trk=ha_awssm-2276/)
+  * [](https://www.facebook.com/sharer/sharer.php?u=https://aws.amazon.com/blogs/machine-learning/unleashing-the-multimodal-power-of-amazon-bedrock-data-automation-to-transform-unstructured-data-into-actionable-insights/)
+  * [](https://twitter.com/intent/tweet/?text=Unleashing%20the%20multimodal%20power%20of%20Amazon%20Bedrock%20Data%20Automation%20to%20transform%20unstructured%20data%20into%20actionable%20insights&via=awscloud&url=https://aws.amazon.com/blogs/machine-learning/unleashing-the-multimodal-power-of-amazon-bedrock-data-automation-to-transform-unstructured-data-into-actionable-insights/)
+  * [](https://www.linkedin.com/shareArticle?mini=true&title=Unleashing%20the%20multimodal%20power%20of%20Amazon%20Bedrock%20Data%20Automation%20to%20transform%20unstructured%20data%20into%20actionable%20insights&source=Amazon%20Web%20Services&url=https://aws.amazon.com/blogs/machine-learning/unleashing-the-multimodal-power-of-amazon-bedrock-data-automation-to-transform-unstructured-data-into-actionable-insights/)
+  * 
+
+Today, we’re excited to announce the general availability of Amazon Bedrock Data Automation, a powerful, fully managed capability within Amazon Bedrock that seamlessly transforms unstructured multimodal data into structured, application-ready insights with high accuracy, cost efficiency, and scalability.
+[![](https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/03/18/featured-images-ML-18231-1024x576.jpg)](https://aws.amazon.com/blogs/machine-learning/running-nvidia-nemo-2-0-framework-on-amazon-sagemaker-hyperpod/)
+## [Running NVIDIA NeMo 2.0 Framework on Amazon SageMaker HyperPod](https://aws.amazon.com/blogs/machine-learning/running-nvidia-nemo-2-0-framework-on-amazon-sagemaker-hyperpod/)
+by Abdullahi Olaoye, Ankur Srivastava, Akshit Arora, Eliuth Triana Isaza, and Greeshma Nallapareddy on 18 MAR 2025 in [Amazon SageMaker](https://aws.amazon.com/blogs/machine-learning/category/artificial-intelligence/sagemaker/ "View all posts in Amazon SageMaker"), [Amazon SageMaker HyperPod](https://aws.amazon.com/blogs/machine-learning/category/artificial-intelligence/sagemaker/amazon-sagemaker-hyperpod/ "View all posts in Amazon SageMaker HyperPod") [Permalink](https://aws.amazon.com/blogs/machine-learning/running-nvidia-nemo-2-0-framework-on-amazon-sagemaker-hyperpod/) [ Comments](https://aws.amazon.com/blogs/machine-learning/running-nvidia-nemo-2-0-framework-on-amazon-sagemaker-hyperpod/#Comments) [ Share](https://aws.amazon.com/blogs/machine-learning/category/artificial-intelligence/sagemaker/?sc_icampaign=pac-sagemaker-blogpost&sc_ichannel=ha&sc_icontent=awssm-2276&sc_iplace=console-right&trk=ha_awssm-2276/)
+  * [](https://www.facebook.com/sharer/sharer.php?u=https://aws.amazon.com/blogs/machine-learning/running-nvidia-nemo-2-0-framework-on-amazon-sagemaker-hyperpod/)
+  * [](https://twitter.com/intent/tweet/?text=Running%20NVIDIA%20NeMo%202.0%20Framework%20on%20Amazon%20SageMaker%20HyperPod&via=awscloud&url=https://aws.amazon.com/blogs/machine-learning/running-nvidia-nemo-2-0-framework-on-amazon-sagemaker-hyperpod/)
+  * [](https://www.linkedin.com/shareArticle?mini=true&title=Running%20NVIDIA%20NeMo%202.0%20Framework%20on%20Amazon%20SageMaker%20HyperPod&source=Amazon%20Web%20Services&url=https://aws.amazon.com/blogs/machine-learning/running-nvidia-nemo-2-0-framework-on-amazon-sagemaker-hyperpod/)
+  * 
+
+In this blog post, we explore how to integrate NeMo 2.0 with SageMaker HyperPod to enable efficient training of large language models (LLMs). We cover the setup process and provide a step-by-step guide to running a NeMo job on a SageMaker HyperPod cluster.
+[![](https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/03/18/featured-images-ML-18458-1024x576.jpg)](https://aws.amazon.com/blogs/machine-learning/nemo-retriever-llama-3-2-text-embedding-and-reranking-nvidia-nim-microservices-now-available-in-amazon-sagemaker-jumpstart/)
+## [NeMo Retriever Llama 3.2 text embedding and reranking NVIDIA NIM microservices now available in Amazon SageMaker JumpStart](https://aws.amazon.com/blogs/machine-learning/nemo-retriever-llama-3-2-text-embedding-and-reranking-nvidia-nim-microservices-now-available-in-amazon-sagemaker-jumpstart/)
+by Niithiyn Vijeaswaran, Abhishek Sawarkar, Eliuth Triana, Banu Nagasundaram, Chase Pinkerton, Greeshma Nallapareddy, and Abdullahi Olaoye on 18 MAR 2025 in [Amazon SageMaker](https://aws.amazon.com/blogs/machine-learning/category/artificial-intelligence/sagemaker/ "View all posts in Amazon SageMaker"), [Amazon SageMaker JumpStart](https://aws.amazon.com/blogs/machine-learning/category/artificial-intelligence/sagemaker/amazon-sagemaker-jumpstart/ "View all posts in Amazon SageMaker JumpStart"), [Amazon SageMaker Studio](https://aws.amazon.com/blogs/machine-learning/category/artificial-intelligence/sagemaker/amazon-sagemaker-studio/ "View all posts in Amazon SageMaker Studio"), [Technical How-to](https://aws.amazon.com/blogs/machine-learning/category/post-types/technical-how-to/ "View all posts in Technical How-to") [Permalink](https://aws.amazon.com/blogs/machine-learning/nemo-retriever-llama-3-2-text-embedding-and-reranking-nvidia-nim-microservices-now-available-in-amazon-sagemaker-jumpstart/) [ Comments](https://aws.amazon.com/blogs/machine-learning/nemo-retriever-llama-3-2-text-embedding-and-reranking-nvidia-nim-microservices-now-available-in-amazon-sagemaker-jumpstart/#Comments) [ Share](https://aws.amazon.com/blogs/machine-learning/category/artificial-intelligence/sagemaker/?sc_icampaign=pac-sagemaker-blogpost&sc_ichannel=ha&sc_icontent=awssm-2276&sc_iplace=console-right&trk=ha_awssm-2276/)
+  * [](https://www.facebook.com/sharer/sharer.php?u=https://aws.amazon.com/blogs/machine-learning/nemo-retriever-llama-3-2-text-embedding-and-reranking-nvidia-nim-microservices-now-available-in-amazon-sagemaker-jumpstart/)
+  * [](https://twitter.com/intent/tweet/?text=NeMo%20Retriever%20Llama%203.2%20text%20embedding%20and%20reranking%20NVIDIA%20NIM%20microservices%20now%20available%20in%20Amazon%20SageMaker%20JumpStart&via=awscloud&url=https://aws.amazon.com/blogs/machine-learning/nemo-retriever-llama-3-2-text-embedding-and-reranking-nvidia-nim-microservices-now-available-in-amazon-sagemaker-jumpstart/)
+  * [](https://www.linkedin.com/shareArticle?mini=true&title=NeMo%20Retriever%20Llama%203.2%20text%20embedding%20and%20reranking%20NVIDIA%20NIM%20microservices%20now%20available%20in%20Amazon%20SageMaker%20JumpStart&source=Amazon%20Web%20Services&url=https://aws.amazon.com/blogs/machine-learning/nemo-retriever-llama-3-2-text-embedding-and-reranking-nvidia-nim-microservices-now-available-in-amazon-sagemaker-jumpstart/)
+  * 
+
+Today, we are excited to announce that the NeMo Retriever Llama3.2 Text Embedding and Reranking NVIDIA NIM microservices are available in Amazon SageMaker JumpStart. With this launch, you can now deploy NVIDIA’s optimized reranking and embedding models to build, experiment, and responsibly scale your generative AI ideas on AWS. In this post, we demonstrate how to get started with these models on SageMaker JumpStart.
+[![](https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/03/12/ml-18060-image-2.png)](https://aws.amazon.com/blogs/machine-learning/unleash-ai-innovation-with-amazon-sagemaker-hyperpod/)
+## [Unleash AI innovation with Amazon SageMaker HyperPod](https://aws.amazon.com/blogs/machine-learning/unleash-ai-innovation-with-amazon-sagemaker-hyperpod/)
+by Ilan Gleiser, Trevor Harvey, Matthew Nightingale, and Shubha Kumbadakone on 18 MAR 2025 in [Amazon EC2](https://aws.amazon.com/blogs/machine-learning/category/compute/amazon-ec2/ "View all posts in Amazon EC2"), [Amazon SageMaker AI](https://aws.amazon.com/blogs/machine-learning/category/artificial-intelligence/sagemaker/amazon-sagemaker-ai/ "View all posts in Amazon SageMaker AI"), [Amazon SageMaker HyperPod](https://aws.amazon.com/blogs/machine-learning/category/artificial-intelligence/sagemaker/amazon-sagemaker-hyperpod/ "View all posts in Amazon SageMaker HyperPod"), [Intermediate (200)](https://aws.amazon.com/blogs/machine-learning/category/learning-levels/intermediate-200/ "View all posts in Intermediate \(200\)"), [Thought Leadership](https://aws.amazon.com/blogs/machine-learning/category/post-types/thought-leadership/ "View all posts in Thought Leadership") [Permalink](https://aws.amazon.com/blogs/machine-learning/unleash-ai-innovation-with-amazon-sagemaker-hyperpod/) [ Comments](https://aws.amazon.com/blogs/machine-learning/unleash-ai-innovation-with-amazon-sagemaker-hyperpod/#Comments) [ Share](https://aws.amazon.com/blogs/machine-learning/category/artificial-intelligence/sagemaker/?sc_icampaign=pac-sagemaker-blogpost&sc_ichannel=ha&sc_icontent=awssm-2276&sc_iplace=console-right&trk=ha_awssm-2276/)
+  * [](https://www.facebook.com/sharer/sharer.php?u=https://aws.amazon.com/blogs/machine-learning/unleash-ai-innovation-with-amazon-sagemaker-hyperpod/)
+  * [](https://twitter.com/intent/tweet/?text=Unleash%20AI%20innovation%20with%20Amazon%20SageMaker%20HyperPod&via=awscloud&url=https://aws.amazon.com/blogs/machine-learning/unleash-ai-innovation-with-amazon-sagemaker-hyperpod/)
+  * [](https://www.linkedin.com/shareArticle?mini=true&title=Unleash%20AI%20innovation%20with%20Amazon%20SageMaker%20HyperPod&source=Amazon%20Web%20Services&url=https://aws.amazon.com/blogs/machine-learning/unleash-ai-innovation-with-amazon-sagemaker-hyperpod/)
+  * 
+
+In this post, we show how SageMaker HyperPod, and its new features introduced at AWS re:Invent 2024, is designed to meet the demands of modern AI workloads, offering a persistent and optimized cluster tailored for distributed training and accelerated inference at cloud scale and attractive price-performance.
+[![](https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/03/13/featured-images-ML-18022-1024x576.jpg)](https://aws.amazon.com/blogs/machine-learning/how-to-run-qwen-2-5-on-aws-ai-chips-using-hugging-face-libraries/)
+## [How to run Qwen 2.5 on AWS AI chips using Hugging Face libraries](https://aws.amazon.com/blogs/machine-learning/how-to-run-qwen-2-5-on-aws-ai-chips-using-hugging-face-libraries/)
+by Jim Burtoft, Miriam Lebowitz, Paul Aiuto, and Rhia Soni on 13 MAR 2025 in [Amazon SageMaker AI](https://aws.amazon.com/blogs/machine-learning/category/artificial-intelligence/sagemaker/amazon-sagemaker-ai/ "View all posts in Amazon SageMaker AI"), [Announcements](https://aws.amazon.com/blogs/machine-learning/category/post-types/announcements/ "View all posts in Announcements"), [Artificial Intelligence](https://aws.amazon.com/blogs/machine-learning/category/artificial-intelligence/ "View all posts in Artificial Intelligence"), [AWS Inferentia](https://aws.amazon.com/blogs/machine-learning/category/artificial-intelligence/aws-inferentia/ "View all posts in AWS Inferentia"), [AWS Neuron](https://aws.amazon.com/blogs/machine-learning/category/artificial-intelligence/aws-neuron/ "View all posts in AWS Neuron"), [AWS Trainium](https://aws.amazon.com/blogs/machine-learning/category/artificial-intelligence/aws-trainium/ "View all posts in AWS Trainium") [Permalink](https://aws.amazon.com/blogs/machine-learning/how-to-run-qwen-2-5-on-aws-ai-chips-using-hugging-face-libraries/) [ Comments](https://aws.amazon.com/blogs/machine-learning/how-to-run-qwen-2-5-on-aws-ai-chips-using-hugging-face-libraries/#Comments) [ Share](https://aws.amazon.com/blogs/machine-learning/category/artificial-intelligence/sagemaker/?sc_icampaign=pac-sagemaker-blogpost&sc_ichannel=ha&sc_icontent=awssm-2276&sc_iplace=console-right&trk=ha_awssm-2276/)
+  * [](https://www.facebook.com/sharer/sharer.php?u=https://aws.amazon.com/blogs/machine-learning/how-to-run-qwen-2-5-on-aws-ai-chips-using-hugging-face-libraries/)
+  * [](https://twitter.com/intent/tweet/?text=How%20to%20run%20Qwen%202.5%20on%20AWS%20AI%20chips%20using%20Hugging%20Face%20libraries&via=awscloud&url=https://aws.amazon.com/blogs/machine-learning/how-to-run-qwen-2-5-on-aws-ai-chips-using-hugging-face-libraries/)
+  * [](https://www.linkedin.com/shareArticle?mini=true&title=How%20to%20run%20Qwen%202.5%20on%20AWS%20AI%20chips%20using%20Hugging%20Face%20libraries&source=Amazon%20Web%20Services&url=https://aws.amazon.com/blogs/machine-learning/how-to-run-qwen-2-5-on-aws-ai-chips-using-hugging-face-libraries/)
+  * 
+
+In this post, we outline how to get started with deploying the Qwen 2.5 family of models on an Inferentia instance using Amazon Elastic Compute Cloud (Amazon EC2) and Amazon SageMaker using the Hugging Face Text Generation Inference (TGI) container and the Hugging Face Optimum Neuron library. Qwen2.5 Coder and Math variants are also supported.
+[![](https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/03/13/featured-images-ML-18226-1-1024x576.jpg)](https://aws.amazon.com/blogs/machine-learning/optimize-hosting-deepseek-r1-distilled-models-with-hugging-face-tgi-on-amazon-sagemaker-ai/)
+## [Optimize hosting DeepSeek-R1 distilled models with Hugging Face TGI on Amazon SageMaker AI](https://aws.amazon.com/blogs/machine-learning/optimize-hosting-deepseek-r1-distilled-models-with-hugging-face-tgi-on-amazon-sagemaker-ai/)
+by Pranav Murthy, Simon Pagezy, Dmitry Soldatkin, and Giuseppe Zappia on 13 MAR 2025 in [Amazon SageMaker AI](https://aws.amazon.com/blogs/machine-learning/category/artificial-intelligence/sagemaker/amazon-sagemaker-ai/ "View all posts in Amazon SageMaker AI"), [Artificial Intelligence](https://aws.amazon.com/blogs/machine-learning/category/artificial-intelligence/ "View all posts in Artificial Intelligence"), [Foundation models](https://aws.amazon.com/blogs/machine-learning/category/artificial-intelligence/generative-ai/foundation-models/ "View all posts in Foundation models"), [Generative AI](https://aws.amazon.com/blogs/machine-learning/category/artificial-intelligence/generative-ai/ "View all posts in Generative AI") [Permalink](https://aws.amazon.com/blogs/machine-learning/optimize-hosting-deepseek-r1-distilled-models-with-hugging-face-tgi-on-amazon-sagemaker-ai/) [ Comments](https://aws.amazon.com/blogs/machine-learning/optimize-hosting-deepseek-r1-distilled-models-with-hugging-face-tgi-on-amazon-sagemaker-ai/#Comments) [ Share](https://aws.amazon.com/blogs/machine-learning/category/artificial-intelligence/sagemaker/?sc_icampaign=pac-sagemaker-blogpost&sc_ichannel=ha&sc_icontent=awssm-2276&sc_iplace=console-right&trk=ha_awssm-2276/)
+  * [](https://www.facebook.com/sharer/sharer.php?u=https://aws.amazon.com/blogs/machine-learning/optimize-hosting-deepseek-r1-distilled-models-with-hugging-face-tgi-on-amazon-sagemaker-ai/)
+  * [](https://twitter.com/intent/tweet/?text=Optimize%20hosting%20DeepSeek-R1%20distilled%20models%20with%20Hugging%20Face%20TGI%20on%20Amazon%20SageMaker%20AI&via=awscloud&url=https://aws.amazon.com/blogs/machine-learning/optimize-hosting-deepseek-r1-distilled-models-with-hugging-face-tgi-on-amazon-sagemaker-ai/)
+  * [](https://www.linkedin.com/shareArticle?mini=true&title=Optimize%20hosting%20DeepSeek-R1%20distilled%20models%20with%20Hugging%20Face%20TGI%20on%20Amazon%20SageMaker%20AI&source=Amazon%20Web%20Services&url=https://aws.amazon.com/blogs/machine-learning/optimize-hosting-deepseek-r1-distilled-models-with-hugging-face-tgi-on-amazon-sagemaker-ai/)
+  * 
+
+In this post, we demonstrate how to optimize hosting DeepSeek-R1 distilled models with Hugging Face Text Generation Inference (TGI) on Amazon SageMaker AI.
+[![](https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/03/11/featured-images-ML-18226-1024x576.jpg)](https://aws.amazon.com/blogs/machine-learning/deploy-deepseek-r1-distilled-models-on-amazon-sagemaker-using-a-large-model-inference-container/)
+## [Deploy DeepSeek-R1 distilled models on Amazon SageMaker using a Large Model Inference container](https://aws.amazon.com/blogs/machine-learning/deploy-deepseek-r1-distilled-models-on-amazon-sagemaker-using-a-large-model-inference-container/)
+by Dmitry Soldatkin, Pranav Murthy, Prasanna Sridharan, and Vivek Gangasani on 11 MAR 2025 in [Amazon SageMaker AI](https://aws.amazon.com/blogs/machine-learning/category/artificial-intelligence/sagemaker/amazon-sagemaker-ai/ "View all posts in Amazon SageMaker AI"), [Foundation models](https://aws.amazon.com/blogs/machine-learning/category/artificial-intelligence/generative-ai/foundation-models/ "View all posts in Foundation models"), [Generative AI](https://aws.amazon.com/blogs/machine-learning/category/artificial-intelligence/generative-ai/ "View all posts in Generative AI") [Permalink](https://aws.amazon.com/blogs/machine-learning/deploy-deepseek-r1-distilled-models-on-amazon-sagemaker-using-a-large-model-inference-container/) [ Comments](https://aws.amazon.com/blogs/machine-learning/deploy-deepseek-r1-distilled-models-on-amazon-sagemaker-using-a-large-model-inference-container/#Comments) [ Share](https://aws.amazon.com/blogs/machine-learning/category/artificial-intelligence/sagemaker/?sc_icampaign=pac-sagemaker-blogpost&sc_ichannel=ha&sc_icontent=awssm-2276&sc_iplace=console-right&trk=ha_awssm-2276/)
+  * [](https://www.facebook.com/sharer/sharer.php?u=https://aws.amazon.com/blogs/machine-learning/deploy-deepseek-r1-distilled-models-on-amazon-sagemaker-using-a-large-model-inference-container/)
+  * [](https://twitter.com/intent/tweet/?text=Deploy%20DeepSeek-R1%20distilled%20models%20on%20Amazon%20SageMaker%20using%20a%20Large%20Model%20Inference%20container&via=awscloud&url=https://aws.amazon.com/blogs/machine-learning/deploy-deepseek-r1-distilled-models-on-amazon-sagemaker-using-a-large-model-inference-container/)
+  * [](https://www.linkedin.com/shareArticle?mini=true&title=Deploy%20DeepSeek-R1%20distilled%20models%20on%20Amazon%20SageMaker%20using%20a%20Large%20Model%20Inference%20container&source=Amazon%20Web%20Services&url=https://aws.amazon.com/blogs/machine-learning/deploy-deepseek-r1-distilled-models-on-amazon-sagemaker-using-a-large-model-inference-container/)
+  * 
+
+Deploying DeepSeek models on SageMaker AI provides a robust solution for organizations seeking to use state-of-the-art language models in their applications. In this post, we show how to use the distilled models in SageMaker AI, which offers several options to deploy the distilled versions of the R1 model.
+[← Older posts](https://aws.amazon.com/blogs/machine-learning/category/artificial-intelligence/sagemaker/page/2/)
+[ Sign In to the Console ](https://console.aws.amazon.com/console/home?nc1=f_ct&src=footer-signin-mobile)
+###  Learn About AWS
+  * [What Is AWS?](https://aws.amazon.com/what-is-aws/?nc1=f_cc)
+  * [What Is Cloud Computing?](https://aws.amazon.com/what-is-cloud-computing/?nc1=f_cc)
+  * [AWS Accessibility](https://aws.amazon.com/accessibility/?nc1=f_cc)
+  * [What Is DevOps?](https://aws.amazon.com/devops/what-is-devops/?nc1=f_cc)
+  * [What Is a Container?](https://aws.amazon.com/containers/?nc1=f_cc)
+  * [What Is a Data Lake?](https://aws.amazon.com/what-is/data-lake/?nc1=f_cc)
+  * [What is Artificial Intelligence (AI)?](https://aws.amazon.com/what-is/artificial-intelligence/?nc1=f_cc)
+  * [What is Generative AI?](https://aws.amazon.com/what-is/generative-ai/?nc1=f_cc)
+  * [What is Machine Learning (ML)?](https://aws.amazon.com/what-is/machine-learning/?nc1=f_cc)
+  * [AWS Cloud Security](https://aws.amazon.com/security/?nc1=f_cc)
+  * [What's New](https://aws.amazon.com/new/?nc1=f_cc)
+  * [Blogs](https://aws.amazon.com/blogs/?nc1=f_cc)
+  * [Press Releases](https://press.aboutamazon.com/press-releases/aws "Press Releases")
+
+
+###  Resources for AWS
+  * [Getting Started](https://aws.amazon.com/getting-started/?nc1=f_cc)
+  * [Training and Certification](https://aws.amazon.com/training/?nc1=f_cc)
+  * [AWS Trust Center](https://aws.amazon.com/trust-center/?nc1=f_cc)
+  * [AWS Solutions Library](https://aws.amazon.com/solutions/?nc1=f_cc)
+  * [Architecture Center](https://aws.amazon.com/architecture/?nc1=f_cc)
+  * [Product and Technical FAQs](https://aws.amazon.com/faqs/?nc1=f_dr)
+  * [Analyst Reports](https://aws.amazon.com/resources/analyst-reports/?nc1=f_cc)
+  * [AWS Partners](https://aws.amazon.com/partners/work-with-partners/?nc1=f_dr)
+
+
+###  Developers on AWS
+  * [Developer Center](https://aws.amazon.com/developer/?nc1=f_dr)
+  * [SDKs & Tools](https://aws.amazon.com/developer/tools/?nc1=f_dr)
+  * [.NET on AWS](https://aws.amazon.com/developer/language/net/?nc1=f_dr)
+  * [Python on AWS](https://aws.amazon.com/developer/language/python/?nc1=f_dr)
+  * [Java on AWS](https://aws.amazon.com/developer/language/java/?nc1=f_dr)
+  * [PHP on AWS](https://aws.amazon.com/developer/language/php/?nc1=f_cc)
+  * [JavaScript on AWS](https://aws.amazon.com/developer/language/javascript/?nc1=f_dr)
+
+
+###  Help
+  * [Contact Us](https://aws.amazon.com/contact-us/?nc1=f_m)
+  * [Get Expert Help](https://iq.aws.amazon.com/?utm=mkt.foot/?nc1=f_m)
+  * [File a Support Ticket](https://console.aws.amazon.com/support/home/?nc1=f_dr)
+  * [AWS re:Post](https://repost.aws/?nc1=f_dr)
+  * [Knowledge Center](https://repost.aws/knowledge-center/?nc1=f_dr)
+  * [AWS Support Overview](https://aws.amazon.com/premiumsupport/?nc1=f_dr)
+  * [Legal](https://aws.amazon.com/legal/?nc1=f_cc)
+  * [AWS Careers](https://aws.amazon.com/careers/)
+
+
+[ Create an AWS Account ](https://portal.aws.amazon.com/gp/aws/developer/registration/index.html?nc1=f_ct&src=default)
+[ ](https://twitter.com/awscloud "Twitter")
+[ ](https://www.facebook.com/amazonwebservices "Facebook")
+[ ](https://www.linkedin.com/company/amazon-web-services/ "Linkedin")
+[ ](https://www.instagram.com/amazonwebservices/ "Instagram")
+[ ](https://www.twitch.tv/aws "Twitch")
+[ ](https://www.youtube.com/user/AmazonWebServices/Cloud/ "YouTube")
+[ ](https://aws.amazon.com/podcasts/ "Podcast")
+[ ](https://pages.awscloud.com/communication-preferences?trk=homepage "Email")
+Amazon is an Equal Opportunity Employer: _Minority / Women / Disability / Veteran / Gender Identity / Sexual Orientation / Age._
+  * Language
+  * [عربي](https://aws.amazon.com/ar/?nc1=h_ls)
+  * [Bahasa Indonesia](https://aws.amazon.com/id/?nc1=h_ls)
+  * [Deutsch](https://aws.amazon.com/de/?nc1=h_ls)
+  * [English](https://aws.amazon.com/?nc1=h_ls)
+  * [Español](https://aws.amazon.com/es/?nc1=h_ls)
+  * [Français](https://aws.amazon.com/fr/?nc1=h_ls)
+  * [Italiano](https://aws.amazon.com/it/?nc1=h_ls)
+  * [Português](https://aws.amazon.com/pt/?nc1=h_ls)
+  * [Tiếng Việt](https://aws.amazon.com/vi/?nc1=f_ls)
+  * [Türkçe](https://aws.amazon.com/tr/?nc1=h_ls)
+  * [Ρусский](https://aws.amazon.com/ru/?nc1=h_ls)
+  * [ไทย](https://aws.amazon.com/th/?nc1=f_ls)
+  * [日本語](https://aws.amazon.com/jp/?nc1=h_ls)
+  * [한국어](https://aws.amazon.com/ko/?nc1=h_ls)
+  * [中文 (简体)](https://aws.amazon.com/cn/?nc1=h_ls)
+  * [中文 (繁體)](https://aws.amazon.com/tw/?nc1=h_ls)
+
+
+  * [Privacy](https://aws.amazon.com/privacy/?nc1=f_pr)
+  * |
+  * [Accessibility](https://aws.amazon.com/accessibility/?nc1=f_acc)
+  * |
+  * [Site Terms](https://aws.amazon.com/terms/?nc1=f_pr)
+  * |
+  * [ Cookie Preferences ](https://aws.amazon.com/blogs/machine-learning/category/artificial-intelligence/sagemaker/?sc_icampaign=pac-sagemaker-blogpost&sc_ichannel=ha&sc_icontent=awssm-2276&sc_iplace=console-right&trk=ha_awssm-2276/)
+  * |
+  * © 2025, Amazon Web Services, Inc. or its affiliates. All rights reserved.
+
+

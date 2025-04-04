@@ -1,0 +1,325 @@
+[Skip to content](https://github.com/cupy/cupy/#start-of-content)
+## Navigation Menu
+Toggle navigation
+[ ](https://github.com/)
+[ Sign in ](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fcupy%2Fcupy%2F)
+  * Product 
+    * [ GitHub Copilot Write better code with AI  ](https://github.com/features/copilot)
+    * [ Security Find and fix vulnerabilities  ](https://github.com/features/security)
+    * [ Actions Automate any workflow  ](https://github.com/features/actions)
+    * [ Codespaces Instant dev environments  ](https://github.com/features/codespaces)
+    * [ Issues Plan and track work  ](https://github.com/features/issues)
+    * [ Code Review Manage code changes  ](https://github.com/features/code-review)
+    * [ Discussions Collaborate outside of code  ](https://github.com/features/discussions)
+    * [ Code Search Find more, search less  ](https://github.com/features/code-search)
+Explore
+    * [ All features ](https://github.com/features)
+    * [ Documentation ](https://docs.github.com)
+    * [ GitHub Skills ](https://skills.github.com)
+    * [ Blog ](https://github.blog)
+  * Solutions 
+By company size
+    * [ Enterprises ](https://github.com/enterprise)
+    * [ Small and medium teams ](https://github.com/team)
+    * [ Startups ](https://github.com/enterprise/startups)
+    * [ Nonprofits ](https://github.com/solutions/industry/nonprofits)
+By use case
+    * [ DevSecOps ](https://github.com/solutions/use-case/devsecops)
+    * [ DevOps ](https://github.com/solutions/use-case/devops)
+    * [ CI/CD ](https://github.com/solutions/use-case/ci-cd)
+    * [ View all use cases ](https://github.com/solutions/use-case)
+By industry
+    * [ Healthcare ](https://github.com/solutions/industry/healthcare)
+    * [ Financial services ](https://github.com/solutions/industry/financial-services)
+    * [ Manufacturing ](https://github.com/solutions/industry/manufacturing)
+    * [ Government ](https://github.com/solutions/industry/government)
+    * [ View all industries ](https://github.com/solutions/industry)
+[ View all solutions ](https://github.com/solutions)
+  * Resources 
+Topics
+    * [ AI ](https://github.com/resources/articles/ai)
+    * [ DevOps ](https://github.com/resources/articles/devops)
+    * [ Security ](https://github.com/resources/articles/security)
+    * [ Software Development ](https://github.com/resources/articles/software-development)
+    * [ View all ](https://github.com/resources/articles)
+Explore
+    * [ Learning Pathways ](https://resources.github.com/learn/pathways)
+    * [ Events & Webinars ](https://resources.github.com)
+    * [ Ebooks & Whitepapers ](https://github.com/resources/whitepapers)
+    * [ Customer Stories ](https://github.com/customer-stories)
+    * [ Partners ](https://partner.github.com)
+    * [ Executive Insights ](https://github.com/solutions/executive-insights)
+  * Open Source 
+    * [ GitHub Sponsors Fund open source developers  ](https://github.com/sponsors)
+    * [ The ReadME Project GitHub community articles  ](https://github.com/readme)
+Repositories
+    * [ Topics ](https://github.com/topics)
+    * [ Trending ](https://github.com/trending)
+    * [ Collections ](https://github.com/collections)
+  * Enterprise 
+    * [ Enterprise platform AI-powered developer platform  ](https://github.com/enterprise)
+Available add-ons
+    * [ Advanced Security Enterprise-grade security features  ](https://github.com/enterprise/advanced-security)
+    * [ Copilot for business Enterprise-grade AI features  ](https://github.com/features/copilot/copilot-business)
+    * [ Premium Support Enterprise-grade 24/7 support  ](https://github.com/premium-support)
+  * [Pricing](https://github.com/pricing)
+
+
+Search or jump to...
+# Search code, repositories, users, issues, pull requests...
+Search 
+Clear
+[Search syntax tips](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax)
+#  Provide feedback 
+We read every piece of feedback, and take your input very seriously.
+Include my email address so I can be contacted
+Cancel  Submit feedback 
+#  Saved searches 
+## Use saved searches to filter your results more quickly
+Name
+Query
+To see all available qualifiers, see our [documentation](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax). 
+Cancel  Create saved search 
+[ Sign in ](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fcupy%2Fcupy%2F)
+[ Sign up ](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E&source=header-repo&source_repo=cupy%2Fcupy) Reseting focus
+You signed in with another tab or window. [Reload](https://github.com/cupy/cupy/) to refresh your session. You signed out in another tab or window. [Reload](https://github.com/cupy/cupy/) to refresh your session. You switched accounts on another tab or window. [Reload](https://github.com/cupy/cupy/) to refresh your session. Dismiss alert
+{{ message }}
+[ cupy ](https://github.com/cupy) / **[cupy](https://github.com/cupy/cupy) ** Public
+  * [ Notifications ](https://github.com/login?return_to=%2Fcupy%2Fcupy) You must be signed in to change notification settings
+  * [ Fork 893 ](https://github.com/login?return_to=%2Fcupy%2Fcupy)
+  * [ Star  10k ](https://github.com/login?return_to=%2Fcupy%2Fcupy)
+
+
+NumPy & SciPy for GPU 
+[cupy.dev](https://cupy.dev "https://cupy.dev")
+### License
+[ MIT license ](https://github.com/cupy/cupy/blob/main/LICENSE)
+[ 10k stars ](https://github.com/cupy/cupy/stargazers) [ 893 forks ](https://github.com/cupy/cupy/forks) [ Branches ](https://github.com/cupy/cupy/branches) [ Tags ](https://github.com/cupy/cupy/tags) [ Activity ](https://github.com/cupy/cupy/activity)
+[ Star  ](https://github.com/login?return_to=%2Fcupy%2Fcupy)
+[ Notifications ](https://github.com/login?return_to=%2Fcupy%2Fcupy) You must be signed in to change notification settings
+  * [ Code ](https://github.com/cupy/cupy)
+  * [ Issues 570 ](https://github.com/cupy/cupy/issues)
+  * [ Pull requests 96 ](https://github.com/cupy/cupy/pulls)
+  * [ Actions ](https://github.com/cupy/cupy/actions)
+  * [ Projects 3 ](https://github.com/cupy/cupy/projects)
+  * [ Wiki ](https://github.com/cupy/cupy/wiki)
+  * [ Security ](https://github.com/cupy/cupy/security)
+  * [ Insights ](https://github.com/cupy/cupy/pulse)
+
+
+Additional navigation options
+  * [ Code  ](https://github.com/cupy/cupy)
+  * [ Issues  ](https://github.com/cupy/cupy/issues)
+  * [ Pull requests  ](https://github.com/cupy/cupy/pulls)
+  * [ Actions  ](https://github.com/cupy/cupy/actions)
+  * [ Projects  ](https://github.com/cupy/cupy/projects)
+  * [ Wiki  ](https://github.com/cupy/cupy/wiki)
+  * [ Security  ](https://github.com/cupy/cupy/security)
+  * [ Insights  ](https://github.com/cupy/cupy/pulse)
+
+
+# cupy/cupy
+main
+[Branches](https://github.com/cupy/cupy/branches)[Tags](https://github.com/cupy/cupy/tags)
+[](https://github.com/cupy/cupy/branches)[](https://github.com/cupy/cupy/tags)
+Go to file
+Code
+## Folders and files
+Name| Name| Last commit message| Last commit date  
+---|---|---|---  
+## Latest commit
+## History
+[29,693 Commits](https://github.com/cupy/cupy/commits/main/)[](https://github.com/cupy/cupy/commits/main/)  
+[.github](https://github.com/cupy/cupy/tree/main/.github ".github")| [.github](https://github.com/cupy/cupy/tree/main/.github ".github")  
+[.pfnci](https://github.com/cupy/cupy/tree/main/.pfnci ".pfnci")| [.pfnci](https://github.com/cupy/cupy/tree/main/.pfnci ".pfnci")  
+[cupy](https://github.com/cupy/cupy/tree/main/cupy "cupy")| [cupy](https://github.com/cupy/cupy/tree/main/cupy "cupy")  
+[cupy_backends](https://github.com/cupy/cupy/tree/main/cupy_backends "cupy_backends")| [cupy_backends](https://github.com/cupy/cupy/tree/main/cupy_backends "cupy_backends")  
+[cupyx](https://github.com/cupy/cupy/tree/main/cupyx "cupyx")| [cupyx](https://github.com/cupy/cupy/tree/main/cupyx "cupyx")  
+[docker](https://github.com/cupy/cupy/tree/main/docker "docker")| [docker](https://github.com/cupy/cupy/tree/main/docker "docker")  
+[docs](https://github.com/cupy/cupy/tree/main/docs "docs")| [docs](https://github.com/cupy/cupy/tree/main/docs "docs")  
+[examples](https://github.com/cupy/cupy/tree/main/examples "examples")| [examples](https://github.com/cupy/cupy/tree/main/examples "examples")  
+[install](https://github.com/cupy/cupy/tree/main/install "install")| [install](https://github.com/cupy/cupy/tree/main/install "install")  
+[tests](https://github.com/cupy/cupy/tree/main/tests "tests")| [tests](https://github.com/cupy/cupy/tree/main/tests "tests")  
+[third_party](https://github.com/cupy/cupy/tree/main/third_party "third_party")| [third_party](https://github.com/cupy/cupy/tree/main/third_party "third_party")  
+[.coveragerc](https://github.com/cupy/cupy/blob/main/.coveragerc ".coveragerc")| [.coveragerc](https://github.com/cupy/cupy/blob/main/.coveragerc ".coveragerc")  
+[.gitignore](https://github.com/cupy/cupy/blob/main/.gitignore ".gitignore")| [.gitignore](https://github.com/cupy/cupy/blob/main/.gitignore ".gitignore")  
+[.gitmodules](https://github.com/cupy/cupy/blob/main/.gitmodules ".gitmodules")| [.gitmodules](https://github.com/cupy/cupy/blob/main/.gitmodules ".gitmodules")  
+[.mergify.yml](https://github.com/cupy/cupy/blob/main/.mergify.yml ".mergify.yml")| [.mergify.yml](https://github.com/cupy/cupy/blob/main/.mergify.yml ".mergify.yml")  
+[.pre-commit-config.yaml](https://github.com/cupy/cupy/blob/main/.pre-commit-config.yaml ".pre-commit-config.yaml")| [.pre-commit-config.yaml](https://github.com/cupy/cupy/blob/main/.pre-commit-config.yaml ".pre-commit-config.yaml")  
+[.readthedocs.yaml](https://github.com/cupy/cupy/blob/main/.readthedocs.yaml ".readthedocs.yaml")| [.readthedocs.yaml](https://github.com/cupy/cupy/blob/main/.readthedocs.yaml ".readthedocs.yaml")  
+[.ruff.toml](https://github.com/cupy/cupy/blob/main/.ruff.toml ".ruff.toml")| [.ruff.toml](https://github.com/cupy/cupy/blob/main/.ruff.toml ".ruff.toml")  
+[CITATION.bib](https://github.com/cupy/cupy/blob/main/CITATION.bib "CITATION.bib")| [CITATION.bib](https://github.com/cupy/cupy/blob/main/CITATION.bib "CITATION.bib")  
+[CODE_OF_CONDUCT.md](https://github.com/cupy/cupy/blob/main/CODE_OF_CONDUCT.md "CODE_OF_CONDUCT.md")| [CODE_OF_CONDUCT.md](https://github.com/cupy/cupy/blob/main/CODE_OF_CONDUCT.md "CODE_OF_CONDUCT.md")  
+[LICENSE](https://github.com/cupy/cupy/blob/main/LICENSE "LICENSE")| [LICENSE](https://github.com/cupy/cupy/blob/main/LICENSE "LICENSE")  
+[MANIFEST.in](https://github.com/cupy/cupy/blob/main/MANIFEST.in "MANIFEST.in")| [MANIFEST.in](https://github.com/cupy/cupy/blob/main/MANIFEST.in "MANIFEST.in")  
+[README.md](https://github.com/cupy/cupy/blob/main/README.md "README.md")| [README.md](https://github.com/cupy/cupy/blob/main/README.md "README.md")  
+[codecov.yml](https://github.com/cupy/cupy/blob/main/codecov.yml "codecov.yml")| [codecov.yml](https://github.com/cupy/cupy/blob/main/codecov.yml "codecov.yml")  
+[setup.cfg](https://github.com/cupy/cupy/blob/main/setup.cfg "setup.cfg")| [setup.cfg](https://github.com/cupy/cupy/blob/main/setup.cfg "setup.cfg")  
+[setup.py](https://github.com/cupy/cupy/blob/main/setup.py "setup.py")| [setup.py](https://github.com/cupy/cupy/blob/main/setup.py "setup.py")  
+View all files  
+## Repository files navigation
+  * [README](https://github.com/cupy/cupy/)
+  * [Code of conduct](https://github.com/cupy/cupy/)
+  * [MIT license](https://github.com/cupy/cupy/)
+
+
+[![](https://raw.githubusercontent.com/cupy/cupy/main/docs/image/cupy_logo_1000px.png)](https://raw.githubusercontent.com/cupy/cupy/main/docs/image/cupy_logo_1000px.png)
+# CuPy : NumPy & SciPy for GPU
+[](https://github.com/cupy/cupy/#cupy--numpy--scipy-for-gpu)
+[![pypi](https://camo.githubusercontent.com/9f42f93fc2988966b22e8d1fe20d80081269ad0cdd9f7ec6d1733263f8e91c14/68747470733a2f2f696d672e736869656c64732e696f2f707970692f762f63757079)](https://pypi.python.org/pypi/cupy) [![Conda](https://camo.githubusercontent.com/44ea99a7b25703ede08c667128fb8017deb1f135463fa458274f93f8bec01e05/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f636f6e64612d2d666f7267652d637570792d626c7565)](https://anaconda.org/conda-forge/cupy) [![GitHub license](https://camo.githubusercontent.com/f000c610f4fc21ef53c9bad299fcecf7fa7b099c5dbff5a411734fdffb558dfd/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6963656e73652f637570792f63757079)](https://github.com/cupy/cupy) [![Matrix](https://camo.githubusercontent.com/765ca66b2fe7f52347e995ca4de6c9d5fb07e02bfa9a9bae4c556c2e5e8e9568/68747470733a2f2f696d672e736869656c64732e696f2f6d61747269782f637570795f636f6d6d756e6974793a6769747465722e696d3f7365727665725f6671646e3d6d61747269782e6f7267)](https://gitter.im/cupy/community) [![Twitter](https://camo.githubusercontent.com/4884e27583c170dca1d21677b65e14db365e0d916af4c99fc596d42ffb2ea1eb/68747470733a2f2f696d672e736869656c64732e696f2f747769747465722f666f6c6c6f772f437550795f5465616d3f6c6162656c3d253430437550795f5465616d)](https://twitter.com/CuPy_Team) [![Medium](https://camo.githubusercontent.com/d346eda24b15079eac1881c68671ba74545ba72e98e286e0361626a2becda086/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d656469756d2d437550792d7465616c)](https://medium.com/cupy-team)
+[**Website**](https://cupy.dev/) | [**Install**](https://docs.cupy.dev/en/stable/install.html) | [**Tutorial**](https://docs.cupy.dev/en/stable/user_guide/basic.html) | [**Examples**](https://github.com/cupy/cupy/tree/main/examples) | [**Documentation**](https://docs.cupy.dev/en/stable/) | [**API Reference**](https://docs.cupy.dev/en/stable/reference/) | [**Forum**](https://groups.google.com/forum/#!forum/cupy)
+CuPy is a NumPy/SciPy-compatible array library for GPU-accelerated computing with Python. CuPy acts as a [drop-in replacement](https://docs.cupy.dev/en/stable/reference/comparison.html) to run existing NumPy/SciPy code on NVIDIA CUDA or AMD ROCm platforms.
+```
+>>> import cupy as cp
+>>> x = cp.arange(6).reshape(2, 3).astype('f')
+>>> x
+array([[ 0., 1., 2.],
+    [ 3., 4., 5.]], dtype=float32)
+>>> x.sum(axis=1)
+array([ 3., 12.], dtype=float32)
+```
+
+CuPy also provides access to low-level CUDA features. You can pass `ndarray` to existing CUDA C/C++ programs via [RawKernels](https://docs.cupy.dev/en/stable/user_guide/kernel.html#raw-kernels), use [Streams](https://docs.cupy.dev/en/stable/reference/cuda.html) for performance, or even call [CUDA Runtime APIs](https://docs.cupy.dev/en/stable/reference/cuda.html#runtime-api) directly.
+## Installation
+[](https://github.com/cupy/cupy/#installation)
+### Pip
+[](https://github.com/cupy/cupy/#pip)
+Binary packages (wheels) are available for Linux and Windows on [PyPI](https://pypi.org/org/cupy/). Choose the right package for your platform.
+Platform | Architecture | Command  
+---|---|---  
+CUDA 11.x (11.2+) | x86_64 / aarch64 | `pip install cupy-cuda11x`  
+CUDA 12.x | x86_64 / aarch64 | `pip install cupy-cuda12x`  
+ROCm 4.3 (_[experimental](https://docs.cupy.dev/en/latest/install.html#using-cupy-on-amd-gpu-experimental)_) | x86_64 | `pip install cupy-rocm-4-3`  
+ROCm 5.0 (_[experimental](https://docs.cupy.dev/en/latest/install.html#using-cupy-on-amd-gpu-experimental)_) | x86_64 | `pip install cupy-rocm-5-0`  
+Note
+To install pre-releases, append `--pre -U -f https://pip.cupy.dev/pre` (e.g., `pip install cupy-cuda11x --pre -U -f https://pip.cupy.dev/pre`).
+### Conda
+[](https://github.com/cupy/cupy/#conda)
+Binary packages are also available for Linux and Windows on [Conda-Forge](https://anaconda.org/conda-forge/cupy).
+Platform | Architecture | Command  
+---|---|---  
+CUDA | x86_64 / aarch64 / ppc64le | `conda install -c conda-forge cupy`  
+If you need a slim installation (without also getting CUDA dependencies installed), you can do `conda install -c conda-forge cupy-core`.
+If you need to use a particular CUDA version (say 12.0), you can use the `cuda-version` metapackage to select the version, e.g. `conda install -c conda-forge cupy cuda-version=12.0`.
+Note
+If you encounter any problem with CuPy installed from `conda-forge`, please feel free to report to [cupy-feedstock](https://github.com/conda-forge/cupy-feedstock/issues), and we will help investigate if it is just a packaging issue in `conda-forge`'s recipe or a real issue in CuPy.
+### Docker
+[](https://github.com/cupy/cupy/#docker)
+Use [NVIDIA Container Toolkit](https://docs.nvidia.com/datacenter/cloud-native/container-toolkit/overview.html) to run [CuPy container images](https://hub.docker.com/r/cupy/cupy).
+```
+$ docker run --gpus all -it cupy/cupy
+
+```
+
+## Resources
+[](https://github.com/cupy/cupy/#resources)
+  * [Installation Guide](https://docs.cupy.dev/en/stable/install.html) - instructions on building from source
+  * [Release Notes](https://github.com/cupy/cupy/releases)
+  * [Projects using CuPy](https://github.com/cupy/cupy/wiki/Projects-using-CuPy)
+  * [Contribution Guide](https://docs.cupy.dev/en/stable/contribution.html)
+  * [GPU Acceleration in Python using CuPy and Numba (GTC November 2021 Technical Session)](https://www.nvidia.com/en-us/on-demand/session/gtcfall21-a31149/)
+  * [GPU-Acceleration of Signal Processing Workflows using CuPy and cuSignal](https://github.com/awthomp/cusignal-icassp-tutorial)[1](https://github.com/cupy/cupy/#user-content-fn-1-00ae66f9a12c7e86ad9bd40b4816181f) (ICASSP'21 Tutorial)
+
+
+## License
+[](https://github.com/cupy/cupy/#license)
+MIT License (see `LICENSE` file).
+CuPy is designed based on NumPy's API and SciPy's API (see `docs/source/license.rst` file).
+CuPy is being developed and maintained by [Preferred Networks](https://www.preferred.jp/en/) and [community contributors](https://github.com/cupy/cupy/graphs/contributors).
+## Reference
+[](https://github.com/cupy/cupy/#reference)
+Ryosuke Okuta, Yuya Unno, Daisuke Nishino, Shohei Hido and Crissman Loomis. **CuPy: A NumPy-Compatible Library for NVIDIA GPU Calculations.** _Proceedings of Workshop on Machine Learning Systems (LearningSys) in The Thirty-first Annual Conference on Neural Information Processing Systems (NIPS)_ , (2017). [[PDF](http://learningsys.org/nips17/assets/papers/paper_16.pdf)]
+```
+@inproceedings{cupy_learningsys2017,
+ author    = "Okuta, Ryosuke and Unno, Yuya and Nishino, Daisuke and Hido, Shohei and Loomis, Crissman",
+ title    = "CuPy: A NumPy-Compatible Library for NVIDIA GPU Calculations",
+ booktitle  = "Proceedings of Workshop on Machine Learning Systems (LearningSys) in The Thirty-first Annual Conference on Neural Information Processing Systems (NIPS)",
+ year     = "2017",
+ url     = "http://learningsys.org/nips17/assets/papers/paper_16.pdf"
+}
+```
+
+## Footnotes
+  1. cuSignal is now part of CuPy starting v13.0.0. [↩](https://github.com/cupy/cupy/#user-content-fnref-1-00ae66f9a12c7e86ad9bd40b4816181f)
+
+
+## About
+NumPy & SciPy for GPU 
+[cupy.dev](https://cupy.dev "https://cupy.dev")
+### Topics
+[ python ](https://github.com/topics/python "Topic: python") [ gpu ](https://github.com/topics/gpu "Topic: gpu") [ numpy ](https://github.com/topics/numpy "Topic: numpy") [ cuda ](https://github.com/topics/cuda "Topic: cuda") [ cublas ](https://github.com/topics/cublas "Topic: cublas") [ scipy ](https://github.com/topics/scipy "Topic: scipy") [ tensor ](https://github.com/topics/tensor "Topic: tensor") [ cudnn ](https://github.com/topics/cudnn "Topic: cudnn") [ rocm ](https://github.com/topics/rocm "Topic: rocm") [ cupy ](https://github.com/topics/cupy "Topic: cupy") [ cusolver ](https://github.com/topics/cusolver "Topic: cusolver") [ nccl ](https://github.com/topics/nccl "Topic: nccl") [ curand ](https://github.com/topics/curand "Topic: curand") [ cusparse ](https://github.com/topics/cusparse "Topic: cusparse") [ nvrtc ](https://github.com/topics/nvrtc "Topic: nvrtc") [ cutensor ](https://github.com/topics/cutensor "Topic: cutensor") [ nvtx ](https://github.com/topics/nvtx "Topic: nvtx") [ cusparselt ](https://github.com/topics/cusparselt "Topic: cusparselt")
+### Resources
+[ Readme ](https://github.com/cupy/cupy/#readme-ov-file)
+### License
+[ MIT license ](https://github.com/cupy/cupy/#MIT-1-ov-file)
+### Code of conduct
+[ Code of conduct ](https://github.com/cupy/cupy/#coc-ov-file)
+[ Activity](https://github.com/cupy/cupy/activity)
+[ Custom properties](https://github.com/cupy/cupy/custom-properties)
+### Stars
+[ **10k** stars](https://github.com/cupy/cupy/stargazers)
+### Watchers
+[ **127** watching](https://github.com/cupy/cupy/watchers)
+### Forks
+[ **893** forks](https://github.com/cupy/cupy/forks)
+[ Report repository ](https://github.com/contact/report-content?content_url=https%3A%2F%2Fgithub.com%2Fcupy%2Fcupy&report=cupy+%28user%29)
+##  [Releases 144](https://github.com/cupy/cupy/releases)
+[ v13.4.1 Latest  Mar 21, 2025 ](https://github.com/cupy/cupy/releases/tag/v13.4.1)
+[+ 143 releases](https://github.com/cupy/cupy/releases)
+## Sponsor this project
+Sponsor 
+[Learn more about GitHub Sponsors](https://github.com/sponsors)
+##  [Used by 2.4k](https://github.com/cupy/cupy/network/dependents)
+[
+  * ![@tfzx](https://avatars.githubusercontent.com/u/71889292?s=64&v=4)
+  * ![@mahirjain01](https://avatars.githubusercontent.com/u/95163158?s=64&v=4)
+  * ![@BurgerAndreas](https://avatars.githubusercontent.com/u/30842617?s=64&v=4)
+  * ![@MrZilinXiao](https://avatars.githubusercontent.com/u/42504790?s=64&v=4)
+  * ![@Learning-Operator](https://avatars.githubusercontent.com/u/166876020?s=64&v=4)
+  * ![@MingzeDou](https://avatars.githubusercontent.com/u/147074088?s=64&v=4)
+  * ![@Slusheeking](https://avatars.githubusercontent.com/u/184584234?s=64&v=4)
+  * ![@clementjambon](https://avatars.githubusercontent.com/u/6135135?s=64&v=4)
+
++ 2,364  ](https://github.com/cupy/cupy/network/dependents)
+##  [Contributors 334](https://github.com/cupy/cupy/graphs/contributors)
+  * [ ![@kmaehashi](https://avatars.githubusercontent.com/u/939877?s=64&v=4) ](https://github.com/kmaehashi)
+  * [ ![@okuta](https://avatars.githubusercontent.com/u/7133388?s=64&v=4) ](https://github.com/okuta)
+  * [ ![@unnonouno](https://avatars.githubusercontent.com/u/740680?s=64&v=4) ](https://github.com/unnonouno)
+  * [ ![@leofang](https://avatars.githubusercontent.com/u/5534781?s=64&v=4) ](https://github.com/leofang)
+  * [ ![@takagi](https://avatars.githubusercontent.com/u/1224375?s=64&v=4) ](https://github.com/takagi)
+  * [ ![@asi1024](https://avatars.githubusercontent.com/u/5086403?s=64&v=4) ](https://github.com/asi1024)
+  * [ ![@delta2323](https://avatars.githubusercontent.com/u/407052?s=64&v=4) ](https://github.com/delta2323)
+  * [ ![@beam2d](https://avatars.githubusercontent.com/u/392019?s=64&v=4) ](https://github.com/beam2d)
+  * [ ![@toslunar](https://avatars.githubusercontent.com/u/1964281?s=64&v=4) ](https://github.com/toslunar)
+  * [ ![@anaruse](https://avatars.githubusercontent.com/u/20274068?s=64&v=4) ](https://github.com/anaruse)
+  * [ ![@niboshi](https://avatars.githubusercontent.com/u/635436?s=64&v=4) ](https://github.com/niboshi)
+  * [ ![@grlee77](https://avatars.githubusercontent.com/u/6528957?s=64&v=4) ](https://github.com/grlee77)
+  * [ ![@mergify\[bot\]](https://avatars.githubusercontent.com/in/10562?s=64&v=4) ](https://github.com/apps/mergify)
+  * [ ![@andfoy](https://avatars.githubusercontent.com/u/1878982?s=64&v=4) ](https://github.com/andfoy)
+
+
+[+ 320 contributors](https://github.com/cupy/cupy/graphs/contributors)
+## Languages
+  * [ Python 56.5% ](https://github.com/cupy/cupy/search?l=python)
+  * [ Cython 16.2% ](https://github.com/cupy/cupy/search?l=cython)
+  * [ C++ 12.9% ](https://github.com/cupy/cupy/search?l=c%2B%2B)
+  * [ C 12.7% ](https://github.com/cupy/cupy/search?l=c)
+  * [ Cuda 1.0% ](https://github.com/cupy/cupy/search?l=cuda)
+  * [ Dockerfile 0.4% ](https://github.com/cupy/cupy/search?l=dockerfile)
+  * Other 0.3%
+
+
+## Footer
+[ ](https://github.com "GitHub") © 2025 GitHub, Inc. 
+### Footer navigation
+  * [Terms](https://docs.github.com/site-policy/github-terms/github-terms-of-service)
+  * [Privacy](https://docs.github.com/site-policy/privacy-policies/github-privacy-statement)
+  * [Security](https://github.com/security)
+  * [Status](https://www.githubstatus.com/)
+  * [Docs](https://docs.github.com/)
+  * [Contact](https://support.github.com?tags=dotcom-footer)
+  * Manage cookies 
+  * Do not share my personal information 
+
+
+You can’t perform that action at this time. 

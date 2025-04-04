@@ -1,0 +1,288 @@
+[Skip to content](https://github.com/langflow-ai/langflow?tab=readme-ov-file/#start-of-content)
+## Navigation Menu
+Toggle navigation
+[ ](https://github.com/)
+[ Sign in ](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Flangflow-ai%2Flangflow%3Ftab%3Dreadme-ov-file%2F)
+  * Product 
+    * [ GitHub Copilot Write better code with AI  ](https://github.com/features/copilot)
+    * [ Security Find and fix vulnerabilities  ](https://github.com/features/security)
+    * [ Actions Automate any workflow  ](https://github.com/features/actions)
+    * [ Codespaces Instant dev environments  ](https://github.com/features/codespaces)
+    * [ Issues Plan and track work  ](https://github.com/features/issues)
+    * [ Code Review Manage code changes  ](https://github.com/features/code-review)
+    * [ Discussions Collaborate outside of code  ](https://github.com/features/discussions)
+    * [ Code Search Find more, search less  ](https://github.com/features/code-search)
+Explore
+    * [ All features ](https://github.com/features)
+    * [ Documentation ](https://docs.github.com)
+    * [ GitHub Skills ](https://skills.github.com)
+    * [ Blog ](https://github.blog)
+  * Solutions 
+By company size
+    * [ Enterprises ](https://github.com/enterprise)
+    * [ Small and medium teams ](https://github.com/team)
+    * [ Startups ](https://github.com/enterprise/startups)
+    * [ Nonprofits ](https://github.com/solutions/industry/nonprofits)
+By use case
+    * [ DevSecOps ](https://github.com/solutions/use-case/devsecops)
+    * [ DevOps ](https://github.com/solutions/use-case/devops)
+    * [ CI/CD ](https://github.com/solutions/use-case/ci-cd)
+    * [ View all use cases ](https://github.com/solutions/use-case)
+By industry
+    * [ Healthcare ](https://github.com/solutions/industry/healthcare)
+    * [ Financial services ](https://github.com/solutions/industry/financial-services)
+    * [ Manufacturing ](https://github.com/solutions/industry/manufacturing)
+    * [ Government ](https://github.com/solutions/industry/government)
+    * [ View all industries ](https://github.com/solutions/industry)
+[ View all solutions ](https://github.com/solutions)
+  * Resources 
+Topics
+    * [ AI ](https://github.com/resources/articles/ai)
+    * [ DevOps ](https://github.com/resources/articles/devops)
+    * [ Security ](https://github.com/resources/articles/security)
+    * [ Software Development ](https://github.com/resources/articles/software-development)
+    * [ View all ](https://github.com/resources/articles)
+Explore
+    * [ Learning Pathways ](https://resources.github.com/learn/pathways)
+    * [ Events & Webinars ](https://resources.github.com)
+    * [ Ebooks & Whitepapers ](https://github.com/resources/whitepapers)
+    * [ Customer Stories ](https://github.com/customer-stories)
+    * [ Partners ](https://partner.github.com)
+    * [ Executive Insights ](https://github.com/solutions/executive-insights)
+  * Open Source 
+    * [ GitHub Sponsors Fund open source developers  ](https://github.com/sponsors)
+    * [ The ReadME Project GitHub community articles  ](https://github.com/readme)
+Repositories
+    * [ Topics ](https://github.com/topics)
+    * [ Trending ](https://github.com/trending)
+    * [ Collections ](https://github.com/collections)
+  * Enterprise 
+    * [ Enterprise platform AI-powered developer platform  ](https://github.com/enterprise)
+Available add-ons
+    * [ Advanced Security Enterprise-grade security features  ](https://github.com/enterprise/advanced-security)
+    * [ Copilot for business Enterprise-grade AI features  ](https://github.com/features/copilot/copilot-business)
+    * [ Premium Support Enterprise-grade 24/7 support  ](https://github.com/premium-support)
+  * [Pricing](https://github.com/pricing)
+
+
+Search or jump to...
+# Search code, repositories, users, issues, pull requests...
+Search 
+Clear
+[Search syntax tips](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax)
+#  Provide feedback 
+We read every piece of feedback, and take your input very seriously.
+Include my email address so I can be contacted
+Cancel  Submit feedback 
+#  Saved searches 
+## Use saved searches to filter your results more quickly
+Name
+Query
+To see all available qualifiers, see our [documentation](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax). 
+Cancel  Create saved search 
+[ Sign in ](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Flangflow-ai%2Flangflow%3Ftab%3Dreadme-ov-file%2F)
+[ Sign up ](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E&source=header-repo&source_repo=langflow-ai%2Flangflow) Reseting focus
+You signed in with another tab or window. [Reload](https://github.com/langflow-ai/langflow?tab=readme-ov-file/) to refresh your session. You signed out in another tab or window. [Reload](https://github.com/langflow-ai/langflow?tab=readme-ov-file/) to refresh your session. You switched accounts on another tab or window. [Reload](https://github.com/langflow-ai/langflow?tab=readme-ov-file/) to refresh your session. Dismiss alert
+{{ message }}
+[ langflow-ai ](https://github.com/langflow-ai) / **[langflow](https://github.com/langflow-ai/langflow) ** Public
+  * [ Notifications ](https://github.com/login?return_to=%2Flangflow-ai%2Flangflow) You must be signed in to change notification settings
+  * [ Fork 5.8k ](https://github.com/login?return_to=%2Flangflow-ai%2Flangflow)
+  * [ Star  53.4k ](https://github.com/login?return_to=%2Flangflow-ai%2Flangflow)
+
+
+Langflow is a powerful tool for building and deploying AI-powered agents and workflows. 
+[www.langflow.org](http://www.langflow.org "http://www.langflow.org")
+### License
+[ MIT license ](https://github.com/langflow-ai/langflow/blob/main/LICENSE)
+[ 53.4k stars ](https://github.com/langflow-ai/langflow/stargazers) [ 5.8k forks ](https://github.com/langflow-ai/langflow/forks) [ Branches ](https://github.com/langflow-ai/langflow/branches) [ Tags ](https://github.com/langflow-ai/langflow/tags) [ Activity ](https://github.com/langflow-ai/langflow/activity)
+[ Star  ](https://github.com/login?return_to=%2Flangflow-ai%2Flangflow)
+[ Notifications ](https://github.com/login?return_to=%2Flangflow-ai%2Flangflow) You must be signed in to change notification settings
+  * [ Code ](https://github.com/langflow-ai/langflow)
+  * [ Issues 381 ](https://github.com/langflow-ai/langflow/issues)
+  * [ Pull requests 493 ](https://github.com/langflow-ai/langflow/pulls)
+  * [ Discussions ](https://github.com/langflow-ai/langflow/discussions)
+  * [ Actions ](https://github.com/langflow-ai/langflow/actions)
+  * [ Projects 0 ](https://github.com/langflow-ai/langflow/projects)
+  * [ Security ](https://github.com/langflow-ai/langflow/security)
+  * [ Insights ](https://github.com/langflow-ai/langflow/pulse)
+
+
+Additional navigation options
+  * [ Code  ](https://github.com/langflow-ai/langflow)
+  * [ Issues  ](https://github.com/langflow-ai/langflow/issues)
+  * [ Pull requests  ](https://github.com/langflow-ai/langflow/pulls)
+  * [ Discussions  ](https://github.com/langflow-ai/langflow/discussions)
+  * [ Actions  ](https://github.com/langflow-ai/langflow/actions)
+  * [ Projects  ](https://github.com/langflow-ai/langflow/projects)
+  * [ Security  ](https://github.com/langflow-ai/langflow/security)
+  * [ Insights  ](https://github.com/langflow-ai/langflow/pulse)
+
+
+# langflow-ai/langflow
+main
+[Branches](https://github.com/langflow-ai/langflow/branches)[Tags](https://github.com/langflow-ai/langflow/tags)
+[](https://github.com/langflow-ai/langflow/branches)[](https://github.com/langflow-ai/langflow/tags)
+Go to file
+Code
+## Folders and files
+Name| Name| Last commit message| Last commit date  
+---|---|---|---  
+## Latest commit
+## History
+[15,546 Commits](https://github.com/langflow-ai/langflow/commits/main/)[](https://github.com/langflow-ai/langflow/commits/main/)  
+[.devcontainer](https://github.com/langflow-ai/langflow/tree/main/.devcontainer ".devcontainer")| [.devcontainer](https://github.com/langflow-ai/langflow/tree/main/.devcontainer ".devcontainer")  
+[.github](https://github.com/langflow-ai/langflow/tree/main/.github ".github")| [.github](https://github.com/langflow-ai/langflow/tree/main/.github ".github")  
+[.vscode](https://github.com/langflow-ai/langflow/tree/main/.vscode ".vscode")| [.vscode](https://github.com/langflow-ai/langflow/tree/main/.vscode ".vscode")  
+[deploy](https://github.com/langflow-ai/langflow/tree/main/deploy "deploy")| [deploy](https://github.com/langflow-ai/langflow/tree/main/deploy "deploy")  
+[docker](https://github.com/langflow-ai/langflow/tree/main/docker "docker")| [docker](https://github.com/langflow-ai/langflow/tree/main/docker "docker")  
+[docker_example](https://github.com/langflow-ai/langflow/tree/main/docker_example "docker_example")| [docker_example](https://github.com/langflow-ai/langflow/tree/main/docker_example "docker_example")  
+[docs](https://github.com/langflow-ai/langflow/tree/main/docs "docs")| [docs](https://github.com/langflow-ai/langflow/tree/main/docs "docs")  
+[scripts](https://github.com/langflow-ai/langflow/tree/main/scripts "scripts")| [scripts](https://github.com/langflow-ai/langflow/tree/main/scripts "scripts")  
+[src](https://github.com/langflow-ai/langflow/tree/main/src "src")| [src](https://github.com/langflow-ai/langflow/tree/main/src "src")  
+[test-results](https://github.com/langflow-ai/langflow/tree/main/test-results "test-results")| [test-results](https://github.com/langflow-ai/langflow/tree/main/test-results "test-results")  
+[.composio.lock](https://github.com/langflow-ai/langflow/blob/main/.composio.lock ".composio.lock")| [.composio.lock](https://github.com/langflow-ai/langflow/blob/main/.composio.lock ".composio.lock")  
+[.env.example](https://github.com/langflow-ai/langflow/blob/main/.env.example ".env.example")| [.env.example](https://github.com/langflow-ai/langflow/blob/main/.env.example ".env.example")  
+[.eslintrc.json](https://github.com/langflow-ai/langflow/blob/main/.eslintrc.json ".eslintrc.json")| [.eslintrc.json](https://github.com/langflow-ai/langflow/blob/main/.eslintrc.json ".eslintrc.json")  
+[.gitattributes](https://github.com/langflow-ai/langflow/blob/main/.gitattributes ".gitattributes")| [.gitattributes](https://github.com/langflow-ai/langflow/blob/main/.gitattributes ".gitattributes")  
+[.gitignore](https://github.com/langflow-ai/langflow/blob/main/.gitignore ".gitignore")| [.gitignore](https://github.com/langflow-ai/langflow/blob/main/.gitignore ".gitignore")  
+[.pre-commit-config.yaml](https://github.com/langflow-ai/langflow/blob/main/.pre-commit-config.yaml ".pre-commit-config.yaml")| [.pre-commit-config.yaml](https://github.com/langflow-ai/langflow/blob/main/.pre-commit-config.yaml ".pre-commit-config.yaml")  
+[CODE_OF_CONDUCT.md](https://github.com/langflow-ai/langflow/blob/main/CODE_OF_CONDUCT.md "CODE_OF_CONDUCT.md")| [CODE_OF_CONDUCT.md](https://github.com/langflow-ai/langflow/blob/main/CODE_OF_CONDUCT.md "CODE_OF_CONDUCT.md")  
+[CONTRIBUTING.md](https://github.com/langflow-ai/langflow/blob/main/CONTRIBUTING.md "CONTRIBUTING.md")| [CONTRIBUTING.md](https://github.com/langflow-ai/langflow/blob/main/CONTRIBUTING.md "CONTRIBUTING.md")  
+[DEVELOPMENT.md](https://github.com/langflow-ai/langflow/blob/main/DEVELOPMENT.md "DEVELOPMENT.md")| [DEVELOPMENT.md](https://github.com/langflow-ai/langflow/blob/main/DEVELOPMENT.md "DEVELOPMENT.md")  
+[LICENSE](https://github.com/langflow-ai/langflow/blob/main/LICENSE "LICENSE")| [LICENSE](https://github.com/langflow-ai/langflow/blob/main/LICENSE "LICENSE")  
+[Makefile](https://github.com/langflow-ai/langflow/blob/main/Makefile "Makefile")| [Makefile](https://github.com/langflow-ai/langflow/blob/main/Makefile "Makefile")  
+[README.md](https://github.com/langflow-ai/langflow/blob/main/README.md "README.md")| [README.md](https://github.com/langflow-ai/langflow/blob/main/README.md "README.md")  
+[eslint.config.js](https://github.com/langflow-ai/langflow/blob/main/eslint.config.js "eslint.config.js")| [eslint.config.js](https://github.com/langflow-ai/langflow/blob/main/eslint.config.js "eslint.config.js")  
+[pyproject.toml](https://github.com/langflow-ai/langflow/blob/main/pyproject.toml "pyproject.toml")| [pyproject.toml](https://github.com/langflow-ai/langflow/blob/main/pyproject.toml "pyproject.toml")  
+[render.yaml](https://github.com/langflow-ai/langflow/blob/main/render.yaml "render.yaml")| [render.yaml](https://github.com/langflow-ai/langflow/blob/main/render.yaml "render.yaml")  
+[uv.lock](https://github.com/langflow-ai/langflow/blob/main/uv.lock "uv.lock")| [uv.lock](https://github.com/langflow-ai/langflow/blob/main/uv.lock "uv.lock")  
+View all files  
+## Repository files navigation
+  * [README](https://github.com/langflow-ai/langflow?tab=readme-ov-file/)
+  * [Code of conduct](https://github.com/langflow-ai/langflow?tab=readme-ov-file/)
+  * [MIT license](https://github.com/langflow-ai/langflow?tab=readme-ov-file/)
+
+
+[![Langflow logo](https://github.com/langflow-ai/langflow/raw/main/docs/static/img/langflow-logo-color-black-solid.svg)](https://github.com/langflow-ai/langflow/blob/main/docs/static/img/langflow-logo-color-black-solid.svg)
+[![Release Notes](https://camo.githubusercontent.com/b42a9773c3bd6d301da1b42f222cda218625eb553987c48d49a934bad68dc884/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f72656c656173652f6c616e67666c6f772d61692f6c616e67666c6f773f7374796c653d666c61742d737175617265)](https://github.com/langflow-ai/langflow/releases) [![PyPI - License](https://camo.githubusercontent.com/9d525da30058c10a3a4c3339225203b08f2e5ea08582d046ff1fd43b4dfda173/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c6963656e73652d4d49542d6f72616e6765)](https://opensource.org/licenses/MIT) [![PyPI - Downloads](https://camo.githubusercontent.com/a7be9010dd5bb9e700c522cf64856e4629f329a715cfe2c433d677c9637100be/68747470733a2f2f696d672e736869656c64732e696f2f707970692f646d2f6c616e67666c6f773f7374796c653d666c61742d737175617265)](https://pypistats.org/packages/langflow) [![GitHub star chart](https://camo.githubusercontent.com/f873abb4ad55fea567991c095a1366e7701a52d4351b6b8137ef0f805022d8bc/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f73746172732f6c616e67666c6f772d61692f6c616e67666c6f773f7374796c653d666c61742d737175617265)](https://star-history.com/#langflow-ai/langflow) [![Open Issues](https://camo.githubusercontent.com/acd20a78af067586622dc52a38b8951befb6216dbf14f56155cb02a03a95933d/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6973737565732d7261772f6c616e67666c6f772d61692f6c616e67666c6f773f7374796c653d666c61742d737175617265)](https://github.com/langflow-ai/langflow/issues) [![Open in HuggingFace](https://camo.githubusercontent.com/a4ff28c1dbabfaa46915ab215390308c2415c77b4b180e78909c08d74c174ad8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f25463025394625413425393725323048756767696e67253230466163652d5370616365732d626c7565)](https://huggingface.co/spaces/Langflow/Langflow?duplicate=true) [![Twitter](https://camo.githubusercontent.com/1c8537992a7b4a4ee56a11a8b57bec194377a88ff4d7b0013a22f50d78fe2ad2/68747470733a2f2f696d672e736869656c64732e696f2f747769747465722f75726c2f68747470732f747769747465722e636f6d2f6c616e67666c6f772d61692e7376673f7374796c653d736f6369616c266c6162656c3d466f6c6c6f772532302534304c616e67666c6f77)](https://twitter.com/langflow) [![YouTube Channel Views](https://camo.githubusercontent.com/f699f4df2ef669a522242df5b8faa4ab9621a86047aea35e8b617a41bfd53452/68747470733a2f2f696d672e736869656c64732e696f2f796f75747562652f6368616e6e656c2f76696577732f55436e3262496e51726a6444594b45456d627077626c4c51)](https://www.youtube.com/@Langflow)
+[Langflow](https://langflow.org) is a powerful tool for building and deploying AI-powered agents and workflows. It provides developers with both a visual authoring experience and a built-in API server that turns every agent into an API endpoint that can be integrated into applications built on any framework or stack. Langflow comes with batteries included and supports all major LLMs, vector databases and a growing library of AI tools.
+## ✨ Highlight features
+[](https://github.com/langflow-ai/langflow?tab=readme-ov-file/#-highlight-features)
+  1. **Visual Builder** to get started quickly and iterate.
+  2. **Access to Code** so developers can tweak any component using Python.
+  3. **Playground** to immediately test and iterate on their flows with step-by-step control.
+  4. **Multi-agent** orchestration and conversation management and retrieval.
+  5. **Deploy as an API** or export as JSON for Python apps.
+  6. **Observability** with LangSmith, LangFuse and other integrations.
+  7. **Enterprise-ready** security and scalability.
+
+
+## ⚡️ Quickstart
+[](https://github.com/langflow-ai/langflow?tab=readme-ov-file/#️-quickstart)
+Langflow works with Python 3.10 to 3.13.
+Install with uv **(recommended)**
+```
+uv pip install langflow
+```
+
+Install with pip
+```
+pip install langflow
+```
+
+## 📦 Deployment
+[](https://github.com/langflow-ai/langflow?tab=readme-ov-file/#-deployment)
+### Self-managed
+[](https://github.com/langflow-ai/langflow?tab=readme-ov-file/#self-managed)
+Langflow is completely open source and you can deploy it to all major deployment clouds. Follow this [guide](https://docs.langflow.org/deployment-docker) to learn how to use Docker to deploy Langflow.
+### Fully-managed by DataStax
+[](https://github.com/langflow-ai/langflow?tab=readme-ov-file/#fully-managed-by-datastax)
+DataStax Langflow is a full-managed environment with zero setup. Developers can [sign up for a free account](https://astra.datastax.com/signup?type=langflow) to get started.
+## ⭐ Stay up-to-date
+[](https://github.com/langflow-ai/langflow?tab=readme-ov-file/#-stay-up-to-date)
+Star Langflow on GitHub to be instantly notified of new releases.
+[![Star Langflow](https://private-user-images.githubusercontent.com/62335616/355231272-03168b17-a11d-4b2a-b0f7-c1cce69e5a2c.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDMzNTcxMzksIm5iZiI6MTc0MzM1NjgzOSwicGF0aCI6Ii82MjMzNTYxNi8zNTUyMzEyNzItMDMxNjhiMTctYTExZC00YjJhLWIwZjctYzFjY2U2OWU1YTJjLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAzMzAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMzMwVDE3NDcxOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTAwNmNmNmMxNTA2MzRmNDc3ZGUyYTQxM2RlNWI2NTA5MzQwOTEzYWVlMTAyYjA3NTljZDFkNWIzYzcyZDdhOWQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.ZpNCQDSmlFPnVt7a30UxnLU4GorXqkiF-cvm6SI6930)](https://private-user-images.githubusercontent.com/62335616/355231272-03168b17-a11d-4b2a-b0f7-c1cce69e5a2c.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDMzNTcxMzksIm5iZiI6MTc0MzM1NjgzOSwicGF0aCI6Ii82MjMzNTYxNi8zNTUyMzEyNzItMDMxNjhiMTctYTExZC00YjJhLWIwZjctYzFjY2U2OWU1YTJjLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAzMzAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMzMwVDE3NDcxOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTAwNmNmNmMxNTA2MzRmNDc3ZGUyYTQxM2RlNWI2NTA5MzQwOTEzYWVlMTAyYjA3NTljZDFkNWIzYzcyZDdhOWQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.ZpNCQDSmlFPnVt7a30UxnLU4GorXqkiF-cvm6SI6930) [ ![Star Langflow](https://private-user-images.githubusercontent.com/62335616/355231272-03168b17-a11d-4b2a-b0f7-c1cce69e5a2c.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDMzNTcxMzksIm5iZiI6MTc0MzM1NjgzOSwicGF0aCI6Ii82MjMzNTYxNi8zNTUyMzEyNzItMDMxNjhiMTctYTExZC00YjJhLWIwZjctYzFjY2U2OWU1YTJjLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAzMzAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMzMwVDE3NDcxOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTAwNmNmNmMxNTA2MzRmNDc3ZGUyYTQxM2RlNWI2NTA5MzQwOTEzYWVlMTAyYjA3NTljZDFkNWIzYzcyZDdhOWQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.ZpNCQDSmlFPnVt7a30UxnLU4GorXqkiF-cvm6SI6930) ](https://private-user-images.githubusercontent.com/62335616/355231272-03168b17-a11d-4b2a-b0f7-c1cce69e5a2c.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDMzNTcxMzksIm5iZiI6MTc0MzM1NjgzOSwicGF0aCI6Ii82MjMzNTYxNi8zNTUyMzEyNzItMDMxNjhiMTctYTExZC00YjJhLWIwZjctYzFjY2U2OWU1YTJjLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAzMzAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMzMwVDE3NDcxOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTAwNmNmNmMxNTA2MzRmNDc3ZGUyYTQxM2RlNWI2NTA5MzQwOTEzYWVlMTAyYjA3NTljZDFkNWIzYzcyZDdhOWQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.ZpNCQDSmlFPnVt7a30UxnLU4GorXqkiF-cvm6SI6930) [ ](https://private-user-images.githubusercontent.com/62335616/355231272-03168b17-a11d-4b2a-b0f7-c1cce69e5a2c.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDMzNTcxMzksIm5iZiI6MTc0MzM1NjgzOSwicGF0aCI6Ii82MjMzNTYxNi8zNTUyMzEyNzItMDMxNjhiMTctYTExZC00YjJhLWIwZjctYzFjY2U2OWU1YTJjLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAzMzAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMzMwVDE3NDcxOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTAwNmNmNmMxNTA2MzRmNDc3ZGUyYTQxM2RlNWI2NTA5MzQwOTEzYWVlMTAyYjA3NTljZDFkNWIzYzcyZDdhOWQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.ZpNCQDSmlFPnVt7a30UxnLU4GorXqkiF-cvm6SI6930)
+## 👋 Contribute
+[](https://github.com/langflow-ai/langflow?tab=readme-ov-file/#-contribute)
+We welcome contributions from developers of all levels. If you'd like to contribute, please check our [contributing guidelines](https://github.com/langflow-ai/langflow/blob/main/CONTRIBUTING.md) and help make Langflow more accessible.
+[![Star History Chart](https://camo.githubusercontent.com/58d1efb8328bec76b01ca956be18ea4deee6e00efa24117fb6a97c9a2ddc773f/68747470733a2f2f6170692e737461722d686973746f72792e636f6d2f7376673f7265706f733d6c616e67666c6f772d61692f6c616e67666c6f7726747970653d54696d656c696e65)](https://star-history.com/#langflow-ai/langflow&Date)
+## ❤️ Contributors
+[](https://github.com/langflow-ai/langflow?tab=readme-ov-file/#️-contributors)
+[![langflow contributors](https://camo.githubusercontent.com/bd682f12cfee021ab3c48cd5507126e21fd879459127f41c23a3de55d7063b14/68747470733a2f2f636f6e747269622e726f636b732f696d6167653f7265706f3d6c616e67666c6f772d61692f6c616e67666c6f77)](https://github.com/langflow-ai/langflow/graphs/contributors)
+## About
+Langflow is a powerful tool for building and deploying AI-powered agents and workflows. 
+[www.langflow.org](http://www.langflow.org "http://www.langflow.org")
+### Topics
+[ multiagent ](https://github.com/topics/multiagent "Topic: multiagent") [ agents ](https://github.com/topics/agents "Topic: agents") [ react-flow ](https://github.com/topics/react-flow "Topic: react-flow") [ large-language-models ](https://github.com/topics/large-language-models "Topic: large-language-models") [ generative-ai ](https://github.com/topics/generative-ai "Topic: generative-ai") [ chatgpt ](https://github.com/topics/chatgpt "Topic: chatgpt")
+### Resources
+[ Readme ](https://github.com/langflow-ai/langflow?tab=readme-ov-file/#readme-ov-file)
+### License
+[ MIT license ](https://github.com/langflow-ai/langflow?tab=readme-ov-file/#MIT-1-ov-file)
+### Code of conduct
+[ Code of conduct ](https://github.com/langflow-ai/langflow?tab=readme-ov-file/#coc-ov-file)
+[ Activity](https://github.com/langflow-ai/langflow/activity)
+[ Custom properties](https://github.com/langflow-ai/langflow/custom-properties)
+### Stars
+[ **53.4k** stars](https://github.com/langflow-ai/langflow/stargazers)
+### Watchers
+[ **358** watching](https://github.com/langflow-ai/langflow/watchers)
+### Forks
+[ **5.8k** forks](https://github.com/langflow-ai/langflow/forks)
+[ Report repository ](https://github.com/contact/report-content?content_url=https%3A%2F%2Fgithub.com%2Flangflow-ai%2Flangflow&report=langflow-ai+%28user%29)
+##  [Releases 250](https://github.com/langflow-ai/langflow/releases)
+[ 1.2.0 Latest  Feb 25, 2025 ](https://github.com/langflow-ai/langflow/releases/tag/1.2.0)
+[+ 249 releases](https://github.com/langflow-ai/langflow/releases)
+##  [Used by 1.3k](https://github.com/langflow-ai/langflow/network/dependents)
+[
+  * ![@ahmedmohamed7334](https://avatars.githubusercontent.com/u/85694013?s=64&v=4)
+  * ![@SmallBlindDealer](https://avatars.githubusercontent.com/u/174235597?s=64&v=4)
+  * ![@Nishchaypat](https://avatars.githubusercontent.com/u/100232114?s=64&v=4)
+  * ![@Kjm478](https://avatars.githubusercontent.com/u/188508722?s=64&v=4)
+  * ![@nimra-pixel](https://avatars.githubusercontent.com/u/63564293?s=64&v=4)
+  * ![@roguefunction](https://avatars.githubusercontent.com/u/112044743?s=64&v=4)
+  * ![@Justmalhar](https://avatars.githubusercontent.com/u/17442997?s=64&v=4)
+  * ![@bringesh2001](https://avatars.githubusercontent.com/u/72957994?s=64&v=4)
+
++ 1,301  ](https://github.com/langflow-ai/langflow/network/dependents)
+##  [Contributors 264](https://github.com/langflow-ai/langflow/graphs/contributors)
+  * [ ![@ogabrielluiz](https://avatars.githubusercontent.com/u/24829397?s=64&v=4) ](https://github.com/ogabrielluiz)
+  * [ ![@anovazzi1](https://avatars.githubusercontent.com/u/70824914?s=64&v=4) ](https://github.com/anovazzi1)
+  * [ ![@lucaseduoli](https://avatars.githubusercontent.com/u/62335616?s=64&v=4) ](https://github.com/lucaseduoli)
+  * [ ![@Cristhianzl](https://avatars.githubusercontent.com/u/72977554?s=64&v=4) ](https://github.com/Cristhianzl)
+  * [ ![@autofix-ci\[bot\]](https://avatars.githubusercontent.com/in/243519?s=64&v=4) ](https://github.com/apps/autofix-ci)
+  * [ ![@igorrCarvalho](https://avatars.githubusercontent.com/u/64559670?s=64&v=4) ](https://github.com/igorrCarvalho)
+  * [ ![@mendonk](https://avatars.githubusercontent.com/u/59585235?s=64&v=4) ](https://github.com/mendonk)
+  * [ ![@rodrigosnader](https://avatars.githubusercontent.com/u/12815734?s=64&v=4) ](https://github.com/rodrigosnader)
+  * [ ![@italojohnny](https://avatars.githubusercontent.com/u/7606021?s=64&v=4) ](https://github.com/italojohnny)
+  * [ ![@ibiscp](https://avatars.githubusercontent.com/u/19699606?s=64&v=4) ](https://github.com/ibiscp)
+  * [ ![@gustavoschaedler](https://avatars.githubusercontent.com/u/38400824?s=64&v=4) ](https://github.com/gustavoschaedler)
+  * [ ![@edwinjosechittilappilly](https://avatars.githubusercontent.com/u/15969583?s=64&v=4) ](https://github.com/edwinjosechittilappilly)
+  * [ ![@genome21](https://avatars.githubusercontent.com/u/1147229?s=64&v=4) ](https://github.com/genome21)
+  * [ ![@cbornet](https://avatars.githubusercontent.com/u/11633333?s=64&v=4) ](https://github.com/cbornet)
+
+
+[+ 250 contributors](https://github.com/langflow-ai/langflow/graphs/contributors)
+## Languages
+  * [ Python 41.8% ](https://github.com/langflow-ai/langflow/search?l=python)
+  * [ JavaScript 29.7% ](https://github.com/langflow-ai/langflow/search?l=javascript)
+  * [ TypeScript 27.2% ](https://github.com/langflow-ai/langflow/search?l=typescript)
+  * [ CSS 0.8% ](https://github.com/langflow-ai/langflow/search?l=css)
+  * [ Dockerfile 0.2% ](https://github.com/langflow-ai/langflow/search?l=dockerfile)
+  * [ Makefile 0.2% ](https://github.com/langflow-ai/langflow/search?l=makefile)
+  * Other 0.1%
+
+
+## Footer
+[ ](https://github.com "GitHub") © 2025 GitHub, Inc. 
+### Footer navigation
+  * [Terms](https://docs.github.com/site-policy/github-terms/github-terms-of-service)
+  * [Privacy](https://docs.github.com/site-policy/privacy-policies/github-privacy-statement)
+  * [Security](https://github.com/security)
+  * [Status](https://www.githubstatus.com/)
+  * [Docs](https://docs.github.com/)
+  * [Contact](https://support.github.com?tags=dotcom-footer)
+  * Manage cookies 
+  * Do not share my personal information 
+
+
+You can’t perform that action at this time. 

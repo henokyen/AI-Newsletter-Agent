@@ -1,0 +1,181 @@
+•
+NaN / NaN
+Back  [ ](https://www.youtube.com/ "YouTube Home")
+Skip navigation
+Search 
+Search with your voice 
+[Sign in](https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fwatch%253Fv%253DMCQfOj9iqig%2526t%253D2508s%25252F&hl=en&ec=65620)
+[ ](https://www.youtube.com/ "YouTube Home")
+AI Makerspace - Scaling TikTok's Recommendation System: 1M Writes/Second with Hopsworks
+Search
+Watch later
+Share
+Copy link
+Info
+Shopping
+Tap to unmute
+2x
+If playback doesn't begin shortly, try restarting your device.
+•
+Up next
+LiveUpcoming
+CancelPlay Now
+You're signed out
+Videos you watch may be added to the TV's watch history and influence TV recommendations. To avoid this, cancel and sign in to YouTube on your computer.
+CancelConfirm
+[Hopsworks](https://www.youtube.com/channel/UCtuK0GKJl8TVLqj2702y_Fg)
+Subscribe
+Subscribed
+We are the makers of Hopsworks - the Platform for Data-Intensive AI with a Feature Store. Hopsworks was founded in 2016 by the members of the Distributed Computing Group at KTH –Royal Institute of Technology and RISE SICS AB, aiming to provide the market’s go to Enterprise Data & AI platform. Our mission is to build the world’s most scalable, secure, reliable, efficient and human-friendly data-intensive machine learning platform to enable businesses to easily develop data and AI products that help their businesses thrive. 2017 : Winner of IEEE Scale challenge 2017 for HopsFS – 1.2m ops/sec 2018 : World’s first on-premises platform to support scale-out GPUs-as-a-Resource 2018 : World’s first Open Source Feature Store for Machine Learning 2019 : World’s most scalable POSIX-like file system in the Cloud, with multi-d 2020: World's first managed feature store with an end-to-end platform 2021: World's first feature store as a managed platform on Azure 
+[LLM Makerspace - Function Calling for LLMs: RAG without a Vector Database47:16](https://www.youtube.com/watch?v=-9Dsu3EM9Ak)
+Share
+Include playlist
+An error occurred while retrieving sharing information. Please try again later.
+0:00
+[](https://www.youtube.com/watch?v=8_BLM91l4nY "Next \(SHIFT+n\)")
+0:00 / 59:17•Watch full videoLive
+•
+•
+Scroll for details
+#  AI Makerspace - Scaling TikTok's Recommendation System: 1M Writes/Second with Hopsworks
+[![](https://yt3.ggpht.com/eksMJ0dMhVJLB7zh4GYcc-xtNSO9XNbgY6txH_yt4YrwVVfVpX5IiiJLTqPTgLAhtTEv-2MkIA=s48-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/@hopsworks)
+[Hopsworks](https://www.youtube.com/@hopsworks)
+Hopsworks 
+781 subscribers
+<__slot-el>
+Subscribe
+<__slot-el>
+Subscribed
+25
+Share
+Download
+Download 
+Save
+687 views9 months ago
+687 views • Jun 20, 2024 
+Show less 
+In this makerspace, we show you how to build and operate a real-time feature streaming pipeline that writes at 1m ops/sec - TikTok Scale. …...more 
+...more 
+Transcript
+Follow along using the transcript.
+Show transcript
+### [Hopsworks 781 subscribers  ](https://www.youtube.com/@hopsworks)
+[Videos](https://www.youtube.com/channel/UCtuK0GKJl8TVLqj2702y_Fg/videos)
+[About](https://www.youtube.com/channel/UCtuK0GKJl8TVLqj2702y_Fg/about)
+[Videos](https://www.youtube.com/channel/UCtuK0GKJl8TVLqj2702y_Fg/videos)[About](https://www.youtube.com/channel/UCtuK0GKJl8TVLqj2702y_Fg/about)
+Show less 
+# AI Makerspace - Scaling TikTok's Recommendation System: 1M Writes/Second with Hopsworks
+687 views687 views
+Jun 20, 2024
+25
+Share
+Download
+Download 
+Save
+##  Comments
+Top comments  Newest first 
+##  Description
+AI Makerspace - Scaling TikTok's Recommendation System: 1M Writes/Second with Hopsworks
+25Likes
+687Views
+Jun 202024
+In this makerspace, we show you how to build and operate a real-time feature streaming pipeline that writes at 1m ops/sec - TikTok Scale. Resources: Hopsworks Serverless - [https://app.hopsworks.ai](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbjBtWkJLQUptOGxlWXFiT0c2UU9aVXo5MENUUXxBQ3Jtc0tsSDJsT2VpdnEtZEVSNVVxSTNreTI2WE5DZVRYVjM4MzhLV1JjdXFFalZ0aDhyZFhhcGNlOUFFRDl4VmFiZFJMRE1jZnl0Z2hwT0hUemwxU3pycUpwVy1GMDJHN2RCMXBkTkxyZHlaellCMFEwc1NkWQ&q=https%3A%2F%2Fapp.hopsworks.ai%2F&v=MCQfOj9iqig) Github Code Tutorial - [https://github.com/davitbzh/tiktok-re...](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbS0zekt1by13TDByN2o1SVphcE9JWkN3cmI0d3xBQ3Jtc0ttb3JhdGJpWFNCTUFreGR3YnRwNThhVlMtWXJmazdXQ0lmWC1RSTd5UGktNEtkUFREekhQMDl6UGdXMWc5ejRLRlczeWs1eVd6WWtfTndTcTNFOWZsRFVnYTRLSVBDTzV5U2lIbFAyY19qeVNrU3JLNA&q=https%3A%2F%2Fgithub.com%2Fdavitbzh%2Ftiktok-recsys&v=MCQfOj9iqig) Showcase on HuggingFace - [https://huggingface.co/spaces/jdowlin...](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa2pwM2lWVmNNME5hR3JkLXoyYndYRFBNQjJhQXxBQ3Jtc0tsSjhxQktvQUY5bVg0a05NU2tzeGdrQkJsRVJGV1ljV3lTTDR6clVBdDQ1ZG5OZW1vVmxTd29nWXBUMmpPbFQySEc1UFA3RWd2Mm5MZU1rd0JzVjFVYVoyYXZpZUt6TkF5MXFwU3dKdG5WVkc4cXBkYw&q=https%3A%2F%2Fhuggingface.co%2Fspaces%2Fjdowling%2Ftiktok-recommender&v=MCQfOj9iqig) Our Docs - Always Handy! - [https://docs.hopsworks.ai/latest/](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa2ZZX3FSejU1UGdoNFd3TzUtNmswVzQtR3h2Z3xBQ3Jtc0tuNkgzX282UWhJQTNlTjlZekwtbmhWWEJTNENsYi1VWnUxZGdyMWRxRE9IQ3dLQml2Z2c2aGo3cFVxYmJLdDBGb3RvUG13VlZ4TXdnYkVrN2loUnpzS001VzdWT09lZkxGcmhHa1lhZkF0cThadm15aw&q=https%3A%2F%2Fdocs.hopsworks.ai%2Flatest%2F&v=MCQfOj9iqig)…...more 
+...more Show less 
+Transcript
+Follow along using the transcript.
+Show transcript
+### [Hopsworks 781 subscribers  ](https://www.youtube.com/@hopsworks)
+[Videos](https://www.youtube.com/channel/UCtuK0GKJl8TVLqj2702y_Fg/videos)
+[About](https://www.youtube.com/channel/UCtuK0GKJl8TVLqj2702y_Fg/about)
+[Videos](https://www.youtube.com/channel/UCtuK0GKJl8TVLqj2702y_Fg/videos)[About](https://www.youtube.com/channel/UCtuK0GKJl8TVLqj2702y_Fg/about)
+##  Transcript
+NaN / NaN
+![](https://lh3.googleusercontent.com/proxy/zWzNUK_eGlM00P3lN_2kllIhYxEMOqbjEwFf5tICCvQ7CoD0TS8RVbmtigyG8ri-LBcwKIT9l9ByawdUFk6Qs8q14oHUD-IxOmTgRRycEB0_E_pbXFxXloya4jGms7M521U)
+[Available in 14 Unique Colors](https://www.googleadservices.com/pagead/aclk?sa=L&ai=CcsFo4oLpZ7XQE8SHp9oP1t_kkAjch-aefomC9diCFLCQHxABIABgybaGh8yjwBeCARdjYS1wdWItNjIxOTgxMTc0NzA0OTM3MaABqt-J-D2oAwTIAwqqBKMDT9DriWaIzNYaSHw3fAWYOf-AXxy0v50yLDQeDlrokK8lR6VptO5DG3n3Grj7XtiM5cZA5KArqoIocn59NNnjAxAO7Q1t8JUc38bHQLfJUYVdHxj8UM_MDlfwrvMkh9EdJKmcuWH3fLeTO94LiLeqwkfNEpRlm6Pe-tRgKQK4XPlfefPKCRWk9HkE8vqHRqqsmq2bBLqXqIf8xcTQ_8pIJ_IyDaBkkkpptUEv6jezthb1PGqsm-rxba1sRmhPOFTJhr7YqGVGwRyHuQdwVZZn3DDKedcyN57_qrPcavpaZQkIcPDZAtyGZlUYC1cuRwDwed_Wm5V0p38eGiBMvJFGROVsD0xbQDpgBXEQFpqXqqte4js9Haq2TY81zcYAQL_GB39-3cYz0FxzG_NfmGBl1huIvPhePfRrrj8UmZvF-ff7EaEEGD6vBi3sM921yRmiaIFaXEJs_jDLBCIU807v9Jlcz4yuMnclH2IOYYEp1z6z_2DPi19v0Zv1oY60z2aXfgQJ0beoN_bjnuXNZWCh-fH5BWN23KI3wLSJ9XeEro5L2E2SBQoIE2gCeKfYweAYoAZugAeql9rXGJAHBKgH-bGxAqgHgLqxAqgH8sCxAqgHuMSxAqgHpc-xAqgHvc2xAqgH552xAqgH6J2xAqgH77WxAqgH8LWxAqgHgqqxAqgHhAioB6jSG6gHtgeoB7HcG6gHsJuxAqgHrrGxAqgH5ryxAqgHyrqxAqgH_MuxAqgH_bKxAqgH97ixAqgH-LixAqgHzcexAqgHpcyxAqgHgcYbqAf8r7ECqAerxRuoB7ehsQKoB9WpsQKoB961sQKoB-qxsQKoB763sQKoB5m1sQKoB4XBsQKoB-ulsQKoB8qpsQLSCCgIgEEQARheMgKCAjoLgGOAwICAgICAgAJI2aDSNVAUWOjKhcutsowD8ggfY2EteXQtaG9zdC1wdWItMTQ0Mzk5MzMzODczOTkyN5oJJWh0dHBzOi8vd3d3LmtvaGxlcmhvbWVnZW5lcmF0b3JzLmNvbS-xCU6dlDgNS2kvyAkAyAmKAqELO_BrK_nL8Eu6CzkIARAFGAQgCCgBMBpAAUgAWAFgAGgAcAGIAQCYAQGiAQwKAFgBcAGoAgHYAgKoAQHYAQOAAgGIAgXQCxLgCwHaDCUKChCQ5LiQiIOdj3cSAgEDGg0YseOgu1Igubm3iYwFQAFKAhAfmg0BEqoNAlVTyA0B0g2QBGh0dHBzOi8vYWQuZG91YmxlY2xpY2submV0L2RkbS90cmFja2Nsay9OMjQxMzQ0Ny4zMzQ5NzAwRElTUExBWVZJREVPMzYwL0IzMzA3MzQ4Mi40MTI3NzQ0NTc7ZGNfdHJrX2FpZD02MDUwODQ3MzE7ZGNfdHJrX2NpZD0yMjkyNTM5MDE7ZGNfZGJtX3Rva2VuPUFPamVMTkVBQUFBNkNqUUtEQWdBRlFBQUFBQWRBQUFBQUJJTUNBQVZBQUFBQUIwQUFBQUFJaFFJc2VPZ3UxS29BcWZZd2VBWXNBTGo4NmJtQTBBN0VJR3BmVmNtTTA4OEZtWHQzNlRXaEgzNnpwST07ZGNfbGF0PTtkY19yZGlkPTt0YWdfZm9yX2NoaWxkX2RpcmVjdGVkX3RyZWF0bWVudD07dGZ1YT07bHRkPTtkY190ZHY9MTtkY190cmFuc3BhcmVudD0xO2RjX3J1aT0xO2RjX2Vwcz1BSGFzOGNCSE1BLTR4RjdIS1c3WlNXWFROdHFMWS1ncUp4T1RfMUMtRXFlNmJ6bjF4NEF4bGExd0pldXNOSVRVdHVaZV9mNC14ZV9Kd2lDTENaMmc7ZGNfcHViaWQ9Nj9odHRwczovL3d3dy5rb2hsZXJob21lZ2VuZXJhdG9ycy5jb20vP3NyYz1nJmM9ZGVtYW5kZ2VuJmdhZF9zb3VyY2U9MrATnff8G7gT____________AbAUAcAVgYCAQNAVAdgVAagWAeIWAggBgBcBihcWCAMYASABKAEwATgBQAFIAVABWAFgAqAXAakXSNxK2PRr7c66FwYoADAAOAHQGAHwGAE&ase=2&gclid=EAIaIQobChMItcmHy62yjAMVxMNJBR3WLxmCEAEYASAAEgK1SPD_BwE&num=1&cid=CAASFeRoISrl8wbMDHWUm9aynTcltNWmlA&sig=AOD64_1H0P13UFqHCCSdkBhrIYeB7oXFaA&ms=%5BCLICK_MS%5D&nb=0&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D)[Don't Let Power Outages Interrupt Your Life. Choose a KOHLER Home Generator.](https://www.googleadservices.com/pagead/aclk?sa=L&ai=CcsFo4oLpZ7XQE8SHp9oP1t_kkAjch-aefomC9diCFLCQHxABIABgybaGh8yjwBeCARdjYS1wdWItNjIxOTgxMTc0NzA0OTM3MaABqt-J-D2oAwTIAwqqBKMDT9DriWaIzNYaSHw3fAWYOf-AXxy0v50yLDQeDlrokK8lR6VptO5DG3n3Grj7XtiM5cZA5KArqoIocn59NNnjAxAO7Q1t8JUc38bHQLfJUYVdHxj8UM_MDlfwrvMkh9EdJKmcuWH3fLeTO94LiLeqwkfNEpRlm6Pe-tRgKQK4XPlfefPKCRWk9HkE8vqHRqqsmq2bBLqXqIf8xcTQ_8pIJ_IyDaBkkkpptUEv6jezthb1PGqsm-rxba1sRmhPOFTJhr7YqGVGwRyHuQdwVZZn3DDKedcyN57_qrPcavpaZQkIcPDZAtyGZlUYC1cuRwDwed_Wm5V0p38eGiBMvJFGROVsD0xbQDpgBXEQFpqXqqte4js9Haq2TY81zcYAQL_GB39-3cYz0FxzG_NfmGBl1huIvPhePfRrrj8UmZvF-ff7EaEEGD6vBi3sM921yRmiaIFaXEJs_jDLBCIU807v9Jlcz4yuMnclH2IOYYEp1z6z_2DPi19v0Zv1oY60z2aXfgQJ0beoN_bjnuXNZWCh-fH5BWN23KI3wLSJ9XeEro5L2E2SBQoIE2gCeKfYweAYoAZugAeql9rXGJAHBKgH-bGxAqgHgLqxAqgH8sCxAqgHuMSxAqgHpc-xAqgHvc2xAqgH552xAqgH6J2xAqgH77WxAqgH8LWxAqgHgqqxAqgHhAioB6jSG6gHtgeoB7HcG6gHsJuxAqgHrrGxAqgH5ryxAqgHyrqxAqgH_MuxAqgH_bKxAqgH97ixAqgH-LixAqgHzcexAqgHpcyxAqgHgcYbqAf8r7ECqAerxRuoB7ehsQKoB9WpsQKoB961sQKoB-qxsQKoB763sQKoB5m1sQKoB4XBsQKoB-ulsQKoB8qpsQLSCCgIgEEQARheMgKCAjoLgGOAwICAgICAgAJI2aDSNVAUWOjKhcutsowD8ggfY2EteXQtaG9zdC1wdWItMTQ0Mzk5MzMzODczOTkyN5oJJWh0dHBzOi8vd3d3LmtvaGxlcmhvbWVnZW5lcmF0b3JzLmNvbS-xCU6dlDgNS2kvyAkAyAmKAqELO_BrK_nL8Eu6CzkIARAFGAQgCCgBMBpAAUgAWAFgAGgAcAGIAQCYAQGiAQwKAFgBcAGoAgHYAgKoAQHYAQOAAgGIAgXQCxLgCwHaDCUKChCQ5LiQiIOdj3cSAgEDGg0YseOgu1Igubm3iYwFQAFKAhAfmg0BEqoNAlVTyA0B0g2QBGh0dHBzOi8vYWQuZG91YmxlY2xpY2submV0L2RkbS90cmFja2Nsay9OMjQxMzQ0Ny4zMzQ5NzAwRElTUExBWVZJREVPMzYwL0IzMzA3MzQ4Mi40MTI3NzQ0NTc7ZGNfdHJrX2FpZD02MDUwODQ3MzE7ZGNfdHJrX2NpZD0yMjkyNTM5MDE7ZGNfZGJtX3Rva2VuPUFPamVMTkVBQUFBNkNqUUtEQWdBRlFBQUFBQWRBQUFBQUJJTUNBQVZBQUFBQUIwQUFBQUFJaFFJc2VPZ3UxS29BcWZZd2VBWXNBTGo4NmJtQTBBN0VJR3BmVmNtTTA4OEZtWHQzNlRXaEgzNnpwST07ZGNfbGF0PTtkY19yZGlkPTt0YWdfZm9yX2NoaWxkX2RpcmVjdGVkX3RyZWF0bWVudD07dGZ1YT07bHRkPTtkY190ZHY9MTtkY190cmFuc3BhcmVudD0xO2RjX3J1aT0xO2RjX2Vwcz1BSGFzOGNCSE1BLTR4RjdIS1c3WlNXWFROdHFMWS1ncUp4T1RfMUMtRXFlNmJ6bjF4NEF4bGExd0pldXNOSVRVdHVaZV9mNC14ZV9Kd2lDTENaMmc7ZGNfcHViaWQ9Nj9odHRwczovL3d3dy5rb2hsZXJob21lZ2VuZXJhdG9ycy5jb20vP3NyYz1nJmM9ZGVtYW5kZ2VuJmdhZF9zb3VyY2U9MrATnff8G7gT____________AbAUAcAVgYCAQNAVAdgVAagWAeIWAggBgBcBihcWCAMYASABKAEwATgBQAFIAVABWAFgAqAXAakXSNxK2PRr7c66FwYoADAAOAHQGAHwGAE&ase=2&gclid=EAIaIQobChMItcmHy62yjAMVxMNJBR3WLxmCEAEYASAAEgK1SPD_BwE&num=1&cid=CAASFeRoISrl8wbMDHWUm9aynTcltNWmlA&sig=AOD64_1H0P13UFqHCCSdkBhrIYeB7oXFaA&ms=%5BCLICK_MS%5D&nb=7&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D)
+Sponsored
+KOHLER
+[Get quote](https://www.googleadservices.com/pagead/aclk?sa=L&ai=CcsFo4oLpZ7XQE8SHp9oP1t_kkAjch-aefomC9diCFLCQHxABIABgybaGh8yjwBeCARdjYS1wdWItNjIxOTgxMTc0NzA0OTM3MaABqt-J-D2oAwTIAwqqBKMDT9DriWaIzNYaSHw3fAWYOf-AXxy0v50yLDQeDlrokK8lR6VptO5DG3n3Grj7XtiM5cZA5KArqoIocn59NNnjAxAO7Q1t8JUc38bHQLfJUYVdHxj8UM_MDlfwrvMkh9EdJKmcuWH3fLeTO94LiLeqwkfNEpRlm6Pe-tRgKQK4XPlfefPKCRWk9HkE8vqHRqqsmq2bBLqXqIf8xcTQ_8pIJ_IyDaBkkkpptUEv6jezthb1PGqsm-rxba1sRmhPOFTJhr7YqGVGwRyHuQdwVZZn3DDKedcyN57_qrPcavpaZQkIcPDZAtyGZlUYC1cuRwDwed_Wm5V0p38eGiBMvJFGROVsD0xbQDpgBXEQFpqXqqte4js9Haq2TY81zcYAQL_GB39-3cYz0FxzG_NfmGBl1huIvPhePfRrrj8UmZvF-ff7EaEEGD6vBi3sM921yRmiaIFaXEJs_jDLBCIU807v9Jlcz4yuMnclH2IOYYEp1z6z_2DPi19v0Zv1oY60z2aXfgQJ0beoN_bjnuXNZWCh-fH5BWN23KI3wLSJ9XeEro5L2E2SBQoIE2gCeKfYweAYoAZugAeql9rXGJAHBKgH-bGxAqgHgLqxAqgH8sCxAqgHuMSxAqgHpc-xAqgHvc2xAqgH552xAqgH6J2xAqgH77WxAqgH8LWxAqgHgqqxAqgHhAioB6jSG6gHtgeoB7HcG6gHsJuxAqgHrrGxAqgH5ryxAqgHyrqxAqgH_MuxAqgH_bKxAqgH97ixAqgH-LixAqgHzcexAqgHpcyxAqgHgcYbqAf8r7ECqAerxRuoB7ehsQKoB9WpsQKoB961sQKoB-qxsQKoB763sQKoB5m1sQKoB4XBsQKoB-ulsQKoB8qpsQLSCCgIgEEQARheMgKCAjoLgGOAwICAgICAgAJI2aDSNVAUWOjKhcutsowD8ggfY2EteXQtaG9zdC1wdWItMTQ0Mzk5MzMzODczOTkyN5oJJWh0dHBzOi8vd3d3LmtvaGxlcmhvbWVnZW5lcmF0b3JzLmNvbS-xCU6dlDgNS2kvyAkAyAmKAqELO_BrK_nL8Eu6CzkIARAFGAQgCCgBMBpAAUgAWAFgAGgAcAGIAQCYAQGiAQwKAFgBcAGoAgHYAgKoAQHYAQOAAgGIAgXQCxLgCwHaDCUKChCQ5LiQiIOdj3cSAgEDGg0YseOgu1Igubm3iYwFQAFKAhAfmg0BEqoNAlVTyA0B0g2QBGh0dHBzOi8vYWQuZG91YmxlY2xpY2submV0L2RkbS90cmFja2Nsay9OMjQxMzQ0Ny4zMzQ5NzAwRElTUExBWVZJREVPMzYwL0IzMzA3MzQ4Mi40MTI3NzQ0NTc7ZGNfdHJrX2FpZD02MDUwODQ3MzE7ZGNfdHJrX2NpZD0yMjkyNTM5MDE7ZGNfZGJtX3Rva2VuPUFPamVMTkVBQUFBNkNqUUtEQWdBRlFBQUFBQWRBQUFBQUJJTUNBQVZBQUFBQUIwQUFBQUFJaFFJc2VPZ3UxS29BcWZZd2VBWXNBTGo4NmJtQTBBN0VJR3BmVmNtTTA4OEZtWHQzNlRXaEgzNnpwST07ZGNfbGF0PTtkY19yZGlkPTt0YWdfZm9yX2NoaWxkX2RpcmVjdGVkX3RyZWF0bWVudD07dGZ1YT07bHRkPTtkY190ZHY9MTtkY190cmFuc3BhcmVudD0xO2RjX3J1aT0xO2RjX2Vwcz1BSGFzOGNCSE1BLTR4RjdIS1c3WlNXWFROdHFMWS1ncUp4T1RfMUMtRXFlNmJ6bjF4NEF4bGExd0pldXNOSVRVdHVaZV9mNC14ZV9Kd2lDTENaMmc7ZGNfcHViaWQ9Nj9odHRwczovL3d3dy5rb2hsZXJob21lZ2VuZXJhdG9ycy5jb20vP3NyYz1nJmM9ZGVtYW5kZ2VuJmdhZF9zb3VyY2U9MrATnff8G7gT____________AbAUAcAVgYCAQNAVAdgVAagWAeIWAggBgBcBihcWCAMYASABKAEwATgBQAFIAVABWAFgAqAXAakXSNxK2PRr7c66FwYoADAAOAHQGAHwGAE&ase=2&gclid=EAIaIQobChMItcmHy62yjAMVxMNJBR3WLxmCEAEYASAAEgK1SPD_BwE&num=1&cid=CAASFeRoISrl8wbMDHWUm9aynTcltNWmlA&sig=AOD64_1H0P13UFqHCCSdkBhrIYeB7oXFaA&ms=%5BCLICK_MS%5D&nb=8&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D)
+[![](https://i.ytimg.com/vi/8_BLM91l4nY/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLADrs2sDiyDDYEBYgzFHRXqYPS8Cg)23:14](https://www.youtube.com/watch?v=8_BLM91l4nY)
+### [Hopsworks Interactive Healthcare Chatbot with MONAI Toolkit](https://www.youtube.com/watch?v=8_BLM91l4nY)
+Hopsworks
+210 views • 9 months ago
+[![](https://i.ytimg.com/vi/skZ1HcF7AsM/hqdefault.jpg?sqp=-oaymwFACKgBEF5IWvKriqkDMwgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAHwAQH4Af4JgALQBYoCDAgAEAEYZSBlKGUwDw==&rs=AOn4CLDj3CQXyacZjaMSMO8UOiWcZxhatg)1:25:01](https://www.youtube.com/watch?v=skZ1HcF7AsM)
+### [Build TikTok's Personalized Real-Time Recommendation System in Python with Hopsworks](https://www.youtube.com/watch?v=skZ1HcF7AsM)
+PyData
+3.6K views • 5 months ago
+[![](https://i.ytimg.com/vi/QrZTmiZSRcw/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLA3cIREzPJikMFEG0w7tQrdYmXAyA)43:30](https://www.youtube.com/watch?v=QrZTmiZSRcw)
+### [22: Recommendation Engine (YouTube, TikTok) | Systems Design Interview Questions With Ex-Google SWE](https://www.youtube.com/watch?v=QrZTmiZSRcw)
+Jordan has no life
+19K views • 10 months ago
+[![](https://i.ytimg.com/vi/RiKVxC8r-Gs/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLDV7-s2ODtURPUuACrLzhduoEfZDA)59:57](https://www.youtube.com/watch?v=RiKVxC8r-Gs)
+### [AI Governance: A Good Idea for Compliance and Efficiency](https://www.youtube.com/watch?v=RiKVxC8r-Gs)
+Hopsworks
+70 views • 9 months ago
+[57:06](https://www.youtube.com/watch?v=kJLiOGle3Lw)
+### [Stanford Webinar - Agentic AI: A Progression of Language Model Usage](https://www.youtube.com/watch?v=kJLiOGle3Lw)
+Stanford Online
+77K views • 1 month ago
+[23:57](https://www.youtube.com/watch?v=9fSGYcv8ayg)
+### [🚨 Elon Musk gets NIGHTMARE news about Tesla](https://www.youtube.com/watch?v=9fSGYcv8ayg)
+Brian Tyler Cohen
+443K views • 3 hours ago
+New
+[12:46](https://www.youtube.com/watch?v=s20w8nKCK2o&pp=0gcJCegBSCBzzxdG)
+### [Batch & Real-Time Machine Learning Systems; A better framework with Hopsworks Feature Store](https://www.youtube.com/watch?v=s20w8nKCK2o&pp=0gcJCegBSCBzzxdG)
+Hopsworks
+2K views • 1 year ago
+[57:46](https://www.youtube.com/watch?v=awztkr8n0AA)
+### [Keynote: The past, present, and future of AI for application developers - Steve Sanderson](https://www.youtube.com/watch?v=awztkr8n0AA)
+NDC Conferences
+17K views • 10 days ago
+[16:00](https://www.youtube.com/watch?v=HdafI0t3sEY)
+### [RAG vs. CAG: Solving Knowledge Gaps in AI Models](https://www.youtube.com/watch?v=HdafI0t3sEY)
+IBM Technology
+160K views • 13 days ago
+[30:27](https://www.youtube.com/watch?v=TLxDYlsgiOU)
+### [From Netflix to TikTok: Introduction to Addictive Recommendation Systems](https://www.youtube.com/watch?v=TLxDYlsgiOU)
+Hopsworks
+87 views • 1 month ago
+[20:18](https://www.youtube.com/watch?v=7j_NE6Pjv-E&pp=0gcJCegBSCBzzxdG)
+### [Model Context Protocol (MCP), clearly explained (why it matters)](https://www.youtube.com/watch?v=7j_NE6Pjv-E&pp=0gcJCegBSCBzzxdG)
+Greg Isenberg
+301K views • 2 weeks ago
+[16:20](https://www.youtube.com/watch?v=YTNyKG0dhDg)
+### [SNL Weekend Update Trump 3/29/25 |Saturday Night Live March 29, 2025](https://www.youtube.com/watch?v=YTNyKG0dhDg)
+Vua Phim Hay
+71K views • 7 hours ago
+New
+[34:00](https://www.youtube.com/watch?v=0P9qfRKPYwk)
+### [Hopsworks GenAI Agile Copilot for Developers & Teams](https://www.youtube.com/watch?v=0P9qfRKPYwk)
+Hopsworks
+346 views • 8 months ago
+[10:53](https://www.youtube.com/watch?v=gEdePRsDACc)
+### [What is an AI Recommendation Engine?](https://www.youtube.com/watch?v=gEdePRsDACc)
+IBM Technology
+15K views • 5 months ago
+[1:16:00](https://www.youtube.com/watch?v=IkR3iANDA78)
+### [Former 33rd Degree Mason Reveals the Darkest Secrets of Freemasonry](https://www.youtube.com/watch?v=IkR3iANDA78)
+Almost False
+1.6M views • 5 days ago
+New
+[45:11](https://www.youtube.com/watch?v=y3Mz1eABn5I)
+### [Sovereign AI with DeepSeek and Hopsworks](https://www.youtube.com/watch?v=y3Mz1eABn5I)
+Hopsworks
+106 views • 1 month ago
+[31:40](https://www.youtube.com/watch?v=-Nl6hz2nYFA)
+### [NotebookLM Will Change How You Learn – Here’s Why!](https://www.youtube.com/watch?v=-Nl6hz2nYFA)
+Tiago Forte
+309K views • 12 days ago
+[27:13](https://www.youtube.com/watch?v=6yePt5VWl2c)
+### [Show, don't tell - Hopsworks to Kubernetes](https://www.youtube.com/watch?v=6yePt5VWl2c)
+Hopsworks
+159 views • 5 months ago
+[20:23](https://www.youtube.com/watch?v=yglkPKr_RMU)
+### [Introducing the AI Lakehouse](https://www.youtube.com/watch?v=yglkPKr_RMU)
+Hopsworks
+148 views • 6 months ago
+[59:23](https://www.youtube.com/watch?v=qvNCVYkHKfg)
+### [Why Can't AI Make Its Own Discoveries? — With Yann LeCun](https://www.youtube.com/watch?v=qvNCVYkHKfg)
+Alex Kantrowitz
+46K views • 10 days ago
+Show more

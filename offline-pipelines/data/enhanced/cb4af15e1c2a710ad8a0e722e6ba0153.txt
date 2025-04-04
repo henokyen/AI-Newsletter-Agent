@@ -1,0 +1,416 @@
+[Skip to content](https://github.com/quixio/quix-streams/#start-of-content)
+## Navigation Menu
+Toggle navigation
+[ ](https://github.com/)
+[ Sign in ](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fquixio%2Fquix-streams%2F)
+  * Product 
+    * [ GitHub Copilot Write better code with AI  ](https://github.com/features/copilot)
+    * [ Security Find and fix vulnerabilities  ](https://github.com/features/security)
+    * [ Actions Automate any workflow  ](https://github.com/features/actions)
+    * [ Codespaces Instant dev environments  ](https://github.com/features/codespaces)
+    * [ Issues Plan and track work  ](https://github.com/features/issues)
+    * [ Code Review Manage code changes  ](https://github.com/features/code-review)
+    * [ Discussions Collaborate outside of code  ](https://github.com/features/discussions)
+    * [ Code Search Find more, search less  ](https://github.com/features/code-search)
+Explore
+    * [ All features ](https://github.com/features)
+    * [ Documentation ](https://docs.github.com)
+    * [ GitHub Skills ](https://skills.github.com)
+    * [ Blog ](https://github.blog)
+  * Solutions 
+By company size
+    * [ Enterprises ](https://github.com/enterprise)
+    * [ Small and medium teams ](https://github.com/team)
+    * [ Startups ](https://github.com/enterprise/startups)
+    * [ Nonprofits ](https://github.com/solutions/industry/nonprofits)
+By use case
+    * [ DevSecOps ](https://github.com/solutions/use-case/devsecops)
+    * [ DevOps ](https://github.com/solutions/use-case/devops)
+    * [ CI/CD ](https://github.com/solutions/use-case/ci-cd)
+    * [ View all use cases ](https://github.com/solutions/use-case)
+By industry
+    * [ Healthcare ](https://github.com/solutions/industry/healthcare)
+    * [ Financial services ](https://github.com/solutions/industry/financial-services)
+    * [ Manufacturing ](https://github.com/solutions/industry/manufacturing)
+    * [ Government ](https://github.com/solutions/industry/government)
+    * [ View all industries ](https://github.com/solutions/industry)
+[ View all solutions ](https://github.com/solutions)
+  * Resources 
+Topics
+    * [ AI ](https://github.com/resources/articles/ai)
+    * [ DevOps ](https://github.com/resources/articles/devops)
+    * [ Security ](https://github.com/resources/articles/security)
+    * [ Software Development ](https://github.com/resources/articles/software-development)
+    * [ View all ](https://github.com/resources/articles)
+Explore
+    * [ Learning Pathways ](https://resources.github.com/learn/pathways)
+    * [ Events & Webinars ](https://resources.github.com)
+    * [ Ebooks & Whitepapers ](https://github.com/resources/whitepapers)
+    * [ Customer Stories ](https://github.com/customer-stories)
+    * [ Partners ](https://partner.github.com)
+    * [ Executive Insights ](https://github.com/solutions/executive-insights)
+  * Open Source 
+    * [ GitHub Sponsors Fund open source developers  ](https://github.com/sponsors)
+    * [ The ReadME Project GitHub community articles  ](https://github.com/readme)
+Repositories
+    * [ Topics ](https://github.com/topics)
+    * [ Trending ](https://github.com/trending)
+    * [ Collections ](https://github.com/collections)
+  * Enterprise 
+    * [ Enterprise platform AI-powered developer platform  ](https://github.com/enterprise)
+Available add-ons
+    * [ Advanced Security Enterprise-grade security features  ](https://github.com/enterprise/advanced-security)
+    * [ Copilot for business Enterprise-grade AI features  ](https://github.com/features/copilot/copilot-business)
+    * [ Premium Support Enterprise-grade 24/7 support  ](https://github.com/premium-support)
+  * [Pricing](https://github.com/pricing)
+
+
+Search or jump to...
+# Search code, repositories, users, issues, pull requests...
+Search 
+Clear
+[Search syntax tips](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax)
+#  Provide feedback 
+We read every piece of feedback, and take your input very seriously.
+Include my email address so I can be contacted
+Cancel  Submit feedback 
+#  Saved searches 
+## Use saved searches to filter your results more quickly
+Name
+Query
+To see all available qualifiers, see our [documentation](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax). 
+Cancel  Create saved search 
+[ Sign in ](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fquixio%2Fquix-streams%2F)
+[ Sign up ](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E&source=header-repo&source_repo=quixio%2Fquix-streams) Reseting focus
+You signed in with another tab or window. [Reload](https://github.com/quixio/quix-streams/) to refresh your session. You signed out in another tab or window. [Reload](https://github.com/quixio/quix-streams/) to refresh your session. You switched accounts on another tab or window. [Reload](https://github.com/quixio/quix-streams/) to refresh your session. Dismiss alert
+{{ message }}
+[ quixio ](https://github.com/quixio) / **[quix-streams](https://github.com/quixio/quix-streams) ** Public
+  * [ Notifications ](https://github.com/login?return_to=%2Fquixio%2Fquix-streams) You must be signed in to change notification settings
+  * [ Fork 75 ](https://github.com/login?return_to=%2Fquixio%2Fquix-streams)
+  * [ Star  1.3k ](https://github.com/login?return_to=%2Fquixio%2Fquix-streams)
+
+
+Python Streaming DataFrames for Kafka 
+[docs.quix.io](https://docs.quix.io "https://docs.quix.io")
+### License
+[ Apache-2.0 license ](https://github.com/quixio/quix-streams/blob/main/LICENSE)
+[ 1.3k stars ](https://github.com/quixio/quix-streams/stargazers) [ 75 forks ](https://github.com/quixio/quix-streams/forks) [ Branches ](https://github.com/quixio/quix-streams/branches) [ Tags ](https://github.com/quixio/quix-streams/tags) [ Activity ](https://github.com/quixio/quix-streams/activity)
+[ Star  ](https://github.com/login?return_to=%2Fquixio%2Fquix-streams)
+[ Notifications ](https://github.com/login?return_to=%2Fquixio%2Fquix-streams) You must be signed in to change notification settings
+  * [ Code ](https://github.com/quixio/quix-streams)
+  * [ Issues 11 ](https://github.com/quixio/quix-streams/issues)
+  * [ Pull requests 12 ](https://github.com/quixio/quix-streams/pulls)
+  * [ Discussions ](https://github.com/quixio/quix-streams/discussions)
+  * [ Actions ](https://github.com/quixio/quix-streams/actions)
+  * [ Projects 1 ](https://github.com/quixio/quix-streams/projects)
+  * [ Security ](https://github.com/quixio/quix-streams/security)
+  * [ Insights ](https://github.com/quixio/quix-streams/pulse)
+
+
+Additional navigation options
+  * [ Code  ](https://github.com/quixio/quix-streams)
+  * [ Issues  ](https://github.com/quixio/quix-streams/issues)
+  * [ Pull requests  ](https://github.com/quixio/quix-streams/pulls)
+  * [ Discussions  ](https://github.com/quixio/quix-streams/discussions)
+  * [ Actions  ](https://github.com/quixio/quix-streams/actions)
+  * [ Projects  ](https://github.com/quixio/quix-streams/projects)
+  * [ Security  ](https://github.com/quixio/quix-streams/security)
+  * [ Insights  ](https://github.com/quixio/quix-streams/pulse)
+
+
+# quixio/quix-streams
+main
+[**170** Branches](https://github.com/quixio/quix-streams/branches)[**66** Tags](https://github.com/quixio/quix-streams/tags)
+[](https://github.com/quixio/quix-streams/branches)[](https://github.com/quixio/quix-streams/tags)
+Go to file
+Code
+## Folders and files
+Name| Name| Last commit message| Last commit date  
+---|---|---|---  
+## Latest commit
+![github-actions\[bot\]](https://avatars.githubusercontent.com/in/15368?v=4&size=40)![daniil-quix](https://avatars.githubusercontent.com/u/133032822?v=4&size=40)[github-actions[bot]](https://github.com/quixio/quix-streams/commits?author=github-actions%5Bbot%5D)and[daniil-quix](https://github.com/quixio/quix-streams/commits?author=daniil-quix)[Update documentation (](https://github.com/quixio/quix-streams/commit/51c3bf239d2d1844008a22fb1958043dccb3f040)[#798](https://github.com/quixio/quix-streams/pull/798)[)](https://github.com/quixio/quix-streams/commit/51c3bf239d2d1844008a22fb1958043dccb3f040)Mar 27, 2025[51c3bf2](https://github.com/quixio/quix-streams/commit/51c3bf239d2d1844008a22fb1958043dccb3f040) · Mar 27, 2025
+## History
+[605 Commits](https://github.com/quixio/quix-streams/commits/main/)[](https://github.com/quixio/quix-streams/commits/main/)  
+[.github](https://github.com/quixio/quix-streams/tree/main/.github ".github")| [.github](https://github.com/quixio/quix-streams/tree/main/.github ".github")| [Create topics eagerly the moment they are defined (](https://github.com/quixio/quix-streams/commit/386866b573cca7275b76fa5ee1c0e6c8b5dfdde7 "Create topics eagerly the moment they are defined \(#763\)
+Co-authored-by: Quentin <quentin@quix.io>")[#763](https://github.com/quixio/quix-streams/pull/763)[)](https://github.com/quixio/quix-streams/commit/386866b573cca7275b76fa5ee1c0e6c8b5dfdde7 "Create topics eagerly the moment they are defined \(#763\)
+Co-authored-by: Quentin <quentin@quix.io>")| Feb 25, 2025  
+[LICENSES](https://github.com/quixio/quix-streams/tree/main/LICENSES "LICENSES")| [LICENSES](https://github.com/quixio/quix-streams/tree/main/LICENSES "LICENSES")| [Add rich license (](https://github.com/quixio/quix-streams/commit/0abda3465f80f173a7f6e862ecd10a0c6411b2c3 "Add rich license \(#776\)")[#776](https://github.com/quixio/quix-streams/pull/776)[)](https://github.com/quixio/quix-streams/commit/0abda3465f80f173a7f6e862ecd10a0c6411b2c3 "Add rich license \(#776\)")| Mar 6, 2025  
+[conda](https://github.com/quixio/quix-streams/tree/main/conda "conda")| [conda](https://github.com/quixio/quix-streams/tree/main/conda "conda")| [Fix dependencies (](https://github.com/quixio/quix-streams/commit/8709a7d7e064d4b47ccad22d6ae86eb43a820682 "Fix dependencies \(#804\)
+* Revert "Upgrade confluent-kafka to >=2.8.2,<2.9 \(#799\)"
+This reverts commit d2a9c77c79031902f75b01dbefacb48d1f9a66e6.
+* Fix neo4j Conda dependency
+* Upgrade confluent-kafka to 2.8.2 and include schema registry extras")[#804](https://github.com/quixio/quix-streams/pull/804)[)](https://github.com/quixio/quix-streams/commit/8709a7d7e064d4b47ccad22d6ae86eb43a820682 "Fix dependencies \(#804\)
+* Revert "Upgrade confluent-kafka to >=2.8.2,<2.9 \(#799\)"
+This reverts commit d2a9c77c79031902f75b01dbefacb48d1f9a66e6.
+* Fix neo4j Conda dependency
+* Upgrade confluent-kafka to 2.8.2 and include schema registry extras")| Mar 27, 2025  
+[docs](https://github.com/quixio/quix-streams/tree/main/docs "docs")| [docs](https://github.com/quixio/quix-streams/tree/main/docs "docs")| [Update documentation (](https://github.com/quixio/quix-streams/commit/51c3bf239d2d1844008a22fb1958043dccb3f040 "Update documentation \(#798\)
+Co-authored-by: daniil-quix <133032822+daniil-quix@users.noreply.github.com>")[#798](https://github.com/quixio/quix-streams/pull/798)[)](https://github.com/quixio/quix-streams/commit/51c3bf239d2d1844008a22fb1958043dccb3f040 "Update documentation \(#798\)
+Co-authored-by: daniil-quix <133032822+daniil-quix@users.noreply.github.com>")| Mar 27, 2025  
+[images](https://github.com/quixio/quix-streams/tree/main/images "images")| [images](https://github.com/quixio/quix-streams/tree/main/images "images")| [New README (](https://github.com/quixio/quix-streams/commit/118512dc68ff0c05bd454bf5e1b38aecbbc1de72 "New README \(#401\)")[#401](https://github.com/quixio/quix-streams/pull/401)[)](https://github.com/quixio/quix-streams/commit/118512dc68ff0c05bd454bf5e1b38aecbbc1de72 "New README \(#401\)")| Jul 29, 2024  
+[quixstreams](https://github.com/quixio/quix-streams/tree/main/quixstreams "quixstreams")| [quixstreams](https://github.com/quixio/quix-streams/tree/main/quixstreams "quixstreams")| [Bump version to 3.12.0 (](https://github.com/quixio/quix-streams/commit/f77c9bee586acb214ad407529a980684d9d093c9 "Bump version to 3.12.0 \(#803\)")[#803](https://github.com/quixio/quix-streams/pull/803)[)](https://github.com/quixio/quix-streams/commit/f77c9bee586acb214ad407529a980684d9d093c9 "Bump version to 3.12.0 \(#803\)")| Mar 27, 2025  
+[tests](https://github.com/quixio/quix-streams/tree/main/tests "tests")| [tests](https://github.com/quixio/quix-streams/tree/main/tests "tests")| [Fix dependencies (](https://github.com/quixio/quix-streams/commit/8709a7d7e064d4b47ccad22d6ae86eb43a820682 "Fix dependencies \(#804\)
+* Revert "Upgrade confluent-kafka to >=2.8.2,<2.9 \(#799\)"
+This reverts commit d2a9c77c79031902f75b01dbefacb48d1f9a66e6.
+* Fix neo4j Conda dependency
+* Upgrade confluent-kafka to 2.8.2 and include schema registry extras")[#804](https://github.com/quixio/quix-streams/pull/804)[)](https://github.com/quixio/quix-streams/commit/8709a7d7e064d4b47ccad22d6ae86eb43a820682 "Fix dependencies \(#804\)
+* Revert "Upgrade confluent-kafka to >=2.8.2,<2.9 \(#799\)"
+This reverts commit d2a9c77c79031902f75b01dbefacb48d1f9a66e6.
+* Fix neo4j Conda dependency
+* Upgrade confluent-kafka to 2.8.2 and include schema registry extras")| Mar 27, 2025  
+[.gitignore](https://github.com/quixio/quix-streams/blob/main/.gitignore ".gitignore")| [.gitignore](https://github.com/quixio/quix-streams/blob/main/.gitignore ".gitignore")| [Apache Iceberg sink (](https://github.com/quixio/quix-streams/commit/11d49480de482e86d40e0438c69f7e1098520cd9 "Apache Iceberg sink \(#555\)
+Added Apache Iceberg sink supporting S3.+ AWS Glue")[#555](https://github.com/quixio/quix-streams/pull/555)[)](https://github.com/quixio/quix-streams/commit/11d49480de482e86d40e0438c69f7e1098520cd9 "Apache Iceberg sink \(#555\)
+Added Apache Iceberg sink supporting S3.+ AWS Glue")| Oct 22, 2024  
+[.pre-commit-config.yaml](https://github.com/quixio/quix-streams/blob/main/.pre-commit-config.yaml ".pre-commit-config.yaml")| [.pre-commit-config.yaml](https://github.com/quixio/quix-streams/blob/main/.pre-commit-config.yaml ".pre-commit-config.yaml")| [CI: Implement mypy pre-commit check (](https://github.com/quixio/quix-streams/commit/ccef54a3a1a014ffdd24fdac9e8bdead078289be "CI: Implement mypy pre-commit check \(#643\)")[#643](https://github.com/quixio/quix-streams/pull/643)[)](https://github.com/quixio/quix-streams/commit/ccef54a3a1a014ffdd24fdac9e8bdead078289be "CI: Implement mypy pre-commit check \(#643\)")| Nov 27, 2024  
+[CODE_OF_CONDUCT.md](https://github.com/quixio/quix-streams/blob/main/CODE_OF_CONDUCT.md "CODE_OF_CONDUCT.md")| [CODE_OF_CONDUCT.md](https://github.com/quixio/quix-streams/blob/main/CODE_OF_CONDUCT.md "CODE_OF_CONDUCT.md")| [Sentence casing titles and American spellings (](https://github.com/quixio/quix-streams/commit/12c66c55066a4411aff7d97375f65f0a7e7530fe "Sentence casing titles and American spellings \(#37\)")[#37](https://github.com/quixio/quix-streams/pull/37)[)](https://github.com/quixio/quix-streams/commit/12c66c55066a4411aff7d97375f65f0a7e7530fe "Sentence casing titles and American spellings \(#37\)")| Feb 13, 2023  
+[CONTRIBUTING.md](https://github.com/quixio/quix-streams/blob/main/CONTRIBUTING.md "CONTRIBUTING.md")| [CONTRIBUTING.md](https://github.com/quixio/quix-streams/blob/main/CONTRIBUTING.md "CONTRIBUTING.md")| [Add Connectors contribution guide (](https://github.com/quixio/quix-streams/commit/2e2675bb5ec6b5119e7cab5c3854a46b6c928942 "Add Connectors contribution guide \(#546\)
+Co-authored-by: Tun <stereosky@users.noreply.github.com>")[#546](https://github.com/quixio/quix-streams/pull/546)[)](https://github.com/quixio/quix-streams/commit/2e2675bb5ec6b5119e7cab5c3854a46b6c928942 "Add Connectors contribution guide \(#546\)
+Co-authored-by: Tun <stereosky@users.noreply.github.com>")| Oct 9, 2024  
+[LICENSE](https://github.com/quixio/quix-streams/blob/main/LICENSE "LICENSE")| [LICENSE](https://github.com/quixio/quix-streams/blob/main/LICENSE "LICENSE")| [First version of Readme](https://github.com/quixio/quix-streams/commit/18a7ff8c60a092f057bc8bfc8e891a83374bef2e "First version of Readme")| Nov 22, 2022  
+[README.md](https://github.com/quixio/quix-streams/blob/main/README.md "README.md")| [README.md](https://github.com/quixio/quix-streams/blob/main/README.md "README.md")| [Update README (](https://github.com/quixio/quix-streams/commit/fa55253e0a3b58819f75c1822b942f334a13dd81 "Update README \(#604\)")[#604](https://github.com/quixio/quix-streams/pull/604)[)](https://github.com/quixio/quix-streams/commit/fa55253e0a3b58819f75c1822b942f334a13dd81 "Update README \(#604\)")| Nov 6, 2024  
+[mkdocs.yml](https://github.com/quixio/quix-streams/blob/main/mkdocs.yml "mkdocs.yml")| [mkdocs.yml](https://github.com/quixio/quix-streams/blob/main/mkdocs.yml "mkdocs.yml")| [Stop conditions with last message received timeout (](https://github.com/quixio/quix-streams/commit/f2c9027ee7b713fa494067f7c8153c2227577a90 "Stop conditions with last message received timeout \(#780\)
+Co-authored-by: Remy Gwaramadze <gwaramadze@users.noreply.github.com>
+Co-authored-by: Daniil Gusev <daniil@quix.io>")[#780](https://github.com/quixio/quix-streams/pull/780)[)](https://github.com/quixio/quix-streams/commit/f2c9027ee7b713fa494067f7c8153c2227577a90 "Stop conditions with last message received timeout \(#780\)
+Co-authored-by: Remy Gwaramadze <gwaramadze@users.noreply.github.com>
+Co-authored-by: Daniil Gusev <daniil@quix.io>")| Mar 21, 2025  
+[pyproject.toml](https://github.com/quixio/quix-streams/blob/main/pyproject.toml "pyproject.toml")| [pyproject.toml](https://github.com/quixio/quix-streams/blob/main/pyproject.toml "pyproject.toml")| [Fix dependencies (](https://github.com/quixio/quix-streams/commit/8709a7d7e064d4b47ccad22d6ae86eb43a820682 "Fix dependencies \(#804\)
+* Revert "Upgrade confluent-kafka to >=2.8.2,<2.9 \(#799\)"
+This reverts commit d2a9c77c79031902f75b01dbefacb48d1f9a66e6.
+* Fix neo4j Conda dependency
+* Upgrade confluent-kafka to 2.8.2 and include schema registry extras")[#804](https://github.com/quixio/quix-streams/pull/804)[)](https://github.com/quixio/quix-streams/commit/8709a7d7e064d4b47ccad22d6ae86eb43a820682 "Fix dependencies \(#804\)
+* Revert "Upgrade confluent-kafka to >=2.8.2,<2.9 \(#799\)"
+This reverts commit d2a9c77c79031902f75b01dbefacb48d1f9a66e6.
+* Fix neo4j Conda dependency
+* Upgrade confluent-kafka to 2.8.2 and include schema registry extras")| Mar 27, 2025  
+[requirements-dev.txt](https://github.com/quixio/quix-streams/blob/main/requirements-dev.txt "requirements-dev.txt")| [requirements-dev.txt](https://github.com/quixio/quix-streams/blob/main/requirements-dev.txt "requirements-dev.txt")| [CI: Implement mypy pre-commit check (](https://github.com/quixio/quix-streams/commit/ccef54a3a1a014ffdd24fdac9e8bdead078289be "CI: Implement mypy pre-commit check \(#643\)")[#643](https://github.com/quixio/quix-streams/pull/643)[)](https://github.com/quixio/quix-streams/commit/ccef54a3a1a014ffdd24fdac9e8bdead078289be "CI: Implement mypy pre-commit check \(#643\)")| Nov 27, 2024  
+[requirements-mypy.txt](https://github.com/quixio/quix-streams/blob/main/requirements-mypy.txt "requirements-mypy.txt")| [requirements-mypy.txt](https://github.com/quixio/quix-streams/blob/main/requirements-mypy.txt "requirements-mypy.txt")| [Bump mypy from 1.13.0 to 1.15.0 (](https://github.com/quixio/quix-streams/commit/2f045d41a651228085f0bb989f8d6b881a3b5a24 "Bump mypy from 1.13.0 to 1.15.0 \(#744\)
+Bumps \[mypy\]\(https://github.com/python/mypy\) from 1.13.0 to 1.15.0.
+- \[Changelog\]\(https://github.com/python/mypy/blob/master/CHANGELOG.md\)
+- \[Commits\]\(https://github.com/python/mypy/compare/v1.13.0...v1.15.0\)
+---
+updated-dependencies:
+- dependency-name: mypy
+ dependency-type: direct:production
+ update-type: version-update:semver-minor
+...
+Signed-off-by: dependabot\[bot\] <support@github.com>
+Co-authored-by: dependabot\[bot\] <49699333+dependabot\[bot\]@users.noreply.github.com>")[#744](https://github.com/quixio/quix-streams/pull/744)[)](https://github.com/quixio/quix-streams/commit/2f045d41a651228085f0bb989f8d6b881a3b5a24 "Bump mypy from 1.13.0 to 1.15.0 \(#744\)
+Bumps \[mypy\]\(https://github.com/python/mypy\) from 1.13.0 to 1.15.0.
+- \[Changelog\]\(https://github.com/python/mypy/blob/master/CHANGELOG.md\)
+- \[Commits\]\(https://github.com/python/mypy/compare/v1.13.0...v1.15.0\)
+---
+updated-dependencies:
+- dependency-name: mypy
+ dependency-type: direct:production
+ update-type: version-update:semver-minor
+...
+Signed-off-by: dependabot\[bot\] <support@github.com>
+Co-authored-by: dependabot\[bot\] <49699333+dependabot\[bot\]@users.noreply.github.com>")| Feb 12, 2025  
+[requirements.txt](https://github.com/quixio/quix-streams/blob/main/requirements.txt "requirements.txt")| [requirements.txt](https://github.com/quixio/quix-streams/blob/main/requirements.txt "requirements.txt")| [Fix dependencies (](https://github.com/quixio/quix-streams/commit/8709a7d7e064d4b47ccad22d6ae86eb43a820682 "Fix dependencies \(#804\)
+* Revert "Upgrade confluent-kafka to >=2.8.2,<2.9 \(#799\)"
+This reverts commit d2a9c77c79031902f75b01dbefacb48d1f9a66e6.
+* Fix neo4j Conda dependency
+* Upgrade confluent-kafka to 2.8.2 and include schema registry extras")[#804](https://github.com/quixio/quix-streams/pull/804)[)](https://github.com/quixio/quix-streams/commit/8709a7d7e064d4b47ccad22d6ae86eb43a820682 "Fix dependencies \(#804\)
+* Revert "Upgrade confluent-kafka to >=2.8.2,<2.9 \(#799\)"
+This reverts commit d2a9c77c79031902f75b01dbefacb48d1f9a66e6.
+* Fix neo4j Conda dependency
+* Upgrade confluent-kafka to 2.8.2 and include schema registry extras")| Mar 27, 2025  
+View all files  
+## Repository files navigation
+  * [README](https://github.com/quixio/quix-streams/)
+  * [Code of conduct](https://github.com/quixio/quix-streams/)
+  * [Apache-2.0 license](https://github.com/quixio/quix-streams/)
+
+
+[![Quix - React to data, fast](https://github.com/quixio/quix-streams/raw/main/images/quixstreams-banner.png)](https://github.com/quixio/quix-streams/blob/main/images/quixstreams-banner.png)
+[![GitHub Version](https://camo.githubusercontent.com/7ac7dd157e57cda9acb3e3549f89395447b5063b8ad99bb699ff63f6c8666c34/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f7461672d7072652f71756978696f2f717569782d73747265616d732e7376673f6c6162656c3d56657273696f6e26636f6c6f723d303038646666)](https://github.com/quixio/quix-streams/releases) [![PyPI License](https://camo.githubusercontent.com/f1e0732cb250fd9ca455b7b40076b23e46dad6dc5c77511899dfa864a2bbf914/68747470733a2f2f696d672e736869656c64732e696f2f707970692f6c2f7175697873747265616d733f6c6162656c3d4c6963656e636526636f6c6f723d303038646666)](https://camo.githubusercontent.com/f1e0732cb250fd9ca455b7b40076b23e46dad6dc5c77511899dfa864a2bbf914/68747470733a2f2f696d672e736869656c64732e696f2f707970692f6c2f7175697873747265616d733f6c6162656c3d4c6963656e636526636f6c6f723d303038646666) [![Docs](https://camo.githubusercontent.com/fbea364e4ac557623df81a8e6d4d5303dcda98a5b5ea1bccf107c2508dc0adf1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f646f63732d717569782e696f2d3033343562323f6c6162656c3d446f637326636f6c6f723d303038646666)](https://quix.io/docs/quix-streams/introduction.html) [![Community Slack](https://camo.githubusercontent.com/5b76d9397fcca386c04158f7435b88a834f8f791f01f60dc56b4d3cd18fe3ead/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f436f6d6d756e697479253230536c61636b2d626c756576696f6c65743f6c6f676f3d736c61636b)](https://quix.io/slack-invite) [![YouTube](https://camo.githubusercontent.com/7c4041ee38fa8ba24739731b45c267868ad7f35076c7a5b00caa6b4555e06c48/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d596f75547562652d4646303030303f6c6f676f3d796f7574756265)](https://www.youtube.com/@QuixStreams) [![LinkedIn](https://camo.githubusercontent.com/a8bf8db77bcc80762d0a2d29b5a13dad194188223c28fdf549461dd1c480df6b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3041363643322e7376673f6c6f676f3d6c696e6b6564696e)](https://www.linkedin.com/company/70925173/) [![X](https://camo.githubusercontent.com/626ae744fe9d197cc001ec22e2c96e46a319b75917f11c62431fcbafc1e2bfd9/68747470733a2f2f696d672e736869656c64732e696f2f747769747465722f75726c3f6c6162656c3d58267374796c653d736f6369616c2675726c3d6874747073253341253246253246747769747465722e636f6d253246717569785f696f)](https://twitter.com/quix_io)
+# Open source Python framework for reliable data engineering
+[](https://github.com/quixio/quix-streams/#open-source-python-framework-for-reliable-data-engineering)
+Quix Streams is an end-to-end framework for real-time Python data engineering, operational analytics and machine learning on Apache Kafka data streams. Extract, transform and load data reliably in fewer lines of code using your favourite Python libraries.
+Build data pipelines and event-driven microservice architectures leveraging Kafka's low-level scalability, resiliency and durability features in a lightweight library without server-side clusters to manage.
+Quix Streams provides the following features to make your life easier:
+  * Pure Python, meaning no wrappers around Java and no cross-language debugging.
+  * Sources & Sinks API for building custom connectors that integrate data with Kafka.
+  * Streaming DataFrame API for building tabular data processing pipelines.
+  * Serializers API supporting JSON, Avro, Protobuf & Schema Registry.
+  * State API with built-in RocksDB state object for stateful processing.
+  * Application API for managing the Kafka-related setup, teardown and message lifecycle.
+  * Operators for common processing tasks like Windowing, Branching, Group By and Reduce.
+  * Exactly-once processing guarantees via Kafka transactions.
+
+
+Use Quix Streams to build simple Kafka producer/consumer applications or leverage stream processing to build complex event-driven systems, real-time data pipelines and AI/ML products.
+## Getting Started 🏄
+[](https://github.com/quixio/quix-streams/#getting-started-)
+### Install Quix Streams
+[](https://github.com/quixio/quix-streams/#install-quix-streams)
+```
+# PyPI
+python -m pip install quixstreams
+# or conda
+conda install -c conda-forge quixio::quixstreams
+```
+
+#### Requirements
+[](https://github.com/quixio/quix-streams/#requirements)
+Python 3.9+, Apache Kafka 0.10+
+See [requirements.txt](https://github.com/quixio/quix-streams/blob/main/requirements.txt) for the full list of requirements
+### Documentation
+[](https://github.com/quixio/quix-streams/#documentation)
+[Quix Streams Docs](https://quix.io/docs/quix-streams/introduction.html)
+### Example
+[](https://github.com/quixio/quix-streams/#example)
+Here's an example of how to **process** data from a Kafka Topic with Quix Streams:
+```
+from quixstreams import Application
+# A minimal application reading temperature data in Celsius from the Kafka topic,
+# converting it to Fahrenheit and producing alerts to another topic.
+# Define an application that will connect to Kafka
+app = Application(
+  broker_address="localhost:9092", # Kafka broker address
+)
+# Define the Kafka topics
+temperature_topic = app.topic("temperature-celsius", value_deserializer="json")
+alerts_topic = app.topic("temperature-alerts", value_serializer="json")
+# Create a Streaming DataFrame connected to the input Kafka topic
+sdf = app.dataframe(topic=temperature_topic)
+# Convert temperature to Fahrenheit by transforming the input message (with an anonymous or user-defined function)
+sdf = sdf.apply(lambda value: {"temperature_F": (value["temperature"] * 9/5) + 32})
+# Filter values above the threshold
+sdf = sdf[sdf["temperature_F"] > 150]
+# Produce alerts to the output topic
+sdf = sdf.to_topic(alerts_topic)
+# Run the streaming application (app automatically tracks the sdf!)
+app.run()
+```
+
+### Tutorials
+[](https://github.com/quixio/quix-streams/#tutorials)
+To see Quix Streams in action, check out the Quickstart and Tutorials in the docs:
+  * [**Quickstart**](https://quix.io/docs/quix-streams/quickstart.html)
+  * [**Tutorial - Word Count**](https://quix.io/docs/quix-streams/tutorials/word-count/tutorial.html)
+  * [**Tutorial - Anomaly Detection**](https://quix.io/docs/quix-streams/tutorials/anomaly-detection/tutorial.html)
+  * [**Tutorial - Purchase Filtering**](https://quix.io/docs/quix-streams/tutorials/purchase-filtering/tutorial.html)
+
+
+### Key Concepts
+[](https://github.com/quixio/quix-streams/#key-concepts)
+There are two primary objects:
+  * `StreamingDataFrame` - a predefined declarative pipeline to process and transform incoming messages.
+  * `Application` - to manage the Kafka-related setup, teardown and message lifecycle (consuming, committing). It processes each message with the dataframe you provide for it to run.
+
+
+Under the hood, the `Application` will:
+  * Consume and deserialize messages.
+  * Process them with your `StreamingDataFrame`.
+  * Produce it to the output topic.
+  * Automatically checkpoint processed messages and state for resiliency.
+  * Scale using Kafka's built-in consumer groups mechanism.
+
+
+### Deployment
+[](https://github.com/quixio/quix-streams/#deployment)
+You can run Quix Streams pipelines anywhere Python is installed.
+Deploy to your own infrastructure or to [Quix Cloud](https://quix.io/product) on AWS, Azure, GCP or on-premise for a fully managed platform. You'll get self-service DevOps, CI/CD and monitoring, all built with best in class engineering practices learned from Formula 1 Racing.
+Please see the [**Connecting to Quix Cloud**](https://quix.io/docs/quix-streams/quix-platform.html) page to learn how to use Quix Streams and Quix Cloud together.
+## Roadmap 📍
+[](https://github.com/quixio/quix-streams/#roadmap-)
+This library is being actively developed by a full-time team.
+Here are some of the planned improvements:
+  * [Windowed aggregations over Tumbling & Hopping windows](https://quix.io/docs/quix-streams/windowing.html)
+  * [Stateful operations and recovery based on Kafka changelog topics](https://quix.io/docs/quix-streams/advanced/stateful-processing.html)
+  * [Group-by operation](https://quix.io/docs/quix-streams/groupby.html)
+  * ["Exactly Once" delivery guarantees for Kafka message processing (AKA transactions)](https://quix.io/docs/quix-streams/configuration.html#processing-guarantees)
+  * Support for [Avro](https://quix.io/docs/quix-streams/advanced/serialization.html#avro) and [Protobuf](https://quix.io/docs/quix-streams/advanced/serialization.html#protobuf) formats
+  * [Schema Registry support](https://quix.io/docs/quix-streams/advanced/schema-registry.html)
+  * [Windowed aggregations over Sliding windows](https://quix.io/docs/quix-streams/windowing.html)
+  * Joins
+
+
+For a more detailed overview of the planned features, please look at [the Roadmap Board](https://github.com/orgs/quixio/projects/1).
+## Get Involved 🤝
+[](https://github.com/quixio/quix-streams/#get-involved-)
+  * Please use [GitHub issues](https://github.com/quixio/quix-streams/issues) to report bugs and suggest new features.
+  * Join the [Quix Community on Slack](https://quix.io/slack-invite), a vibrant group of Kafka Python developers, data engineers and newcomers to Apache Kafka, who are learning and leveraging Quix Streams for real-time data processing.
+  * Watch and subscribe to [@QuixStreams on YouTube](https://www.youtube.com/@QuixStreams) for code-along tutorials from scratch and interesting community highlights.
+  * Follow us on [X](https://x.com/Quix_io) and [LinkedIn](https://www.linkedin.com/company/70925173) where we share our latest tutorials, forthcoming community events and the occasional meme.
+  * If you have any questions or feedback - write to us at support@quix.io!
+
+
+## License 📗
+[](https://github.com/quixio/quix-streams/#license-)
+Quix Streams is licensed under the Apache 2.0 license. View a copy of the License file [here](https://github.com/quixio/quix-streams/blob/main/LICENSE).
+## About
+Python Streaming DataFrames for Kafka 
+[docs.quix.io](https://docs.quix.io "https://docs.quix.io")
+### Topics
+[ python ](https://github.com/topics/python "Topic: python") [ data-science ](https://github.com/topics/data-science "Topic: data-science") [ machine-learning ](https://github.com/topics/machine-learning "Topic: machine-learning") [ kafka ](https://github.com/topics/kafka "Topic: kafka") [ stream-processing ](https://github.com/topics/stream-processing "Topic: stream-processing") [ data-engineering ](https://github.com/topics/data-engineering "Topic: data-engineering") [ streaming-data ](https://github.com/topics/streaming-data "Topic: streaming-data") [ stream-processor ](https://github.com/topics/stream-processor "Topic: stream-processor") [ event-driven-architecture ](https://github.com/topics/event-driven-architecture "Topic: event-driven-architecture") [ streaming-data-processing ](https://github.com/topics/streaming-data-processing "Topic: streaming-data-processing") [ time-series-data ](https://github.com/topics/time-series-data "Topic: time-series-data") [ data-intensive-applications ](https://github.com/topics/data-intensive-applications "Topic: data-intensive-applications") [ streaming-data-pipelines ](https://github.com/topics/streaming-data-pipelines "Topic: streaming-data-pipelines") [ real-time-data-processing ](https://github.com/topics/real-time-data-processing "Topic: real-time-data-processing")
+### Resources
+[ Readme ](https://github.com/quixio/quix-streams/#readme-ov-file)
+### License
+[ Apache-2.0 license ](https://github.com/quixio/quix-streams/#Apache-2.0-1-ov-file)
+### Code of conduct
+[ Code of conduct ](https://github.com/quixio/quix-streams/#coc-ov-file)
+[ Activity](https://github.com/quixio/quix-streams/activity)
+[ Custom properties](https://github.com/quixio/quix-streams/custom-properties)
+### Stars
+[ **1.3k** stars](https://github.com/quixio/quix-streams/stargazers)
+### Watchers
+[ **18** watching](https://github.com/quixio/quix-streams/watchers)
+### Forks
+[ **75** forks](https://github.com/quixio/quix-streams/forks)
+[ Report repository ](https://github.com/contact/report-content?content_url=https%3A%2F%2Fgithub.com%2Fquixio%2Fquix-streams&report=quixio+%28user%29)
+##  [Releases 50](https://github.com/quixio/quix-streams/releases)
+[ v3.12.0 Latest  Mar 27, 2025 ](https://github.com/quixio/quix-streams/releases/tag/v3.12.0)
+[+ 49 releases](https://github.com/quixio/quix-streams/releases)
+##  [Packages 0](https://github.com/orgs/quixio/packages?repo_name=quix-streams)
+No packages published 
+##  [Used by 384](https://github.com/quixio/quix-streams/network/dependents)
+[
+  * ![@acheltonzuzi](https://avatars.githubusercontent.com/u/54036562?s=64&v=4)
+  * ![@Ferothanes](https://avatars.githubusercontent.com/u/183361017?s=64&v=4)
+  * ![@srideepo](https://avatars.githubusercontent.com/u/5574033?s=64&v=4)
+  * ![@jothiboss-git](https://avatars.githubusercontent.com/u/175279391?s=64&v=4)
+  * ![@tom-mont](https://avatars.githubusercontent.com/u/109508148?s=64&v=4)
+  * ![@jlozanol](https://avatars.githubusercontent.com/u/71588147?s=64&v=4)
+  * ![@KaiCiu](https://avatars.githubusercontent.com/u/199895239?s=64&v=4)
+  * ![@blutab](https://avatars.githubusercontent.com/u/10132503?s=64&v=4)
+
++ 376  ](https://github.com/quixio/quix-streams/network/dependents)
+##  [Contributors 24](https://github.com/quixio/quix-streams/graphs/contributors)
+  * [ ![@daniil-quix](https://avatars.githubusercontent.com/u/133032822?s=64&v=4) ](https://github.com/daniil-quix)
+  * [ ![@tim-quix](https://avatars.githubusercontent.com/u/136370015?s=64&v=4) ](https://github.com/tim-quix)
+  * [ ![@gwaramadze](https://avatars.githubusercontent.com/u/1044831?s=64&v=4) ](https://github.com/gwaramadze)
+  * [ ![@github-actions\[bot\]](https://avatars.githubusercontent.com/in/15368?s=64&v=4) ](https://github.com/apps/github-actions)
+  * [ ![@peter-quix](https://avatars.githubusercontent.com/u/79838809?s=64&v=4) ](https://github.com/peter-quix)
+  * [ ![@tbedford](https://avatars.githubusercontent.com/u/25511700?s=64&v=4) ](https://github.com/tbedford)
+  * [ ![@harisbotic](https://avatars.githubusercontent.com/u/6454831?s=64&v=4) ](https://github.com/harisbotic)
+  * [ ![@SteveRosam](https://avatars.githubusercontent.com/u/100689438?s=64&v=4) ](https://github.com/SteveRosam)
+  * [ ![@dependabot\[bot\]](https://avatars.githubusercontent.com/in/29110?s=64&v=4) ](https://github.com/apps/dependabot)
+  * [ ![@stereosky](https://avatars.githubusercontent.com/u/2693349?s=64&v=4) ](https://github.com/stereosky)
+  * [ ![@srosam](https://avatars.githubusercontent.com/u/1799158?s=64&v=4) ](https://github.com/srosam)
+  * [ ![@theoengland](https://avatars.githubusercontent.com/u/5121621?s=64&v=4) ](https://github.com/theoengland)
+  * [ ![@shrutimantri](https://avatars.githubusercontent.com/u/6594483?s=64&v=4) ](https://github.com/shrutimantri)
+  * [ ![@tomas-quix](https://avatars.githubusercontent.com/u/78492422?s=64&v=4) ](https://github.com/tomas-quix)
+
+
+[+ 10 contributors](https://github.com/quixio/quix-streams/graphs/contributors)
+## Languages
+  * [ Python 99.9% ](https://github.com/quixio/quix-streams/search?l=python)
+  * [ Shell 0.1% ](https://github.com/quixio/quix-streams/search?l=shell)
+
+
+## Footer
+[ ](https://github.com "GitHub") © 2025 GitHub, Inc. 
+### Footer navigation
+  * [Terms](https://docs.github.com/site-policy/github-terms/github-terms-of-service)
+  * [Privacy](https://docs.github.com/site-policy/privacy-policies/github-privacy-statement)
+  * [Security](https://github.com/security)
+  * [Status](https://www.githubstatus.com/)
+  * [Docs](https://docs.github.com/)
+  * [Contact](https://support.github.com?tags=dotcom-footer)
+  * Manage cookies 
+  * Do not share my personal information 
+
+
+You can’t perform that action at this time. 

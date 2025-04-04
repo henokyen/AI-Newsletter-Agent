@@ -1,0 +1,554 @@
+[ ![Logo](https://www.sbert.net/_static/logo.png) ](https://www.sbert.net/index.html)
+Getting Started
+  * [Installation](https://www.sbert.net/docs/installation.html)
+    * [Install with pip](https://www.sbert.net/docs/installation.html#install-with-pip)
+    * [Install with Conda](https://www.sbert.net/docs/installation.html#install-with-conda)
+    * [Install from Source](https://www.sbert.net/docs/installation.html#install-from-source)
+    * [Editable Install](https://www.sbert.net/docs/installation.html#editable-install)
+    * [Install PyTorch with CUDA support](https://www.sbert.net/docs/installation.html#install-pytorch-with-cuda-support)
+  * [Quickstart](https://www.sbert.net/docs/quickstart.html)
+    * [Sentence Transformer](https://www.sbert.net/docs/quickstart.html#sentence-transformer)
+    * [Cross Encoder](https://www.sbert.net/docs/quickstart.html#cross-encoder)
+    * [Next Steps](https://www.sbert.net/docs/quickstart.html#next-steps)
+  * [Migration Guide](https://www.sbert.net/docs/migration_guide.html)
+    * [Migrating from v2.x to v3.x](https://www.sbert.net/docs/migration_guide.html#migrating-from-v2-x-to-v3-x)
+      * [Migration for specific parameters from `SentenceTransformer.fit`](https://www.sbert.net/docs/migration_guide.html#migration-for-specific-parameters-from-sentencetransformer-fit)
+      * [Migration for custom Datasets and DataLoaders used in `SentenceTransformer.fit`](https://www.sbert.net/docs/migration_guide.html#migration-for-custom-datasets-and-dataloaders-used-in-sentencetransformer-fit)
+    * [Migrating from v3.x to v4.x](https://www.sbert.net/docs/migration_guide.html#migrating-from-v3-x-to-v4-x)
+      * [Migration for parameters on `CrossEncoder` initialization and methods](https://www.sbert.net/docs/migration_guide.html#migration-for-parameters-on-crossencoder-initialization-and-methods)
+      * [Migration for specific parameters from `CrossEncoder.fit`](https://www.sbert.net/docs/migration_guide.html#migration-for-specific-parameters-from-crossencoder-fit)
+      * [Migration for CrossEncoder evaluators](https://www.sbert.net/docs/migration_guide.html#migration-for-crossencoder-evaluators)
+
+
+Sentence Transformer
+  * [Usage](https://www.sbert.net/docs/sentence_transformer/usage/usage.html)
+    * [Computing Embeddings](https://www.sbert.net/examples/sentence_transformer/applications/computing-embeddings/README.html)
+      * [Initializing a Sentence Transformer Model](https://www.sbert.net/examples/sentence_transformer/applications/computing-embeddings/README.html#initializing-a-sentence-transformer-model)
+      * [Calculating Embeddings](https://www.sbert.net/examples/sentence_transformer/applications/computing-embeddings/README.html#calculating-embeddings)
+      * [Prompt Templates](https://www.sbert.net/examples/sentence_transformer/applications/computing-embeddings/README.html#prompt-templates)
+      * [Input Sequence Length](https://www.sbert.net/examples/sentence_transformer/applications/computing-embeddings/README.html#input-sequence-length)
+      * [Multi-Process / Multi-GPU Encoding](https://www.sbert.net/examples/sentence_transformer/applications/computing-embeddings/README.html#multi-process-multi-gpu-encoding)
+    * [Semantic Textual Similarity](https://www.sbert.net/docs/sentence_transformer/usage/semantic_textual_similarity.html)
+      * [Similarity Calculation](https://www.sbert.net/docs/sentence_transformer/usage/semantic_textual_similarity.html#similarity-calculation)
+    * [Semantic Search](https://www.sbert.net/examples/sentence_transformer/applications/semantic-search/README.html)
+      * [Background](https://www.sbert.net/examples/sentence_transformer/applications/semantic-search/README.html#background)
+      * [Symmetric vs. Asymmetric Semantic Search](https://www.sbert.net/examples/sentence_transformer/applications/semantic-search/README.html#symmetric-vs-asymmetric-semantic-search)
+      * [Manual Implementation](https://www.sbert.net/examples/sentence_transformer/applications/semantic-search/README.html#manual-implementation)
+      * [Optimized Implementation](https://www.sbert.net/examples/sentence_transformer/applications/semantic-search/README.html#optimized-implementation)
+      * [Speed Optimization](https://www.sbert.net/examples/sentence_transformer/applications/semantic-search/README.html#speed-optimization)
+      * [Elasticsearch](https://www.sbert.net/examples/sentence_transformer/applications/semantic-search/README.html#elasticsearch)
+      * [Approximate Nearest Neighbor](https://www.sbert.net/examples/sentence_transformer/applications/semantic-search/README.html#approximate-nearest-neighbor)
+      * [Retrieve & Re-Rank](https://www.sbert.net/examples/sentence_transformer/applications/semantic-search/README.html#retrieve-re-rank)
+      * [Examples](https://www.sbert.net/examples/sentence_transformer/applications/semantic-search/README.html#examples)
+    * [Retrieve & Re-Rank](https://www.sbert.net/examples/sentence_transformer/applications/retrieve_rerank/README.html)
+      * [Retrieve & Re-Rank Pipeline](https://www.sbert.net/examples/sentence_transformer/applications/retrieve_rerank/README.html#retrieve-re-rank-pipeline)
+      * [Retrieval: Bi-Encoder](https://www.sbert.net/examples/sentence_transformer/applications/retrieve_rerank/README.html#retrieval-bi-encoder)
+      * [Re-Ranker: Cross-Encoder](https://www.sbert.net/examples/sentence_transformer/applications/retrieve_rerank/README.html#re-ranker-cross-encoder)
+      * [Example Scripts](https://www.sbert.net/examples/sentence_transformer/applications/retrieve_rerank/README.html#example-scripts)
+      * [Pre-trained Bi-Encoders (Retrieval)](https://www.sbert.net/examples/sentence_transformer/applications/retrieve_rerank/README.html#pre-trained-bi-encoders-retrieval)
+      * [Pre-trained Cross-Encoders (Re-Ranker)](https://www.sbert.net/examples/sentence_transformer/applications/retrieve_rerank/README.html#pre-trained-cross-encoders-re-ranker)
+    * [Clustering](https://www.sbert.net/examples/sentence_transformer/applications/clustering/README.html)
+      * [k-Means](https://www.sbert.net/examples/sentence_transformer/applications/clustering/README.html#k-means)
+      * [Agglomerative Clustering](https://www.sbert.net/examples/sentence_transformer/applications/clustering/README.html#agglomerative-clustering)
+      * [Fast Clustering](https://www.sbert.net/examples/sentence_transformer/applications/clustering/README.html#fast-clustering)
+      * [Topic Modeling](https://www.sbert.net/examples/sentence_transformer/applications/clustering/README.html#topic-modeling)
+    * [Paraphrase Mining](https://www.sbert.net/examples/sentence_transformer/applications/paraphrase-mining/README.html)
+      * [`paraphrase_mining()`](https://www.sbert.net/examples/sentence_transformer/applications/paraphrase-mining/README.html#sentence_transformers.util.paraphrase_mining)
+    * [Translated Sentence Mining](https://www.sbert.net/examples/sentence_transformer/applications/parallel-sentence-mining/README.html)
+      * [Margin Based Mining](https://www.sbert.net/examples/sentence_transformer/applications/parallel-sentence-mining/README.html#margin-based-mining)
+      * [Examples](https://www.sbert.net/examples/sentence_transformer/applications/parallel-sentence-mining/README.html#examples)
+    * [Image Search](https://www.sbert.net/examples/sentence_transformer/applications/image-search/README.html)
+      * [Installation](https://www.sbert.net/examples/sentence_transformer/applications/image-search/README.html#installation)
+      * [Usage](https://www.sbert.net/examples/sentence_transformer/applications/image-search/README.html#usage)
+      * [Examples](https://www.sbert.net/examples/sentence_transformer/applications/image-search/README.html#examples)
+    * [Embedding Quantization](https://www.sbert.net/examples/sentence_transformer/applications/embedding-quantization/README.html)
+      * [Binary Quantization](https://www.sbert.net/examples/sentence_transformer/applications/embedding-quantization/README.html#binary-quantization)
+      * [Scalar (int8) Quantization](https://www.sbert.net/examples/sentence_transformer/applications/embedding-quantization/README.html#scalar-int8-quantization)
+      * [Additional extensions](https://www.sbert.net/examples/sentence_transformer/applications/embedding-quantization/README.html#additional-extensions)
+      * [Demo](https://www.sbert.net/examples/sentence_transformer/applications/embedding-quantization/README.html#demo)
+      * [Try it yourself](https://www.sbert.net/examples/sentence_transformer/applications/embedding-quantization/README.html#try-it-yourself)
+    * [Speeding up Inference](https://www.sbert.net/docs/sentence_transformer/usage/efficiency.html)
+      * [PyTorch](https://www.sbert.net/docs/sentence_transformer/usage/efficiency.html#pytorch)
+      * [ONNX](https://www.sbert.net/docs/sentence_transformer/usage/efficiency.html#onnx)
+      * [OpenVINO](https://www.sbert.net/docs/sentence_transformer/usage/efficiency.html#openvino)
+      * [Benchmarks](https://www.sbert.net/docs/sentence_transformer/usage/efficiency.html#benchmarks)
+    * [Creating Custom Models](https://www.sbert.net/docs/sentence_transformer/usage/custom_models.html)
+      * [Structure of Sentence Transformer Models](https://www.sbert.net/docs/sentence_transformer/usage/custom_models.html#structure-of-sentence-transformer-models)
+      * [Sentence Transformer Model from a Transformers Model](https://www.sbert.net/docs/sentence_transformer/usage/custom_models.html#sentence-transformer-model-from-a-transformers-model)
+  * [Pretrained Models](https://www.sbert.net/docs/sentence_transformer/pretrained_models.html)
+    * [Original Models](https://www.sbert.net/docs/sentence_transformer/pretrained_models.html#original-models)
+    * [Semantic Search Models](https://www.sbert.net/docs/sentence_transformer/pretrained_models.html#semantic-search-models)
+      * [Multi-QA Models](https://www.sbert.net/docs/sentence_transformer/pretrained_models.html#multi-qa-models)
+      * [MSMARCO Passage Models](https://www.sbert.net/docs/sentence_transformer/pretrained_models.html#msmarco-passage-models)
+    * [Multilingual Models](https://www.sbert.net/docs/sentence_transformer/pretrained_models.html#multilingual-models)
+      * [Semantic Similarity Models](https://www.sbert.net/docs/sentence_transformer/pretrained_models.html#semantic-similarity-models)
+      * [Bitext Mining](https://www.sbert.net/docs/sentence_transformer/pretrained_models.html#bitext-mining)
+    * [Image & Text-Models](https://www.sbert.net/docs/sentence_transformer/pretrained_models.html#image-text-models)
+    * [INSTRUCTOR models](https://www.sbert.net/docs/sentence_transformer/pretrained_models.html#instructor-models)
+    * [Scientific Similarity Models](https://www.sbert.net/docs/sentence_transformer/pretrained_models.html#scientific-similarity-models)
+  * [Training Overview](https://www.sbert.net/docs/sentence_transformer/training_overview.html)
+    * [Why Finetune?](https://www.sbert.net/docs/sentence_transformer/training_overview.html#why-finetune)
+    * [Training Components](https://www.sbert.net/docs/sentence_transformer/training_overview.html#training-components)
+    * [Dataset](https://www.sbert.net/docs/sentence_transformer/training_overview.html#dataset)
+      * [Dataset Format](https://www.sbert.net/docs/sentence_transformer/training_overview.html#dataset-format)
+    * [Loss Function](https://www.sbert.net/docs/sentence_transformer/training_overview.html#loss-function)
+    * [Training Arguments](https://www.sbert.net/docs/sentence_transformer/training_overview.html#training-arguments)
+    * [Evaluator](https://www.sbert.net/docs/sentence_transformer/training_overview.html#evaluator)
+    * [Trainer](https://www.sbert.net/docs/sentence_transformer/training_overview.html#trainer)
+      * [Callbacks](https://www.sbert.net/docs/sentence_transformer/training_overview.html#callbacks)
+    * [Multi-Dataset Training](https://www.sbert.net/docs/sentence_transformer/training_overview.html#multi-dataset-training)
+    * [Deprecated Training](https://www.sbert.net/docs/sentence_transformer/training_overview.html#deprecated-training)
+    * [Best Base Embedding Models](https://www.sbert.net/docs/sentence_transformer/training_overview.html#best-base-embedding-models)
+    * [Comparisons with CrossEncoder Training](https://www.sbert.net/docs/sentence_transformer/training_overview.html#comparisons-with-crossencoder-training)
+  * [Dataset Overview](https://www.sbert.net/docs/sentence_transformer/dataset_overview.html)
+    * [Datasets on the Hugging Face Hub](https://www.sbert.net/docs/sentence_transformer/dataset_overview.html#datasets-on-the-hugging-face-hub)
+    * [Pre-existing Datasets](https://www.sbert.net/docs/sentence_transformer/dataset_overview.html#pre-existing-datasets)
+  * [Loss Overview](https://www.sbert.net/docs/sentence_transformer/loss_overview.html)
+    * [Loss Table](https://www.sbert.net/docs/sentence_transformer/loss_overview.html#loss-table)
+    * [Loss modifiers](https://www.sbert.net/docs/sentence_transformer/loss_overview.html#loss-modifiers)
+    * [Distillation](https://www.sbert.net/docs/sentence_transformer/loss_overview.html#distillation)
+    * [Commonly used Loss Functions](https://www.sbert.net/docs/sentence_transformer/loss_overview.html#commonly-used-loss-functions)
+    * [Custom Loss Functions](https://www.sbert.net/docs/sentence_transformer/loss_overview.html#custom-loss-functions)
+  * [Training Examples](https://www.sbert.net/docs/sentence_transformer/training/examples.html)
+    * [Semantic Textual Similarity](https://www.sbert.net/examples/sentence_transformer/training/sts/README.html)
+      * [Training data](https://www.sbert.net/examples/sentence_transformer/training/sts/README.html#training-data)
+      * [Loss Function](https://www.sbert.net/examples/sentence_transformer/training/sts/README.html#loss-function)
+    * [Natural Language Inference](https://www.sbert.net/examples/sentence_transformer/training/nli/README.html)
+      * [Data](https://www.sbert.net/examples/sentence_transformer/training/nli/README.html#data)
+      * [SoftmaxLoss](https://www.sbert.net/examples/sentence_transformer/training/nli/README.html#softmaxloss)
+      * [MultipleNegativesRankingLoss](https://www.sbert.net/examples/sentence_transformer/training/nli/README.html#multiplenegativesrankingloss)
+    * [Paraphrase Data](https://www.sbert.net/examples/sentence_transformer/training/paraphrases/README.html)
+      * [Pre-Trained Models](https://www.sbert.net/examples/sentence_transformer/training/paraphrases/README.html#pre-trained-models)
+    * [Quora Duplicate Questions](https://www.sbert.net/examples/sentence_transformer/training/quora_duplicate_questions/README.html)
+      * [Training](https://www.sbert.net/examples/sentence_transformer/training/quora_duplicate_questions/README.html#training)
+      * [MultipleNegativesRankingLoss](https://www.sbert.net/examples/sentence_transformer/training/quora_duplicate_questions/README.html#multiplenegativesrankingloss)
+      * [Pretrained Models](https://www.sbert.net/examples/sentence_transformer/training/quora_duplicate_questions/README.html#pretrained-models)
+    * [MS MARCO](https://www.sbert.net/examples/sentence_transformer/training/ms_marco/README.html)
+      * [Bi-Encoder](https://www.sbert.net/examples/sentence_transformer/training/ms_marco/README.html#bi-encoder)
+    * [Matryoshka Embeddings](https://www.sbert.net/examples/sentence_transformer/training/matryoshka/README.html)
+      * [Use Cases](https://www.sbert.net/examples/sentence_transformer/training/matryoshka/README.html#use-cases)
+      * [Results](https://www.sbert.net/examples/sentence_transformer/training/matryoshka/README.html#results)
+      * [Training](https://www.sbert.net/examples/sentence_transformer/training/matryoshka/README.html#training)
+      * [Inference](https://www.sbert.net/examples/sentence_transformer/training/matryoshka/README.html#inference)
+      * [Code Examples](https://www.sbert.net/examples/sentence_transformer/training/matryoshka/README.html#code-examples)
+    * [Adaptive Layers](https://www.sbert.net/examples/sentence_transformer/training/adaptive_layer/README.html)
+      * [Use Cases](https://www.sbert.net/examples/sentence_transformer/training/adaptive_layer/README.html#use-cases)
+      * [Results](https://www.sbert.net/examples/sentence_transformer/training/adaptive_layer/README.html#results)
+      * [Training](https://www.sbert.net/examples/sentence_transformer/training/adaptive_layer/README.html#training)
+      * [Inference](https://www.sbert.net/examples/sentence_transformer/training/adaptive_layer/README.html#inference)
+      * [Code Examples](https://www.sbert.net/examples/sentence_transformer/training/adaptive_layer/README.html#code-examples)
+    * [Multilingual Models](https://www.sbert.net/examples/sentence_transformer/training/multilingual/README.html)
+      * [Extend your own models](https://www.sbert.net/examples/sentence_transformer/training/multilingual/README.html#extend-your-own-models)
+      * [Training](https://www.sbert.net/examples/sentence_transformer/training/multilingual/README.html#training)
+      * [Datasets](https://www.sbert.net/examples/sentence_transformer/training/multilingual/README.html#datasets)
+      * [Sources for Training Data](https://www.sbert.net/examples/sentence_transformer/training/multilingual/README.html#sources-for-training-data)
+      * [Evaluation](https://www.sbert.net/examples/sentence_transformer/training/multilingual/README.html#evaluation)
+      * [Available Pre-trained Models](https://www.sbert.net/examples/sentence_transformer/training/multilingual/README.html#available-pre-trained-models)
+      * [Usage](https://www.sbert.net/examples/sentence_transformer/training/multilingual/README.html#usage)
+      * [Performance](https://www.sbert.net/examples/sentence_transformer/training/multilingual/README.html#performance)
+      * [Citation](https://www.sbert.net/examples/sentence_transformer/training/multilingual/README.html#citation)
+    * [Model Distillation](https://www.sbert.net/examples/sentence_transformer/training/distillation/README.html)
+      * [Knowledge Distillation](https://www.sbert.net/examples/sentence_transformer/training/distillation/README.html#knowledge-distillation)
+      * [Speed - Performance Trade-Off](https://www.sbert.net/examples/sentence_transformer/training/distillation/README.html#speed-performance-trade-off)
+      * [Dimensionality Reduction](https://www.sbert.net/examples/sentence_transformer/training/distillation/README.html#dimensionality-reduction)
+      * [Quantization](https://www.sbert.net/examples/sentence_transformer/training/distillation/README.html#quantization)
+    * [Augmented SBERT](https://www.sbert.net/examples/sentence_transformer/training/data_augmentation/README.html)
+      * [Motivation](https://www.sbert.net/examples/sentence_transformer/training/data_augmentation/README.html#motivation)
+      * [Extend to your own datasets](https://www.sbert.net/examples/sentence_transformer/training/data_augmentation/README.html#extend-to-your-own-datasets)
+      * [Methodology](https://www.sbert.net/examples/sentence_transformer/training/data_augmentation/README.html#methodology)
+      * [Scenario 1: Limited or small annotated datasets (few labeled sentence-pairs)](https://www.sbert.net/examples/sentence_transformer/training/data_augmentation/README.html#scenario-1-limited-or-small-annotated-datasets-few-labeled-sentence-pairs)
+      * [Scenario 2: No annotated datasets (Only unlabeled sentence-pairs)](https://www.sbert.net/examples/sentence_transformer/training/data_augmentation/README.html#scenario-2-no-annotated-datasets-only-unlabeled-sentence-pairs)
+      * [Training](https://www.sbert.net/examples/sentence_transformer/training/data_augmentation/README.html#training)
+      * [Citation](https://www.sbert.net/examples/sentence_transformer/training/data_augmentation/README.html#citation)
+    * [Training with Prompts](https://www.sbert.net/examples/sentence_transformer/training/prompts/README.html)
+      * [What are Prompts?](https://www.sbert.net/examples/sentence_transformer/training/prompts/README.html#what-are-prompts)
+      * [Why would we train with Prompts?](https://www.sbert.net/examples/sentence_transformer/training/prompts/README.html#why-would-we-train-with-prompts)
+      * [How do we train with Prompts?](https://www.sbert.net/examples/sentence_transformer/training/prompts/README.html#how-do-we-train-with-prompts)
+    * [Training with PEFT Adapters](https://www.sbert.net/examples/sentence_transformer/training/peft/README.html)
+      * [Compatibility Methods](https://www.sbert.net/examples/sentence_transformer/training/peft/README.html#compatibility-methods)
+      * [Adding a New Adapter](https://www.sbert.net/examples/sentence_transformer/training/peft/README.html#adding-a-new-adapter)
+      * [Loading a Pretrained Adapter](https://www.sbert.net/examples/sentence_transformer/training/peft/README.html#loading-a-pretrained-adapter)
+      * [Training Script](https://www.sbert.net/examples/sentence_transformer/training/peft/README.html#training-script)
+    * [Unsupervised Learning](https://www.sbert.net/examples/sentence_transformer/unsupervised_learning/README.html)
+      * [TSDAE](https://www.sbert.net/examples/sentence_transformer/unsupervised_learning/README.html#tsdae)
+      * [SimCSE](https://www.sbert.net/examples/sentence_transformer/unsupervised_learning/README.html#simcse)
+      * [CT](https://www.sbert.net/examples/sentence_transformer/unsupervised_learning/README.html#ct)
+      * [CT (In-Batch Negative Sampling)](https://www.sbert.net/examples/sentence_transformer/unsupervised_learning/README.html#ct-in-batch-negative-sampling)
+      * [Masked Language Model (MLM)](https://www.sbert.net/examples/sentence_transformer/unsupervised_learning/README.html#masked-language-model-mlm)
+      * [GenQ](https://www.sbert.net/examples/sentence_transformer/unsupervised_learning/README.html#genq)
+      * [GPL](https://www.sbert.net/examples/sentence_transformer/unsupervised_learning/README.html#gpl)
+      * [Performance Comparison](https://www.sbert.net/examples/sentence_transformer/unsupervised_learning/README.html#performance-comparison)
+    * [Domain Adaptation](https://www.sbert.net/examples/sentence_transformer/domain_adaptation/README.html)
+      * [Domain Adaptation vs. Unsupervised Learning](https://www.sbert.net/examples/sentence_transformer/domain_adaptation/README.html#domain-adaptation-vs-unsupervised-learning)
+      * [Adaptive Pre-Training](https://www.sbert.net/examples/sentence_transformer/domain_adaptation/README.html#adaptive-pre-training)
+      * [GPL: Generative Pseudo-Labeling](https://www.sbert.net/examples/sentence_transformer/domain_adaptation/README.html#gpl-generative-pseudo-labeling)
+    * [Hyperparameter Optimization](https://www.sbert.net/examples/sentence_transformer/training/hpo/README.html)
+      * [HPO Components](https://www.sbert.net/examples/sentence_transformer/training/hpo/README.html#hpo-components)
+      * [Putting It All Together](https://www.sbert.net/examples/sentence_transformer/training/hpo/README.html#putting-it-all-together)
+      * [Example Scripts](https://www.sbert.net/examples/sentence_transformer/training/hpo/README.html#example-scripts)
+    * [Distributed Training](https://www.sbert.net/docs/sentence_transformer/training/distributed.html)
+      * [Comparison](https://www.sbert.net/docs/sentence_transformer/training/distributed.html#comparison)
+      * [FSDP](https://www.sbert.net/docs/sentence_transformer/training/distributed.html#fsdp)
+
+
+Cross Encoder
+  * [Usage](https://www.sbert.net/docs/cross_encoder/usage/usage.html)
+    * [Cross-Encoder vs Bi-Encoder](https://www.sbert.net/examples/cross_encoder/applications/README.html)
+      * [Cross-Encoder vs. Bi-Encoder](https://www.sbert.net/examples/cross_encoder/applications/README.html#cross-encoder-vs-bi-encoder)
+      * [When to use Cross- / Bi-Encoders?](https://www.sbert.net/examples/cross_encoder/applications/README.html#when-to-use-cross-bi-encoders)
+      * [Cross-Encoders Usage](https://www.sbert.net/examples/cross_encoder/applications/README.html#cross-encoders-usage)
+      * [Combining Bi- and Cross-Encoders](https://www.sbert.net/examples/cross_encoder/applications/README.html#combining-bi-and-cross-encoders)
+      * [Training Cross-Encoders](https://www.sbert.net/examples/cross_encoder/applications/README.html#training-cross-encoders)
+    * [Retrieve & Re-Rank](https://www.sbert.net/examples/sentence_transformer/applications/retrieve_rerank/README.html)
+      * [Retrieve & Re-Rank Pipeline](https://www.sbert.net/examples/sentence_transformer/applications/retrieve_rerank/README.html#retrieve-re-rank-pipeline)
+      * [Retrieval: Bi-Encoder](https://www.sbert.net/examples/sentence_transformer/applications/retrieve_rerank/README.html#retrieval-bi-encoder)
+      * [Re-Ranker: Cross-Encoder](https://www.sbert.net/examples/sentence_transformer/applications/retrieve_rerank/README.html#re-ranker-cross-encoder)
+      * [Example Scripts](https://www.sbert.net/examples/sentence_transformer/applications/retrieve_rerank/README.html#example-scripts)
+      * [Pre-trained Bi-Encoders (Retrieval)](https://www.sbert.net/examples/sentence_transformer/applications/retrieve_rerank/README.html#pre-trained-bi-encoders-retrieval)
+      * [Pre-trained Cross-Encoders (Re-Ranker)](https://www.sbert.net/examples/sentence_transformer/applications/retrieve_rerank/README.html#pre-trained-cross-encoders-re-ranker)
+  * [Pretrained Models](https://www.sbert.net/docs/cross_encoder/pretrained_models.html)
+    * [MS MARCO](https://www.sbert.net/docs/cross_encoder/pretrained_models.html#ms-marco)
+    * [SQuAD (QNLI)](https://www.sbert.net/docs/cross_encoder/pretrained_models.html#squad-qnli)
+    * [STSbenchmark](https://www.sbert.net/docs/cross_encoder/pretrained_models.html#stsbenchmark)
+    * [Quora Duplicate Questions](https://www.sbert.net/docs/cross_encoder/pretrained_models.html#quora-duplicate-questions)
+    * [NLI](https://www.sbert.net/docs/cross_encoder/pretrained_models.html#nli)
+    * [Community Models](https://www.sbert.net/docs/cross_encoder/pretrained_models.html#community-models)
+  * [Training Overview](https://www.sbert.net/docs/cross_encoder/training_overview.html)
+    * [Why Finetune?](https://www.sbert.net/docs/cross_encoder/training_overview.html#why-finetune)
+    * [Training Components](https://www.sbert.net/docs/cross_encoder/training_overview.html#training-components)
+    * [Dataset](https://www.sbert.net/docs/cross_encoder/training_overview.html#dataset)
+      * [Dataset Format](https://www.sbert.net/docs/cross_encoder/training_overview.html#dataset-format)
+      * [Hard Negatives Mining](https://www.sbert.net/docs/cross_encoder/training_overview.html#hard-negatives-mining)
+    * [Loss Function](https://www.sbert.net/docs/cross_encoder/training_overview.html#loss-function)
+    * [Training Arguments](https://www.sbert.net/docs/cross_encoder/training_overview.html#training-arguments)
+    * [Evaluator](https://www.sbert.net/docs/cross_encoder/training_overview.html#evaluator)
+    * [Trainer](https://www.sbert.net/docs/cross_encoder/training_overview.html#trainer)
+      * [Callbacks](https://www.sbert.net/docs/cross_encoder/training_overview.html#callbacks)
+    * [Multi-Dataset Training](https://www.sbert.net/docs/cross_encoder/training_overview.html#multi-dataset-training)
+    * [Training Tips](https://www.sbert.net/docs/cross_encoder/training_overview.html#training-tips)
+    * [Deprecated Training](https://www.sbert.net/docs/cross_encoder/training_overview.html#deprecated-training)
+    * [Comparisons with SentenceTransformer Training](https://www.sbert.net/docs/cross_encoder/training_overview.html#comparisons-with-sentencetransformer-training)
+  * [Loss Overview](https://www.sbert.net/docs/cross_encoder/loss_overview.html)
+    * [Loss Table](https://www.sbert.net/docs/cross_encoder/loss_overview.html#loss-table)
+    * [Distillation](https://www.sbert.net/docs/cross_encoder/loss_overview.html#distillation)
+    * [Commonly used Loss Functions](https://www.sbert.net/docs/cross_encoder/loss_overview.html#commonly-used-loss-functions)
+    * [Custom Loss Functions](https://www.sbert.net/docs/cross_encoder/loss_overview.html#custom-loss-functions)
+  * [Training Examples](https://www.sbert.net/docs/cross_encoder/training/examples.html)
+    * [Semantic Textual Similarity](https://www.sbert.net/examples/cross_encoder/training/sts/README.html)
+      * [Training data](https://www.sbert.net/examples/cross_encoder/training/sts/README.html#training-data)
+      * [Loss Function](https://www.sbert.net/examples/cross_encoder/training/sts/README.html#loss-function)
+      * [Inference](https://www.sbert.net/examples/cross_encoder/training/sts/README.html#inference)
+    * [Natural Language Inference](https://www.sbert.net/examples/cross_encoder/training/nli/README.html)
+      * [Data](https://www.sbert.net/examples/cross_encoder/training/nli/README.html#data)
+      * [CrossEntropyLoss](https://www.sbert.net/examples/cross_encoder/training/nli/README.html#crossentropyloss)
+      * [Inference](https://www.sbert.net/examples/cross_encoder/training/nli/README.html#inference)
+    * [Quora Duplicate Questions](https://www.sbert.net/examples/cross_encoder/training/quora_duplicate_questions/README.html)
+      * [Training](https://www.sbert.net/examples/cross_encoder/training/quora_duplicate_questions/README.html#training)
+      * [Inference](https://www.sbert.net/examples/cross_encoder/training/quora_duplicate_questions/README.html#inference)
+    * [MS MARCO](https://www.sbert.net/examples/cross_encoder/training/ms_marco/README.html)
+      * [Cross Encoder](https://www.sbert.net/examples/cross_encoder/training/ms_marco/README.html#cross-encoder)
+      * [Training Scripts](https://www.sbert.net/examples/cross_encoder/training/ms_marco/README.html#training-scripts)
+      * [Inference](https://www.sbert.net/examples/cross_encoder/training/ms_marco/README.html#inference)
+    * [Rerankers](https://www.sbert.net/examples/cross_encoder/training/rerankers/README.html)
+      * [BinaryCrossEntropyLoss](https://www.sbert.net/examples/cross_encoder/training/rerankers/README.html#binarycrossentropyloss)
+      * [CachedMultipleNegativesRankingLoss](https://www.sbert.net/examples/cross_encoder/training/rerankers/README.html#cachedmultiplenegativesrankingloss)
+      * [Inference](https://www.sbert.net/examples/cross_encoder/training/rerankers/README.html#inference)
+    * [Model Distillation](https://www.sbert.net/examples/cross_encoder/training/distillation/README.html)
+      * [Cross Encoder Knowledge Distillation](https://www.sbert.net/examples/cross_encoder/training/distillation/README.html#cross-encoder-knowledge-distillation)
+      * [Inference](https://www.sbert.net/examples/cross_encoder/training/distillation/README.html#inference)
+    * [Distributed Training](https://www.sbert.net/docs/sentence_transformer/training/distributed.html)
+      * [Comparison](https://www.sbert.net/docs/sentence_transformer/training/distributed.html#comparison)
+      * [FSDP](https://www.sbert.net/docs/sentence_transformer/training/distributed.html#fsdp)
+
+
+Package Reference
+  * [Sentence Transformer](https://www.sbert.net/docs/package_reference/sentence_transformer/index.html)
+    * [SentenceTransformer](https://www.sbert.net/docs/package_reference/sentence_transformer/SentenceTransformer.html)
+      * [SentenceTransformer](https://www.sbert.net/docs/package_reference/sentence_transformer/SentenceTransformer.html#id1)
+      * [SentenceTransformerModelCardData](https://www.sbert.net/docs/package_reference/sentence_transformer/SentenceTransformer.html#sentencetransformermodelcarddata)
+      * [SimilarityFunction](https://www.sbert.net/docs/package_reference/sentence_transformer/SentenceTransformer.html#similarityfunction)
+    * [Trainer](https://www.sbert.net/docs/package_reference/sentence_transformer/trainer.html)
+      * [SentenceTransformerTrainer](https://www.sbert.net/docs/package_reference/sentence_transformer/trainer.html#sentencetransformertrainer)
+    * [Training Arguments](https://www.sbert.net/docs/package_reference/sentence_transformer/training_args.html)
+      * [SentenceTransformerTrainingArguments](https://www.sbert.net/docs/package_reference/sentence_transformer/training_args.html#sentencetransformertrainingarguments)
+    * [Losses](https://www.sbert.net/docs/package_reference/sentence_transformer/losses.html)
+      * [BatchAllTripletLoss](https://www.sbert.net/docs/package_reference/sentence_transformer/losses.html#batchalltripletloss)
+      * [BatchHardSoftMarginTripletLoss](https://www.sbert.net/docs/package_reference/sentence_transformer/losses.html#batchhardsoftmargintripletloss)
+      * [BatchHardTripletLoss](https://www.sbert.net/docs/package_reference/sentence_transformer/losses.html#batchhardtripletloss)
+      * [BatchSemiHardTripletLoss](https://www.sbert.net/docs/package_reference/sentence_transformer/losses.html#batchsemihardtripletloss)
+      * [ContrastiveLoss](https://www.sbert.net/docs/package_reference/sentence_transformer/losses.html#contrastiveloss)
+      * [OnlineContrastiveLoss](https://www.sbert.net/docs/package_reference/sentence_transformer/losses.html#onlinecontrastiveloss)
+      * [ContrastiveTensionLoss](https://www.sbert.net/docs/package_reference/sentence_transformer/losses.html#contrastivetensionloss)
+      * [ContrastiveTensionLossInBatchNegatives](https://www.sbert.net/docs/package_reference/sentence_transformer/losses.html#contrastivetensionlossinbatchnegatives)
+      * [CoSENTLoss](https://www.sbert.net/docs/package_reference/sentence_transformer/losses.html#cosentloss)
+      * [AnglELoss](https://www.sbert.net/docs/package_reference/sentence_transformer/losses.html#angleloss)
+      * [CosineSimilarityLoss](https://www.sbert.net/docs/package_reference/sentence_transformer/losses.html#cosinesimilarityloss)
+      * [DenoisingAutoEncoderLoss](https://www.sbert.net/docs/package_reference/sentence_transformer/losses.html#denoisingautoencoderloss)
+      * [GISTEmbedLoss](https://www.sbert.net/docs/package_reference/sentence_transformer/losses.html#gistembedloss)
+      * [CachedGISTEmbedLoss](https://www.sbert.net/docs/package_reference/sentence_transformer/losses.html#cachedgistembedloss)
+      * [MSELoss](https://www.sbert.net/docs/package_reference/sentence_transformer/losses.html#mseloss)
+      * [MarginMSELoss](https://www.sbert.net/docs/package_reference/sentence_transformer/losses.html#marginmseloss)
+      * [MatryoshkaLoss](https://www.sbert.net/docs/package_reference/sentence_transformer/losses.html#matryoshkaloss)
+      * [Matryoshka2dLoss](https://www.sbert.net/docs/package_reference/sentence_transformer/losses.html#matryoshka2dloss)
+      * [AdaptiveLayerLoss](https://www.sbert.net/docs/package_reference/sentence_transformer/losses.html#adaptivelayerloss)
+      * [MegaBatchMarginLoss](https://www.sbert.net/docs/package_reference/sentence_transformer/losses.html#megabatchmarginloss)
+      * [MultipleNegativesRankingLoss](https://www.sbert.net/docs/package_reference/sentence_transformer/losses.html#multiplenegativesrankingloss)
+      * [CachedMultipleNegativesRankingLoss](https://www.sbert.net/docs/package_reference/sentence_transformer/losses.html#cachedmultiplenegativesrankingloss)
+      * [MultipleNegativesSymmetricRankingLoss](https://www.sbert.net/docs/package_reference/sentence_transformer/losses.html#multiplenegativessymmetricrankingloss)
+      * [CachedMultipleNegativesSymmetricRankingLoss](https://www.sbert.net/docs/package_reference/sentence_transformer/losses.html#cachedmultiplenegativessymmetricrankingloss)
+      * [SoftmaxLoss](https://www.sbert.net/docs/package_reference/sentence_transformer/losses.html#softmaxloss)
+      * [TripletLoss](https://www.sbert.net/docs/package_reference/sentence_transformer/losses.html#tripletloss)
+    * [Samplers](https://www.sbert.net/docs/package_reference/sentence_transformer/sampler.html)
+      * [BatchSamplers](https://www.sbert.net/docs/package_reference/sentence_transformer/sampler.html#batchsamplers)
+      * [MultiDatasetBatchSamplers](https://www.sbert.net/docs/package_reference/sentence_transformer/sampler.html#multidatasetbatchsamplers)
+    * [Evaluation](https://www.sbert.net/docs/package_reference/sentence_transformer/evaluation.html)
+      * [BinaryClassificationEvaluator](https://www.sbert.net/docs/package_reference/sentence_transformer/evaluation.html#binaryclassificationevaluator)
+      * [EmbeddingSimilarityEvaluator](https://www.sbert.net/docs/package_reference/sentence_transformer/evaluation.html#embeddingsimilarityevaluator)
+      * [InformationRetrievalEvaluator](https://www.sbert.net/docs/package_reference/sentence_transformer/evaluation.html#informationretrievalevaluator)
+      * [NanoBEIREvaluator](https://www.sbert.net/docs/package_reference/sentence_transformer/evaluation.html#nanobeirevaluator)
+      * [MSEEvaluator](https://www.sbert.net/docs/package_reference/sentence_transformer/evaluation.html#mseevaluator)
+      * [ParaphraseMiningEvaluator](https://www.sbert.net/docs/package_reference/sentence_transformer/evaluation.html#paraphraseminingevaluator)
+      * [RerankingEvaluator](https://www.sbert.net/docs/package_reference/sentence_transformer/evaluation.html#rerankingevaluator)
+      * [SentenceEvaluator](https://www.sbert.net/docs/package_reference/sentence_transformer/evaluation.html#sentenceevaluator)
+      * [SequentialEvaluator](https://www.sbert.net/docs/package_reference/sentence_transformer/evaluation.html#sequentialevaluator)
+      * [TranslationEvaluator](https://www.sbert.net/docs/package_reference/sentence_transformer/evaluation.html#translationevaluator)
+      * [TripletEvaluator](https://www.sbert.net/docs/package_reference/sentence_transformer/evaluation.html#tripletevaluator)
+    * [Datasets](https://www.sbert.net/docs/package_reference/sentence_transformer/datasets.html)
+      * [ParallelSentencesDataset](https://www.sbert.net/docs/package_reference/sentence_transformer/datasets.html#parallelsentencesdataset)
+      * [SentenceLabelDataset](https://www.sbert.net/docs/package_reference/sentence_transformer/datasets.html#sentencelabeldataset)
+      * [DenoisingAutoEncoderDataset](https://www.sbert.net/docs/package_reference/sentence_transformer/datasets.html#denoisingautoencoderdataset)
+      * [NoDuplicatesDataLoader](https://www.sbert.net/docs/package_reference/sentence_transformer/datasets.html#noduplicatesdataloader)
+    * [Models](https://www.sbert.net/docs/package_reference/sentence_transformer/models.html)
+      * [Main Classes](https://www.sbert.net/docs/package_reference/sentence_transformer/models.html#main-classes)
+      * [Further Classes](https://www.sbert.net/docs/package_reference/sentence_transformer/models.html#further-classes)
+    * [quantization](https://www.sbert.net/docs/package_reference/sentence_transformer/quantization.html)
+      * [`quantize_embeddings()`](https://www.sbert.net/docs/package_reference/sentence_transformer/quantization.html#sentence_transformers.quantization.quantize_embeddings)
+      * [`semantic_search_faiss()`](https://www.sbert.net/docs/package_reference/sentence_transformer/quantization.html#sentence_transformers.quantization.semantic_search_faiss)
+      * [`semantic_search_usearch()`](https://www.sbert.net/docs/package_reference/sentence_transformer/quantization.html#sentence_transformers.quantization.semantic_search_usearch)
+  * [Cross Encoder](https://www.sbert.net/docs/package_reference/cross_encoder/index.html)
+    * [CrossEncoder](https://www.sbert.net/docs/package_reference/cross_encoder/cross_encoder.html)
+      * [CrossEncoder](https://www.sbert.net/docs/package_reference/cross_encoder/cross_encoder.html#id1)
+      * [CrossEncoderModelCardData](https://www.sbert.net/docs/package_reference/cross_encoder/cross_encoder.html#crossencodermodelcarddata)
+    * [Trainer](https://www.sbert.net/docs/package_reference/cross_encoder/trainer.html)
+      * [CrossEncoderTrainer](https://www.sbert.net/docs/package_reference/cross_encoder/trainer.html#crossencodertrainer)
+    * [Training Arguments](https://www.sbert.net/docs/package_reference/cross_encoder/training_args.html)
+      * [CrossEncoderTrainingArguments](https://www.sbert.net/docs/package_reference/cross_encoder/training_args.html#crossencodertrainingarguments)
+    * [Losses](https://www.sbert.net/docs/package_reference/cross_encoder/losses.html)
+      * [BinaryCrossEntropyLoss](https://www.sbert.net/docs/package_reference/cross_encoder/losses.html#binarycrossentropyloss)
+      * [CrossEntropyLoss](https://www.sbert.net/docs/package_reference/cross_encoder/losses.html#crossentropyloss)
+      * [LambdaLoss](https://www.sbert.net/docs/package_reference/cross_encoder/losses.html#lambdaloss)
+      * [ListMLELoss](https://www.sbert.net/docs/package_reference/cross_encoder/losses.html#listmleloss)
+      * [PListMLELoss](https://www.sbert.net/docs/package_reference/cross_encoder/losses.html#plistmleloss)
+      * [ListNetLoss](https://www.sbert.net/docs/package_reference/cross_encoder/losses.html#listnetloss)
+      * [MultipleNegativesRankingLoss](https://www.sbert.net/docs/package_reference/cross_encoder/losses.html#multiplenegativesrankingloss)
+      * [CachedMultipleNegativesRankingLoss](https://www.sbert.net/docs/package_reference/cross_encoder/losses.html#cachedmultiplenegativesrankingloss)
+      * [MSELoss](https://www.sbert.net/docs/package_reference/cross_encoder/losses.html#mseloss)
+      * [MarginMSELoss](https://www.sbert.net/docs/package_reference/cross_encoder/losses.html#marginmseloss)
+      * [RankNetLoss](https://www.sbert.net/docs/package_reference/cross_encoder/losses.html#ranknetloss)
+    * [Evaluation](https://www.sbert.net/docs/package_reference/cross_encoder/evaluation.html)
+      * [CrossEncoderRerankingEvaluator](https://www.sbert.net/docs/package_reference/cross_encoder/evaluation.html#crossencoderrerankingevaluator)
+      * [CrossEncoderNanoBEIREvaluator](https://www.sbert.net/docs/package_reference/cross_encoder/evaluation.html#crossencodernanobeirevaluator)
+      * [CrossEncoderClassificationEvaluator](https://www.sbert.net/docs/package_reference/cross_encoder/evaluation.html#crossencoderclassificationevaluator)
+      * [CrossEncoderCorrelationEvaluator](https://www.sbert.net/docs/package_reference/cross_encoder/evaluation.html#crossencodercorrelationevaluator)
+  * [util](https://www.sbert.net/docs/package_reference/util.html)
+    * [Helper Functions](https://www.sbert.net/docs/package_reference/util.html#module-sentence_transformers.util)
+      * [`community_detection()`](https://www.sbert.net/docs/package_reference/util.html#sentence_transformers.util.community_detection)
+      * [`http_get()`](https://www.sbert.net/docs/package_reference/util.html#sentence_transformers.util.http_get)
+      * [`is_training_available()`](https://www.sbert.net/docs/package_reference/util.html#sentence_transformers.util.is_training_available)
+      * [`mine_hard_negatives()`](https://www.sbert.net/docs/package_reference/util.html#sentence_transformers.util.mine_hard_negatives)
+      * [`normalize_embeddings()`](https://www.sbert.net/docs/package_reference/util.html#sentence_transformers.util.normalize_embeddings)
+      * [`paraphrase_mining()`](https://www.sbert.net/docs/package_reference/util.html#sentence_transformers.util.paraphrase_mining)
+      * [`semantic_search()`](https://www.sbert.net/docs/package_reference/util.html#sentence_transformers.util.semantic_search)
+      * [`truncate_embeddings()`](https://www.sbert.net/docs/package_reference/util.html#sentence_transformers.util.truncate_embeddings)
+    * [Model Optimization](https://www.sbert.net/docs/package_reference/util.html#module-sentence_transformers.backend)
+      * [`export_dynamic_quantized_onnx_model()`](https://www.sbert.net/docs/package_reference/util.html#sentence_transformers.backend.export_dynamic_quantized_onnx_model)
+      * [`export_optimized_onnx_model()`](https://www.sbert.net/docs/package_reference/util.html#sentence_transformers.backend.export_optimized_onnx_model)
+      * [`export_static_quantized_openvino_model()`](https://www.sbert.net/docs/package_reference/util.html#sentence_transformers.backend.export_static_quantized_openvino_model)
+    * [Similarity Metrics](https://www.sbert.net/docs/package_reference/util.html#module-sentence_transformers.util)
+      * [`cos_sim()`](https://www.sbert.net/docs/package_reference/util.html#sentence_transformers.util.cos_sim)
+      * [`dot_score()`](https://www.sbert.net/docs/package_reference/util.html#sentence_transformers.util.dot_score)
+      * [`euclidean_sim()`](https://www.sbert.net/docs/package_reference/util.html#sentence_transformers.util.euclidean_sim)
+      * [`manhattan_sim()`](https://www.sbert.net/docs/package_reference/util.html#sentence_transformers.util.manhattan_sim)
+      * [`pairwise_cos_sim()`](https://www.sbert.net/docs/package_reference/util.html#sentence_transformers.util.pairwise_cos_sim)
+      * [`pairwise_dot_score()`](https://www.sbert.net/docs/package_reference/util.html#sentence_transformers.util.pairwise_dot_score)
+      * [`pairwise_euclidean_sim()`](https://www.sbert.net/docs/package_reference/util.html#sentence_transformers.util.pairwise_euclidean_sim)
+      * [`pairwise_manhattan_sim()`](https://www.sbert.net/docs/package_reference/util.html#sentence_transformers.util.pairwise_manhattan_sim)
+
+
+[Sentence Transformers](https://www.sbert.net/index.html)
+  * [](https://www.sbert.net/index.html)
+  * Pretrained Models
+  * [ Edit on GitHub](https://github.com/UKPLab/sentence-transformers/blob/master/docs/sentence_transformer/pretrained_models.md)
+
+
+# Pretrained Models[](https://www.sbert.net/docs/sentence_transformer/pretrained_models.html#pretrained-models "Link to this heading")
+We provide various pre-trained Sentence Transformers models via our Sentence Transformers Hugging Face organization. Additionally, over 6,000 community Sentence Transformers models have been publicly released on the Hugging Face Hub. All models can be found here:
+  * **Original models** : [Sentence Transformers Hugging Face organization](https://huggingface.co/models?library=sentence-transformers&author=sentence-transformers).
+  * **Community models** : [All Sentence Transformer models on Hugging Face](https://huggingface.co/models?library=sentence-transformers).
+
+
+Each of these models can be easily downloaded and used like so:
+Original Models
+For the original models from the [Sentence Transformers Hugging Face organization](https://huggingface.co/models?library=sentence-transformers&author=sentence-transformers), it is not necessary to include the model author or organization prefix. For example, this snippet loads [sentence-transformers/all-mpnet-base-v2](https://huggingface.co/sentence-transformers/all-mpnet-base-v2).
+```
+from sentence_transformers import SentenceTransformer
+# Load https://huggingface.co/sentence-transformers/all-mpnet-base-v2
+model = SentenceTransformer("all-mpnet-base-v2")
+embeddings = model.encode([
+  "The weather is lovely today.",
+  "It's so sunny outside!",
+  "He drove to the stadium.",
+])
+similarities = model.similarity(embeddings, embeddings)
+
+```
+Copy to clipboard
+Note
+Consider using the [Massive Textual Embedding Benchmark leaderboard](https://huggingface.co/spaces/mteb/leaderboard) as an inspiration of strong Sentence Transformer models. Be wary:
+  * **Model sizes** : it is recommended to filter away the large models that might not be feasible without excessive hardware.
+  * **Experimentation is key** : models that perform well on the leaderboard do not necessarily do well on your tasks, it is **crucial** to experiment with various promising models.
+
+
+Tip
+Read [Sentence Transformer > Usage > Speeding up Inference](https://www.sbert.net/docs/sentence_transformer/usage/efficiency.html) for tips on how to speed up inference of models by up to 2x-3x.
+## Original Models[](https://www.sbert.net/docs/sentence_transformer/pretrained_models.html#original-models "Link to this heading")
+The following table provides an overview of a selection of our models. They have been extensively evaluated for their quality to embedded sentences (Performance Sentence Embeddings) and to embedded search queries & paragraphs (Performance Semantic Search).
+The **all-** * models were trained on all available training data (more than 1 billion training pairs) and are designed as **general purpose** models. The [**all-mpnet-base-v2**](https://huggingface.co/sentence-transformers/all-mpnet-base-v2) model provides the best quality, while [**all-MiniLM-L6-v2**](https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2) is 5 times faster and still offers good quality. Toggle _All models_ to see all evaluated original models.
+## Semantic Search Models[](https://www.sbert.net/docs/sentence_transformer/pretrained_models.html#semantic-search-models "Link to this heading")
+The following models have been specifically trained for **Semantic Search** : Given a question / search query, these models are able to find relevant text passages. For more details, see [Usage > Semantic Search](https://www.sbert.net/examples/sentence_transformer/applications/semantic-search/README.html).
+Documentation
+  1. [multi-qa-mpnet-base-cos-v1](https://huggingface.co/sentence-transformers/multi-qa-mpnet-base-cos-v1)
+  2. [`SentenceTransformer`](https://www.sbert.net/docs/package_reference/sentence_transformer/SentenceTransformer.html#sentence_transformers.SentenceTransformer "sentence_transformers.SentenceTransformer")
+  3. [`SentenceTransformer.encode`](https://www.sbert.net/docs/package_reference/sentence_transformer/SentenceTransformer.html#sentence_transformers.SentenceTransformer.encode "sentence_transformers.SentenceTransformer.encode")
+  4. [`SentenceTransformer.similarity`](https://www.sbert.net/docs/package_reference/sentence_transformer/SentenceTransformer.html#sentence_transformers.SentenceTransformer.similarity "sentence_transformers.SentenceTransformer.similarity")
+
+
+```
+from sentence_transformers import SentenceTransformer
+model = SentenceTransformer("multi-qa-mpnet-base-cos-v1")
+query_embedding = model.encode("How big is London")
+passage_embeddings = model.encode([
+  "London is known for its financial district",
+  "London has 9,787,426 inhabitants at the 2011 census",
+  "The United Kingdom is the fourth largest exporter of goods in the world",
+])
+similarity = model.similarity(query_embedding, passage_embeddings)
+# => tensor([[0.4659, 0.6142, 0.2697]])
+
+```
+Copy to clipboard
+### Multi-QA Models[](https://www.sbert.net/docs/sentence_transformer/pretrained_models.html#multi-qa-models "Link to this heading")
+The following models have been trained on [215M question-answer pairs](https://huggingface.co/sentence-transformers/multi-qa-MiniLM-L6-dot-v1#training) from various sources and domains, including StackExchange, Yahoo Answers, Google & Bing search queries and many more. These model perform well across many search tasks and domains.
+These models were tuned to be used with the dot-product similarity score:
+Model | Performance Semantic Search (6 Datasets) | Queries (GPU / CPU) per sec.  
+---|---|---  
+[multi-qa-mpnet-base-dot-v1](https://huggingface.co/sentence-transformers/multi-qa-mpnet-base-dot-v1) | 57.60 | 4,000 / 170  
+[multi-qa-distilbert-dot-v1](https://huggingface.co/sentence-transformers/multi-qa-distilbert-dot-v1) | 52.51 | 7,000 / 350  
+[multi-qa-MiniLM-L6-dot-v1](https://huggingface.co/sentence-transformers/multi-qa-MiniLM-L6-dot-v1) | 49.19 | 18,000 / 750  
+These models produce normalized vectors of length 1, which can be used with dot-product, cosine-similarity and Euclidean distance as the similarity functions:
+Model | Performance Semantic Search (6 Datasets) | Queries (GPU / CPU) per sec.  
+---|---|---  
+[multi-qa-mpnet-base-cos-v1](https://huggingface.co/sentence-transformers/multi-qa-mpnet-base-cos-v1) | 57.46 | 4,000 / 170  
+[multi-qa-distilbert-cos-v1](https://huggingface.co/sentence-transformers/multi-qa-distilbert-cos-v1) | 52.83 | 7,000 / 350  
+[multi-qa-MiniLM-L6-cos-v1](https://huggingface.co/sentence-transformers/multi-qa-MiniLM-L6-cos-v1) | 51.83 | 18,000 / 750  
+### MSMARCO Passage Models[](https://www.sbert.net/docs/sentence_transformer/pretrained_models.html#msmarco-passage-models "Link to this heading")
+The following models have been trained on the [MSMARCO Passage Ranking Dataset](https://github.com/microsoft/MSMARCO-Passage-Ranking), which contains 500k real queries from Bing search together with the relevant passages from various web sources. Given the diversity of the MSMARCO dataset, models also perform well on other domains.
+These models were tuned to be used with the dot-product similarity score:
+Model | MSMARCO MRR@10 dev set | Performance Semantic Search (6 Datasets) | Queries (GPU / CPU) per sec.  
+---|---|---|---  
+[msmarco-bert-base-dot-v5](https://huggingface.co/sentence-transformers/msmarco-bert-base-dot-v5) | 38.08 | 52.11 | 4,000 / 170  
+[msmarco-distilbert-dot-v5](https://huggingface.co/sentence-transformers/msmarco-distilbert-dot-v5) | 37.25 | 49.47 | 7,000 / 350  
+[msmarco-distilbert-base-tas-b](https://huggingface.co/sentence-transformers/msmarco-distilbert-base-tas-b) | 34.43 | 49.25 | 7,000 / 350  
+These models produce normalized vectors of length 1, which can be used with dot-product, cosine-similarity and Euclidean distance as the similarity functions:
+Model | MSMARCO MRR@10 dev set | Performance Semantic Search (6 Datasets) | Queries (GPU / CPU) per sec.  
+---|---|---|---  
+[msmarco-distilbert-cos-v5](https://huggingface.co/sentence-transformers/msmarco-distilbert-cos-v5) | 33.79 | 44.98 | 7,000 / 350  
+[msmarco-MiniLM-L12-cos-v5](https://huggingface.co/sentence-transformers/msmarco-MiniLM-L12-cos-v5) | 32.75 | 43.89 | 11,000 / 400  
+[msmarco-MiniLM-L6-cos-v5](https://huggingface.co/sentence-transformers/msmarco-MiniLM-L6-cos-v5) | 32.27 | 42.16 | 18,000 / 750  
+[MSMARCO Models - More details](https://www.sbert.net/docs/pretrained-models/msmarco-v5.html)
+## Multilingual Models[](https://www.sbert.net/docs/sentence_transformer/pretrained_models.html#multilingual-models "Link to this heading")
+The following models similar embeddings for the same texts in different languages. You do not need to specify the input language. Details are in our publication [Making Monolingual Sentence Embeddings Multilingual using Knowledge Distillation](https://arxiv.org/abs/2004.09813). We used the following 50+ languages: ar, bg, ca, cs, da, de, el, en, es, et, fa, fi, fr, fr-ca, gl, gu, he, hi, hr, hu, hy, id, it, ja, ka, ko, ku, lt, lv, mk, mn, mr, ms, my, nb, nl, pl, pt, pt-br, ro, ru, sk, sl, sq, sr, sv, th, tr, uk, ur, vi, zh-cn, zh-tw.
+### Semantic Similarity Models[](https://www.sbert.net/docs/sentence_transformer/pretrained_models.html#semantic-similarity-models "Link to this heading")
+These models find semantically similar sentences within one language or across languages:
+  * **[distiluse-base-multilingual-cased-v1](https://huggingface.co/sentence-transformers/distiluse-base-multilingual-cased-v1)** : Multilingual knowledge distilled version of [multilingual Universal Sentence Encoder](https://arxiv.org/abs/1907.04307). Supports 15 languages: Arabic, Chinese, Dutch, English, French, German, Italian, Korean, Polish, Portuguese, Russian, Spanish, Turkish.
+  * **[distiluse-base-multilingual-cased-v2](https://huggingface.co/sentence-transformers/distiluse-base-multilingual-cased-v2)** : Multilingual knowledge distilled version of [multilingual Universal Sentence Encoder](https://arxiv.org/abs/1907.04307). This version supports 50+ languages, but performs a bit weaker than the v1 model.
+  * **[paraphrase-multilingual-MiniLM-L12-v2](https://huggingface.co/sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2)** - Multilingual version of [paraphrase-MiniLM-L12-v2](https://huggingface.co/sentence-transformers/paraphrase-MiniLM-L12-v2), trained on parallel data for 50+ languages.
+  * **[paraphrase-multilingual-mpnet-base-v2](https://huggingface.co/sentence-transformers/paraphrase-multilingual-mpnet-base-v2)** - Multilingual version of [paraphrase-mpnet-base-v2](https://huggingface.co/sentence-transformers/paraphrase-mpnet-base-v2), trained on parallel data for 50+ languages.
+
+
+### Bitext Mining[](https://www.sbert.net/docs/sentence_transformer/pretrained_models.html#bitext-mining "Link to this heading")
+Bitext mining describes the process of finding translated sentence pairs in two languages. If this is your use-case, the following model gives the best performance:
+  * **[LaBSE](https://huggingface.co/sentence-transformers/LaBSE)** - [LaBSE](https://arxiv.org/abs/2007.01852) Model. Supports 109 languages. Works well for finding translation pairs in multiple languages. As detailed [here](https://arxiv.org/abs/2004.09813), LaBSE works less well for assessing the similarity of sentence pairs that are not translations of each other.
+
+
+Extending a model to new languages is easy by following [Training Examples > Multilingual Models](https://www.sbert.net/examples/sentence_transformer/training/multilingual/README.html).
+## Image & Text-Models[](https://www.sbert.net/docs/sentence_transformer/pretrained_models.html#image-text-models "Link to this heading")
+The following models can embed images and text into a joint vector space. See [Usage > Image Search](https://www.sbert.net/examples/sentence_transformer/applications/image-search/README.html) for more details how to use for text2image-search, image2image-search, image clustering, and zero-shot image classification.
+The following models are available with their respective Top 1 accuracy on zero-shot ImageNet validation dataset.
+Model | Top 1 Performance  
+---|---  
+[clip-ViT-L-14](https://huggingface.co/sentence-transformers/clip-ViT-L-14) | 75.4  
+[clip-ViT-B-16](https://huggingface.co/sentence-transformers/clip-ViT-B-16) | 68.1  
+[clip-ViT-B-32](https://huggingface.co/sentence-transformers/clip-ViT-B-32) | 63.3  
+We further provide this multilingual text-image model:
+  * **[clip-ViT-B-32-multilingual-v1](https://huggingface.co/sentence-transformers/clip-ViT-B-32-multilingual-v1)** - Multilingual text encoder for the [clip-ViT-B-32](https://huggingface.co/sentence-transformers/clip-ViT-B-32) model using [Multilingual Knowledge Distillation](https://arxiv.org/abs/2004.09813). This model can encode text in 50+ languages to match the image vectors from the [clip-ViT-B-32](https://huggingface.co/sentence-transformers/clip-ViT-B-32) model.
+
+
+## INSTRUCTOR models[](https://www.sbert.net/docs/sentence_transformer/pretrained_models.html#instructor-models "Link to this heading")
+Some INSTRUCTOR models, such as [hkunlp/instructor-large](https://huggingface.co/hkunlp/instructor-large), are natively supported in Sentence Transformers. These models are special, as they are trained with instructions in mind. Notably, the primary difference between normal Sentence Transformer models and Instructor models is that the latter do not include the instructions themselves in the pooling step.
+The following models work out of the box:
+  * [hkunlp/instructor-base](https://huggingface.co/hkunlp/instructor-base)
+  * [hkunlp/instructor-large](https://huggingface.co/hkunlp/instructor-large)
+  * [hkunlp/instructor-xl](https://huggingface.co/hkunlp/instructor-xl)
+
+
+You can use these models like so:
+```
+from sentence_transformers import SentenceTransformer
+model = SentenceTransformer("hkunlp/instructor-large")
+embeddings = model.encode(
+  [
+    "Dynamical Scalar Degree of Freedom in Horava-Lifshitz Gravity",
+    "Comparison of Atmospheric Neutrino Flux Calculations at Low Energies",
+    "Fermion Bags in the Massive Gross-Neveu Model",
+    "QCD corrections to Associated t-tbar-H production at the Tevatron",
+  ],
+  prompt="Represent the Medicine sentence for clustering: ",
+)
+print(embeddings.shape)
+# => (4, 768)
+
+```
+Copy to clipboard
+For example, for information retrieval:
+```
+from sentence_transformers import SentenceTransformer
+from sentence_transformers.util import cos_sim
+model = SentenceTransformer("hkunlp/instructor-large")
+query = "where is the food stored in a yam plant"
+query_instruction = (
+  "Represent the Wikipedia question for retrieving supporting documents: "
+)
+corpus = [
+  'Yams are perennial herbaceous vines native to Africa, Asia, and the Americas and cultivated for the consumption of their starchy tubers in many temperate and tropical regions. The tubers themselves, also called "yams", come in a variety of forms owing to numerous cultivars and related species.',
+  "The disparate impact theory is especially controversial under the Fair Housing Act because the Act regulates many activities relating to housing, insurance, and mortgage loansâ€”and some scholars have argued that the theory's use under the Fair Housing Act, combined with extensions of the Community Reinvestment Act, contributed to rise of sub-prime lending and the crash of the U.S. housing market and ensuing global economic recession",
+  "Disparate impact in United States labor law refers to practices in employment, housing, and other areas that adversely affect one group of people of a protected characteristic more than another, even though rules applied by employers or landlords are formally neutral. Although the protected classes vary by statute, most federal civil rights laws protect based on race, color, religion, national origin, and sex as protected traits, and some laws include disability status and other traits as well.",
+]
+corpus_instruction = "Represent the Wikipedia document for retrieval: "
+query_embedding = model.encode(query, prompt=query_instruction)
+corpus_embeddings = model.encode(corpus, prompt=corpus_instruction)
+similarities = cos_sim(query_embedding, corpus_embeddings)
+print(similarities)
+# => tensor([[0.8835, 0.7037, 0.6970]])
+
+```
+Copy to clipboard
+All other Instructor models either 1) will not load as they refer to `InstructorEmbedding` in their `modules.json` or 2) require calling `model.set_pooling_include_prompt(include_prompt=False)` after loading.
+## Scientific Similarity Models[](https://www.sbert.net/docs/sentence_transformer/pretrained_models.html#scientific-similarity-models "Link to this heading")
+[SPECTER](https://arxiv.org/abs/2004.07180) is a model trained on scientific citations and can be used to estimate the similarity of two publications. We can use it to find similar papers.
+  * **[allenai-specter](https://huggingface.co/sentence-transformers/allenai-specter)** - [Semantic Search Python Example](https://github.com/UKPLab/sentence-transformers/tree/master/docs/sentence_transformer/../../examples/sentence_transformer/applications/semantic-search/semantic_search_publications.py) / [Semantic Search Colab Example](https://colab.research.google.com/drive/12hfBveGHRsxhPIUMmJYrll2lFU4fOX06)
+
+
+[ Previous](https://www.sbert.net/docs/sentence_transformer/usage/custom_models.html "Creating Custom Models") [Next ](https://www.sbert.net/docs/sentence_transformer/training_overview.html "Training Overview")
+© Copyright 2025.
+Built with [Sphinx](https://www.sphinx-doc.org/) using a [theme](https://github.com/readthedocs/sphinx_rtd_theme) provided by [Read the Docs](https://readthedocs.org). 

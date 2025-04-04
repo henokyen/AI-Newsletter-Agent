@@ -1,0 +1,319 @@
+[Skip to content](https://github.com/microsoft/semantic-kernel/#start-of-content)
+## Navigation Menu
+Toggle navigation
+[ ](https://github.com/)
+[ Sign in ](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fmicrosoft%2Fsemantic-kernel%2F)
+  * Product 
+    * [ GitHub Copilot Write better code with AI  ](https://github.com/features/copilot)
+    * [ Security Find and fix vulnerabilities  ](https://github.com/features/security)
+    * [ Actions Automate any workflow  ](https://github.com/features/actions)
+    * [ Codespaces Instant dev environments  ](https://github.com/features/codespaces)
+    * [ Issues Plan and track work  ](https://github.com/features/issues)
+    * [ Code Review Manage code changes  ](https://github.com/features/code-review)
+    * [ Discussions Collaborate outside of code  ](https://github.com/features/discussions)
+    * [ Code Search Find more, search less  ](https://github.com/features/code-search)
+Explore
+    * [ All features ](https://github.com/features)
+    * [ Documentation ](https://docs.github.com)
+    * [ GitHub Skills ](https://skills.github.com)
+    * [ Blog ](https://github.blog)
+  * Solutions 
+By company size
+    * [ Enterprises ](https://github.com/enterprise)
+    * [ Small and medium teams ](https://github.com/team)
+    * [ Startups ](https://github.com/enterprise/startups)
+    * [ Nonprofits ](https://github.com/solutions/industry/nonprofits)
+By use case
+    * [ DevSecOps ](https://github.com/solutions/use-case/devsecops)
+    * [ DevOps ](https://github.com/solutions/use-case/devops)
+    * [ CI/CD ](https://github.com/solutions/use-case/ci-cd)
+    * [ View all use cases ](https://github.com/solutions/use-case)
+By industry
+    * [ Healthcare ](https://github.com/solutions/industry/healthcare)
+    * [ Financial services ](https://github.com/solutions/industry/financial-services)
+    * [ Manufacturing ](https://github.com/solutions/industry/manufacturing)
+    * [ Government ](https://github.com/solutions/industry/government)
+    * [ View all industries ](https://github.com/solutions/industry)
+[ View all solutions ](https://github.com/solutions)
+  * Resources 
+Topics
+    * [ AI ](https://github.com/resources/articles/ai)
+    * [ DevOps ](https://github.com/resources/articles/devops)
+    * [ Security ](https://github.com/resources/articles/security)
+    * [ Software Development ](https://github.com/resources/articles/software-development)
+    * [ View all ](https://github.com/resources/articles)
+Explore
+    * [ Learning Pathways ](https://resources.github.com/learn/pathways)
+    * [ Events & Webinars ](https://resources.github.com)
+    * [ Ebooks & Whitepapers ](https://github.com/resources/whitepapers)
+    * [ Customer Stories ](https://github.com/customer-stories)
+    * [ Partners ](https://partner.github.com)
+    * [ Executive Insights ](https://github.com/solutions/executive-insights)
+  * Open Source 
+    * [ GitHub Sponsors Fund open source developers  ](https://github.com/sponsors)
+    * [ The ReadME Project GitHub community articles  ](https://github.com/readme)
+Repositories
+    * [ Topics ](https://github.com/topics)
+    * [ Trending ](https://github.com/trending)
+    * [ Collections ](https://github.com/collections)
+  * Enterprise 
+    * [ Enterprise platform AI-powered developer platform  ](https://github.com/enterprise)
+Available add-ons
+    * [ Advanced Security Enterprise-grade security features  ](https://github.com/enterprise/advanced-security)
+    * [ Copilot for business Enterprise-grade AI features  ](https://github.com/features/copilot/copilot-business)
+    * [ Premium Support Enterprise-grade 24/7 support  ](https://github.com/premium-support)
+  * [Pricing](https://github.com/pricing)
+
+
+Search or jump to...
+# Search code, repositories, users, issues, pull requests...
+Search 
+Clear
+[Search syntax tips](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax)
+#  Provide feedback 
+We read every piece of feedback, and take your input very seriously.
+Include my email address so I can be contacted
+Cancel  Submit feedback 
+#  Saved searches 
+## Use saved searches to filter your results more quickly
+Name
+Query
+To see all available qualifiers, see our [documentation](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax). 
+Cancel  Create saved search 
+[ Sign in ](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fmicrosoft%2Fsemantic-kernel%2F)
+[ Sign up ](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E&source=header-repo&source_repo=microsoft%2Fsemantic-kernel) Reseting focus
+You signed in with another tab or window. [Reload](https://github.com/microsoft/semantic-kernel/) to refresh your session. You signed out in another tab or window. [Reload](https://github.com/microsoft/semantic-kernel/) to refresh your session. You switched accounts on another tab or window. [Reload](https://github.com/microsoft/semantic-kernel/) to refresh your session. Dismiss alert
+{{ message }}
+[ microsoft ](https://github.com/microsoft) / **[semantic-kernel](https://github.com/microsoft/semantic-kernel) ** Public
+  * [ Notifications ](https://github.com/login?return_to=%2Fmicrosoft%2Fsemantic-kernel) You must be signed in to change notification settings
+  * [ Fork 3.6k ](https://github.com/login?return_to=%2Fmicrosoft%2Fsemantic-kernel)
+  * [ Star  23.8k ](https://github.com/login?return_to=%2Fmicrosoft%2Fsemantic-kernel)
+
+
+Integrate cutting-edge LLM technology quickly and easily into your apps 
+[aka.ms/semantic-kernel](https://aka.ms/semantic-kernel "https://aka.ms/semantic-kernel")
+### License
+[ MIT license ](https://github.com/microsoft/semantic-kernel/blob/main/LICENSE)
+[ 23.8k stars ](https://github.com/microsoft/semantic-kernel/stargazers) [ 3.6k forks ](https://github.com/microsoft/semantic-kernel/forks) [ Branches ](https://github.com/microsoft/semantic-kernel/branches) [ Tags ](https://github.com/microsoft/semantic-kernel/tags) [ Activity ](https://github.com/microsoft/semantic-kernel/activity)
+[ Star  ](https://github.com/login?return_to=%2Fmicrosoft%2Fsemantic-kernel)
+[ Notifications ](https://github.com/login?return_to=%2Fmicrosoft%2Fsemantic-kernel) You must be signed in to change notification settings
+  * [ Code ](https://github.com/microsoft/semantic-kernel)
+  * [ Issues 426 ](https://github.com/microsoft/semantic-kernel/issues)
+  * [ Pull requests 43 ](https://github.com/microsoft/semantic-kernel/pulls)
+  * [ Discussions ](https://github.com/microsoft/semantic-kernel/discussions)
+  * [ Actions ](https://github.com/microsoft/semantic-kernel/actions)
+  * [ Projects 1 ](https://github.com/microsoft/semantic-kernel/projects)
+  * [ Security ](https://github.com/microsoft/semantic-kernel/security)
+  * [ Insights ](https://github.com/microsoft/semantic-kernel/pulse)
+
+
+Additional navigation options
+  * [ Code  ](https://github.com/microsoft/semantic-kernel)
+  * [ Issues  ](https://github.com/microsoft/semantic-kernel/issues)
+  * [ Pull requests  ](https://github.com/microsoft/semantic-kernel/pulls)
+  * [ Discussions  ](https://github.com/microsoft/semantic-kernel/discussions)
+  * [ Actions  ](https://github.com/microsoft/semantic-kernel/actions)
+  * [ Projects  ](https://github.com/microsoft/semantic-kernel/projects)
+  * [ Security  ](https://github.com/microsoft/semantic-kernel/security)
+  * [ Insights  ](https://github.com/microsoft/semantic-kernel/pulse)
+
+
+# microsoft/semantic-kernel
+main
+[Branches](https://github.com/microsoft/semantic-kernel/branches)[Tags](https://github.com/microsoft/semantic-kernel/tags)
+[](https://github.com/microsoft/semantic-kernel/branches)[](https://github.com/microsoft/semantic-kernel/tags)
+Go to file
+Code
+## Folders and files
+Name| Name| Last commit message| Last commit date  
+---|---|---|---  
+## Latest commit
+## History
+[4,212 Commits](https://github.com/microsoft/semantic-kernel/commits/main/)[](https://github.com/microsoft/semantic-kernel/commits/main/)  
+[.devcontainer](https://github.com/microsoft/semantic-kernel/tree/main/.devcontainer ".devcontainer")| [.devcontainer](https://github.com/microsoft/semantic-kernel/tree/main/.devcontainer ".devcontainer")  
+[.github](https://github.com/microsoft/semantic-kernel/tree/main/.github ".github")| [.github](https://github.com/microsoft/semantic-kernel/tree/main/.github ".github")  
+[.vscode](https://github.com/microsoft/semantic-kernel/tree/main/.vscode ".vscode")| [.vscode](https://github.com/microsoft/semantic-kernel/tree/main/.vscode ".vscode")  
+[docs](https://github.com/microsoft/semantic-kernel/tree/main/docs "docs")| [docs](https://github.com/microsoft/semantic-kernel/tree/main/docs "docs")  
+[dotnet](https://github.com/microsoft/semantic-kernel/tree/main/dotnet "dotnet")| [dotnet](https://github.com/microsoft/semantic-kernel/tree/main/dotnet "dotnet")  
+[java](https://github.com/microsoft/semantic-kernel/tree/main/java "java")| [java](https://github.com/microsoft/semantic-kernel/tree/main/java "java")  
+[prompt_template_samples](https://github.com/microsoft/semantic-kernel/tree/main/prompt_template_samples "prompt_template_samples")| [prompt_template_samples](https://github.com/microsoft/semantic-kernel/tree/main/prompt_template_samples "prompt_template_samples")  
+[python](https://github.com/microsoft/semantic-kernel/tree/main/python "python")| [python](https://github.com/microsoft/semantic-kernel/tree/main/python "python")  
+[.editorconfig](https://github.com/microsoft/semantic-kernel/blob/main/.editorconfig ".editorconfig")| [.editorconfig](https://github.com/microsoft/semantic-kernel/blob/main/.editorconfig ".editorconfig")  
+[.gitattributes](https://github.com/microsoft/semantic-kernel/blob/main/.gitattributes ".gitattributes")| [.gitattributes](https://github.com/microsoft/semantic-kernel/blob/main/.gitattributes ".gitattributes")  
+[.gitignore](https://github.com/microsoft/semantic-kernel/blob/main/.gitignore ".gitignore")| [.gitignore](https://github.com/microsoft/semantic-kernel/blob/main/.gitignore ".gitignore")  
+[CODE_OF_CONDUCT.md](https://github.com/microsoft/semantic-kernel/blob/main/CODE_OF_CONDUCT.md "CODE_OF_CONDUCT.md")| [CODE_OF_CONDUCT.md](https://github.com/microsoft/semantic-kernel/blob/main/CODE_OF_CONDUCT.md "CODE_OF_CONDUCT.md")  
+[COMMUNITY.md](https://github.com/microsoft/semantic-kernel/blob/main/COMMUNITY.md "COMMUNITY.md")| [COMMUNITY.md](https://github.com/microsoft/semantic-kernel/blob/main/COMMUNITY.md "COMMUNITY.md")  
+[CONTRIBUTING.md](https://github.com/microsoft/semantic-kernel/blob/main/CONTRIBUTING.md "CONTRIBUTING.md")| [CONTRIBUTING.md](https://github.com/microsoft/semantic-kernel/blob/main/CONTRIBUTING.md "CONTRIBUTING.md")  
+[FEATURE_MATRIX.md](https://github.com/microsoft/semantic-kernel/blob/main/FEATURE_MATRIX.md "FEATURE_MATRIX.md")| [FEATURE_MATRIX.md](https://github.com/microsoft/semantic-kernel/blob/main/FEATURE_MATRIX.md "FEATURE_MATRIX.md")  
+[LICENSE](https://github.com/microsoft/semantic-kernel/blob/main/LICENSE "LICENSE")| [LICENSE](https://github.com/microsoft/semantic-kernel/blob/main/LICENSE "LICENSE")  
+[README.md](https://github.com/microsoft/semantic-kernel/blob/main/README.md "README.md")| [README.md](https://github.com/microsoft/semantic-kernel/blob/main/README.md "README.md")  
+[SECURITY.md](https://github.com/microsoft/semantic-kernel/blob/main/SECURITY.md "SECURITY.md")| [SECURITY.md](https://github.com/microsoft/semantic-kernel/blob/main/SECURITY.md "SECURITY.md")  
+[TRANSPARENCY_FAQS.md](https://github.com/microsoft/semantic-kernel/blob/main/TRANSPARENCY_FAQS.md "TRANSPARENCY_FAQS.md")| [TRANSPARENCY_FAQS.md](https://github.com/microsoft/semantic-kernel/blob/main/TRANSPARENCY_FAQS.md "TRANSPARENCY_FAQS.md")  
+View all files  
+## Repository files navigation
+  * [README](https://github.com/microsoft/semantic-kernel/)
+  * [Code of conduct](https://github.com/microsoft/semantic-kernel/)
+  * [MIT license](https://github.com/microsoft/semantic-kernel/)
+  * [Security](https://github.com/microsoft/semantic-kernel/)
+
+
+# Semantic Kernel
+[](https://github.com/microsoft/semantic-kernel/#semantic-kernel)
+## Status
+[](https://github.com/microsoft/semantic-kernel/#status)
+  * Python [![Python package](https://camo.githubusercontent.com/5bd2489464e65df25c82e01d5ff3f0c73aad4657158beb03fdeb62949e98b626/68747470733a2f2f696d672e736869656c64732e696f2f707970692f762f73656d616e7469632d6b65726e656c)](https://pypi.org/project/semantic-kernel/)
+  * .NET [![Nuget package](https://camo.githubusercontent.com/cb897a8c041d967db2ba16a18a3dadc31856b18f7c3da4963784d44733973a19/68747470733a2f2f696d672e736869656c64732e696f2f6e756765742f767072652f4d6963726f736f66742e53656d616e7469634b65726e656c)](https://www.nuget.org/packages/Microsoft.SemanticKernel/)
+
+
+## Overview
+[](https://github.com/microsoft/semantic-kernel/#overview)
+[![License: MIT](https://camo.githubusercontent.com/c804d19932805c1b45c9d5b3fb5a4d2f96968124edce34f97b795a971592763e/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6963656e73652f6d6963726f736f66742f73656d616e7469632d6b65726e656c)](https://github.com/microsoft/semantic-kernel/blob/main/LICENSE) [![Discord](https://camo.githubusercontent.com/d9a10340bcf8c20defb30dba9681ac41b96d9cd93f827ad1fb1ed90d10cea8c9/68747470733a2f2f696d672e736869656c64732e696f2f646973636f72642f313036333135323434313831393934323932323f6c6162656c3d446973636f7264266c6f676f3d646973636f7264266c6f676f436f6c6f723d776869746526636f6c6f723d643832363739)](https://aka.ms/SKDiscord)
+[Semantic Kernel](https://learn.microsoft.com/en-us/semantic-kernel/overview/) is an SDK that integrates Large Language Models (LLMs) like [OpenAI](https://platform.openai.com/docs/introduction), [Azure OpenAI](https://azure.microsoft.com/en-us/products/ai-services/openai-service), and [Hugging Face](https://huggingface.co/) with conventional programming languages like C#, Python, and Java. Semantic Kernel achieves this by allowing you to define [plugins](https://learn.microsoft.com/en-us/semantic-kernel/concepts/plugins) that can be chained together in just a [few lines of code](https://learn.microsoft.com/en-us/semantic-kernel/ai-orchestration/chaining-functions?tabs=Csharp#using-the-runasync-method-to-simplify-your-code).
+What makes Semantic Kernel _special_ , however, is its ability to _automatically_ orchestrate plugins with AI. With Semantic Kernel [planners](https://learn.microsoft.com/en-us/semantic-kernel/ai-orchestration/planner), you can ask an LLM to generate a plan that achieves a user's unique goal. Afterwards, Semantic Kernel will execute the plan for the user.
+It provides:
+  * abstractions for AI services (such as chat, text to images, audio to text, etc.) and memory stores
+  * implementations of those abstractions for services from [OpenAI](https://platform.openai.com/docs/introduction), [Azure OpenAI](https://azure.microsoft.com/en-us/products/ai-services/openai-service), [Hugging Face](https://huggingface.co/), local models, and more, and for a multitude of vector databases, such as those from [Chroma](https://docs.trychroma.com/getting-started), [Qdrant](https://qdrant.tech/), [Milvus](https://milvus.io/), and [Azure](https://learn.microsoft.com/en-us/azure/search/search-what-is-azure-search)
+  * a common representation for [plugins](https://learn.microsoft.com/en-us/semantic-kernel/ai-orchestration/plugins), which can then be orchestrated automatically by AI
+  * the ability to create such plugins from a multitude of sources, including from OpenAPI specifications, prompts, and arbitrary code written in the target language
+  * extensible support for prompt management and rendering, including built-in handling of common formats like Handlebars and Liquid
+  * and a wealth of functionality layered on top of these abstractions, such as filters for responsible AI, dependency injection integration, and more.
+
+
+Semantic Kernel is utilized by enterprises due to its flexibility, modularity and observability. Backed with security enhancing capabilities like telemetry support, and hooks and filters so you’ll feel confident you’re delivering responsible AI solutions at scale. Semantic Kernel was designed to be future proof, easily connecting your code to the latest AI models evolving with the technology as it advances. When new models are released, you’ll simply swap them out without needing to rewrite your entire codebase.
+#### Please star the repo to show your support for this project!
+[](https://github.com/microsoft/semantic-kernel/#please-star-the-repo-to-show-your-support-for-this-project)
+[![Enterprise-ready](https://camo.githubusercontent.com/72bed019cc25e821a2ddec3db2c9e5923729397b642aadc95955061add10111f/68747470733a2f2f6c6561726e2e6d6963726f736f66742e636f6d2f656e2d75732f73656d616e7469632d6b65726e656c2f6d656469612f656e74657270726973652d72656164792e706e67)](https://camo.githubusercontent.com/72bed019cc25e821a2ddec3db2c9e5923729397b642aadc95955061add10111f/68747470733a2f2f6c6561726e2e6d6963726f736f66742e636f6d2f656e2d75732f73656d616e7469632d6b65726e656c2f6d656469612f656e74657270726973652d72656164792e706e67)
+## Getting started with Semantic Kernel
+[](https://github.com/microsoft/semantic-kernel/#getting-started-with-semantic-kernel)
+The Semantic Kernel SDK is available in C#, Python, and Java. To get started, choose your preferred language below. See the [Feature Matrix](https://learn.microsoft.com/en-us/semantic-kernel/get-started/supported-languages) for a breakdown of feature parity between our currently supported languages.
+[![](https://user-images.githubusercontent.com/371009/230673036-fad1e8e6-5d48-49b1-a9c1-6f9834e0d165.png)](https://user-images.githubusercontent.com/371009/230673036-fad1e8e6-5d48-49b1-a9c1-6f9834e0d165.png) [Using Semantic Kernel in C#](https://github.com/microsoft/semantic-kernel/blob/main/dotnet/README.md) |  [![](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg) [Using Semantic Kernel in Python](https://github.com/microsoft/semantic-kernel/blob/main/python/README.md) |  [![Java logo](https://camo.githubusercontent.com/0d4a1f6377f0e8693de631a21733c9e81fc0b76451a2d8711dc248724ea3563f/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f656e2f332f33302f4a6176615f70726f6772616d6d696e675f6c616e67756167655f6c6f676f2e737667)](https://camo.githubusercontent.com/0d4a1f6377f0e8693de631a21733c9e81fc0b76451a2d8711dc248724ea3563f/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f656e2f332f33302f4a6176615f70726f6772616d6d696e675f6c616e67756167655f6c6f676f2e737667) [Using Semantic Kernel in Java](https://github.com/microsoft/semantic-kernel-java/blob/main/README.md)  
+---|---|---  
+The quickest way to get started with the basics is to get an API key from either OpenAI or Azure OpenAI and to run one of the C#, Python, and Java console applications/scripts below.
+### For C#:
+[](https://github.com/microsoft/semantic-kernel/#for-c)
+  1. Go to the Quick start page [here](https://learn.microsoft.com/en-us/semantic-kernel/get-started/quick-start-guide?pivots=programming-language-csharp) and follow the steps to dive in.
+  2. After installing the SDK, we advise you follow the steps and code detailed to write your first console app. [![dotnetmap](https://camo.githubusercontent.com/bd52db213944d6fe48304ab9157a490b4a888f5b0959f60b069ff6162dcdda2d/68747470733a2f2f6c6561726e2e6d6963726f736f66742e636f6d2f656e2d75732f73656d616e7469632d6b65726e656c2f6d656469612f646f746e65746d61702e706e67)](https://camo.githubusercontent.com/bd52db213944d6fe48304ab9157a490b4a888f5b0959f60b069ff6162dcdda2d/68747470733a2f2f6c6561726e2e6d6963726f736f66742e636f6d2f656e2d75732f73656d616e7469632d6b65726e656c2f6d656469612f646f746e65746d61702e706e67)
+
+
+### For Python:
+[](https://github.com/microsoft/semantic-kernel/#for-python)
+  1. Go to the Quick start page [here](https://learn.microsoft.com/en-us/semantic-kernel/get-started/quick-start-guide?pivots=programming-language-python) and follow the steps to dive in.
+  2. You'll need to ensure that you toggle to Python in the Choose a programming language table at the top of the page. [![pythonmap](https://camo.githubusercontent.com/38de147d60e8197d6ac9895159c81fe5441948f5b49e65d157b96d0403a386eb/68747470733a2f2f6c6561726e2e6d6963726f736f66742e636f6d2f656e2d75732f73656d616e7469632d6b65726e656c2f6d656469612f707974686f6e6d61702e706e67)](https://camo.githubusercontent.com/38de147d60e8197d6ac9895159c81fe5441948f5b49e65d157b96d0403a386eb/68747470733a2f2f6c6561726e2e6d6963726f736f66742e636f6d2f656e2d75732f73656d616e7469632d6b65726e656c2f6d656469612f707974686f6e6d61702e706e67)
+
+
+### For Java:
+[](https://github.com/microsoft/semantic-kernel/#for-java)
+The Java code is in the [semantic-kernel-java](https://github.com/microsoft/semantic-kernel-java) repository. See [semantic-kernel-java build](https://github.com/microsoft/semantic-kernel-java/blob/main/BUILD.md) for instructions on how to build and run the Java code.
+Please file Java Semantic Kernel-specific issues in the [semantic-kernel-java](https://github.com/microsoft/semantic-kernel-java) repository.
+## Learning how to use Semantic Kernel
+[](https://github.com/microsoft/semantic-kernel/#learning-how-to-use-semantic-kernel)
+The fastest way to learn how to use Semantic Kernel is with our C# and Python Jupyter notebooks. These notebooks demonstrate how to use Semantic Kernel with code snippets that you can run with a push of a button.
+  * [Getting Started with C# notebook](https://github.com/microsoft/semantic-kernel/blob/main/dotnet/notebooks/00-getting-started.ipynb)
+  * [Getting Started with Python notebook](https://github.com/microsoft/semantic-kernel/blob/main/python/samples/getting_started/00-getting-started.ipynb)
+
+
+Once you've finished the getting started notebooks, you can then check out the main walkthroughs on our Learn site. Each sample comes with a completed C# and Python project that you can run locally.
+  1. 📖 [Getting Started](https://learn.microsoft.com/en-us/semantic-kernel/get-started/quick-start-guide)
+  2. 🔌 [Detailed Samples](https://learn.microsoft.com/en-us/semantic-kernel/get-started/detailed-samples)
+  3. 💡 [Concepts](https://learn.microsoft.com/en-us/semantic-kernel/concepts/kernel)
+
+
+Finally, refer to our API references for more details on the C# and Python APIs:
+  * [C# API reference](https://learn.microsoft.com/en-us/dotnet/api/microsoft.semantickernel?view=semantic-kernel-dotnet)
+  * [Python API reference](https://learn.microsoft.com/en-us/python/api/semantic-kernel/semantic_kernel?view=semantic-kernel-python)
+  * Java API reference (coming soon)
+
+
+## Visual Studio Code extension: design semantic functions with ease
+[](https://github.com/microsoft/semantic-kernel/#visual-studio-code-extension-design-semantic-functions-with-ease)
+The Semantic Kernel extension for Visual Studio Code makes it easy to design and test semantic functions. The extension provides an interface for designing semantic functions and allows you to test them with the push of a button with your existing models and data.
+## Join the community
+[](https://github.com/microsoft/semantic-kernel/#join-the-community)
+We welcome your contributions and suggestions to the SK community! One of the easiest ways to participate is to engage in discussions in the GitHub repository. Bug reports and fixes are welcome!
+For new features, components, or extensions, please open an issue and discuss with us before sending a PR. This is to avoid rejection as we might be taking the core in a different direction, but also to consider the impact on the larger ecosystem.
+To learn more and get started:
+  * Read the [documentation](https://aka.ms/sk/learn)
+  * Learn how to [contribute](https://learn.microsoft.com/en-us/semantic-kernel/support/contributing) to the project
+  * Ask questions in the [GitHub discussions](https://github.com/microsoft/semantic-kernel/discussions)
+  * Ask questions in the [Discord community](https://aka.ms/SKDiscord)
+  * Attend [regular office hours and SK community events](https://github.com/microsoft/semantic-kernel/blob/main/COMMUNITY.md)
+  * Follow the team on our [blog](https://aka.ms/sk/blog)
+
+
+## Contributor Wall of Fame
+[](https://github.com/microsoft/semantic-kernel/#contributor-wall-of-fame)
+[![semantic-kernel contributors](https://camo.githubusercontent.com/1431a4ef294afe7826d889a7dba9556f0014daea43fa7dc740ded52c131e543f/68747470733a2f2f636f6e747269622e726f636b732f696d6167653f7265706f3d6d6963726f736f66742f73656d616e7469632d6b65726e656c)](https://github.com/microsoft/semantic-kernel/graphs/contributors)
+## Code of Conduct
+[](https://github.com/microsoft/semantic-kernel/#code-of-conduct)
+This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/). For more information, see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or contact opencode@microsoft.com with any additional questions or comments.
+## License
+[](https://github.com/microsoft/semantic-kernel/#license)
+Copyright (c) Microsoft Corporation. All rights reserved.
+Licensed under the [MIT](https://github.com/microsoft/semantic-kernel/blob/main/LICENSE) license.
+## About
+Integrate cutting-edge LLM technology quickly and easily into your apps 
+[aka.ms/semantic-kernel](https://aka.ms/semantic-kernel "https://aka.ms/semantic-kernel")
+### Topics
+[ sdk ](https://github.com/topics/sdk "Topic: sdk") [ ai ](https://github.com/topics/ai "Topic: ai") [ artificial-intelligence ](https://github.com/topics/artificial-intelligence "Topic: artificial-intelligence") [ openai ](https://github.com/topics/openai "Topic: openai") [ llm ](https://github.com/topics/llm "Topic: llm")
+### Resources
+[ Readme ](https://github.com/microsoft/semantic-kernel/#readme-ov-file)
+### License
+[ MIT license ](https://github.com/microsoft/semantic-kernel/#MIT-1-ov-file)
+### Code of conduct
+[ Code of conduct ](https://github.com/microsoft/semantic-kernel/#coc-ov-file)
+### Security policy
+[ Security policy ](https://github.com/microsoft/semantic-kernel/#security-ov-file)
+[ Activity](https://github.com/microsoft/semantic-kernel/activity)
+[ Custom properties](https://github.com/microsoft/semantic-kernel/custom-properties)
+### Stars
+[ **23.8k** stars](https://github.com/microsoft/semantic-kernel/stargazers)
+### Watchers
+[ **286** watching](https://github.com/microsoft/semantic-kernel/watchers)
+### Forks
+[ **3.6k** forks](https://github.com/microsoft/semantic-kernel/forks)
+[ Report repository ](https://github.com/contact/report-content?content_url=https%3A%2F%2Fgithub.com%2Fmicrosoft%2Fsemantic-kernel&report=microsoft+%28user%29)
+##  [Releases 193](https://github.com/microsoft/semantic-kernel/releases)
+[ dotnet-1.44.0 Latest  Mar 26, 2025 ](https://github.com/microsoft/semantic-kernel/releases/tag/dotnet-1.44.0)
+[+ 192 releases](https://github.com/microsoft/semantic-kernel/releases)
+##  [Packages 0](https://github.com/orgs/microsoft/packages?repo_name=semantic-kernel)
+##  [Contributors 378](https://github.com/microsoft/semantic-kernel/graphs/contributors)
+  * [ ![@dependabot\[bot\]](https://avatars.githubusercontent.com/in/29110?s=64&v=4) ](https://github.com/apps/dependabot)
+  * [ ![@markwallace-microsoft](https://avatars.githubusercontent.com/u/127216156?s=64&v=4) ](https://github.com/markwallace-microsoft)
+  * [ ![@moonbox3](https://avatars.githubusercontent.com/u/35585003?s=64&v=4) ](https://github.com/moonbox3)
+  * [ ![@dmytrostruk](https://avatars.githubusercontent.com/u/13853051?s=64&v=4) ](https://github.com/dmytrostruk)
+  * [ ![@shawncal](https://avatars.githubusercontent.com/u/36091529?s=64&v=4) ](https://github.com/shawncal)
+  * [ ![@RogerBarreto](https://avatars.githubusercontent.com/u/19890735?s=64&v=4) ](https://github.com/RogerBarreto)
+  * [ ![@eavanvalkenburg](https://avatars.githubusercontent.com/u/13749212?s=64&v=4) ](https://github.com/eavanvalkenburg)
+  * [ ![@SergeyMenshykh](https://avatars.githubusercontent.com/u/68852919?s=64&v=4) ](https://github.com/SergeyMenshykh)
+  * [ ![@stephentoub](https://avatars.githubusercontent.com/u/2642209?s=64&v=4) ](https://github.com/stephentoub)
+  * [ ![@johnoliver](https://avatars.githubusercontent.com/u/1615532?s=64&v=4) ](https://github.com/johnoliver)
+  * [ ![@crickman](https://avatars.githubusercontent.com/u/66376200?s=64&v=4) ](https://github.com/crickman)
+  * [ ![@TaoChenOSU](https://avatars.githubusercontent.com/u/12570346?s=64&v=4) ](https://github.com/TaoChenOSU)
+  * [ ![@lemillermicrosoft](https://avatars.githubusercontent.com/u/35783676?s=64&v=4) ](https://github.com/lemillermicrosoft)
+  * [ ![@dluc](https://avatars.githubusercontent.com/u/371009?s=64&v=4) ](https://github.com/dluc)
+
+
+[+ 364 contributors](https://github.com/microsoft/semantic-kernel/graphs/contributors)
+## Languages
+  * [ C# 68.8% ](https://github.com/microsoft/semantic-kernel/search?l=c%23)
+  * [ Python 29.2% ](https://github.com/microsoft/semantic-kernel/search?l=python)
+  * [ Jupyter Notebook 1.8% ](https://github.com/microsoft/semantic-kernel/search?l=jupyter-notebook)
+  * [ Handlebars 0.1% ](https://github.com/microsoft/semantic-kernel/search?l=handlebars)
+  * [ Bicep 0.1% ](https://github.com/microsoft/semantic-kernel/search?l=bicep)
+  * [ CSS 0.0% ](https://github.com/microsoft/semantic-kernel/search?l=css)
+
+
+## Footer
+[ ](https://github.com "GitHub") © 2025 GitHub, Inc. 
+### Footer navigation
+  * [Terms](https://docs.github.com/site-policy/github-terms/github-terms-of-service)
+  * [Privacy](https://docs.github.com/site-policy/privacy-policies/github-privacy-statement)
+  * [Security](https://github.com/security)
+  * [Status](https://www.githubstatus.com/)
+  * [Docs](https://docs.github.com/)
+  * [Contact](https://support.github.com?tags=dotcom-footer)
+  * Manage cookies 
+  * Do not share my personal information 
+
+
+You can’t perform that action at this time. 

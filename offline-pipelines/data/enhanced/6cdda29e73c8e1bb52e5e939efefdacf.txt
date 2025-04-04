@@ -1,0 +1,605 @@
+[Skip to content](https://github.com/BerriAI/litellm/#start-of-content)
+## Navigation Menu
+Toggle navigation
+[ ](https://github.com/)
+[ Sign in ](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2FBerriAI%2Flitellm%2F)
+  * Product 
+    * [ GitHub Copilot Write better code with AI  ](https://github.com/features/copilot)
+    * [ Security Find and fix vulnerabilities  ](https://github.com/features/security)
+    * [ Actions Automate any workflow  ](https://github.com/features/actions)
+    * [ Codespaces Instant dev environments  ](https://github.com/features/codespaces)
+    * [ Issues Plan and track work  ](https://github.com/features/issues)
+    * [ Code Review Manage code changes  ](https://github.com/features/code-review)
+    * [ Discussions Collaborate outside of code  ](https://github.com/features/discussions)
+    * [ Code Search Find more, search less  ](https://github.com/features/code-search)
+Explore
+    * [ All features ](https://github.com/features)
+    * [ Documentation ](https://docs.github.com)
+    * [ GitHub Skills ](https://skills.github.com)
+    * [ Blog ](https://github.blog)
+  * Solutions 
+By company size
+    * [ Enterprises ](https://github.com/enterprise)
+    * [ Small and medium teams ](https://github.com/team)
+    * [ Startups ](https://github.com/enterprise/startups)
+    * [ Nonprofits ](https://github.com/solutions/industry/nonprofits)
+By use case
+    * [ DevSecOps ](https://github.com/solutions/use-case/devsecops)
+    * [ DevOps ](https://github.com/solutions/use-case/devops)
+    * [ CI/CD ](https://github.com/solutions/use-case/ci-cd)
+    * [ View all use cases ](https://github.com/solutions/use-case)
+By industry
+    * [ Healthcare ](https://github.com/solutions/industry/healthcare)
+    * [ Financial services ](https://github.com/solutions/industry/financial-services)
+    * [ Manufacturing ](https://github.com/solutions/industry/manufacturing)
+    * [ Government ](https://github.com/solutions/industry/government)
+    * [ View all industries ](https://github.com/solutions/industry)
+[ View all solutions ](https://github.com/solutions)
+  * Resources 
+Topics
+    * [ AI ](https://github.com/resources/articles/ai)
+    * [ DevOps ](https://github.com/resources/articles/devops)
+    * [ Security ](https://github.com/resources/articles/security)
+    * [ Software Development ](https://github.com/resources/articles/software-development)
+    * [ View all ](https://github.com/resources/articles)
+Explore
+    * [ Learning Pathways ](https://resources.github.com/learn/pathways)
+    * [ Events & Webinars ](https://resources.github.com)
+    * [ Ebooks & Whitepapers ](https://github.com/resources/whitepapers)
+    * [ Customer Stories ](https://github.com/customer-stories)
+    * [ Partners ](https://partner.github.com)
+    * [ Executive Insights ](https://github.com/solutions/executive-insights)
+  * Open Source 
+    * [ GitHub Sponsors Fund open source developers  ](https://github.com/sponsors)
+    * [ The ReadME Project GitHub community articles  ](https://github.com/readme)
+Repositories
+    * [ Topics ](https://github.com/topics)
+    * [ Trending ](https://github.com/trending)
+    * [ Collections ](https://github.com/collections)
+  * Enterprise 
+    * [ Enterprise platform AI-powered developer platform  ](https://github.com/enterprise)
+Available add-ons
+    * [ Advanced Security Enterprise-grade security features  ](https://github.com/enterprise/advanced-security)
+    * [ Copilot for business Enterprise-grade AI features  ](https://github.com/features/copilot/copilot-business)
+    * [ Premium Support Enterprise-grade 24/7 support  ](https://github.com/premium-support)
+  * [Pricing](https://github.com/pricing)
+
+
+Search or jump to...
+# Search code, repositories, users, issues, pull requests...
+Search 
+Clear
+[Search syntax tips](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax)
+#  Provide feedback 
+We read every piece of feedback, and take your input very seriously.
+Include my email address so I can be contacted
+Cancel  Submit feedback 
+#  Saved searches 
+## Use saved searches to filter your results more quickly
+Name
+Query
+To see all available qualifiers, see our [documentation](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax). 
+Cancel  Create saved search 
+[ Sign in ](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2FBerriAI%2Flitellm%2F)
+[ Sign up ](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E&source=header-repo&source_repo=BerriAI%2Flitellm) Reseting focus
+You signed in with another tab or window. [Reload](https://github.com/BerriAI/litellm/) to refresh your session. You signed out in another tab or window. [Reload](https://github.com/BerriAI/litellm/) to refresh your session. You switched accounts on another tab or window. [Reload](https://github.com/BerriAI/litellm/) to refresh your session. Dismiss alert
+{{ message }}
+[ BerriAI ](https://github.com/BerriAI) / **[litellm](https://github.com/BerriAI/litellm) ** Public
+  * Sponsor
+#  Sponsor BerriAI/litellm 
+  * [ Notifications ](https://github.com/login?return_to=%2FBerriAI%2Flitellm) You must be signed in to change notification settings
+  * [ Fork 2.5k ](https://github.com/login?return_to=%2FBerriAI%2Flitellm)
+  * [ Star  19.9k ](https://github.com/login?return_to=%2FBerriAI%2Flitellm)
+
+
+Python SDK, Proxy Server (LLM Gateway) to call 100+ LLM APIs in OpenAI format - [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, Replicate, Groq] 
+[docs.litellm.ai/docs/](https://docs.litellm.ai/docs/ "https://docs.litellm.ai/docs/")
+### License
+[ View license ](https://github.com/BerriAI/litellm/blob/main/LICENSE)
+[ 19.9k stars ](https://github.com/BerriAI/litellm/stargazers) [ 2.5k forks ](https://github.com/BerriAI/litellm/forks) [ Branches ](https://github.com/BerriAI/litellm/branches) [ Tags ](https://github.com/BerriAI/litellm/tags) [ Activity ](https://github.com/BerriAI/litellm/activity)
+[ Star  ](https://github.com/login?return_to=%2FBerriAI%2Flitellm)
+[ Notifications ](https://github.com/login?return_to=%2FBerriAI%2Flitellm) You must be signed in to change notification settings
+  * [ Code ](https://github.com/BerriAI/litellm)
+  * [ Issues 1.1k ](https://github.com/BerriAI/litellm/issues)
+  * [ Pull requests 387 ](https://github.com/BerriAI/litellm/pulls)
+  * [ Discussions ](https://github.com/BerriAI/litellm/discussions)
+  * [ Actions ](https://github.com/BerriAI/litellm/actions)
+  * [ Projects 0 ](https://github.com/BerriAI/litellm/projects)
+  * [ Security ](https://github.com/BerriAI/litellm/security)
+  * [ Insights ](https://github.com/BerriAI/litellm/pulse)
+
+
+Additional navigation options
+  * [ Code  ](https://github.com/BerriAI/litellm)
+  * [ Issues  ](https://github.com/BerriAI/litellm/issues)
+  * [ Pull requests  ](https://github.com/BerriAI/litellm/pulls)
+  * [ Discussions  ](https://github.com/BerriAI/litellm/discussions)
+  * [ Actions  ](https://github.com/BerriAI/litellm/actions)
+  * [ Projects  ](https://github.com/BerriAI/litellm/projects)
+  * [ Security  ](https://github.com/BerriAI/litellm/security)
+  * [ Insights  ](https://github.com/BerriAI/litellm/pulse)
+
+
+# BerriAI/litellm
+main
+[**2339** Branches](https://github.com/BerriAI/litellm/branches)[**868** Tags](https://github.com/BerriAI/litellm/tags)
+[](https://github.com/BerriAI/litellm/branches)[](https://github.com/BerriAI/litellm/tags)
+Go to file
+Code
+## Folders and files
+Name| Name| Last commit message| Last commit date  
+---|---|---|---  
+## Latest commit
+## History
+[21,077 Commits](https://github.com/BerriAI/litellm/commits/main/)[](https://github.com/BerriAI/litellm/commits/main/)  
+[.circleci](https://github.com/BerriAI/litellm/tree/main/.circleci ".circleci")| [.circleci](https://github.com/BerriAI/litellm/tree/main/.circleci ".circleci")  
+[.devcontainer](https://github.com/BerriAI/litellm/tree/main/.devcontainer ".devcontainer")| [.devcontainer](https://github.com/BerriAI/litellm/tree/main/.devcontainer ".devcontainer")  
+[.github](https://github.com/BerriAI/litellm/tree/main/.github ".github")| [.github](https://github.com/BerriAI/litellm/tree/main/.github ".github")  
+[ci_cd](https://github.com/BerriAI/litellm/tree/main/ci_cd "ci_cd")| [ci_cd](https://github.com/BerriAI/litellm/tree/main/ci_cd "ci_cd")  
+[cookbook](https://github.com/BerriAI/litellm/tree/main/cookbook "cookbook")| [cookbook](https://github.com/BerriAI/litellm/tree/main/cookbook "cookbook")  
+[db_scripts](https://github.com/BerriAI/litellm/tree/main/db_scripts "db_scripts")| [db_scripts](https://github.com/BerriAI/litellm/tree/main/db_scripts "db_scripts")  
+[deploy](https://github.com/BerriAI/litellm/tree/main/deploy "deploy")| [deploy](https://github.com/BerriAI/litellm/tree/main/deploy "deploy")  
+[dist](https://github.com/BerriAI/litellm/tree/main/dist "dist")| [dist](https://github.com/BerriAI/litellm/tree/main/dist "dist")  
+[docker](https://github.com/BerriAI/litellm/tree/main/docker "docker")| [docker](https://github.com/BerriAI/litellm/tree/main/docker "docker")  
+[docs/my-website](https://github.com/BerriAI/litellm/tree/main/docs/my-website "This path skips through empty directories")| [docs/my-website](https://github.com/BerriAI/litellm/tree/main/docs/my-website "This path skips through empty directories")  
+[enterprise](https://github.com/BerriAI/litellm/tree/main/enterprise "enterprise")| [enterprise](https://github.com/BerriAI/litellm/tree/main/enterprise "enterprise")  
+[litellm-js](https://github.com/BerriAI/litellm/tree/main/litellm-js "litellm-js")| [litellm-js](https://github.com/BerriAI/litellm/tree/main/litellm-js "litellm-js")  
+[litellm-proxy-extras](https://github.com/BerriAI/litellm/tree/main/litellm-proxy-extras "litellm-proxy-extras")| [litellm-proxy-extras](https://github.com/BerriAI/litellm/tree/main/litellm-proxy-extras "litellm-proxy-extras")  
+[litellm](https://github.com/BerriAI/litellm/tree/main/litellm "litellm")| [litellm](https://github.com/BerriAI/litellm/tree/main/litellm "litellm")  
+[tests](https://github.com/BerriAI/litellm/tree/main/tests "tests")| [tests](https://github.com/BerriAI/litellm/tree/main/tests "tests")  
+[ui](https://github.com/BerriAI/litellm/tree/main/ui "ui")| [ui](https://github.com/BerriAI/litellm/tree/main/ui "ui")  
+[.dockerignore](https://github.com/BerriAI/litellm/blob/main/.dockerignore ".dockerignore")| [.dockerignore](https://github.com/BerriAI/litellm/blob/main/.dockerignore ".dockerignore")  
+[.env.example](https://github.com/BerriAI/litellm/blob/main/.env.example ".env.example")| [.env.example](https://github.com/BerriAI/litellm/blob/main/.env.example ".env.example")  
+[.flake8](https://github.com/BerriAI/litellm/blob/main/.flake8 ".flake8")| [.flake8](https://github.com/BerriAI/litellm/blob/main/.flake8 ".flake8")  
+[.git-blame-ignore-revs](https://github.com/BerriAI/litellm/blob/main/.git-blame-ignore-revs ".git-blame-ignore-revs")| [.git-blame-ignore-revs](https://github.com/BerriAI/litellm/blob/main/.git-blame-ignore-revs ".git-blame-ignore-revs")  
+[.gitattributes](https://github.com/BerriAI/litellm/blob/main/.gitattributes ".gitattributes")| [.gitattributes](https://github.com/BerriAI/litellm/blob/main/.gitattributes ".gitattributes")  
+[.gitignore](https://github.com/BerriAI/litellm/blob/main/.gitignore ".gitignore")| [.gitignore](https://github.com/BerriAI/litellm/blob/main/.gitignore ".gitignore")  
+[.pre-commit-config.yaml](https://github.com/BerriAI/litellm/blob/main/.pre-commit-config.yaml ".pre-commit-config.yaml")| [.pre-commit-config.yaml](https://github.com/BerriAI/litellm/blob/main/.pre-commit-config.yaml ".pre-commit-config.yaml")  
+[Dockerfile](https://github.com/BerriAI/litellm/blob/main/Dockerfile "Dockerfile")| [Dockerfile](https://github.com/BerriAI/litellm/blob/main/Dockerfile "Dockerfile")  
+[LICENSE](https://github.com/BerriAI/litellm/blob/main/LICENSE "LICENSE")| [LICENSE](https://github.com/BerriAI/litellm/blob/main/LICENSE "LICENSE")  
+[Makefile](https://github.com/BerriAI/litellm/blob/main/Makefile "Makefile")| [Makefile](https://github.com/BerriAI/litellm/blob/main/Makefile "Makefile")  
+[README.md](https://github.com/BerriAI/litellm/blob/main/README.md "README.md")| [README.md](https://github.com/BerriAI/litellm/blob/main/README.md "README.md")  
+[codecov.yaml](https://github.com/BerriAI/litellm/blob/main/codecov.yaml "codecov.yaml")| [codecov.yaml](https://github.com/BerriAI/litellm/blob/main/codecov.yaml "codecov.yaml")  
+[docker-compose.yml](https://github.com/BerriAI/litellm/blob/main/docker-compose.yml "docker-compose.yml")| [docker-compose.yml](https://github.com/BerriAI/litellm/blob/main/docker-compose.yml "docker-compose.yml")  
+[index.yaml](https://github.com/BerriAI/litellm/blob/main/index.yaml "index.yaml")| [index.yaml](https://github.com/BerriAI/litellm/blob/main/index.yaml "index.yaml")  
+[mcp_servers.json](https://github.com/BerriAI/litellm/blob/main/mcp_servers.json "mcp_servers.json")| [mcp_servers.json](https://github.com/BerriAI/litellm/blob/main/mcp_servers.json "mcp_servers.json")  
+[model_prices_and_context_window.json](https://github.com/BerriAI/litellm/blob/main/model_prices_and_context_window.json "model_prices_and_context_window.json")| [model_prices_and_context_window.json](https://github.com/BerriAI/litellm/blob/main/model_prices_and_context_window.json "model_prices_and_context_window.json")  
+[mypy.ini](https://github.com/BerriAI/litellm/blob/main/mypy.ini "mypy.ini")| [mypy.ini](https://github.com/BerriAI/litellm/blob/main/mypy.ini "mypy.ini")  
+[package-lock.json](https://github.com/BerriAI/litellm/blob/main/package-lock.json "package-lock.json")| [package-lock.json](https://github.com/BerriAI/litellm/blob/main/package-lock.json "package-lock.json")  
+[package.json](https://github.com/BerriAI/litellm/blob/main/package.json "package.json")| [package.json](https://github.com/BerriAI/litellm/blob/main/package.json "package.json")  
+[poetry.lock](https://github.com/BerriAI/litellm/blob/main/poetry.lock "poetry.lock")| [poetry.lock](https://github.com/BerriAI/litellm/blob/main/poetry.lock "poetry.lock")  
+[prometheus.yml](https://github.com/BerriAI/litellm/blob/main/prometheus.yml "prometheus.yml")| [prometheus.yml](https://github.com/BerriAI/litellm/blob/main/prometheus.yml "prometheus.yml")  
+[proxy_server_config.yaml](https://github.com/BerriAI/litellm/blob/main/proxy_server_config.yaml "proxy_server_config.yaml")| [proxy_server_config.yaml](https://github.com/BerriAI/litellm/blob/main/proxy_server_config.yaml "proxy_server_config.yaml")  
+[pyproject.toml](https://github.com/BerriAI/litellm/blob/main/pyproject.toml "pyproject.toml")| [pyproject.toml](https://github.com/BerriAI/litellm/blob/main/pyproject.toml "pyproject.toml")  
+[pyrightconfig.json](https://github.com/BerriAI/litellm/blob/main/pyrightconfig.json "pyrightconfig.json")| [pyrightconfig.json](https://github.com/BerriAI/litellm/blob/main/pyrightconfig.json "pyrightconfig.json")  
+[render.yaml](https://github.com/BerriAI/litellm/blob/main/render.yaml "render.yaml")| [render.yaml](https://github.com/BerriAI/litellm/blob/main/render.yaml "render.yaml")  
+[requirements.txt](https://github.com/BerriAI/litellm/blob/main/requirements.txt "requirements.txt")| [requirements.txt](https://github.com/BerriAI/litellm/blob/main/requirements.txt "requirements.txt")  
+[ruff.toml](https://github.com/BerriAI/litellm/blob/main/ruff.toml "ruff.toml")| [ruff.toml](https://github.com/BerriAI/litellm/blob/main/ruff.toml "ruff.toml")  
+[schema.prisma](https://github.com/BerriAI/litellm/blob/main/schema.prisma "schema.prisma")| [schema.prisma](https://github.com/BerriAI/litellm/blob/main/schema.prisma "schema.prisma")  
+[security.md](https://github.com/BerriAI/litellm/blob/main/security.md "security.md")| [security.md](https://github.com/BerriAI/litellm/blob/main/security.md "security.md")  
+View all files  
+## Repository files navigation
+  * [README](https://github.com/BerriAI/litellm/)
+  * [License](https://github.com/BerriAI/litellm/)
+  * [Security](https://github.com/BerriAI/litellm/)
+
+
+#  🚅 LiteLLM 
+[](https://github.com/BerriAI/litellm/#---------litellm----)
+[![Deploy to Render](https://camo.githubusercontent.com/a103822afe1d58c7da6beafbc0c65bb7b8d622dd193dded1b45b3c0ad6466d82/68747470733a2f2f72656e6465722e636f6d2f696d616765732f6465706c6f792d746f2d72656e6465722d627574746f6e2e737667)](https://render.com/deploy?repo=https://github.com/BerriAI/litellm) [ ![Deploy on Railway](https://camo.githubusercontent.com/e4002051668809c220b10ad92ddd6fb87f365d8cd4ff470e0aeca3bc5b05450e/68747470733a2f2f7261696c7761792e6170702f627574746f6e2e737667) ](https://railway.app/template/HLP0Ub?referralCode=jch2ME)
+Call all LLM APIs using the OpenAI format [Bedrock, Huggingface, VertexAI, TogetherAI, Azure, OpenAI, Groq etc.] 
+#### [LiteLLM Proxy Server (LLM Gateway)](https://docs.litellm.ai/docs/simple_proxy) | [ Hosted Proxy (Preview)](https://docs.litellm.ai/docs/hosted) | [Enterprise Tier](https://docs.litellm.ai/docs/enterprise)
+[](https://github.com/BerriAI/litellm/#litellm-proxy-server-llm-gateway---hosted-proxy-preview--enterprise-tier)
+####  [ ![PyPI Version](https://camo.githubusercontent.com/de190803172c4d35f85e73a0f4eec265b5029bb0ad250f402aac9ca1bd73bd79/68747470733a2f2f696d672e736869656c64732e696f2f707970692f762f6c6974656c6c6d2e737667) ](https://pypi.org/project/litellm/) [ ![Y Combinator W23](https://camo.githubusercontent.com/e1e0029e353d103690da84a20e88b7051eebbcdede2a1b35d9d1b78b0b0295cf/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f59253230436f6d62696e61746f722d5732332d6f72616e67653f7374796c653d666c61742d737175617265) ](https://www.ycombinator.com/companies/berriai) [ ![Whatsapp](https://camo.githubusercontent.com/78382e0d13839fedd81996b3e7cbecea33222e5ea36d54d07455a93dfd68e5d7/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d436861742532306f6e266d6573736167653d576861747341707026636f6c6f723d73756363657373266c6f676f3d5768617473417070267374796c653d666c61742d737175617265) ](https://wa.link/huol9n) [ ![Discord](https://camo.githubusercontent.com/bcba2d72b7345e8de3adc1f330b340b72f37842dd275a91c4f31154e23cc8cd0/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d436861742532306f6e266d6573736167653d446973636f726426636f6c6f723d626c7565266c6f676f3d446973636f7264267374796c653d666c61742d737175617265) ](https://discord.gg/wuPM9dRgDw)
+[](https://github.com/BerriAI/litellm/#----------------------------------------------------------------)
+LiteLLM manages:
+  * Translate inputs to provider's `completion`, `embedding`, and `image_generation` endpoints
+  * [Consistent output](https://docs.litellm.ai/docs/completion/output), text responses will always be available at `['choices'][0]['message']['content']`
+  * Retry/fallback logic across multiple deployments (e.g. Azure/OpenAI) - [Router](https://docs.litellm.ai/docs/routing)
+  * Set Budgets & Rate limits per project, api key, model [LiteLLM Proxy Server (LLM Gateway)](https://docs.litellm.ai/docs/simple_proxy)
+
+
+[**Jump to LiteLLM Proxy (LLM Gateway) Docs**](https://github.com/BerriAI/litellm?tab=readme-ov-file#openai-proxy---docs) [**Jump to Supported LLM Providers**](https://github.com/BerriAI/litellm?tab=readme-ov-file#supported-providers-docs)
+🚨 **Stable Release:** Use docker images with the `-stable` tag. These have undergone 12 hour load tests, before being published. [More information about the release cycle here](https://docs.litellm.ai/docs/proxy/release_cycle)
+Support for more providers. Missing a provider or LLM Platform, raise a [feature request](https://github.com/BerriAI/litellm/issues/new?assignees=&labels=enhancement&projects=&template=feature_request.yml&title=%5BFeature%5D%3A+).
+# Usage ([**Docs**](https://docs.litellm.ai/docs/))
+[](https://github.com/BerriAI/litellm/#usage-docs)
+Important
+LiteLLM v1.0.0 now requires `openai>=1.0.0`. Migration guide [here](https://docs.litellm.ai/docs/migration) LiteLLM v1.40.14+ now requires `pydantic>=2.0.0`. No changes required.
+[ ![Open In Colab](https://camo.githubusercontent.com/96889048f8a9014fdeba2a891f97150c6aac6e723f5190236b10215a97ed41f3/68747470733a2f2f636f6c61622e72657365617263682e676f6f676c652e636f6d2f6173736574732f636f6c61622d62616467652e737667) ](https://colab.research.google.com/github/BerriAI/litellm/blob/main/cookbook/liteLLM_Getting_Started.ipynb)
+```
+pip install litellm
+```
+
+```
+from litellm import completion
+import os
+## set ENV variables
+os.environ["OPENAI_API_KEY"] = "your-openai-key"
+os.environ["ANTHROPIC_API_KEY"] = "your-anthropic-key"
+messages = [{ "content": "Hello, how are you?","role": "user"}]
+# openai call
+response = completion(model="openai/gpt-4o", messages=messages)
+# anthropic call
+response = completion(model="anthropic/claude-3-sonnet-20240229", messages=messages)
+print(response)
+```
+
+### Response (OpenAI Format)
+[](https://github.com/BerriAI/litellm/#response-openai-format)
+```
+{
+  "id": "chatcmpl-565d891b-a42e-4c39-8d14-82a1f5208885",
+  "created": 1734366691,
+  "model": "claude-3-sonnet-20240229",
+  "object": "chat.completion",
+  "system_fingerprint": null,
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Hello! As an AI language model, I don't have feelings, but I'm operating properly and ready to assist you with any questions or tasks you may have. How can I help you today?",
+        "role": "assistant",
+        "tool_calls": null,
+        "function_call": null
+      }
+    }
+  ],
+  "usage": {
+    "completion_tokens": 43,
+    "prompt_tokens": 13,
+    "total_tokens": 56,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0
+  }
+}
+```
+
+Call any model supported by a provider, with `model=<provider_name>/<model_name>`. There might be provider-specific details here, so refer to [provider docs for more information](https://docs.litellm.ai/docs/providers)
+## Async ([Docs](https://docs.litellm.ai/docs/completion/stream#async-completion))
+[](https://github.com/BerriAI/litellm/#async-docs)
+```
+from litellm import acompletion
+import asyncio
+async def test_get_response():
+  user_message = "Hello, how are you?"
+  messages = [{"content": user_message, "role": "user"}]
+  response = await acompletion(model="openai/gpt-4o", messages=messages)
+  return response
+response = asyncio.run(test_get_response())
+print(response)
+```
+
+## Streaming ([Docs](https://docs.litellm.ai/docs/completion/stream))
+[](https://github.com/BerriAI/litellm/#streaming-docs)
+liteLLM supports streaming the model response back, pass `stream=True` to get a streaming iterator in response. Streaming is supported for all models (Bedrock, Huggingface, TogetherAI, Azure, OpenAI, etc.)
+```
+from litellm import completion
+response = completion(model="openai/gpt-4o", messages=messages, stream=True)
+for part in response:
+  print(part.choices[0].delta.content or "")
+# claude 2
+response = completion('anthropic/claude-3-sonnet-20240229', messages, stream=True)
+for part in response:
+  print(part)
+```
+
+### Response chunk (OpenAI Format)
+[](https://github.com/BerriAI/litellm/#response-chunk-openai-format)
+```
+{
+  "id": "chatcmpl-2be06597-eb60-4c70-9ec5-8cd2ab1b4697",
+  "created": 1734366925,
+  "model": "claude-3-sonnet-20240229",
+  "object": "chat.completion.chunk",
+  "system_fingerprint": null,
+  "choices": [
+    {
+      "finish_reason": null,
+      "index": 0,
+      "delta": {
+        "content": "Hello",
+        "role": "assistant",
+        "function_call": null,
+        "tool_calls": null,
+        "audio": null
+      },
+      "logprobs": null
+    }
+  ]
+}
+```
+
+## Logging Observability ([Docs](https://docs.litellm.ai/docs/observability/callbacks))
+[](https://github.com/BerriAI/litellm/#logging-observability-docs)
+LiteLLM exposes pre defined callbacks to send data to Lunary, MLflow, Langfuse, DynamoDB, s3 Buckets, Helicone, Promptlayer, Traceloop, Athina, Slack
+```
+from litellm import completion
+## set env variables for logging tools (when using MLflow, no API key set up is required)
+os.environ["LUNARY_PUBLIC_KEY"] = "your-lunary-public-key"
+os.environ["HELICONE_API_KEY"] = "your-helicone-auth-key"
+os.environ["LANGFUSE_PUBLIC_KEY"] = ""
+os.environ["LANGFUSE_SECRET_KEY"] = ""
+os.environ["ATHINA_API_KEY"] = "your-athina-api-key"
+os.environ["OPENAI_API_KEY"] = "your-openai-key"
+# set callbacks
+litellm.success_callback = ["lunary", "mlflow", "langfuse", "athina", "helicone"] # log input/output to lunary, langfuse, supabase, athina, helicone etc
+#openai call
+response = completion(model="openai/gpt-4o", messages=[{"role": "user", "content": "Hi 👋 - i'm openai"}])
+```
+
+# LiteLLM Proxy Server (LLM Gateway) - ([Docs](https://docs.litellm.ai/docs/simple_proxy))
+[](https://github.com/BerriAI/litellm/#litellm-proxy-server-llm-gateway---docs)
+Track spend + Load Balance across multiple projects
+[Hosted Proxy (Preview)](https://docs.litellm.ai/docs/hosted)
+The proxy provides:
+  1. [Hooks for auth](https://docs.litellm.ai/docs/proxy/virtual_keys#custom-auth)
+  2. [Hooks for logging](https://docs.litellm.ai/docs/proxy/logging#step-1---create-your-custom-litellm-callback-class)
+  3. [Cost tracking](https://docs.litellm.ai/docs/proxy/virtual_keys#tracking-spend)
+  4. [Rate Limiting](https://docs.litellm.ai/docs/proxy/users#set-rate-limits)
+
+
+## 📖 Proxy Endpoints - [Swagger Docs](https://litellm-api.up.railway.app/)
+[](https://github.com/BerriAI/litellm/#-proxy-endpoints---swagger-docs)
+## Quick Start Proxy - CLI
+[](https://github.com/BerriAI/litellm/#quick-start-proxy---cli)
+```
+pip install 'litellm[proxy]'
+```
+
+### Step 1: Start litellm proxy
+[](https://github.com/BerriAI/litellm/#step-1-start-litellm-proxy)
+```
+$ litellm --model huggingface/bigcode/starcoder
+#INFO: Proxy running on http://0.0.0.0:4000
+```
+
+### Step 2: Make ChatCompletions Request to Proxy
+[](https://github.com/BerriAI/litellm/#step-2-make-chatcompletions-request-to-proxy)
+Important
+💡 [Use LiteLLM Proxy with Langchain (Python, JS), OpenAI SDK (Python, JS) Anthropic SDK, Mistral SDK, LlamaIndex, Instructor, Curl](https://docs.litellm.ai/docs/proxy/user_keys)
+```
+import openai # openai v1.0.0+
+client = openai.OpenAI(api_key="anything",base_url="http://0.0.0.0:4000") # set proxy to base_url
+# request sent to model set on litellm proxy, `litellm --model`
+response = client.chat.completions.create(model="gpt-3.5-turbo", messages = [
+  {
+    "role": "user",
+    "content": "this is a test request, write a short poem"
+  }
+])
+print(response)
+```
+
+## Proxy Key Management ([Docs](https://docs.litellm.ai/docs/proxy/virtual_keys))
+[](https://github.com/BerriAI/litellm/#proxy-key-management-docs)
+Connect the proxy with a Postgres DB to create proxy keys
+```
+# Get the code
+git clone https://github.com/BerriAI/litellm
+# Go to folder
+cd litellm
+# Add the master key - you can change this after setup
+echo 'LITELLM_MASTER_KEY="sk-1234"' > .env
+# Add the litellm salt key - you cannot change this after adding a model
+# It is used to encrypt / decrypt your LLM API Key credentials
+# We recommend - https://1password.com/password-generator/ 
+# password generator to get a random hash for litellm salt key
+echo 'LITELLM_SALT_KEY="sk-1234"' > .env
+source .env
+# Start
+docker-compose up
+```
+
+UI on `/ui` on your proxy server [![ui_3](https://private-user-images.githubusercontent.com/29436595/302077487-47c97d5e-b9be-4839-b28c-43d7f4f10033.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDMzNTcyMDYsIm5iZiI6MTc0MzM1NjkwNiwicGF0aCI6Ii8yOTQzNjU5NS8zMDIwNzc0ODctNDdjOTdkNWUtYjliZS00ODM5LWIyOGMtNDNkN2Y0ZjEwMDMzLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAzMzAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMzMwVDE3NDgyNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTg0MjI3NTk2ZmFiNDRiYTg0ZjNiOGYzZjJlNzAyNGJlNjgwNTdkNGIwZTUyZmIzMmU3ZTNhZTc1MWMzMGU5ZjcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.cIny1yBg-Y7-IjMvXFYW_wMre3uNbzaCpUr80j-CNHI)](https://private-user-images.githubusercontent.com/29436595/302077487-47c97d5e-b9be-4839-b28c-43d7f4f10033.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDMzNTcyMDYsIm5iZiI6MTc0MzM1NjkwNiwicGF0aCI6Ii8yOTQzNjU5NS8zMDIwNzc0ODctNDdjOTdkNWUtYjliZS00ODM5LWIyOGMtNDNkN2Y0ZjEwMDMzLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAzMzAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMzMwVDE3NDgyNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTg0MjI3NTk2ZmFiNDRiYTg0ZjNiOGYzZjJlNzAyNGJlNjgwNTdkNGIwZTUyZmIzMmU3ZTNhZTc1MWMzMGU5ZjcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.cIny1yBg-Y7-IjMvXFYW_wMre3uNbzaCpUr80j-CNHI) [ ![ui_3](https://private-user-images.githubusercontent.com/29436595/302077487-47c97d5e-b9be-4839-b28c-43d7f4f10033.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDMzNTcyMDYsIm5iZiI6MTc0MzM1NjkwNiwicGF0aCI6Ii8yOTQzNjU5NS8zMDIwNzc0ODctNDdjOTdkNWUtYjliZS00ODM5LWIyOGMtNDNkN2Y0ZjEwMDMzLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAzMzAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMzMwVDE3NDgyNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTg0MjI3NTk2ZmFiNDRiYTg0ZjNiOGYzZjJlNzAyNGJlNjgwNTdkNGIwZTUyZmIzMmU3ZTNhZTc1MWMzMGU5ZjcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.cIny1yBg-Y7-IjMvXFYW_wMre3uNbzaCpUr80j-CNHI) ](https://private-user-images.githubusercontent.com/29436595/302077487-47c97d5e-b9be-4839-b28c-43d7f4f10033.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDMzNTcyMDYsIm5iZiI6MTc0MzM1NjkwNiwicGF0aCI6Ii8yOTQzNjU5NS8zMDIwNzc0ODctNDdjOTdkNWUtYjliZS00ODM5LWIyOGMtNDNkN2Y0ZjEwMDMzLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAzMzAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMzMwVDE3NDgyNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTg0MjI3NTk2ZmFiNDRiYTg0ZjNiOGYzZjJlNzAyNGJlNjgwNTdkNGIwZTUyZmIzMmU3ZTNhZTc1MWMzMGU5ZjcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.cIny1yBg-Y7-IjMvXFYW_wMre3uNbzaCpUr80j-CNHI) [ ](https://private-user-images.githubusercontent.com/29436595/302077487-47c97d5e-b9be-4839-b28c-43d7f4f10033.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDMzNTcyMDYsIm5iZiI6MTc0MzM1NjkwNiwicGF0aCI6Ii8yOTQzNjU5NS8zMDIwNzc0ODctNDdjOTdkNWUtYjliZS00ODM5LWIyOGMtNDNkN2Y0ZjEwMDMzLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAzMzAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMzMwVDE3NDgyNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTg0MjI3NTk2ZmFiNDRiYTg0ZjNiOGYzZjJlNzAyNGJlNjgwNTdkNGIwZTUyZmIzMmU3ZTNhZTc1MWMzMGU5ZjcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.cIny1yBg-Y7-IjMvXFYW_wMre3uNbzaCpUr80j-CNHI)
+Set budgets and rate limits across multiple projects `POST /key/generate`
+### Request
+[](https://github.com/BerriAI/litellm/#request)
+```
+curl 'http://0.0.0.0:4000/key/generate' \
+--header 'Authorization: Bearer sk-1234' \
+--header 'Content-Type: application/json' \
+--data-raw '{"models": ["gpt-3.5-turbo", "gpt-4", "claude-2"], "duration": "20m","metadata": {"user": "ishaan@berri.ai", "team": "core-infra"}}'
+```
+
+### Expected Response
+[](https://github.com/BerriAI/litellm/#expected-response)
+```
+{
+  "key": "sk-kdEXbIqZRwEeEiHwdg7sFA", # Bearer token
+  "expires": "2023-11-19T01:38:25.838000+00:00" # datetime object
+}
+```
+
+## Supported Providers ([Docs](https://docs.litellm.ai/docs/providers))
+[](https://github.com/BerriAI/litellm/#supported-providers-docs)
+Provider | [Completion](https://docs.litellm.ai/docs/#basic-usage) | [Streaming](https://docs.litellm.ai/docs/completion/stream#streaming-responses) | [Async Completion](https://docs.litellm.ai/docs/completion/stream#async-completion) | [Async Streaming](https://docs.litellm.ai/docs/completion/stream#async-streaming) | [Async Embedding](https://docs.litellm.ai/docs/embedding/supported_embedding) | [Async Image Generation](https://docs.litellm.ai/docs/image_generation)  
+---|---|---|---|---|---|---  
+[openai](https://docs.litellm.ai/docs/providers/openai) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅  
+[azure](https://docs.litellm.ai/docs/providers/azure) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅  
+[AI/ML API](https://docs.litellm.ai/docs/providers/aiml) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅  
+[aws - sagemaker](https://docs.litellm.ai/docs/providers/aws_sagemaker) | ✅ | ✅ | ✅ | ✅ | ✅  
+[aws - bedrock](https://docs.litellm.ai/docs/providers/bedrock) | ✅ | ✅ | ✅ | ✅ | ✅  
+[google - vertex_ai](https://docs.litellm.ai/docs/providers/vertex) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅  
+[google - palm](https://docs.litellm.ai/docs/providers/palm) | ✅ | ✅ | ✅ | ✅  
+[google AI Studio - gemini](https://docs.litellm.ai/docs/providers/gemini) | ✅ | ✅ | ✅ | ✅  
+[mistral ai api](https://docs.litellm.ai/docs/providers/mistral) | ✅ | ✅ | ✅ | ✅ | ✅  
+[cloudflare AI Workers](https://docs.litellm.ai/docs/providers/cloudflare_workers) | ✅ | ✅ | ✅ | ✅  
+[cohere](https://docs.litellm.ai/docs/providers/cohere) | ✅ | ✅ | ✅ | ✅ | ✅  
+[anthropic](https://docs.litellm.ai/docs/providers/anthropic) | ✅ | ✅ | ✅ | ✅  
+[empower](https://docs.litellm.ai/docs/providers/empower) | ✅ | ✅ | ✅ | ✅  
+[huggingface](https://docs.litellm.ai/docs/providers/huggingface) | ✅ | ✅ | ✅ | ✅ | ✅  
+[replicate](https://docs.litellm.ai/docs/providers/replicate) | ✅ | ✅ | ✅ | ✅  
+[together_ai](https://docs.litellm.ai/docs/providers/togetherai) | ✅ | ✅ | ✅ | ✅  
+[openrouter](https://docs.litellm.ai/docs/providers/openrouter) | ✅ | ✅ | ✅ | ✅  
+[ai21](https://docs.litellm.ai/docs/providers/ai21) | ✅ | ✅ | ✅ | ✅  
+[baseten](https://docs.litellm.ai/docs/providers/baseten) | ✅ | ✅ | ✅ | ✅  
+[vllm](https://docs.litellm.ai/docs/providers/vllm) | ✅ | ✅ | ✅ | ✅  
+[nlp_cloud](https://docs.litellm.ai/docs/providers/nlp_cloud) | ✅ | ✅ | ✅ | ✅  
+[aleph alpha](https://docs.litellm.ai/docs/providers/aleph_alpha) | ✅ | ✅ | ✅ | ✅  
+[petals](https://docs.litellm.ai/docs/providers/petals) | ✅ | ✅ | ✅ | ✅  
+[ollama](https://docs.litellm.ai/docs/providers/ollama) | ✅ | ✅ | ✅ | ✅ | ✅  
+[deepinfra](https://docs.litellm.ai/docs/providers/deepinfra) | ✅ | ✅ | ✅ | ✅  
+[perplexity-ai](https://docs.litellm.ai/docs/providers/perplexity) | ✅ | ✅ | ✅ | ✅  
+[Groq AI](https://docs.litellm.ai/docs/providers/groq) | ✅ | ✅ | ✅ | ✅  
+[Deepseek](https://docs.litellm.ai/docs/providers/deepseek) | ✅ | ✅ | ✅ | ✅  
+[anyscale](https://docs.litellm.ai/docs/providers/anyscale) | ✅ | ✅ | ✅ | ✅  
+[IBM - watsonx.ai](https://docs.litellm.ai/docs/providers/watsonx) | ✅ | ✅ | ✅ | ✅ | ✅  
+[voyage ai](https://docs.litellm.ai/docs/providers/voyage) | ✅  
+[xinference [Xorbits Inference]](https://docs.litellm.ai/docs/providers/xinference) | ✅  
+[FriendliAI](https://docs.litellm.ai/docs/providers/friendliai) | ✅ | ✅ | ✅ | ✅  
+[Galadriel](https://docs.litellm.ai/docs/providers/galadriel) | ✅ | ✅ | ✅ | ✅  
+[**Read the Docs**](https://docs.litellm.ai/docs/)
+## Contributing
+[](https://github.com/BerriAI/litellm/#contributing)
+Interested in contributing? Contributions to LiteLLM Python SDK, Proxy Server, and contributing LLM integrations are both accepted and highly encouraged! [See our Contribution Guide for more details](https://docs.litellm.ai/docs/extras/contributing_code)
+# Enterprise
+[](https://github.com/BerriAI/litellm/#enterprise)
+For companies that need better security, user management and professional support
+[Talk to founders](https://calendly.com/d/4mp-gd3-k5k/litellm-1-1-onboarding-chat)
+This covers:
+  * ✅ **Features under the[LiteLLM Commercial License](https://docs.litellm.ai/docs/proxy/enterprise):**
+  * ✅ **Feature Prioritization**
+  * ✅ **Custom Integrations**
+  * ✅ **Professional Support - Dedicated discord + slack**
+  * ✅ **Custom SLAs**
+  * ✅ **Secure access with Single Sign-On**
+
+
+# Code Quality / Linting
+[](https://github.com/BerriAI/litellm/#code-quality--linting)
+LiteLLM follows the [Google Python Style Guide](https://google.github.io/styleguide/pyguide.html).
+We run:
+  * Ruff for [formatting and linting checks](https://github.com/BerriAI/litellm/blob/e19bb55e3b4c6a858b6e364302ebbf6633a51de5/.circleci/config.yml#L320)
+  * Mypy + Pyright for typing [1](https://github.com/BerriAI/litellm/blob/e19bb55e3b4c6a858b6e364302ebbf6633a51de5/.circleci/config.yml#L90), [2](https://github.com/BerriAI/litellm/blob/e19bb55e3b4c6a858b6e364302ebbf6633a51de5/.pre-commit-config.yaml#L4)
+  * Black for [formatting](https://github.com/BerriAI/litellm/blob/e19bb55e3b4c6a858b6e364302ebbf6633a51de5/.circleci/config.yml#L79)
+  * isort for [import sorting](https://github.com/BerriAI/litellm/blob/e19bb55e3b4c6a858b6e364302ebbf6633a51de5/.pre-commit-config.yaml#L10)
+
+
+If you have suggestions on how to improve the code quality feel free to open an issue or a PR.
+# Support / talk with founders
+[](https://github.com/BerriAI/litellm/#support--talk-with-founders)
+  * [Schedule Demo 👋](https://calendly.com/d/4mp-gd3-k5k/berriai-1-1-onboarding-litellm-hosted-version)
+  * [Community Discord 💭](https://discord.gg/wuPM9dRgDw)
+  * Our numbers 📞 +1 (770) 8783-106 / ‭+1 (412) 618-6238‬
+  * Our emails ✉️ ishaan@berri.ai / krrish@berri.ai
+
+
+# Why did we build this
+[](https://github.com/BerriAI/litellm/#why-did-we-build-this)
+  * **Need for simplicity** : Our code started to get extremely complicated managing & translating calls between Azure, OpenAI and Cohere.
+
+
+# Contributors
+[](https://github.com/BerriAI/litellm/#contributors)
+[ ![](https://camo.githubusercontent.com/8e29b23dcec9d07b46521758c401a2f3e4906ffe41e35179bd9908e7c4eeaa2a/68747470733a2f2f636f6e747269622e726f636b732f696d6167653f7265706f3d426572726941492f6c6974656c6c6d) ](https://github.com/BerriAI/litellm/graphs/contributors)
+## Run in Developer mode
+[](https://github.com/BerriAI/litellm/#run-in-developer-mode)
+### Services
+[](https://github.com/BerriAI/litellm/#services)
+  1. Setup .env file in root
+  2. Run dependant services `docker-compose up db prometheus`
+
+
+### Backend
+[](https://github.com/BerriAI/litellm/#backend)
+  1. (In root) create virtual environment `python -m venv .venv`
+  2. Activate virtual environment `source .venv/bin/activate`
+  3. Install dependencies `pip install -e ".[all]"`
+  4. Start proxy backend `uvicorn litellm.proxy.proxy_server:app --host localhost --port 4000 --reload`
+
+
+### Frontend
+[](https://github.com/BerriAI/litellm/#frontend)
+  1. Navigate to `ui/litellm-dashboard`
+  2. Install dependencies `npm install`
+  3. Run `npm run dev` to start the dashboard
+
+
+## About
+Python SDK, Proxy Server (LLM Gateway) to call 100+ LLM APIs in OpenAI format - [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, Replicate, Groq] 
+[docs.litellm.ai/docs/](https://docs.litellm.ai/docs/ "https://docs.litellm.ai/docs/")
+### Topics
+[ gateway ](https://github.com/topics/gateway "Topic: gateway") [ bedrock ](https://github.com/topics/bedrock "Topic: bedrock") [ openai ](https://github.com/topics/openai "Topic: openai") [ vertex-ai ](https://github.com/topics/vertex-ai "Topic: vertex-ai") [ azure-openai ](https://github.com/topics/azure-openai "Topic: azure-openai") [ llm ](https://github.com/topics/llm "Topic: llm") [ langchain ](https://github.com/topics/langchain "Topic: langchain") [ llmops ](https://github.com/topics/llmops "Topic: llmops") [ anthropic ](https://github.com/topics/anthropic "Topic: anthropic") [ openai-proxy ](https://github.com/topics/openai-proxy "Topic: openai-proxy") [ ai-gateway ](https://github.com/topics/ai-gateway "Topic: ai-gateway") [ llm-gateway ](https://github.com/topics/llm-gateway "Topic: llm-gateway")
+### Resources
+[ Readme ](https://github.com/BerriAI/litellm/#readme-ov-file)
+### License
+[ View license ](https://github.com/BerriAI/litellm/#License-1-ov-file)
+### Security policy
+[ Security policy ](https://github.com/BerriAI/litellm/#security-ov-file)
+[ Activity](https://github.com/BerriAI/litellm/activity)
+[ Custom properties](https://github.com/BerriAI/litellm/custom-properties)
+### Stars
+[ **19.9k** stars](https://github.com/BerriAI/litellm/stargazers)
+### Watchers
+[ **108** watching](https://github.com/BerriAI/litellm/watchers)
+### Forks
+[ **2.5k** forks](https://github.com/BerriAI/litellm/forks)
+[ Report repository ](https://github.com/contact/report-content?content_url=https%3A%2F%2Fgithub.com%2FBerriAI%2Flitellm&report=BerriAI+%28user%29)
+##  [Releases 809](https://github.com/BerriAI/litellm/releases)
+[ v1.65.0-stable Latest  Mar 30, 2025 ](https://github.com/BerriAI/litellm/releases/tag/v1.65.0-stable)
+[+ 808 releases](https://github.com/BerriAI/litellm/releases)
+## Sponsor this project
+  * <https://buy.stripe.com/9AQ03Kd3P91o0Q8bIS>
+
+
+##  [Packages 0](https://github.com/orgs/BerriAI/packages?repo_name=litellm)
+##  [Used by 9k](https://github.com/BerriAI/litellm/network/dependents)
+[
+  * ![@karlcarlo](https://avatars.githubusercontent.com/u/656965?s=64&v=4)
+  * ![@danywilliamta](https://avatars.githubusercontent.com/u/179829845?s=64&v=4)
+  * ![@adam-sioud](https://avatars.githubusercontent.com/u/134907338?s=64&v=4)
+  * ![@CursorShakur](https://avatars.githubusercontent.com/u/201118012?s=64&v=4)
+  * ![@QuocKhanhLuong](https://avatars.githubusercontent.com/u/178348626?s=64&v=4)
+  * ![@hacker-4-good](https://avatars.githubusercontent.com/u/91790864?s=64&v=4)
+  * ![@aleksichen](https://avatars.githubusercontent.com/u/5584424?s=64&v=4)
+  * ![@wagnerjt](https://avatars.githubusercontent.com/u/6751758?s=64&v=4)
+
++ 9,014  ](https://github.com/BerriAI/litellm/network/dependents)
+##  [Contributors 490](https://github.com/BerriAI/litellm/graphs/contributors)
+  * [ ![@ishaan-jaff](https://avatars.githubusercontent.com/u/29436595?s=64&v=4) ](https://github.com/ishaan-jaff)
+  * [ ![@krrishdholakia](https://avatars.githubusercontent.com/u/17561003?s=64&v=4) ](https://github.com/krrishdholakia)
+  * [ ![@Manouchehri](https://avatars.githubusercontent.com/u/7232674?s=64&v=4) ](https://github.com/Manouchehri)
+  * [ ![@msabramo](https://avatars.githubusercontent.com/u/305268?s=64&v=4) ](https://github.com/msabramo)
+  * [ ![@dependabot\[bot\]](https://avatars.githubusercontent.com/in/29110?s=64&v=4) ](https://github.com/apps/dependabot)
+  * [ ![@yujonglee](https://avatars.githubusercontent.com/u/61503739?s=64&v=4) ](https://github.com/yujonglee)
+  * [ ![@vincelwt](https://avatars.githubusercontent.com/u/5092466?s=64&v=4) ](https://github.com/vincelwt)
+  * [ ![@coconut49](https://avatars.githubusercontent.com/u/3363189?s=64&v=4) ](https://github.com/coconut49)
+  * [ ![@simonsanvil](https://avatars.githubusercontent.com/u/37579399?s=64&v=4) ](https://github.com/simonsanvil)
+  * [ ![@rick-github](https://avatars.githubusercontent.com/u/14946854?s=64&v=4) ](https://github.com/rick-github)
+  * [ ![@ShaunMaher](https://avatars.githubusercontent.com/u/6510825?s=64&v=4) ](https://github.com/ShaunMaher)
+  * [ ![@SunnyWan59](https://avatars.githubusercontent.com/u/94445569?s=64&v=4) ](https://github.com/SunnyWan59)
+  * [ ![@paul-gauthier](https://avatars.githubusercontent.com/u/69695708?s=64&v=4) ](https://github.com/paul-gauthier)
+  * [ ![@paneru-rajan](https://avatars.githubusercontent.com/u/4735661?s=64&v=4) ](https://github.com/paneru-rajan)
+
+
+[+ 476 contributors](https://github.com/BerriAI/litellm/graphs/contributors)
+## Languages
+  * [ Python 91.6% ](https://github.com/BerriAI/litellm/search?l=python)
+  * [ TypeScript 7.6% ](https://github.com/BerriAI/litellm/search?l=typescript)
+  * [ HTML 0.6% ](https://github.com/BerriAI/litellm/search?l=html)
+  * [ JavaScript 0.2% ](https://github.com/BerriAI/litellm/search?l=javascript)
+  * [ Shell 0.0% ](https://github.com/BerriAI/litellm/search?l=shell)
+  * [ Dockerfile 0.0% ](https://github.com/BerriAI/litellm/search?l=dockerfile)
+
+
+## Footer
+[ ](https://github.com "GitHub") © 2025 GitHub, Inc. 
+### Footer navigation
+  * [Terms](https://docs.github.com/site-policy/github-terms/github-terms-of-service)
+  * [Privacy](https://docs.github.com/site-policy/privacy-policies/github-privacy-statement)
+  * [Security](https://github.com/security)
+  * [Status](https://www.githubstatus.com/)
+  * [Docs](https://docs.github.com/)
+  * [Contact](https://support.github.com?tags=dotcom-footer)
+  * Manage cookies 
+  * Do not share my personal information 
+
+
+You can’t perform that action at this time. 

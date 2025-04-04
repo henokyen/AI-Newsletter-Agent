@@ -1,0 +1,404 @@
+[Skip to content](https://github.com/run-llama/llama_index/#start-of-content)
+## Navigation Menu
+Toggle navigation
+[ ](https://github.com/)
+[ Sign in ](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Frun-llama%2Fllama_index%2F)
+  * Product 
+    * [ GitHub Copilot Write better code with AI  ](https://github.com/features/copilot)
+    * [ Security Find and fix vulnerabilities  ](https://github.com/features/security)
+    * [ Actions Automate any workflow  ](https://github.com/features/actions)
+    * [ Codespaces Instant dev environments  ](https://github.com/features/codespaces)
+    * [ Issues Plan and track work  ](https://github.com/features/issues)
+    * [ Code Review Manage code changes  ](https://github.com/features/code-review)
+    * [ Discussions Collaborate outside of code  ](https://github.com/features/discussions)
+    * [ Code Search Find more, search less  ](https://github.com/features/code-search)
+Explore
+    * [ All features ](https://github.com/features)
+    * [ Documentation ](https://docs.github.com)
+    * [ GitHub Skills ](https://skills.github.com)
+    * [ Blog ](https://github.blog)
+  * Solutions 
+By company size
+    * [ Enterprises ](https://github.com/enterprise)
+    * [ Small and medium teams ](https://github.com/team)
+    * [ Startups ](https://github.com/enterprise/startups)
+    * [ Nonprofits ](https://github.com/solutions/industry/nonprofits)
+By use case
+    * [ DevSecOps ](https://github.com/solutions/use-case/devsecops)
+    * [ DevOps ](https://github.com/solutions/use-case/devops)
+    * [ CI/CD ](https://github.com/solutions/use-case/ci-cd)
+    * [ View all use cases ](https://github.com/solutions/use-case)
+By industry
+    * [ Healthcare ](https://github.com/solutions/industry/healthcare)
+    * [ Financial services ](https://github.com/solutions/industry/financial-services)
+    * [ Manufacturing ](https://github.com/solutions/industry/manufacturing)
+    * [ Government ](https://github.com/solutions/industry/government)
+    * [ View all industries ](https://github.com/solutions/industry)
+[ View all solutions ](https://github.com/solutions)
+  * Resources 
+Topics
+    * [ AI ](https://github.com/resources/articles/ai)
+    * [ DevOps ](https://github.com/resources/articles/devops)
+    * [ Security ](https://github.com/resources/articles/security)
+    * [ Software Development ](https://github.com/resources/articles/software-development)
+    * [ View all ](https://github.com/resources/articles)
+Explore
+    * [ Learning Pathways ](https://resources.github.com/learn/pathways)
+    * [ Events & Webinars ](https://resources.github.com)
+    * [ Ebooks & Whitepapers ](https://github.com/resources/whitepapers)
+    * [ Customer Stories ](https://github.com/customer-stories)
+    * [ Partners ](https://partner.github.com)
+    * [ Executive Insights ](https://github.com/solutions/executive-insights)
+  * Open Source 
+    * [ GitHub Sponsors Fund open source developers  ](https://github.com/sponsors)
+    * [ The ReadME Project GitHub community articles  ](https://github.com/readme)
+Repositories
+    * [ Topics ](https://github.com/topics)
+    * [ Trending ](https://github.com/trending)
+    * [ Collections ](https://github.com/collections)
+  * Enterprise 
+    * [ Enterprise platform AI-powered developer platform  ](https://github.com/enterprise)
+Available add-ons
+    * [ Advanced Security Enterprise-grade security features  ](https://github.com/enterprise/advanced-security)
+    * [ Copilot for business Enterprise-grade AI features  ](https://github.com/features/copilot/copilot-business)
+    * [ Premium Support Enterprise-grade 24/7 support  ](https://github.com/premium-support)
+  * [Pricing](https://github.com/pricing)
+
+
+Search or jump to...
+# Search code, repositories, users, issues, pull requests...
+Search 
+Clear
+[Search syntax tips](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax)
+#  Provide feedback 
+We read every piece of feedback, and take your input very seriously.
+Include my email address so I can be contacted
+Cancel  Submit feedback 
+#  Saved searches 
+## Use saved searches to filter your results more quickly
+Name
+Query
+To see all available qualifiers, see our [documentation](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax). 
+Cancel  Create saved search 
+[ Sign in ](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Frun-llama%2Fllama_index%2F)
+[ Sign up ](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E&source=header-repo&source_repo=run-llama%2Fllama_index) Reseting focus
+You signed in with another tab or window. [Reload](https://github.com/run-llama/llama_index/) to refresh your session. You signed out in another tab or window. [Reload](https://github.com/run-llama/llama_index/) to refresh your session. You switched accounts on another tab or window. [Reload](https://github.com/run-llama/llama_index/) to refresh your session. Dismiss alert
+{{ message }}
+[ run-llama ](https://github.com/run-llama) / **[llama_index](https://github.com/run-llama/llama_index) ** Public
+  * [ Notifications ](https://github.com/login?return_to=%2Frun-llama%2Fllama_index) You must be signed in to change notification settings
+  * [ Fork 5.8k ](https://github.com/login?return_to=%2Frun-llama%2Fllama_index)
+  * [ Star  40.5k ](https://github.com/login?return_to=%2Frun-llama%2Fllama_index)
+
+
+LlamaIndex is the leading framework for building LLM-powered agents over your data. 
+[docs.llamaindex.ai](https://docs.llamaindex.ai "https://docs.llamaindex.ai")
+### License
+[ MIT license ](https://github.com/run-llama/llama_index/blob/main/LICENSE)
+[ 40.5k stars ](https://github.com/run-llama/llama_index/stargazers) [ 5.8k forks ](https://github.com/run-llama/llama_index/forks) [ Branches ](https://github.com/run-llama/llama_index/branches) [ Tags ](https://github.com/run-llama/llama_index/tags) [ Activity ](https://github.com/run-llama/llama_index/activity)
+[ Star  ](https://github.com/login?return_to=%2Frun-llama%2Fllama_index)
+[ Notifications ](https://github.com/login?return_to=%2Frun-llama%2Fllama_index) You must be signed in to change notification settings
+  * [ Code ](https://github.com/run-llama/llama_index)
+  * [ Issues 735 ](https://github.com/run-llama/llama_index/issues)
+  * [ Pull requests 53 ](https://github.com/run-llama/llama_index/pulls)
+  * [ Discussions ](https://github.com/run-llama/llama_index/discussions)
+  * [ Actions ](https://github.com/run-llama/llama_index/actions)
+  * [ Projects 1 ](https://github.com/run-llama/llama_index/projects)
+  * [ Security ](https://github.com/run-llama/llama_index/security)
+  * [ Insights ](https://github.com/run-llama/llama_index/pulse)
+
+
+Additional navigation options
+  * [ Code  ](https://github.com/run-llama/llama_index)
+  * [ Issues  ](https://github.com/run-llama/llama_index/issues)
+  * [ Pull requests  ](https://github.com/run-llama/llama_index/pulls)
+  * [ Discussions  ](https://github.com/run-llama/llama_index/discussions)
+  * [ Actions  ](https://github.com/run-llama/llama_index/actions)
+  * [ Projects  ](https://github.com/run-llama/llama_index/projects)
+  * [ Security  ](https://github.com/run-llama/llama_index/security)
+  * [ Insights  ](https://github.com/run-llama/llama_index/pulse)
+
+
+# run-llama/llama_index
+main
+[Branches](https://github.com/run-llama/llama_index/branches)[Tags](https://github.com/run-llama/llama_index/tags)
+[](https://github.com/run-llama/llama_index/branches)[](https://github.com/run-llama/llama_index/tags)
+Go to file
+Code
+## Folders and files
+Name| Name| Last commit message| Last commit date  
+---|---|---|---  
+## Latest commit
+## History
+[6,211 Commits](https://github.com/run-llama/llama_index/commits/main/)[](https://github.com/run-llama/llama_index/commits/main/)  
+[.github](https://github.com/run-llama/llama_index/tree/main/.github ".github")| [.github](https://github.com/run-llama/llama_index/tree/main/.github ".github")  
+[_llama-index/llama_index/_bundle](https://github.com/run-llama/llama_index/tree/main/_llama-index/llama_index/_bundle "This path skips through empty directories")| [_llama-index/llama_index/_bundle](https://github.com/run-llama/llama_index/tree/main/_llama-index/llama_index/_bundle "This path skips through empty directories")  
+[benchmarks](https://github.com/run-llama/llama_index/tree/main/benchmarks "benchmarks")| [benchmarks](https://github.com/run-llama/llama_index/tree/main/benchmarks "benchmarks")  
+[docs](https://github.com/run-llama/llama_index/tree/main/docs "docs")| [docs](https://github.com/run-llama/llama_index/tree/main/docs "docs")  
+[experimental](https://github.com/run-llama/llama_index/tree/main/experimental "experimental")| [experimental](https://github.com/run-llama/llama_index/tree/main/experimental "experimental")  
+[llama-datasets](https://github.com/run-llama/llama_index/tree/main/llama-datasets "llama-datasets")| [llama-datasets](https://github.com/run-llama/llama_index/tree/main/llama-datasets "llama-datasets")  
+[llama-index-cli](https://github.com/run-llama/llama_index/tree/main/llama-index-cli "llama-index-cli")| [llama-index-cli](https://github.com/run-llama/llama_index/tree/main/llama-index-cli "llama-index-cli")  
+[llama-index-core](https://github.com/run-llama/llama_index/tree/main/llama-index-core "llama-index-core")| [llama-index-core](https://github.com/run-llama/llama_index/tree/main/llama-index-core "llama-index-core")  
+[llama-index-experimental](https://github.com/run-llama/llama_index/tree/main/llama-index-experimental "llama-index-experimental")| [llama-index-experimental](https://github.com/run-llama/llama_index/tree/main/llama-index-experimental "llama-index-experimental")  
+[llama-index-finetuning](https://github.com/run-llama/llama_index/tree/main/llama-index-finetuning "llama-index-finetuning")| [llama-index-finetuning](https://github.com/run-llama/llama_index/tree/main/llama-index-finetuning "llama-index-finetuning")  
+[llama-index-integrations](https://github.com/run-llama/llama_index/tree/main/llama-index-integrations "llama-index-integrations")| [llama-index-integrations](https://github.com/run-llama/llama_index/tree/main/llama-index-integrations "llama-index-integrations")  
+[llama-index-networks](https://github.com/run-llama/llama_index/tree/main/llama-index-networks "llama-index-networks")| [llama-index-networks](https://github.com/run-llama/llama_index/tree/main/llama-index-networks "llama-index-networks")  
+[llama-index-packs](https://github.com/run-llama/llama_index/tree/main/llama-index-packs "llama-index-packs")| [llama-index-packs](https://github.com/run-llama/llama_index/tree/main/llama-index-packs "llama-index-packs")  
+[llama-index-utils](https://github.com/run-llama/llama_index/tree/main/llama-index-utils "llama-index-utils")| [llama-index-utils](https://github.com/run-llama/llama_index/tree/main/llama-index-utils "llama-index-utils")  
+[scripts](https://github.com/run-llama/llama_index/tree/main/scripts "scripts")| [scripts](https://github.com/run-llama/llama_index/tree/main/scripts "scripts")  
+[.gitignore](https://github.com/run-llama/llama_index/blob/main/.gitignore ".gitignore")| [.gitignore](https://github.com/run-llama/llama_index/blob/main/.gitignore ".gitignore")  
+[.pre-commit-config.yaml](https://github.com/run-llama/llama_index/blob/main/.pre-commit-config.yaml ".pre-commit-config.yaml")| [.pre-commit-config.yaml](https://github.com/run-llama/llama_index/blob/main/.pre-commit-config.yaml ".pre-commit-config.yaml")  
+[.readthedocs.yaml](https://github.com/run-llama/llama_index/blob/main/.readthedocs.yaml ".readthedocs.yaml")| [.readthedocs.yaml](https://github.com/run-llama/llama_index/blob/main/.readthedocs.yaml ".readthedocs.yaml")  
+[BUILD](https://github.com/run-llama/llama_index/blob/main/BUILD "BUILD")| [BUILD](https://github.com/run-llama/llama_index/blob/main/BUILD "BUILD")  
+[CHANGELOG.md](https://github.com/run-llama/llama_index/blob/main/CHANGELOG.md "CHANGELOG.md")| [CHANGELOG.md](https://github.com/run-llama/llama_index/blob/main/CHANGELOG.md "CHANGELOG.md")  
+[CITATION.cff](https://github.com/run-llama/llama_index/blob/main/CITATION.cff "CITATION.cff")| [CITATION.cff](https://github.com/run-llama/llama_index/blob/main/CITATION.cff "CITATION.cff")  
+[CODE_OF_CONDUCT.md](https://github.com/run-llama/llama_index/blob/main/CODE_OF_CONDUCT.md "CODE_OF_CONDUCT.md")| [CODE_OF_CONDUCT.md](https://github.com/run-llama/llama_index/blob/main/CODE_OF_CONDUCT.md "CODE_OF_CONDUCT.md")  
+[CONTRIBUTING.md](https://github.com/run-llama/llama_index/blob/main/CONTRIBUTING.md "CONTRIBUTING.md")| [CONTRIBUTING.md](https://github.com/run-llama/llama_index/blob/main/CONTRIBUTING.md "CONTRIBUTING.md")  
+[LICENSE](https://github.com/run-llama/llama_index/blob/main/LICENSE "LICENSE")| [LICENSE](https://github.com/run-llama/llama_index/blob/main/LICENSE "LICENSE")  
+[Makefile](https://github.com/run-llama/llama_index/blob/main/Makefile "Makefile")| [Makefile](https://github.com/run-llama/llama_index/blob/main/Makefile "Makefile")  
+[README.md](https://github.com/run-llama/llama_index/blob/main/README.md "README.md")| [README.md](https://github.com/run-llama/llama_index/blob/main/README.md "README.md")  
+[SECURITY.md](https://github.com/run-llama/llama_index/blob/main/SECURITY.md "SECURITY.md")| [SECURITY.md](https://github.com/run-llama/llama_index/blob/main/SECURITY.md "SECURITY.md")  
+[STALE.md](https://github.com/run-llama/llama_index/blob/main/STALE.md "STALE.md")| [STALE.md](https://github.com/run-llama/llama_index/blob/main/STALE.md "STALE.md")  
+[pants.toml](https://github.com/run-llama/llama_index/blob/main/pants.toml "pants.toml")| [pants.toml](https://github.com/run-llama/llama_index/blob/main/pants.toml "pants.toml")  
+[poetry.lock](https://github.com/run-llama/llama_index/blob/main/poetry.lock "poetry.lock")| [poetry.lock](https://github.com/run-llama/llama_index/blob/main/poetry.lock "poetry.lock")  
+[pyproject.toml](https://github.com/run-llama/llama_index/blob/main/pyproject.toml "pyproject.toml")| [pyproject.toml](https://github.com/run-llama/llama_index/blob/main/pyproject.toml "pyproject.toml")  
+View all files  
+## Repository files navigation
+  * [README](https://github.com/run-llama/llama_index/)
+  * [Code of conduct](https://github.com/run-llama/llama_index/)
+  * [MIT license](https://github.com/run-llama/llama_index/)
+  * [Security](https://github.com/run-llama/llama_index/)
+
+
+# 🗂️ LlamaIndex 🦙
+[](https://github.com/run-llama/llama_index/#️-llamaindex-)
+[![PyPI - Downloads](https://camo.githubusercontent.com/ba9a895a6a7cd7f864b60234c0b6c7f1a9511add2a120f962292925f2af60cef/68747470733a2f2f696d672e736869656c64732e696f2f707970692f646d2f6c6c616d612d696e646578)](https://pypi.org/project/llama-index/) [![GitHub contributors](https://camo.githubusercontent.com/4c145cf56b2756e2cfd49538dbaa7a862c3d9b8f7c45fd7db104395b3e2e890d/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f636f6e7472696275746f72732f6a657272796a6c69752f6c6c616d615f696e646578)](https://github.com/jerryjliu/llama_index/graphs/contributors) [![Discord](https://camo.githubusercontent.com/386981e9c77fd5aeaa3a46d377f3b27fcd188239a8de14a3dac5eeb8571061ad/68747470733a2f2f696d672e736869656c64732e696f2f646973636f72642f31303539313939323137343936373732363838)](https://discord.gg/dGcwcsnxhU) [![Reddit](https://camo.githubusercontent.com/0cc264a320a9ba541158541794b310a04c3ed98376bfc3d4bddbadf14c111338/68747470733a2f2f696d672e736869656c64732e696f2f7265646469742f7375627265646469742d73756273637269626572732f4c6c616d61496e6465783f7374796c653d706c6173746963266c6f676f3d726564646974266c6162656c3d722532464c6c616d61496e646578266c6162656c436f6c6f723d7768697465)](https://www.reddit.com/r/LlamaIndex/) [![Ask AI](https://camo.githubusercontent.com/d6a767a97d692d60d670d466ac7b9ba3339d92c8d116d702d3b51d3737ebb927/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f50686f726d2d41736b5f41492d2532334632373737412e7376673f266c6f676f3d646174613a696d6167652f7376672b786d6c3b6261736536342c50484e325a79423361575230614430694e534967614756705a326830505349304969426d6157787350534a756232356c4969423462577875637a30696148523063446f764c336433647935334d793576636d63764d6a41774d43397a646d636950676f67494478775958526f49475139496b30304c6a517a494445754f446779595445754e4451674d5334304e434177494441674d5330754d446b344c6a51794e6d4d744c6a41314c6a45794d7930754d5445314c6a497a4c5334784f5449754d7a49794c5334774e7a55754d446b744c6a45324c6a45324e5330754d6a55314c6a49794e6d45784c6a4d314d7941784c6a4d314d794177494441674d5330754e546b314c6a49784d6d4d744c6a41354f5334774d5449744c6a45354d6934774d5451744c6a49334f5334774d445a734c5445754e546b7a4c5334784e4859744c6a51774e6d67784c6a59314f474d754d446b754d4441784c6a45334c5334784e6a6b754d6a51324c5334784f5446684c6a59774d7934324d444d674d434177494441674c6a49744c6a45774e6934314d6a6b754e544935494441674d434177494334784d7a67744c6a45334c6a59314e4334324e5451674d434177494441674c6a41324e5330754d6a52734c6a41794f4330754d7a4a684c6a6b7a4c6a6b7a494441674d4341774c5334774d7a59744c6a49304f5334314e6a63754e545933494441674d4341774c5334784d444d744c6a49754e5441794c6a55774d694177494441674d4330754d5459344c5334784d7a67754e6a41344c6a59774f434177494441674d4330754d6a51744c6a41324e3077794c6a517a4e7934334d6a6b674d5334324d6a55754e6a63785953347a4d6a49754d7a4979494441674d4341774c5334794d7a49754d4455344c6a4d334e53347a4e7a55674d434177494441744c6a45784e6934794d7a4a734c5334784d5459674d5334304e5330754d4455344c6a59354e7930754d4455344c6a63314e4577754e7a4131494452734c53347a4e5463744c6a41334f5577754e6a41794c6a6b774e6b4d754e6a45334c6a63794e6934324e6a4d754e5463304c6a637a4f5334304e5452684c6a6b314f4334354e5467674d434177494445674c6a49334e4330754d6a67314c6a6b334d5334354e7a45674d434177494445674c6a4d7a4e7930754d54526a4c6a45784f5330754d4449324c6a49794e7930754d444d304c6a4d794e5330754d44493254444d754d6a4d794c6a4532597934784e546b754d4445304c6a4d7a4e6934774d7934304e546b754d446779595445754d54637a494445754d54637a494441674d434178494334314e4455754e445133597934774e6934774f5451754d5441354c6a45354d6934784e4451754d6a6b7a595445754d7a6b79494445754d7a6b79494441674d434178494334774e7a67754e5468734c5334774d6a6b754d7a4a614969426d615778735053496a526a49334e7a64424969382b4369416750484268644767675a443069545451754d446779494449754d444133595445754e445531494445754e445531494441674d4341784c5334774f5467754e444933597930754d4455754d5449304c5334784d5451754d6a4d794c5334784f5449754d7a4930595445754d544d674d5334784d794177494441674d5330754d6a55304c6a49794e7941784c6a4d314d7941784c6a4d314d794177494441674d5330754e546b314c6a49784e474d744c6a45754d4445794c5334784f544d754d4445304c5334794f4334774d445a734c5445754e5459744c6a45774f4334774d7a51744c6a51774e6934774d7930754d7a5134494445754e5455354c6a45314e474d754d446b674d4341754d54637a4c5334774d5334794e4467744c6a417a4d3245754e6a417a4c6a59774d794177494441674d4341754d6930754d5441324c6a557a4d6934314d7a49674d434177494441674c6a457a4f5330754d5463794c6a59324c6a5932494441674d434177494334774e6a51744c6a49304d5777754d4449354c53347a4d6a46684c6a6b304c6a6b30494441674d4341774c5334774d7a59744c6a49314c6a55334c6a5533494441674d4341774c5334784d444d744c6a49774d6934314d4449754e544179494441674d4341774c5334784e6a67744c6a457a4f4334324d4455754e6a4131494441674d4341774c5334794e4330754d445933544445754d6a637a4c6a67794e324d744c6a41354e4330754d4441344c5334784e6a67754d4445744c6a49794d5334774e5455744c6a41314d7934774e4455744c6a41344e4334784d5451744c6a41354d6934794d445a4d4c6a63774e534130494441674d7934354d7a68734c6a49314e5330794c6a6b784d5545784c6a4178494445754d4445674d434177494445674c6a4d354d7934314e7a49754f5459794c6a6b324d694177494441674d5341754e6a59324c6a49344e6d45754f5463754f5463674d434177494445674c6a4d7a4f4330754d5452444d5334784d6a49754d5449674d5334794d7934784d5341784c6a4d794f4334784d546c734d5334314f544d754d54526a4c6a45324c6a41784e43347a4c6a41304e7934304d6a4d754d5745784c6a4533494445754d5463674d434177494445674c6a55304e5334304e44686a4c6a41324d5334774f5455754d5441354c6a45354d7934784e4451754d6a6b31595445754e444132494445754e444132494441674d434178494334774e7a63754e54677a624330754d4449344c6a4d794d6c6f6949475a7062477739496e646f6158526c4969382b4369416750484268644767675a443069545451754d446779494449754d444133595445754e445531494445754e445531494441674d4341784c5334774f5467754e444933597930754d4455754d5449304c5334784d5451754d6a4d794c5334784f5449754d7a4930595445754d544d674d5334784d794177494441674d5330754d6a55304c6a49794e7941784c6a4d314d7941784c6a4d314d794177494441674d5330754e546b314c6a49784e474d744c6a45754d4445794c5334784f544d754d4445304c5334794f4334774d445a734c5445754e5459744c6a45774f4334774d7a51744c6a51774e6934774d7930754d7a5134494445754e5455354c6a45314e474d754d446b674d4341754d54637a4c5334774d5334794e4467744c6a417a4d3245754e6a417a4c6a59774d794177494441674d4341754d6930754d5441324c6a557a4d6934314d7a49674d434177494441674c6a457a4f5330754d5463794c6a59324c6a5932494441674d434177494334774e6a51744c6a49304d5777754d4449354c53347a4d6a46684c6a6b304c6a6b30494441674d4341774c5334774d7a59744c6a49314c6a55334c6a5533494441674d4341774c5334784d444d744c6a49774d6934314d4449754e544179494441674d4341774c5334784e6a67744c6a457a4f4334324d4455754e6a4131494441674d4341774c5334794e4330754d445933544445754d6a637a4c6a67794e324d744c6a41354e4330754d4441344c5334784e6a67754d4445744c6a49794d5334774e5455744c6a41314d7934774e4455744c6a41344e4334784d5451744c6a41354d6934794d445a4d4c6a63774e534130494441674d7934354d7a68734c6a49314e5330794c6a6b784d5545784c6a4178494445754d4445674d434177494445674c6a4d354d7934314e7a49754f5459794c6a6b324d694177494441674d5341754e6a59324c6a49344e6d45754f5463754f5463674d434177494445674c6a4d7a4f4330754d5452444d5334784d6a49754d5449674d5334794d7934784d5341784c6a4d794f4334784d546c734d5334314f544d754d54526a4c6a45324c6a41784e43347a4c6a41304e7934304d6a4d754d5745784c6a4533494445754d5463674d434177494445674c6a55304e5334304e44686a4c6a41324d5334774f5455754d5441354c6a45354d7934784e4451754d6a6b31595445754e444132494445754e444132494441674d434178494334774e7a63754e54677a624330754d4449344c6a4d794d6c6f6949475a7062477739496e646f6158526c4969382b436a777663335a6e50676f3d)](https://www.phorm.ai/query?projectId=c5863b56-6703-4a5d-87b6-7e6031bf16b6)
+LlamaIndex (GPT Index) is a data framework for your LLM application. Building with LlamaIndex typically involves working with LlamaIndex core and a chosen set of integrations (or plugins). There are two ways to start building with LlamaIndex in Python:
+  1. **Starter** : [`llama-index`](https://pypi.org/project/llama-index/). A starter Python package that includes core LlamaIndex as well as a selection of integrations.
+  2. **Customized** : [`llama-index-core`](https://pypi.org/project/llama-index-core/). Install core LlamaIndex and add your chosen LlamaIndex integration packages on [LlamaHub](https://llamahub.ai/) that are required for your application. There are over 300 LlamaIndex integration packages that work seamlessly with core, allowing you to build with your preferred LLM, embedding, and vector store providers.
+
+
+The LlamaIndex Python library is namespaced such that import statements which include `core` imply that the core package is being used. In contrast, those statements without `core` imply that an integration package is being used.
+```
+# typical pattern
+from llama_index.core.xxx import ClassABC # core submodule xxx
+from llama_index.xxx.yyy import (
+  SubclassABC,
+) # integration yyy for submodule xxx
+# concrete example
+from llama_index.core.llms import LLM
+from llama_index.llms.openai import OpenAI
+```
+
+### Important Links
+[](https://github.com/run-llama/llama_index/#important-links)
+LlamaIndex.TS [(Typescript/Javascript)](https://github.com/run-llama/LlamaIndexTS)
+[Documentation](https://docs.llamaindex.ai/en/stable/)
+[X (formerly Twitter)](https://x.com/llama_index)
+[LinkedIn](https://www.linkedin.com/company/llamaindex/)
+[Reddit](https://www.reddit.com/r/LlamaIndex/)
+[Discord](https://discord.gg/dGcwcsnxhU)
+### Ecosystem
+[](https://github.com/run-llama/llama_index/#ecosystem)
+  * LlamaHub [(community library of data loaders)](https://llamahub.ai)
+  * LlamaLab [(cutting-edge AGI projects using LlamaIndex)](https://github.com/run-llama/llama-lab)
+
+
+## 🚀 Overview
+[](https://github.com/run-llama/llama_index/#-overview)
+**NOTE** : This README is not updated as frequently as the documentation. Please check out the documentation above for the latest updates!
+### Context
+[](https://github.com/run-llama/llama_index/#context)
+  * LLMs are a phenomenal piece of technology for knowledge generation and reasoning. They are pre-trained on large amounts of publicly available data.
+  * How do we best augment LLMs with our own private data?
+
+
+We need a comprehensive toolkit to help perform this data augmentation for LLMs.
+### Proposed Solution
+[](https://github.com/run-llama/llama_index/#proposed-solution)
+That's where **LlamaIndex** comes in. LlamaIndex is a "data framework" to help you build LLM apps. It provides the following tools:
+  * Offers **data connectors** to ingest your existing data sources and data formats (APIs, PDFs, docs, SQL, etc.).
+  * Provides ways to **structure your data** (indices, graphs) so that this data can be easily used with LLMs.
+  * Provides an **advanced retrieval/query interface over your data** : Feed in any LLM input prompt, get back retrieved context and knowledge-augmented output.
+  * Allows easy integrations with your outer application framework (e.g. with LangChain, Flask, Docker, ChatGPT, or anything else).
+
+
+LlamaIndex provides tools for both beginner users and advanced users. Our high-level API allows beginner users to use LlamaIndex to ingest and query their data in 5 lines of code. Our lower-level APIs allow advanced users to customize and extend any module (data connectors, indices, retrievers, query engines, reranking modules), to fit their needs.
+## 💡 Contributing
+[](https://github.com/run-llama/llama_index/#-contributing)
+Interested in contributing? Contributions to LlamaIndex core as well as contributing integrations that build on the core are both accepted and highly encouraged! See our [Contribution Guide](https://github.com/run-llama/llama_index/blob/main/CONTRIBUTING.md) for more details.
+New integrations should meaningfully integrate with existing LlamaIndex framework components. At the discretion of LlamaIndex maintainers, some integrations may be declined.
+## 📄 Documentation
+[](https://github.com/run-llama/llama_index/#-documentation)
+Full documentation can be found [here](https://docs.llamaindex.ai/en/latest/)
+Please check it out for the most up-to-date tutorials, how-to guides, references, and other resources!
+## 💻 Example Usage
+[](https://github.com/run-llama/llama_index/#-example-usage)
+```
+# custom selection of integrations to work with core
+pip install llama-index-core
+pip install llama-index-llms-openai
+pip install llama-index-llms-replicate
+pip install llama-index-embeddings-huggingface
+```
+
+Examples are in the `docs/examples` folder. Indices are in the `indices` folder (see list of indices below).
+To build a simple vector store index using OpenAI:
+```
+import os
+os.environ["OPENAI_API_KEY"] = "YOUR_OPENAI_API_KEY"
+from llama_index.core import VectorStoreIndex, SimpleDirectoryReader
+documents = SimpleDirectoryReader("YOUR_DATA_DIRECTORY").load_data()
+index = VectorStoreIndex.from_documents(documents)
+```
+
+To build a simple vector store index using non-OpenAI LLMs, e.g. Llama 2 hosted on [Replicate](https://replicate.com/), where you can easily create a free trial API token:
+```
+import os
+os.environ["REPLICATE_API_TOKEN"] = "YOUR_REPLICATE_API_TOKEN"
+from llama_index.core import Settings, VectorStoreIndex, SimpleDirectoryReader
+from llama_index.embeddings.huggingface import HuggingFaceEmbedding
+from llama_index.llms.replicate import Replicate
+from transformers import AutoTokenizer
+# set the LLM
+llama2_7b_chat = "meta/llama-2-7b-chat:8e6975e5ed6174911a6ff3d60540dfd4844201974602551e10e9e87ab143d81e"
+Settings.llm = Replicate(
+  model=llama2_7b_chat,
+  temperature=0.01,
+  additional_kwargs={"top_p": 1, "max_new_tokens": 300},
+)
+# set tokenizer to match LLM
+Settings.tokenizer = AutoTokenizer.from_pretrained(
+  "NousResearch/Llama-2-7b-chat-hf"
+)
+# set the embed model
+Settings.embed_model = HuggingFaceEmbedding(
+  model_name="BAAI/bge-small-en-v1.5"
+)
+documents = SimpleDirectoryReader("YOUR_DATA_DIRECTORY").load_data()
+index = VectorStoreIndex.from_documents(
+  documents,
+)
+```
+
+To query:
+```
+query_engine = index.as_query_engine()
+query_engine.query("YOUR_QUESTION")
+```
+
+By default, data is stored in-memory. To persist to disk (under `./storage`):
+```
+index.storage_context.persist()
+```
+
+To reload from disk:
+```
+from llama_index.core import StorageContext, load_index_from_storage
+# rebuild storage context
+storage_context = StorageContext.from_defaults(persist_dir="./storage")
+# load index
+index = load_index_from_storage(storage_context)
+```
+
+## 🔧 Dependencies
+[](https://github.com/run-llama/llama_index/#-dependencies)
+We use poetry as the package manager for all Python packages. As a result, the dependencies of each Python package can be found by referencing the `pyproject.toml` file in each of the package's folders.
+```
+cd <desired-package-folder>
+pip install poetry
+poetry install --with dev
+```
+
+## 📖 Citation
+[](https://github.com/run-llama/llama_index/#-citation)
+Reference to cite if you use LlamaIndex in a paper:
+```
+@software{Liu_LlamaIndex_2022,
+author = {Liu, Jerry},
+doi = {10.5281/zenodo.1234},
+month = {11},
+title = {{LlamaIndex}},
+url = {https://github.com/jerryjliu/llama_index},
+year = {2022}
+}
+
+```
+
+## About
+LlamaIndex is the leading framework for building LLM-powered agents over your data. 
+[docs.llamaindex.ai](https://docs.llamaindex.ai "https://docs.llamaindex.ai")
+### Topics
+[ application ](https://github.com/topics/application "Topic: application") [ data ](https://github.com/topics/data "Topic: data") [ framework ](https://github.com/topics/framework "Topic: framework") [ agents ](https://github.com/topics/agents "Topic: agents") [ fine-tuning ](https://github.com/topics/fine-tuning "Topic: fine-tuning") [ multi-agents ](https://github.com/topics/multi-agents "Topic: multi-agents") [ rag ](https://github.com/topics/rag "Topic: rag") [ vector-database ](https://github.com/topics/vector-database "Topic: vector-database") [ llm ](https://github.com/topics/llm "Topic: llm") [ llamaindex ](https://github.com/topics/llamaindex "Topic: llamaindex")
+### Resources
+[ Readme ](https://github.com/run-llama/llama_index/#readme-ov-file)
+### License
+[ MIT license ](https://github.com/run-llama/llama_index/#MIT-1-ov-file)
+### Code of conduct
+[ Code of conduct ](https://github.com/run-llama/llama_index/#coc-ov-file)
+### Security policy
+[ Security policy ](https://github.com/run-llama/llama_index/#security-ov-file)
+[ Activity](https://github.com/run-llama/llama_index/activity)
+[ Custom properties](https://github.com/run-llama/llama_index/custom-properties)
+### Stars
+[ **40.5k** stars](https://github.com/run-llama/llama_index/stargazers)
+### Watchers
+[ **260** watching](https://github.com/run-llama/llama_index/watchers)
+### Forks
+[ **5.8k** forks](https://github.com/run-llama/llama_index/forks)
+[ Report repository ](https://github.com/contact/report-content?content_url=https%3A%2F%2Fgithub.com%2Frun-llama%2Fllama_index&report=run-llama+%28user%29)
+##  [Releases 433](https://github.com/run-llama/llama_index/releases)
+[ v0.12.27 Latest  Mar 30, 2025 ](https://github.com/run-llama/llama_index/releases/tag/v0.12.27)
+[+ 432 releases](https://github.com/run-llama/llama_index/releases)
+##  [Used by 18.6k](https://github.com/run-llama/llama_index/network/dependents)
+[
+  * ![@gykim80](https://avatars.githubusercontent.com/u/48663150?s=64&v=4)
+  * ![@The-AI-Alliance](https://avatars.githubusercontent.com/u/150073668?s=64&v=4)
+  * ![@Swayanshu18](https://avatars.githubusercontent.com/u/127690847?s=64&v=4)
+  * ![@oranmcque](https://avatars.githubusercontent.com/u/132044878?s=64&v=4)
+  * ![@Prince8633465](https://avatars.githubusercontent.com/u/131243888?s=64&v=4)
+  * ![@VFHunt](https://avatars.githubusercontent.com/u/200927208?s=64&v=4)
+  * ![@gabimpacheco11](https://avatars.githubusercontent.com/u/31414447?s=64&v=4)
+  * ![@Davidjc13](https://avatars.githubusercontent.com/u/163439846?s=64&v=4)
+
++ 18,636  ](https://github.com/run-llama/llama_index/network/dependents)
+##  [Contributors 1,486](https://github.com/run-llama/llama_index/graphs/contributors)
+  * [ ![@logan-markewich](https://avatars.githubusercontent.com/u/22285038?s=64&v=4) ](https://github.com/logan-markewich)
+  * [ ![@jerryjliu](https://avatars.githubusercontent.com/u/4858925?s=64&v=4) ](https://github.com/jerryjliu)
+  * [ ![@dependabot\[bot\]](https://avatars.githubusercontent.com/in/29110?s=64&v=4) ](https://github.com/apps/dependabot)
+  * [ ![@Disiok](https://avatars.githubusercontent.com/u/5567282?s=64&v=4) ](https://github.com/Disiok)
+  * [ ![@nerdai](https://avatars.githubusercontent.com/u/92402603?s=64&v=4) ](https://github.com/nerdai)
+  * [ ![@hatianzhang](https://avatars.githubusercontent.com/u/2142132?s=64&v=4) ](https://github.com/hatianzhang)
+  * [ ![@masci](https://avatars.githubusercontent.com/u/7241?s=64&v=4) ](https://github.com/masci)
+  * [ ![@ravi03071991](https://avatars.githubusercontent.com/u/12198101?s=64&v=4) ](https://github.com/ravi03071991)
+  * [ ![@seldo](https://avatars.githubusercontent.com/u/185893?s=64&v=4) ](https://github.com/seldo)
+  * [ ![@jamesbraza](https://avatars.githubusercontent.com/u/8990777?s=64&v=4) ](https://github.com/jamesbraza)
+  * [ ![@sourabhdesai](https://avatars.githubusercontent.com/u/3005241?s=64&v=4) ](https://github.com/sourabhdesai)
+  * [ ![@EmanuelCampos](https://avatars.githubusercontent.com/u/16262455?s=64&v=4) ](https://github.com/EmanuelCampos)
+  * [ ![@mattf](https://avatars.githubusercontent.com/u/112653?s=64&v=4) ](https://github.com/mattf)
+  * [ ![@Javtor](https://avatars.githubusercontent.com/u/8462127?s=64&v=4) ](https://github.com/Javtor)
+
+
+[+ 1,472 contributors](https://github.com/run-llama/llama_index/graphs/contributors)
+## Languages
+  * [ Python 51.9% ](https://github.com/run-llama/llama_index/search?l=python)
+  * [ Jupyter Notebook 45.7% ](https://github.com/run-llama/llama_index/search?l=jupyter-notebook)
+  * [ Makefile 1.7% ](https://github.com/run-llama/llama_index/search?l=makefile)
+  * [ JavaScript 0.3% ](https://github.com/run-llama/llama_index/search?l=javascript)
+  * [ Starlark 0.3% ](https://github.com/run-llama/llama_index/search?l=starlark)
+  * [ Tree-sitter Query 0.1% ](https://github.com/run-llama/llama_index/search?l=tree-sitter-query)
+
+
+## Footer
+[ ](https://github.com "GitHub") © 2025 GitHub, Inc. 
+### Footer navigation
+  * [Terms](https://docs.github.com/site-policy/github-terms/github-terms-of-service)
+  * [Privacy](https://docs.github.com/site-policy/privacy-policies/github-privacy-statement)
+  * [Security](https://github.com/security)
+  * [Status](https://www.githubstatus.com/)
+  * [Docs](https://docs.github.com/)
+  * [Contact](https://support.github.com?tags=dotcom-footer)
+  * Manage cookies 
+  * Do not share my personal information 
+
+
+You can’t perform that action at this time. 

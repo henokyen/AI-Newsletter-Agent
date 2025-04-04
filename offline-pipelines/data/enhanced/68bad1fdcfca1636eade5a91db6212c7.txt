@@ -1,0 +1,146 @@
+[Open in app](https://rsci.app.link/?%24canonical_url=https%3A%2F%2Fmedium.com%2Fp%2Ff87c37488b18&%7Efeature=LoOpenInAppButton&%7Echannel=ShowPostUnderCollection&source=post_page---top_nav_layout_nav-----------------------------------------)
+Sign up
+[Sign in](https://medium.com/m/signin?operation=login&redirect=https%3A%2F%2Fmedium.com%2Fplain-simple-software%2Fdistribution-based-score-fusion-dbsf-a-new-approach-to-vector-search-ranking-f87c37488b18&source=post_page---top_nav_layout_nav-----------------------global_nav------------------)
+[](https://medium.com/?source=post_page---top_nav_layout_nav-----------------------------------------)
+[Write](https://medium.com/m/signin?operation=register&redirect=https%3A%2F%2Fmedium.com%2Fnew-story&source=---top_nav_layout_nav-----------------------new_post_topnav------------------)
+[](https://medium.com/search?source=post_page---top_nav_layout_nav-----------------------------------------)
+Sign up
+[Sign in](https://medium.com/m/signin?operation=login&redirect=https%3A%2F%2Fmedium.com%2Fplain-simple-software%2Fdistribution-based-score-fusion-dbsf-a-new-approach-to-vector-search-ranking-f87c37488b18&source=post_page---top_nav_layout_nav-----------------------global_nav------------------)
+![](https://miro.medium.com/v2/resize:fill:32:32/1*dmbNkD5D-u45r44go_cf0g.png)
+[Home](https://medium.com/?source=post_page--------------------------------------------)
+Following
+Library
+[Your lists](https://medium.com/me/lists?source=post_page--------------------------------------------)[Saved lists](https://medium.com/me/lists/saved?source=post_page--------------------------------------------)[Highlights](https://medium.com/me/list/highlights?source=post_page--------------------------------------------)[Reading history](https://medium.com/me/lists/reading-history?source=post_page--------------------------------------------)
+[Stories](https://medium.com/me/stories/drafts?source=post_page--------------------------------------------)[Stats](https://medium.com/me/stats?source=post_page--------------------------------------------)
+## [Plain Simple Software](https://medium.com/plain-simple-software?source=post_page---publication_nav-2e136f44ab69-f87c37488b18---------------------------------------)
+[Home](https://medium.com/plain-simple-software?source=post_page---publication_nav-2e136f44ab69-f87c37488b18---------------------------------------)[About](https://medium.com/plain-simple-software/about?source=post_page---publication_nav-2e136f44ab69-f87c37488b18---------------------------------------)
+·
+[Follow publication](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fsubscribe%2Fcollection%2Fplain-simple-software&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fplain-simple-software%2Fdistribution-based-score-fusion-dbsf-a-new-approach-to-vector-search-ranking-f87c37488b18&collection=Plain+Simple+Software&collectionId=2e136f44ab69&source=post_page---publication_nav-2e136f44ab69-f87c37488b18---------------------publication_nav------------------)
+[![Plain Simple Software](https://miro.medium.com/v2/resize:fill:38:38/1*9oCZ7AD33jLEhoJeA1wHNA.jpeg)](https://medium.com/plain-simple-software?source=post_page---post_publication_sidebar-2e136f44ab69-f87c37488b18---------------------------------------)
+Helping people learn more about software: how to build it, how to change it, and how to innovate with it
+[Follow publication](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fsubscribe%2Fcollection%2Fplain-simple-software&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fplain-simple-software%2Fdistribution-based-score-fusion-dbsf-a-new-approach-to-vector-search-ranking-f87c37488b18&collection=Plain+Simple+Software&collectionId=2e136f44ab69&source=post_page---post_publication_sidebar-2e136f44ab69-f87c37488b18---------------------post_publication_sidebar------------------)
+# Distribution-Based Score Fusion (DBSF), a new approach to Vector Search Ranking
+## Introduction of a new ranking algorithm optimized for vector similarity search
+[![Michelangiolo Mazzeschi](https://miro.medium.com/v2/resize:fill:44:44/2*MkUxrUogzkaAyb_Nf76wRQ.jpeg)](https://medium.com/@ardito.bryan?source=post_page---byline--f87c37488b18---------------------------------------)
+[![Plain Simple Software](https://miro.medium.com/v2/resize:fill:24:24/1*9oCZ7AD33jLEhoJeA1wHNA.jpeg)](https://medium.com/plain-simple-software?source=post_page---byline--f87c37488b18---------------------------------------)
+[Michelangiolo Mazzeschi](https://medium.com/@ardito.bryan?source=post_page---byline--f87c37488b18---------------------------------------)
+·
+[Follow](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fsubscribe%2Fuser%2F153452706ad7&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fplain-simple-software%2Fdistribution-based-score-fusion-dbsf-a-new-approach-to-vector-search-ranking-f87c37488b18&user=Michelangiolo+Mazzeschi&userId=153452706ad7&source=post_page-153452706ad7--byline--f87c37488b18---------------------post_header------------------)
+Published in
+[Plain Simple Software](https://medium.com/plain-simple-software?source=post_page---byline--f87c37488b18---------------------------------------)
+·
+4 min read
+·
+Nov 1, 2023
+[](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fvote%2Fplain-simple-software%2Ff87c37488b18&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fplain-simple-software%2Fdistribution-based-score-fusion-dbsf-a-new-approach-to-vector-search-ranking-f87c37488b18&user=Michelangiolo+Mazzeschi&userId=153452706ad7&source=---header_actions--f87c37488b18---------------------clap_footer------------------)
+--
+1
+[](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Ff87c37488b18&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fplain-simple-software%2Fdistribution-based-score-fusion-dbsf-a-new-approach-to-vector-search-ranking-f87c37488b18&source=---header_actions--f87c37488b18---------------------bookmark_footer------------------)
+Listen
+Share
+ _***_ The implementation of this algorithm has been released on [GitHub](https://github.com/atlantis-nova/hybrid-dbsf) and is fully open-source. **I am open to criticism** and **welcome any feedback.**
+With the introduction of **multimodal models** , capable of processing a combination of multiple data types, the necessity of combining search results from different embeddings has become a necessity. The algorithms specialized to perform Hybrid Search are called **fusion algorithms** , and they are commonly employed by search engines.
+![Example of a Hybrid Search, combining both text and image search score](https://miro.medium.com/v2/resize:fit:1000/1*po1DqTujeIXR6k-OpWGCQA.png)
+Example of a Hybrid Search, combining both text and image search score
+An example of **hybrid search** is the combination of both image search and text search results. Because each model is highly specialized in its own domain, we would ideally combine the scores obtained from two separate models ([CLIP for image search](https://huggingface.co/openai/clip-vit-base-patch32), [MiniLM for sentence similarity search](https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2)).
+# Current hybrid search solutions
+The most common hybrid search solutions, [developed by Weaviate](https://weaviate.io/blog/weaviate-1-20-release) are **relative score fusion** and **ranked fusion.**
+## Reciprocal Ranked Fusion (RRF)
+This fusion method combines results obtained from different searches by leveraging their ranking.
+![Visualization of the Reciprocal Ranked Fusion algorithm](https://miro.medium.com/v2/resize:fit:700/1*2nsZfQWpu8yeqtOCCUagog.png)
+Figure 1: Visualization of the Reciprocal Ranked Fusion algorithm
+By using this method, we ignore the search relevance score (ex. semantic similarity or BM25) only considering the ranking position. The higher the document appears in all searches, the higher the ranking computed by the fusion algorithm.
+## Relative Score Fusion
+With this second fusion algorithm, we normalize the search scores obtained from different engines, ranking results accordingly.
+![](https://miro.medium.com/v2/resize:fit:700/1*hIywyJ-o83JFag3vqrVA2w.png)
+Figure 2: Visualization of RelativeScoreFusion algorithm
+Though more advanced than the previous algorithm, this algorithm only works well if the score distributions of the engine are similar (we will explain the reason for this consideration in the next section).
+# Raking challenges with current encoders
+The most challenging practical issue we encounter when performing a similarity search using encoders is that all their similarity scores are concentrated around a mean value (which is not related to the relevance of the search), without sufficient variance for the tails to reach the score extremes [0, 1].
+![](https://miro.medium.com/v2/resize:fit:700/1*Z-L_z16ru89F6jMg9Fz8lQ.png)
+Figure 3: CLIP score distribution. Sources: <https://www.researchgate.net/figure/Image-text-similarity-score-distributions-using-CLIP-ViT-B-32-left-and-ViT-L-14-right_fig4_370338853>
+For example, as we can see from the graph above, all the CLIP scores are concentrated between [0.10, 0.45], with a mean of 0.25: they never reach either 0 or 1.
+Each encoder behaves differently, for example, OpenAI embedding API distribution scores are the following:
+![](https://miro.medium.com/v2/resize:fit:700/0*dR--2PBBCVfkY0DV.png)
+Figure 4: Image source: <https://www.kolena.io/blog/how-to-validate-openai-gpt-model-performance-with-text-summarization>
+If we choose to standardize the search results obtained from multiple vector searches, the ones with a distribution mean closer to 1 will be given priority.
+![](https://miro.medium.com/v2/resize:fit:700/1*4XvE3WXU_SIjTWu8SEGbpw.png)
+Figure 5: RelativeScore fusion applied to CLIP + BM25
+The same is relevant when comparing the search results from models with different score constraints. BM25, for example, does not limit its score to 1, it can reach infinity; we can see the effect of this feature on the following relative score fusion application:
+![](https://miro.medium.com/v2/resize:fit:700/1*JmdmwWyJWrue3W8DmyGdxg.png)
+Figure 6: RelativeScore fusion applied to CLIP + BM25
+# Distribution-Based Score Fusion (DBSF)
+After having made clear the issue of combining scores obtained by using different encoders, we propose the **following solution** : an algorithm that normalizes search scores by taking into account the distribution tails of each embedding.
+Let us work on the following example: applying a fusion algorithm to the scores of CLIP (image search) and OpenAI (text search). Above (**Figure 5**), we have tried using the Relative Score Fusion algorithm to notice that OpenAI has an inherent ranking advantage given the mean of its distribution.
+Instead, for each batch of search scores we will not perform a regular normalization, but a **MinMax scaling** using the tail extremes of their respective score distribution:
+  * CLIP scores will be scaled by using [0.18, 0.30] as extremes
+  * OpenAI scores will be scaled by using [0.40, 0.80] as extremes
+
+
+![](https://miro.medium.com/v2/resize:fit:700/1*NotzgKSXkKObalcKjXGHvg.png)
+Figure 6: Distribution-Based Score Fusion on CLIP and OpenAI search scores
+Let us describe the algorithm using mathematical notations. Let **E** be a set of **n** embeddings, while **x** represents a search result obtained with one embedding. We can compute the new ranked scores using the following formula…
+![](https://miro.medium.com/v2/resize:fit:700/1*QnaGnO54wKFvSQJvYu6UiQ.png)
+DBSF formula
+…where U is the merge of all the search scores obtained from the search and scaled using minmax scaler with our custom feature range (extremes indicated as 3 standard deviations from the mean), while the **S(x)** function is a simple sorting function that sorts the combination of all our final scores.
+# **Conclusion**
+By using this technique, we are able to standardize the scores of multiple different embeddings, regardless of the mean of their score distribution, ultimately obtaining a ranking that is free from any normalization bias.
+![](https://miro.medium.com/v2/da:true/resize:fit:0/5c50caa54067fd622d2f0fac18392213bf92f6e2fae89b691e62bceb40885e74)
+## Sign up to discover human stories that deepen your understanding of the world.
+## Free
+Distraction-free reading. No ads.
+Organize your knowledge with lists and highlights.
+Tell your story. Find your audience.
+Sign up for free
+## Membership
+Read member-only stories
+Support writers you read most
+Earn money for your writing
+Listen to audio narrations
+Read offline with the Medium app
+Try for $5/month
+[Hybrid Search](https://medium.com/tag/hybrid-search?source=post_page-----f87c37488b18---------------------------------------)
+[Fusion Algorithms](https://medium.com/tag/fusion-algorithms?source=post_page-----f87c37488b18---------------------------------------)
+[Vector Database](https://medium.com/tag/vector-database?source=post_page-----f87c37488b18---------------------------------------)
+[New Algorithms](https://medium.com/tag/new-algorithms?source=post_page-----f87c37488b18---------------------------------------)
+[](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fvote%2Fplain-simple-software%2Ff87c37488b18&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fplain-simple-software%2Fdistribution-based-score-fusion-dbsf-a-new-approach-to-vector-search-ranking-f87c37488b18&user=Michelangiolo+Mazzeschi&userId=153452706ad7&source=---footer_actions--f87c37488b18---------------------clap_footer------------------)
+--
+[](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fvote%2Fplain-simple-software%2Ff87c37488b18&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fplain-simple-software%2Fdistribution-based-score-fusion-dbsf-a-new-approach-to-vector-search-ranking-f87c37488b18&user=Michelangiolo+Mazzeschi&userId=153452706ad7&source=---footer_actions--f87c37488b18---------------------clap_footer------------------)
+--
+1
+[](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Ff87c37488b18&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fplain-simple-software%2Fdistribution-based-score-fusion-dbsf-a-new-approach-to-vector-search-ranking-f87c37488b18&source=---footer_actions--f87c37488b18---------------------bookmark_footer------------------)
+[![Plain Simple Software](https://miro.medium.com/v2/resize:fill:48:48/1*9oCZ7AD33jLEhoJeA1wHNA.jpeg)](https://medium.com/plain-simple-software?source=post_page---post_publication_info--f87c37488b18---------------------------------------)
+[![Plain Simple Software](https://miro.medium.com/v2/resize:fill:64:64/1*9oCZ7AD33jLEhoJeA1wHNA.jpeg)](https://medium.com/plain-simple-software?source=post_page---post_publication_info--f87c37488b18---------------------------------------)
+Follow
+## [Published in Plain Simple Software](https://medium.com/plain-simple-software?source=post_page---post_publication_info--f87c37488b18---------------------------------------)
+[164 Followers](https://medium.com/plain-simple-software/followers?source=post_page---post_publication_info--f87c37488b18---------------------------------------)
+·[Last published Jun 13, 2024](https://medium.com/plain-simple-software/introducing-hierarchical-vector-concatenation-hvc-c7ef9cc734d3?source=post_page---post_publication_info--f87c37488b18---------------------------------------)
+Helping people learn more about software: how to build it, how to change it, and how to innovate with it
+Follow
+[![Michelangiolo Mazzeschi](https://miro.medium.com/v2/resize:fill:48:48/2*MkUxrUogzkaAyb_Nf76wRQ.jpeg)](https://medium.com/@ardito.bryan?source=post_page---post_author_info--f87c37488b18---------------------------------------)
+[![Michelangiolo Mazzeschi](https://miro.medium.com/v2/resize:fill:64:64/2*MkUxrUogzkaAyb_Nf76wRQ.jpeg)](https://medium.com/@ardito.bryan?source=post_page---post_author_info--f87c37488b18---------------------------------------)
+Follow
+## [Written by Michelangiolo Mazzeschi](https://medium.com/@ardito.bryan?source=post_page---post_author_info--f87c37488b18---------------------------------------)
+[991 Followers](https://medium.com/@ardito.bryan/followers?source=post_page---post_author_info--f87c37488b18---------------------------------------)
+·[38 Following](https://medium.com/@ardito.bryan/following?source=post_page---post_author_info--f87c37488b18---------------------------------------)
+AI in Retail, with a specialty in Search Engines
+Follow
+## Responses (1)
+[](https://policy.medium.com/medium-rules-30e5502c4eb4?source=post_page---post_responses--f87c37488b18---------------------------------------)
+![](https://miro.medium.com/v2/resize:fill:32:32/1*dmbNkD5D-u45r44go_cf0g.png)
+Write a response
+[What are your thoughts?](https://medium.com/m/signin?operation=register&redirect=https%3A%2F%2Fmedium.com%2Fplain-simple-software%2Fdistribution-based-score-fusion-dbsf-a-new-approach-to-vector-search-ranking-f87c37488b18&source=---post_responses--f87c37488b18---------------------respond_sidebar------------------)
+Cancel
+Respond
+Also publish to my profile
+See all responses
+[Help](https://help.medium.com/hc/en-us?source=post_page-----f87c37488b18---------------------------------------)
+[Status](https://medium.statuspage.io/?source=post_page-----f87c37488b18---------------------------------------)
+[About](https://medium.com/about?autoplay=1&source=post_page-----f87c37488b18---------------------------------------)
+[Careers](https://medium.com/jobs-at-medium/work-at-medium-959d1a85284e?source=post_page-----f87c37488b18---------------------------------------)
+Press
+[Blog](https://blog.medium.com/?source=post_page-----f87c37488b18---------------------------------------)
+[Privacy](https://policy.medium.com/medium-privacy-policy-f03bf92035c9?source=post_page-----f87c37488b18---------------------------------------)
+[Rules](https://policy.medium.com/medium-rules-30e5502c4eb4?source=post_page-----f87c37488b18---------------------------------------)
+[Terms](https://policy.medium.com/medium-terms-of-service-9db0094a1e0f?source=post_page-----f87c37488b18---------------------------------------)
+[Text to speech](https://speechify.com/medium?source=post_page-----f87c37488b18---------------------------------------)

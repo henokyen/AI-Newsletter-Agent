@@ -1,0 +1,27 @@
+{
+    "id": "8cdacefabbff4fccb0ba4e36c2e04a44",
+    "metadata": {
+        "id": "8cdacefabbff4fccb0ba4e36c2e04a44",
+        "url": "https://huggingface.co/docs/transformers/en/main_classes/quantization.md/",
+        "title": "",
+        "properties": {
+            "description": null,
+            "keywords": null,
+            "author": null
+        }
+    },
+    "parent_metadata": {
+        "id": "fd31d4e50b33a7b45be83da27e4dd3cf",
+        "url": "https://www.notion.so/LLM-Inference-Optimization-Other-Techniques-fd31d4e50b33a7b45be83da27e4dd3cf",
+        "title": "LLM Inference Optimization & Other Techniques",
+        "properties": {
+            "Type": "Leaf"
+        }
+    },
+    "content": "The documentation page MAIN_CLASSES/QUANTIZATION.MD doesn’t exist in v4.50.0, but exists on the main version. Click [here](https://huggingface.co/docs/transformers/main/en/main_classes/quantization.md) to redirect to the main version of the documentation.\n",
+    "content_quality_score": 0.2,
+    "summary": null,
+    "child_urls": [
+        "https://huggingface.co/docs/transformers/main/en/main_classes/quantization.md"
+    ]
+}

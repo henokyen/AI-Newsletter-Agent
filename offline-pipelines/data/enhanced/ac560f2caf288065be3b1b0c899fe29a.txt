@@ -1,0 +1,323 @@
+[Skip to content](https://github.com/kedro-org/kedro/#start-of-content)
+## Navigation Menu
+Toggle navigation
+[ ](https://github.com/)
+[ Sign in ](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fkedro-org%2Fkedro%2F)
+  * Product 
+    * [ GitHub Copilot Write better code with AI  ](https://github.com/features/copilot)
+    * [ Security Find and fix vulnerabilities  ](https://github.com/features/security)
+    * [ Actions Automate any workflow  ](https://github.com/features/actions)
+    * [ Codespaces Instant dev environments  ](https://github.com/features/codespaces)
+    * [ Issues Plan and track work  ](https://github.com/features/issues)
+    * [ Code Review Manage code changes  ](https://github.com/features/code-review)
+    * [ Discussions Collaborate outside of code  ](https://github.com/features/discussions)
+    * [ Code Search Find more, search less  ](https://github.com/features/code-search)
+Explore
+    * [ All features ](https://github.com/features)
+    * [ Documentation ](https://docs.github.com)
+    * [ GitHub Skills ](https://skills.github.com)
+    * [ Blog ](https://github.blog)
+  * Solutions 
+By company size
+    * [ Enterprises ](https://github.com/enterprise)
+    * [ Small and medium teams ](https://github.com/team)
+    * [ Startups ](https://github.com/enterprise/startups)
+    * [ Nonprofits ](https://github.com/solutions/industry/nonprofits)
+By use case
+    * [ DevSecOps ](https://github.com/solutions/use-case/devsecops)
+    * [ DevOps ](https://github.com/solutions/use-case/devops)
+    * [ CI/CD ](https://github.com/solutions/use-case/ci-cd)
+    * [ View all use cases ](https://github.com/solutions/use-case)
+By industry
+    * [ Healthcare ](https://github.com/solutions/industry/healthcare)
+    * [ Financial services ](https://github.com/solutions/industry/financial-services)
+    * [ Manufacturing ](https://github.com/solutions/industry/manufacturing)
+    * [ Government ](https://github.com/solutions/industry/government)
+    * [ View all industries ](https://github.com/solutions/industry)
+[ View all solutions ](https://github.com/solutions)
+  * Resources 
+Topics
+    * [ AI ](https://github.com/resources/articles/ai)
+    * [ DevOps ](https://github.com/resources/articles/devops)
+    * [ Security ](https://github.com/resources/articles/security)
+    * [ Software Development ](https://github.com/resources/articles/software-development)
+    * [ View all ](https://github.com/resources/articles)
+Explore
+    * [ Learning Pathways ](https://resources.github.com/learn/pathways)
+    * [ Events & Webinars ](https://resources.github.com)
+    * [ Ebooks & Whitepapers ](https://github.com/resources/whitepapers)
+    * [ Customer Stories ](https://github.com/customer-stories)
+    * [ Partners ](https://partner.github.com)
+    * [ Executive Insights ](https://github.com/solutions/executive-insights)
+  * Open Source 
+    * [ GitHub Sponsors Fund open source developers  ](https://github.com/sponsors)
+    * [ The ReadME Project GitHub community articles  ](https://github.com/readme)
+Repositories
+    * [ Topics ](https://github.com/topics)
+    * [ Trending ](https://github.com/trending)
+    * [ Collections ](https://github.com/collections)
+  * Enterprise 
+    * [ Enterprise platform AI-powered developer platform  ](https://github.com/enterprise)
+Available add-ons
+    * [ Advanced Security Enterprise-grade security features  ](https://github.com/enterprise/advanced-security)
+    * [ Copilot for business Enterprise-grade AI features  ](https://github.com/features/copilot/copilot-business)
+    * [ Premium Support Enterprise-grade 24/7 support  ](https://github.com/premium-support)
+  * [Pricing](https://github.com/pricing)
+
+
+Search or jump to...
+# Search code, repositories, users, issues, pull requests...
+Search 
+Clear
+[Search syntax tips](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax)
+#  Provide feedback 
+We read every piece of feedback, and take your input very seriously.
+Include my email address so I can be contacted
+Cancel  Submit feedback 
+#  Saved searches 
+## Use saved searches to filter your results more quickly
+Name
+Query
+To see all available qualifiers, see our [documentation](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax). 
+Cancel  Create saved search 
+[ Sign in ](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fkedro-org%2Fkedro%2F)
+[ Sign up ](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E&source=header-repo&source_repo=kedro-org%2Fkedro) Reseting focus
+You signed in with another tab or window. [Reload](https://github.com/kedro-org/kedro/) to refresh your session. You signed out in another tab or window. [Reload](https://github.com/kedro-org/kedro/) to refresh your session. You switched accounts on another tab or window. [Reload](https://github.com/kedro-org/kedro/) to refresh your session. Dismiss alert
+{{ message }}
+[ kedro-org ](https://github.com/kedro-org) / **[kedro](https://github.com/kedro-org/kedro) ** Public
+  * [ Notifications ](https://github.com/login?return_to=%2Fkedro-org%2Fkedro) You must be signed in to change notification settings
+  * [ Fork 934 ](https://github.com/login?return_to=%2Fkedro-org%2Fkedro)
+  * [ Star  10.2k ](https://github.com/login?return_to=%2Fkedro-org%2Fkedro)
+
+
+Kedro is a toolbox for production-ready data science. It uses software engineering best practices to help you create data engineering and data science pipelines that are reproducible, maintainable, and modular. 
+[kedro.org](https://kedro.org "https://kedro.org")
+### License
+[ Apache-2.0 license ](https://github.com/kedro-org/kedro/blob/main/LICENSE.md)
+[ 10.2k stars ](https://github.com/kedro-org/kedro/stargazers) [ 934 forks ](https://github.com/kedro-org/kedro/forks) [ Branches ](https://github.com/kedro-org/kedro/branches) [ Tags ](https://github.com/kedro-org/kedro/tags) [ Activity ](https://github.com/kedro-org/kedro/activity)
+[ Star  ](https://github.com/login?return_to=%2Fkedro-org%2Fkedro)
+[ Notifications ](https://github.com/login?return_to=%2Fkedro-org%2Fkedro) You must be signed in to change notification settings
+  * [ Code ](https://github.com/kedro-org/kedro)
+  * [ Issues 200 ](https://github.com/kedro-org/kedro/issues)
+  * [ Pull requests 16 ](https://github.com/kedro-org/kedro/pulls)
+  * [ Discussions ](https://github.com/kedro-org/kedro/discussions)
+  * [ Actions ](https://github.com/kedro-org/kedro/actions)
+  * [ Projects 0 ](https://github.com/kedro-org/kedro/projects)
+  * [ Wiki ](https://github.com/kedro-org/kedro/wiki)
+  * [ Security ](https://github.com/kedro-org/kedro/security)
+  * [ Insights ](https://github.com/kedro-org/kedro/pulse)
+
+
+Additional navigation options
+  * [ Code  ](https://github.com/kedro-org/kedro)
+  * [ Issues  ](https://github.com/kedro-org/kedro/issues)
+  * [ Pull requests  ](https://github.com/kedro-org/kedro/pulls)
+  * [ Discussions  ](https://github.com/kedro-org/kedro/discussions)
+  * [ Actions  ](https://github.com/kedro-org/kedro/actions)
+  * [ Projects  ](https://github.com/kedro-org/kedro/projects)
+  * [ Wiki  ](https://github.com/kedro-org/kedro/wiki)
+  * [ Security  ](https://github.com/kedro-org/kedro/security)
+  * [ Insights  ](https://github.com/kedro-org/kedro/pulse)
+
+
+# kedro-org/kedro
+main
+[Branches](https://github.com/kedro-org/kedro/branches)[Tags](https://github.com/kedro-org/kedro/tags)
+[](https://github.com/kedro-org/kedro/branches)[](https://github.com/kedro-org/kedro/tags)
+Go to file
+Code
+## Folders and files
+Name| Name| Last commit message| Last commit date  
+---|---|---|---  
+## Latest commit
+## History
+[3,450 Commits](https://github.com/kedro-org/kedro/commits/main/)[](https://github.com/kedro-org/kedro/commits/main/)  
+[.github](https://github.com/kedro-org/kedro/tree/main/.github ".github")| [.github](https://github.com/kedro-org/kedro/tree/main/.github ".github")  
+[docs](https://github.com/kedro-org/kedro/tree/main/docs "docs")| [docs](https://github.com/kedro-org/kedro/tree/main/docs "docs")  
+[features](https://github.com/kedro-org/kedro/tree/main/features "features")| [features](https://github.com/kedro-org/kedro/tree/main/features "features")  
+[kedro](https://github.com/kedro-org/kedro/tree/main/kedro "kedro")| [kedro](https://github.com/kedro-org/kedro/tree/main/kedro "kedro")  
+[kedro_benchmarks](https://github.com/kedro-org/kedro/tree/main/kedro_benchmarks "kedro_benchmarks")| [kedro_benchmarks](https://github.com/kedro-org/kedro/tree/main/kedro_benchmarks "kedro_benchmarks")  
+[static/img](https://github.com/kedro-org/kedro/tree/main/static/img "This path skips through empty directories")| [static/img](https://github.com/kedro-org/kedro/tree/main/static/img "This path skips through empty directories")  
+[tests](https://github.com/kedro-org/kedro/tree/main/tests "tests")| [tests](https://github.com/kedro-org/kedro/tree/main/tests "tests")  
+[tools](https://github.com/kedro-org/kedro/tree/main/tools "tools")| [tools](https://github.com/kedro-org/kedro/tree/main/tools "tools")  
+[.gitignore](https://github.com/kedro-org/kedro/blob/main/.gitignore ".gitignore")| [.gitignore](https://github.com/kedro-org/kedro/blob/main/.gitignore ".gitignore")  
+[.gitpod.yml](https://github.com/kedro-org/kedro/blob/main/.gitpod.yml ".gitpod.yml")| [.gitpod.yml](https://github.com/kedro-org/kedro/blob/main/.gitpod.yml ".gitpod.yml")  
+[.pre-commit-config.yaml](https://github.com/kedro-org/kedro/blob/main/.pre-commit-config.yaml ".pre-commit-config.yaml")| [.pre-commit-config.yaml](https://github.com/kedro-org/kedro/blob/main/.pre-commit-config.yaml ".pre-commit-config.yaml")  
+[.readthedocs.yml](https://github.com/kedro-org/kedro/blob/main/.readthedocs.yml ".readthedocs.yml")| [.readthedocs.yml](https://github.com/kedro-org/kedro/blob/main/.readthedocs.yml ".readthedocs.yml")  
+[.secrets.baseline](https://github.com/kedro-org/kedro/blob/main/.secrets.baseline ".secrets.baseline")| [.secrets.baseline](https://github.com/kedro-org/kedro/blob/main/.secrets.baseline ".secrets.baseline")  
+[.vale.ini](https://github.com/kedro-org/kedro/blob/main/.vale.ini ".vale.ini")| [.vale.ini](https://github.com/kedro-org/kedro/blob/main/.vale.ini ".vale.ini")  
+[CITATION.cff](https://github.com/kedro-org/kedro/blob/main/CITATION.cff "CITATION.cff")| [CITATION.cff](https://github.com/kedro-org/kedro/blob/main/CITATION.cff "CITATION.cff")  
+[CODEOWNERS](https://github.com/kedro-org/kedro/blob/main/CODEOWNERS "CODEOWNERS")| [CODEOWNERS](https://github.com/kedro-org/kedro/blob/main/CODEOWNERS "CODEOWNERS")  
+[CODE_OF_CONDUCT.md](https://github.com/kedro-org/kedro/blob/main/CODE_OF_CONDUCT.md "CODE_OF_CONDUCT.md")| [CODE_OF_CONDUCT.md](https://github.com/kedro-org/kedro/blob/main/CODE_OF_CONDUCT.md "CODE_OF_CONDUCT.md")  
+[CONTRIBUTING.md](https://github.com/kedro-org/kedro/blob/main/CONTRIBUTING.md "CONTRIBUTING.md")| [CONTRIBUTING.md](https://github.com/kedro-org/kedro/blob/main/CONTRIBUTING.md "CONTRIBUTING.md")  
+[LICENSE.md](https://github.com/kedro-org/kedro/blob/main/LICENSE.md "LICENSE.md")| [LICENSE.md](https://github.com/kedro-org/kedro/blob/main/LICENSE.md "LICENSE.md")  
+[MANIFEST.in](https://github.com/kedro-org/kedro/blob/main/MANIFEST.in "MANIFEST.in")| [MANIFEST.in](https://github.com/kedro-org/kedro/blob/main/MANIFEST.in "MANIFEST.in")  
+[Makefile](https://github.com/kedro-org/kedro/blob/main/Makefile "Makefile")| [Makefile](https://github.com/kedro-org/kedro/blob/main/Makefile "Makefile")  
+[README.md](https://github.com/kedro-org/kedro/blob/main/README.md "README.md")| [README.md](https://github.com/kedro-org/kedro/blob/main/README.md "README.md")  
+[RELEASE.md](https://github.com/kedro-org/kedro/blob/main/RELEASE.md "RELEASE.md")| [RELEASE.md](https://github.com/kedro-org/kedro/blob/main/RELEASE.md "RELEASE.md")  
+[SECURITY.md](https://github.com/kedro-org/kedro/blob/main/SECURITY.md "SECURITY.md")| [SECURITY.md](https://github.com/kedro-org/kedro/blob/main/SECURITY.md "SECURITY.md")  
+[asv.conf.json](https://github.com/kedro-org/kedro/blob/main/asv.conf.json "asv.conf.json")| [asv.conf.json](https://github.com/kedro-org/kedro/blob/main/asv.conf.json "asv.conf.json")  
+[behave.ini](https://github.com/kedro-org/kedro/blob/main/behave.ini "behave.ini")| [behave.ini](https://github.com/kedro-org/kedro/blob/main/behave.ini "behave.ini")  
+[kedro_technical_charter.pdf](https://github.com/kedro-org/kedro/blob/main/kedro_technical_charter.pdf "kedro_technical_charter.pdf")| [kedro_technical_charter.pdf](https://github.com/kedro-org/kedro/blob/main/kedro_technical_charter.pdf "kedro_technical_charter.pdf")  
+[pyproject.toml](https://github.com/kedro-org/kedro/blob/main/pyproject.toml "pyproject.toml")| [pyproject.toml](https://github.com/kedro-org/kedro/blob/main/pyproject.toml "pyproject.toml")  
+View all files  
+## Repository files navigation
+  * [README](https://github.com/kedro-org/kedro/)
+  * [Code of conduct](https://github.com/kedro-org/kedro/)
+  * [Apache-2.0 license](https://github.com/kedro-org/kedro/)
+  * [Security](https://github.com/kedro-org/kedro/)
+
+
+![Kedro](https://raw.githubusercontent.com/kedro-org/kedro/main/.github/demo-light.png)
+[![Python version](https://camo.githubusercontent.com/9f151187ffe261aa2f949a066260af1c5dc944f7c515a4cc30748cc03858e485/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f707974686f6e2d332e39253230253743253230332e3130253230253743253230332e3131253230253743253230332e3132253230253743253230332e31332d626c75652e737667)](https://pypi.org/project/kedro/) [![PyPI version](https://camo.githubusercontent.com/5be626db5a5e19e376784fa4b83feb610ed291626005853cbbae8188c7cf4078/68747470733a2f2f62616467652e667572792e696f2f70792f6b6564726f2e737667)](https://pypi.org/project/kedro/) [![Conda version](https://camo.githubusercontent.com/7571520fdf61ff43ac2fb4be64bc137daa9d8db268e587a5a4b331194eb5239f/68747470733a2f2f696d672e736869656c64732e696f2f636f6e64612f766e2f636f6e64612d666f7267652f6b6564726f2e737667)](https://anaconda.org/conda-forge/kedro) [![License](https://camo.githubusercontent.com/c355f200ea90fddaa407b6eaab303663a669248ea3ca7b1fcf77dbe04ff5f48c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c6963656e73652d417061636865253230322e302d626c75652e737667)](https://github.com/kedro-org/kedro/blob/main/LICENSE.md) [![Slack Organisation](https://camo.githubusercontent.com/474e87ec7fc31da5d52618b790501c8b83db52ff666cebd4461450cb9e2ada78/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f736c61636b2d636861742d626c756576696f6c65742e7376673f6c6162656c3d4b6564726f253230536c61636b266c6f676f3d736c61636b)](https://slack.kedro.org) [![Slack Archive](https://camo.githubusercontent.com/1fa7a28ba0941fae036a005d890d2c6880d51f0d126f2761273c9e42f2c1d42e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f736c61636b2d617263686976652d626c756576696f6c65742e7376673f6c6162656c3d4b6564726f253230536c61636b253230)](https://linen-slack.kedro.org/) [![GitHub Actions Workflow Status - Main](https://camo.githubusercontent.com/4cbc320710cfdb051ada5e5868b85bdf3c70c5a77222639e82d06e18371a43ef/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f616374696f6e732f776f726b666c6f772f7374617475732f6b6564726f2d6f72672f6b6564726f2f616c6c2d636865636b732e796d6c3f6c6162656c3d6d61696e)](https://camo.githubusercontent.com/4cbc320710cfdb051ada5e5868b85bdf3c70c5a77222639e82d06e18371a43ef/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f616374696f6e732f776f726b666c6f772f7374617475732f6b6564726f2d6f72672f6b6564726f2f616c6c2d636865636b732e796d6c3f6c6162656c3d6d61696e) [![GitHub Actions Workflow Status - Develop](https://camo.githubusercontent.com/a8382667eaef214514497cef224f89fd92622fbe244042014084aeff2f19f3ba/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f616374696f6e732f776f726b666c6f772f7374617475732f6b6564726f2d6f72672f6b6564726f2f616c6c2d636865636b732e796d6c3f6272616e63683d646576656c6f70266c6162656c3d646576656c6f70)](https://camo.githubusercontent.com/a8382667eaef214514497cef224f89fd92622fbe244042014084aeff2f19f3ba/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f616374696f6e732f776f726b666c6f772f7374617475732f6b6564726f2d6f72672f6b6564726f2f616c6c2d636865636b732e796d6c3f6272616e63683d646576656c6f70266c6162656c3d646576656c6f70) [![Documentation](https://camo.githubusercontent.com/6c293deb289676f9d6472c15a250f74cfb834d4cd0e2b547ce5712861fc4ce7c/68747470733a2f2f72656164746865646f63732e6f72672f70726f6a656374732f6b6564726f2f62616467652f3f76657273696f6e3d737461626c65)](https://docs.kedro.org/) [![OpenSSF Best Practices](https://camo.githubusercontent.com/cd6b63bf31fbde15824d2b9b75837c4a9e5c256956db882e833bac7b1c1a240a/68747470733a2f2f626573747072616374696365732e636f7265696e6672617374727563747572652e6f72672f70726f6a656374732f363731312f6261646765)](https://bestpractices.coreinfrastructure.org/projects/6711) [![Monthly downloads](https://camo.githubusercontent.com/79d8da3e3df326a9ce2591774737ae64a1dcc766b2f95aa078de01ec3929582c/68747470733a2f2f7374617469632e706570792e746563682f62616467652f6b6564726f2f6d6f6e7468)](https://pepy.tech/project/kedro) [![Total downloads](https://camo.githubusercontent.com/ec41a37c31f392d84d00d603759ccf12ea9eab9d3b0405b46c7b155702deae11/68747470733a2f2f7374617469632e706570792e746563682f62616467652f6b6564726f)](https://pepy.tech/project/kedro)
+[![Powered by Kedro](https://camo.githubusercontent.com/83d38171bffd5f937a363bb83437ae6fbe6a238b6ad19fd80cd2b2f4501fa373/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f706f77657265645f62792d6b6564726f2d6666633930303f6c6f676f3d6b6564726f)](https://kedro.org)
+## What is Kedro?
+[](https://github.com/kedro-org/kedro/#what-is-kedro)
+Kedro is a toolbox for production-ready data science. It uses software engineering best practices to help you create data engineering and data science pipelines that are reproducible, maintainable, and modular. You can find out more at [kedro.org](https://kedro.org).
+Kedro is an open-source Python framework hosted by the [LF AI & Data Foundation](https://lfaidata.foundation/).
+## How do I install Kedro?
+[](https://github.com/kedro-org/kedro/#how-do-i-install-kedro)
+To install Kedro from the Python Package Index (PyPI) run:
+```
+pip install kedro
+
+```
+
+It is also possible to install Kedro using `conda`:
+```
+conda install -c conda-forge kedro
+
+```
+
+Our [Get Started guide](https://docs.kedro.org/en/stable/get_started/install.html) contains full installation instructions, and includes how to set up Python virtual environments.
+### Installation from source
+[](https://github.com/kedro-org/kedro/#installation-from-source)
+To access the latest Kedro version before its official release, install it from the `main` branch.
+```
+pip install git+https://github.com/kedro-org/kedro@main
+
+```
+
+## What are the main features of Kedro?
+[](https://github.com/kedro-org/kedro/#what-are-the-main-features-of-kedro)
+Feature | What is this?  
+---|---  
+Project Template | A standard, modifiable and easy-to-use project template based on [Cookiecutter Data Science](https://github.com/drivendata/cookiecutter-data-science/).  
+Data Catalog | A series of lightweight data connectors used to save and load data across many different file formats and file systems, including local and network file systems, cloud object stores, and HDFS. The Data Catalog also includes data and model versioning for file-based systems.  
+Pipeline Abstraction | Automatic resolution of dependencies between pure Python functions and data pipeline visualisation using [Kedro-Viz](https://github.com/kedro-org/kedro-viz).  
+Coding Standards | Test-driven development using [`pytest`](https://github.com/pytest-dev/pytest), produce well-documented code using [Sphinx](http://www.sphinx-doc.org/en/master/), create linted code with support for [`ruff`](https://github.com/astral-sh/ruff) and make use of the standard Python logging library.  
+Flexible Deployment | Deployment strategies that include single or distributed-machine deployment as well as additional support for deploying on Argo, Prefect, Kubeflow, AWS Batch, and Databricks.  
+## How do I use Kedro?
+[](https://github.com/kedro-org/kedro/#how-do-i-use-kedro)
+The [Kedro documentation](https://docs.kedro.org/en/stable/) first explains [how to install Kedro](https://docs.kedro.org/en/stable/get_started/install.html) and then introduces [key Kedro concepts](https://docs.kedro.org/en/stable/get_started/kedro_concepts.html).
+You can then review the [spaceflights tutorial](https://docs.kedro.org/en/stable/tutorial/spaceflights_tutorial.html) to build a Kedro project for hands-on experience.
+For new and intermediate Kedro users, there's a comprehensive section on [how to visualise Kedro projects using Kedro-Viz](https://docs.kedro.org/en/stable/visualisation/index.html).
+[![](https://raw.githubusercontent.com/kedro-org/kedro-viz/main/.github/img/banner.png)](https://raw.githubusercontent.com/kedro-org/kedro-viz/main/.github/img/banner.png) _A pipeline visualisation generated using Kedro-Viz_
+Additional documentation explains [how to work with Kedro and Jupyter notebooks](https://docs.kedro.org/en/stable/notebooks_and_ipython/index.html), and there are a set of advanced user guides for advanced for key Kedro features. We also recommend the [API reference documentation](https://github.com/kedro-org/kedro/blob/main/kedro) for further information.
+## Why does Kedro exist?
+[](https://github.com/kedro-org/kedro/#why-does-kedro-exist)
+Kedro is built upon our collective best-practice (and mistakes) trying to deliver real-world ML applications that have vast amounts of raw unvetted data. We developed Kedro to achieve the following:
+  * To address the main shortcomings of Jupyter notebooks, one-off scripts, and glue-code because there is a focus on creating **maintainable data science code**
+  * To enhance **team collaboration** when different team members have varied exposure to software engineering concepts
+  * To increase efficiency, because applied concepts like modularity and separation of concerns inspire the creation of **reusable analytics code**
+
+
+Find out more about how Kedro can answer your use cases from the [product FAQs on the Kedro website](https://kedro.org/#faq).
+## The humans behind Kedro
+[](https://github.com/kedro-org/kedro/#the-humans-behind-kedro)
+The [Kedro product team](https://docs.kedro.org/en/stable/contribution/technical_steering_committee.html#kedro-maintainers) and a number of [open source contributors from across the world](https://github.com/kedro-org/kedro/releases) maintain Kedro.
+## Can I contribute?
+[](https://github.com/kedro-org/kedro/#can-i-contribute)
+Yes! We welcome all kinds of contributions. Check out our [guide to contributing to Kedro](https://github.com/kedro-org/kedro/wiki/Contribute-to-Kedro).
+## Where can I learn more?
+[](https://github.com/kedro-org/kedro/#where-can-i-learn-more)
+There is a growing community around Kedro. We encourage you to ask and answer technical questions on [Slack](https://slack.kedro.org/) and bookmark the [Linen archive of past discussions](https://linen-slack.kedro.org/).
+We keep a list of [technical FAQs in the Kedro documentation](https://docs.kedro.org/en/stable/faq/faq.html) and you can find a growing list of blog posts, videos and projects that use Kedro over on the [`awesome-kedro` GitHub repository](https://github.com/kedro-org/awesome-kedro). If you have created anything with Kedro we'd love to include it on the list. Just make a PR to add it!
+## How can I cite Kedro?
+[](https://github.com/kedro-org/kedro/#how-can-i-cite-kedro)
+If you're an academic, Kedro can also help you, for example, as a tool to solve the problem of reproducible research. Use the "Cite this repository" button on [our repository](https://github.com/kedro-org/kedro) to generate a citation from the [CITATION.cff file](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-citation-files).
+## Python version support policy
+[](https://github.com/kedro-org/kedro/#python-version-support-policy)
+  * The core [Kedro Framework](https://github.com/kedro-org/kedro) supports all Python versions that are actively maintained by the CPython core team. When a [Python version reaches end of life](https://devguide.python.org/versions/#versions), support for that version is dropped from Kedro. This is not considered a breaking change.
+  * The [Kedro Datasets](https://github.com/kedro-org/kedro-plugins/tree/main/kedro-datasets) package follows the [NEP 29](https://numpy.org/neps/nep-0029-deprecation_policy.html) Python version support policy. This means that `kedro-datasets` generally drops Python version support before `kedro`. This is because `kedro-datasets` has a lot of dependencies that follow NEP 29 and the more conservative version support approach of the Kedro Framework makes it hard to manage those dependencies properly.
+
+
+## ☕️ Kedro Coffee Chat 🔶
+[](https://github.com/kedro-org/kedro/#️-kedro-coffee-chat-)
+We appreciate our community and want to stay connected. For that, we offer a public Coffee Chat format where we share updates and cool stuff around Kedro once every two weeks and give you time to ask your questions live.
+Check out the upcoming demo topics and dates at the [Kedro Coffee Chat wiki page](https://github.com/kedro-org/kedro/wiki/Kedro-Coffee-Chat).
+Follow our Slack [announcement channel](https://kedro-org.slack.com/archives/C03RKAQ0MGQ) to see Kedro Coffee Chat announcements and access demo recordings.
+## About
+Kedro is a toolbox for production-ready data science. It uses software engineering best practices to help you create data engineering and data science pipelines that are reproducible, maintainable, and modular. 
+[kedro.org](https://kedro.org "https://kedro.org")
+### Topics
+[ python ](https://github.com/topics/python "Topic: python") [ machine-learning ](https://github.com/topics/machine-learning "Topic: machine-learning") [ pipeline ](https://github.com/topics/pipeline "Topic: pipeline") [ hacktoberfest ](https://github.com/topics/hacktoberfest "Topic: hacktoberfest") [ machine-learning-engineering ](https://github.com/topics/machine-learning-engineering "Topic: machine-learning-engineering") [ mlops ](https://github.com/topics/mlops "Topic: mlops") [ kedro ](https://github.com/topics/kedro "Topic: kedro") [ experiment-tracking ](https://github.com/topics/experiment-tracking "Topic: experiment-tracking")
+### Resources
+[ Readme ](https://github.com/kedro-org/kedro/#readme-ov-file)
+### License
+[ Apache-2.0 license ](https://github.com/kedro-org/kedro/#Apache-2.0-1-ov-file)
+### Code of conduct
+[ Code of conduct ](https://github.com/kedro-org/kedro/#coc-ov-file)
+### Security policy
+[ Security policy ](https://github.com/kedro-org/kedro/#security-ov-file)
+[ Activity](https://github.com/kedro-org/kedro/activity)
+[ Custom properties](https://github.com/kedro-org/kedro/custom-properties)
+### Stars
+[ **10.2k** stars](https://github.com/kedro-org/kedro/stargazers)
+### Watchers
+[ **105** watching](https://github.com/kedro-org/kedro/watchers)
+### Forks
+[ **934** forks](https://github.com/kedro-org/kedro/forks)
+[ Report repository ](https://github.com/contact/report-content?content_url=https%3A%2F%2Fgithub.com%2Fkedro-org%2Fkedro&report=kedro-org+%28user%29)
+##  [Releases 57](https://github.com/kedro-org/kedro/releases)
+[ 0.19.12 Latest  Mar 20, 2025 ](https://github.com/kedro-org/kedro/releases/tag/0.19.12)
+[+ 56 releases](https://github.com/kedro-org/kedro/releases)
+##  [Used by 2.8k](https://github.com/kedro-org/kedro/network/dependents)
+[
+  * ![@rashidakanchwala](https://avatars.githubusercontent.com/u/37628668?s=64&v=4)
+  * ![@pmneto](https://avatars.githubusercontent.com/u/78217391?s=64&v=4)
+  * ![@BWallyn](https://avatars.githubusercontent.com/u/38312538?s=64&v=4)
+  * ![@F10rent](https://avatars.githubusercontent.com/u/104194797?s=64&v=4)
+  * ![@kleberga](https://avatars.githubusercontent.com/u/14878966?s=64&v=4)
+  * ![@BaironHenriquez](https://avatars.githubusercontent.com/u/106977728?s=64&v=4)
+  * ![@edermartins](https://avatars.githubusercontent.com/u/12779519?s=64&v=4)
+  * ![@cesarolivera](https://avatars.githubusercontent.com/u/13455427?s=64&v=4)
+
++ 2,841  ](https://github.com/kedro-org/kedro/network/dependents)
+##  [Contributors 236](https://github.com/kedro-org/kedro/graphs/contributors)
+  * [ ![@merelcht](https://avatars.githubusercontent.com/u/49397448?s=64&v=4) ](https://github.com/merelcht)
+  * [ ![@lorenabalan](https://avatars.githubusercontent.com/u/6642900?s=64&v=4) ](https://github.com/lorenabalan)
+  * [ ![@noklam](https://avatars.githubusercontent.com/u/18221871?s=64&v=4) ](https://github.com/noklam)
+  * [ ![@stichbury](https://avatars.githubusercontent.com/u/5180475?s=64&v=4) ](https://github.com/stichbury)
+  * [ ![@deepyaman](https://avatars.githubusercontent.com/u/14007150?s=64&v=4) ](https://github.com/deepyaman)
+  * [ ![@idanov](https://avatars.githubusercontent.com/u/3482916?s=64&v=4) ](https://github.com/idanov)
+  * [ ![@ankatiyar](https://avatars.githubusercontent.com/u/110245118?s=64&v=4) ](https://github.com/ankatiyar)
+  * [ ![@antonymilne](https://avatars.githubusercontent.com/u/49395058?s=64&v=4) ](https://github.com/antonymilne)
+  * [ ![@astrojuanlu](https://avatars.githubusercontent.com/u/316517?s=64&v=4) ](https://github.com/astrojuanlu)
+  * [ ![@921kiyo](https://avatars.githubusercontent.com/u/8097799?s=64&v=4) ](https://github.com/921kiyo)
+  * [ ![@limdauto](https://avatars.githubusercontent.com/u/2032984?s=64&v=4) ](https://github.com/limdauto)
+  * [ ![@SajidAlamQB](https://avatars.githubusercontent.com/u/90610031?s=64&v=4) ](https://github.com/SajidAlamQB)
+  * [ ![@andrii-ivaniuk](https://avatars.githubusercontent.com/u/24272541?s=64&v=4) ](https://github.com/andrii-ivaniuk)
+  * [ ![@yetudada](https://avatars.githubusercontent.com/u/43755008?s=64&v=4) ](https://github.com/yetudada)
+
+
+[+ 222 contributors](https://github.com/kedro-org/kedro/graphs/contributors)
+## Languages
+  * [ Python 98.5% ](https://github.com/kedro-org/kedro/search?l=python)
+  * Other 1.5%
+
+
+## Footer
+[ ](https://github.com "GitHub") © 2025 GitHub, Inc. 
+### Footer navigation
+  * [Terms](https://docs.github.com/site-policy/github-terms/github-terms-of-service)
+  * [Privacy](https://docs.github.com/site-policy/privacy-policies/github-privacy-statement)
+  * [Security](https://github.com/security)
+  * [Status](https://www.githubstatus.com/)
+  * [Docs](https://docs.github.com/)
+  * [Contact](https://support.github.com?tags=dotcom-footer)
+  * Manage cookies 
+  * Do not share my personal information 
+
+
+You can’t perform that action at this time. 

@@ -1,0 +1,83 @@
+{
+    "id": "8f127c095acdeecf02c886cfbbcf3077",
+    "metadata": {
+        "id": "8f127c095acdeecf02c886cfbbcf3077",
+        "url": "https://qdrant.tech/articles/",
+        "title": "Qdrant Articles - Qdrant",
+        "properties": {
+            "description": "Articles about vector search and similarity larning related topics. Latest updates on Qdrant vector search engine.",
+            "keywords": "vector search engine,neural network,matching,SaaS,approximate nearest neighbor search,image search,recommender system,vectors,knn algorithm,hnsw,vector search,embeddings,similarity,simaes networks,BERT,transformer,word2vec,fasttext,qdrant",
+            "author": null,
+            "og:url": "https://qdrant.tech/articles/",
+            "og:type": "website",
+            "og:title": "Qdrant Articles - Qdrant",
+            "og:description": "Articles about vector search and similarity larning related topics. Latest updates on Qdrant vector search engine.",
+            "og:image": "https://qdrant.tech/articles/social-preview.png",
+            "og:image:secure_url": "https://qdrant.tech/articles/social-preview.png",
+            "og:image:type": "image/jpeg",
+            "og:image:width": "1200",
+            "og:image:height": "630",
+            "twitter:card": "summary_large_image",
+            "twitter:domain": "qdrant",
+            "twitter:url": "https://qdrant.tech/articles/",
+            "twitter:title": "Qdrant Articles - Qdrant",
+            "twitter:description": "Articles about vector search and similarity larning related topics. Latest updates on Qdrant vector search engine.",
+            "twitter:image:src": "https://qdrant.tech/articles/social-preview.png"
+        }
+    },
+    "parent_metadata": {
+        "id": "20d682ebc95c04ce2eacaf1eb6baa2b0",
+        "url": "https://www.notion.so/RAG-20d682ebc95c04ce2eacaf1eb6baa2b0",
+        "title": "RAG",
+        "properties": {
+            "Type": [
+                "Leaf"
+            ]
+        }
+    },
+    "content": "[![logo](https://qdrant.tech/img/qdrant-logo.svg)](https://qdrant.tech/)\n  * [Qdrant](https://qdrant.tech/documentation/)\n  * [Cloud](https://qdrant.tech/documentation/cloud-intro/)\n  * [Build](https://qdrant.tech/documentation/build/)\n  * [Learn](https://qdrant.tech/articles/)\n  * [API Reference](https://api.qdrant.tech/api-reference)\n\n\nSearch\n[Log in](https://cloud.qdrant.io/login) [Start Free](https://cloud.qdrant.io/signup)\n![logo](https://qdrant.tech/img/qdrant-logo.svg)\nSearch\n  * [ Qdrant](https://qdrant.tech/documentation/)\n  * [ Cloud](https://qdrant.tech/documentation/cloud-intro/)\n  * [ Build](https://qdrant.tech/documentation/build/)\n  * [ Learn](https://qdrant.tech/articles/)\n  * [ API Reference](https://api.qdrant.tech/api-reference)\n\n\n### Learn\n[Vector Search Manuals](https://qdrant.tech/articles/vector-search-manuals/)\n[Qdrant Internals](https://qdrant.tech/articles/qdrant-internals/)\n[Data Exploration](https://qdrant.tech/articles/data-exploration/)\n[Machine Learning](https://qdrant.tech/articles/machine-learning/)\n[RAG & GenAI](https://qdrant.tech/articles/rag-and-genai/)\n[Practical Examples](https://qdrant.tech/articles/practicle-examples/)\n[Ecosystem](https://qdrant.tech/articles/ecosystem/)\n### Learn\n[Vector Search Manuals](https://qdrant.tech/articles/vector-search-manuals/)\n[Qdrant Internals](https://qdrant.tech/articles/qdrant-internals/)\n[Data Exploration](https://qdrant.tech/articles/data-exploration/)\n[Machine Learning](https://qdrant.tech/articles/machine-learning/)\n[RAG & GenAI](https://qdrant.tech/articles/rag-and-genai/)\n[Practical Examples](https://qdrant.tech/articles/practicle-examples/)\n[Ecosystem](https://qdrant.tech/articles/ecosystem/)\n#### Vector Search Manuals\nTake full control of your vector data with Qdrant. Learn how to easily store, organize, and optimize vectors for high-performance similarity search.\n[Learn More](https://qdrant.tech/articles/vector-search-manuals/)\n[![Preview](https://qdrant.tech/articles_data/indexing-optimization/preview/preview.jpg)Optimizing Memory for Bulk UploadsEfficient memory management is key when handling large-scale vector data. Learn how to optimize memory consumption during bulk uploads in Qdrant and keep your deployments performant under heavy load.Sabrina AquinoFebruary 13, 2025](https://qdrant.tech/articles/indexing-optimization/)[![Preview](https://qdrant.tech/articles_data/vector-search-resource-optimization/preview/preview.jpg)Vector Search Resource Optimization GuideLearn how to get the most from Qdrant's optimization features. Discover key tricks and best practices to boost vector search performance and reduce Qdrant's resource usage.David MyrielFebruary 09, 2025](https://qdrant.tech/articles/vector-search-resource-optimization/)[![Preview](https://qdrant.tech/articles_data/what-is-a-vector-database/preview/preview.jpg)An Introduction to Vector DatabasesDiscover what a vector database is, its core functionalities, and real-world applications.Sabrina AquinoOctober 09, 2024](https://qdrant.tech/articles/what-is-a-vector-database/)\n#### Qdrant Internals\nTake a look under the hood of Qdrant’s high-performance vector search engine. Explore the architecture, components, and design principles the Qdrant Vector Search Engine is built on.\n[Learn More](https://qdrant.tech/articles/qdrant-internals/)\n[![Preview](https://qdrant.tech/articles_data/dedicated-vector-search/preview/preview.jpg)Built for Vector SearchWhy add-on vector search looks good — until you actually use it.Evgeniya Sukhodolskaya & Andrey VasnetsovFebruary 17, 2025](https://qdrant.tech/articles/dedicated-vector-search/)[![Preview](https://qdrant.tech/articles_data/gridstore-key-value-storage/preview/preview.jpg)Introducing Gridstore: Qdrant's Custom Key-Value StoreWhy and how we built our own key-value store. A short technical report on our procedure and results.Luis Cossio, Arnaud Gourlay & David MyrielFebruary 05, 2025](https://qdrant.tech/articles/gridstore-key-value-storage/)[![Preview](https://qdrant.tech/articles_data/immutable-data-structures/preview/preview.jpg)Qdrant Internals: Immutable Data StructuresLearn how immutable data structures improve vector search performance in Qdrant.Andrey VasnetsovAugust 20, 2024](https://qdrant.tech/articles/immutable-data-structures/)\n#### Data Exploration\nLearn how you can leverage vector similarity beyond just search. Reveal hidden patterns and insights in your data, provide recommendations, and navigate data space.\n[Learn More](https://qdrant.tech/articles/data-exploration/)\n[![Preview](https://qdrant.tech/articles_data/distance-based-exploration/preview/preview.jpg)Distance-based data explorationExplore your data under a new angle with Qdrant's tools for dimensionality reduction, clusterization, and visualization.Andrey VasnetsovMarch 11, 2025](https://qdrant.tech/articles/distance-based-exploration/)[![Preview](https://qdrant.tech/articles_data/discovery-search/preview/preview.jpg)Discovery needs contextDiscovery Search, an innovative way to constrain the vector space in which a search is performed, relying only on vectors.Luis CossíoJanuary 31, 2024](https://qdrant.tech/articles/discovery-search/)[![Preview](https://qdrant.tech/articles_data/vector-similarity-beyond-search/preview/preview.jpg)Vector Similarity: Going Beyond Full-Text Search | QdrantDiscover how vector similarity expands data exploration beyond full-text search. Explore diversity sampling and more for enhanced data discovery!Luis CossíoAugust 08, 2023](https://qdrant.tech/articles/vector-similarity-beyond-search/)\n#### Machine Learning\nExplore Machine Learning principles and practices which make modern semantic similarity search possible. Apply Qdrant and vector search capabilities to your ML projects.\n[Learn More](https://qdrant.tech/articles/machine-learning/)\n[![Preview](https://qdrant.tech/articles_data/search-feedback-loop/preview/preview.jpg)Relevance Feedback in Informational RetrievalRelerance feedback: from ancient history to LLMs. Why relevance feedback techniques are good on paper but not popular in neural search, and what we can do about it.Evgeniya SukhodolskayaMarch 27, 2025](https://qdrant.tech/articles/search-feedback-loop/)[![Preview](https://qdrant.tech/articles_data/modern-sparse-neural-retrieval/preview/preview.jpg)Modern Sparse Neural Retrieval: From Theory to PracticeA comprehensive guide to modern sparse neural retrievers: COIL, TILDEv2, SPLADE, and more. Find out how they work and learn how to use them effectively.Evgeniya SukhodolskayaOctober 23, 2024](https://qdrant.tech/articles/modern-sparse-neural-retrieval/)[![Preview](https://qdrant.tech/articles_data/cross-encoder-integration-gsoc/preview/preview.jpg)Qdrant Summer of Code 2024 - ONNX Cross Encoders in PythonA summary of my work and experience at Qdrant Summer of Code 2024.Huong (Celine) HoangOctober 14, 2024](https://qdrant.tech/articles/cross-encoder-integration-gsoc/)\n#### RAG & GenAI\nLeverage Qdrant for Retrieval-Augmented Generation (RAG) and build AI Agents\n[Learn More](https://qdrant.tech/articles/rag-and-genai/)\n[![Preview](https://qdrant.tech/articles_data/agentic-rag/preview/preview.jpg)What is Agentic RAG? Building Agents with QdrantAgents are a new paradigm in AI, and they are changing how we build RAG systems. Learn how to build agents with Qdrant and which framework to choose.Kacper ŁukawskiNovember 22, 2024](https://qdrant.tech/articles/agentic-rag/)[![Preview](https://qdrant.tech/articles_data/rapid-rag-optimization-with-qdrant-and-quotient/preview/preview.jpg)Optimizing RAG Through an Evaluation-Based MethodologyLearn how Qdrant-powered RAG applications can be tested and iteratively improved using LLM evaluation tools like Quotient.Atita AroraJune 12, 2024](https://qdrant.tech/articles/rapid-rag-optimization-with-qdrant-and-quotient/)[![Preview](https://qdrant.tech/articles_data/semantic-cache-ai-data-retrieval/preview/preview.jpg)Semantic Cache: Accelerating AI with Lightning-Fast Data RetrievalSemantic cache is reshaping AI applications by enabling rapid data retrieval. Discover how its implementation benefits your RAG setup.Daniel Romero, David MyrielMay 07, 2024](https://qdrant.tech/articles/semantic-cache-ai-data-retrieval/)\n#### Practical Examples\nBuilding blocks and reference implementations to help you get started with Qdrant. Learn how to use Qdrant to solve real-world problems and build the next generation of AI applications.\n[Learn More](https://qdrant.tech/articles/practicle-examples/)\n[![Preview](https://qdrant.tech/articles_data/binary-quantization-openai/preview/preview.jpg)Optimizing OpenAI Embeddings: Enhance Efficiency with Qdrant's Binary QuantizationExplore how Qdrant's Binary Quantization can significantly improve the efficiency and performance of OpenAI's Ada-003 embeddings. Learn best practices for real-time search applications.Nirant KasliwalFebruary 21, 2024](https://qdrant.tech/articles/binary-quantization-openai/)[![Preview](https://qdrant.tech/articles_data/food-discovery-demo/preview/preview.jpg)Food Discovery DemoFeeling hungry? Find the perfect meal with Qdrant's multimodal semantic search.Kacper ŁukawskiSeptember 05, 2023](https://qdrant.tech/articles/food-discovery-demo/)[![Preview](https://qdrant.tech/articles_data/search-as-you-type/preview/preview.jpg)Semantic Search As You TypeTo show off Qdrant's performance, we show how to do a quick search-as-you-type that will come back within a few milliseconds.Andre BogusAugust 14, 2023](https://qdrant.tech/articles/search-as-you-type/)\n#### Ecosystem\nTools, libraries and integrations around Qdrant vector search engine.\n[Learn More](https://qdrant.tech/articles/ecosystem/)\n[![Preview](https://qdrant.tech/articles_data/dimension-reduction-qsoc/preview/preview.jpg)Qdrant Summer of Code 2024 - WASM based Dimension ReductionMy journey as a Qdrant Summer of Code 2024 participant working on enhancing vector visualization using WebAssembly (WASM) based dimension reduction.Jishan BhattacharyaAugust 31, 2024](https://qdrant.tech/articles/dimension-reduction-qsoc/)[![Preview](https://qdrant.tech/articles_data/fastembed/preview/preview.jpg)FastEmbed: Qdrant's Efficient Python Library for Embedding GenerationLearn how to accurately and efficiently create text embeddings with FastEmbed.Nirant KasliwalOctober 18, 2023](https://qdrant.tech/articles/fastembed/)[![Preview](https://qdrant.tech/articles_data/web-ui-gsoc/preview/preview.jpg)Google Summer of Code 2023 - Web UI for Visualization and ExplorationMy journey as a Google Summer of Code 2023 student working on the \"Web UI for Visualization and Exploration\" project for Qdrant.Kartik GuptaAugust 28, 2023](https://qdrant.tech/articles/web-ui-gsoc/)\n#### Ready to get started with Qdrant?\n[Start Free](https://qdrant.to/cloud/)\n© 2025 Qdrant. All Rights Reserved\n[Terms](https://qdrant.tech/legal/terms_and_conditions/) [Privacy Policy](https://qdrant.tech/legal/privacy-policy/) [Impressum](https://qdrant.tech/legal/impressum/)\n×\n[ Powered by ](https://qdrant.tech/)\nWe use cookies to learn more about you. At any time you can delete or block cookies through your browser settings.\n[Learn more](https://qdrant.tech/legal/privacy-policy/)[I accept](https://qdrant.tech/articles/)\n",
+    "content_quality_score": 0.5,
+    "summary": null,
+    "child_urls": [
+        "https://qdrant.tech/",
+        "https://qdrant.tech/documentation/",
+        "https://qdrant.tech/documentation/cloud-intro/",
+        "https://qdrant.tech/documentation/build/",
+        "https://qdrant.tech/articles/",
+        "https://api.qdrant.tech/api-reference",
+        "https://qdrant.tech/articles/vector-search-manuals/",
+        "https://qdrant.tech/articles/qdrant-internals/",
+        "https://qdrant.tech/articles/data-exploration/",
+        "https://qdrant.tech/articles/machine-learning/",
+        "https://qdrant.tech/articles/rag-and-genai/",
+        "https://qdrant.tech/articles/practicle-examples/",
+        "https://qdrant.tech/articles/ecosystem/",
+        "https://qdrant.tech/articles/indexing-optimization/",
+        "https://qdrant.tech/articles/vector-search-resource-optimization/",
+        "https://qdrant.tech/articles/what-is-a-vector-database/",
+        "https://qdrant.tech/articles/dedicated-vector-search/",
+        "https://qdrant.tech/articles/gridstore-key-value-storage/",
+        "https://qdrant.tech/articles/immutable-data-structures/",
+        "https://qdrant.tech/articles/distance-based-exploration/",
+        "https://qdrant.tech/articles/discovery-search/",
+        "https://qdrant.tech/articles/vector-similarity-beyond-search/",
+        "https://qdrant.tech/articles/search-feedback-loop/",
+        "https://qdrant.tech/articles/modern-sparse-neural-retrieval/",
+        "https://qdrant.tech/articles/cross-encoder-integration-gsoc/",
+        "https://qdrant.tech/articles/agentic-rag/",
+        "https://qdrant.tech/articles/rapid-rag-optimization-with-qdrant-and-quotient/",
+        "https://qdrant.tech/articles/semantic-cache-ai-data-retrieval/",
+        "https://qdrant.tech/articles/binary-quantization-openai/",
+        "https://qdrant.tech/articles/food-discovery-demo/",
+        "https://qdrant.tech/articles/search-as-you-type/",
+        "https://qdrant.tech/articles/dimension-reduction-qsoc/",
+        "https://qdrant.tech/articles/fastembed/",
+        "https://qdrant.tech/articles/web-ui-gsoc/",
+        "https://qdrant.tech/legal/terms_and_conditions/",
+        "https://qdrant.tech/legal/privacy-policy/",
+        "https://qdrant.tech/legal/impressum/",
+        "https://cloud.qdrant.io/login",
+        "https://cloud.qdrant.io/signup",
+        "https://qdrant.to/cloud/"
+    ]
+}

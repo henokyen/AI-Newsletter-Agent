@@ -1,0 +1,397 @@
+[Skip to content](https://github.com/yoheinakajima/babyagi/#start-of-content)
+## Navigation Menu
+Toggle navigation
+[ ](https://github.com/)
+[ Sign in ](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fyoheinakajima%2Fbabyagi%2F)
+  * Product 
+    * [ GitHub Copilot Write better code with AI  ](https://github.com/features/copilot)
+    * [ Security Find and fix vulnerabilities  ](https://github.com/features/security)
+    * [ Actions Automate any workflow  ](https://github.com/features/actions)
+    * [ Codespaces Instant dev environments  ](https://github.com/features/codespaces)
+    * [ Issues Plan and track work  ](https://github.com/features/issues)
+    * [ Code Review Manage code changes  ](https://github.com/features/code-review)
+    * [ Discussions Collaborate outside of code  ](https://github.com/features/discussions)
+    * [ Code Search Find more, search less  ](https://github.com/features/code-search)
+Explore
+    * [ All features ](https://github.com/features)
+    * [ Documentation ](https://docs.github.com)
+    * [ GitHub Skills ](https://skills.github.com)
+    * [ Blog ](https://github.blog)
+  * Solutions 
+By company size
+    * [ Enterprises ](https://github.com/enterprise)
+    * [ Small and medium teams ](https://github.com/team)
+    * [ Startups ](https://github.com/enterprise/startups)
+    * [ Nonprofits ](https://github.com/solutions/industry/nonprofits)
+By use case
+    * [ DevSecOps ](https://github.com/solutions/use-case/devsecops)
+    * [ DevOps ](https://github.com/solutions/use-case/devops)
+    * [ CI/CD ](https://github.com/solutions/use-case/ci-cd)
+    * [ View all use cases ](https://github.com/solutions/use-case)
+By industry
+    * [ Healthcare ](https://github.com/solutions/industry/healthcare)
+    * [ Financial services ](https://github.com/solutions/industry/financial-services)
+    * [ Manufacturing ](https://github.com/solutions/industry/manufacturing)
+    * [ Government ](https://github.com/solutions/industry/government)
+    * [ View all industries ](https://github.com/solutions/industry)
+[ View all solutions ](https://github.com/solutions)
+  * Resources 
+Topics
+    * [ AI ](https://github.com/resources/articles/ai)
+    * [ DevOps ](https://github.com/resources/articles/devops)
+    * [ Security ](https://github.com/resources/articles/security)
+    * [ Software Development ](https://github.com/resources/articles/software-development)
+    * [ View all ](https://github.com/resources/articles)
+Explore
+    * [ Learning Pathways ](https://resources.github.com/learn/pathways)
+    * [ Events & Webinars ](https://resources.github.com)
+    * [ Ebooks & Whitepapers ](https://github.com/resources/whitepapers)
+    * [ Customer Stories ](https://github.com/customer-stories)
+    * [ Partners ](https://partner.github.com)
+    * [ Executive Insights ](https://github.com/solutions/executive-insights)
+  * Open Source 
+    * [ GitHub Sponsors Fund open source developers  ](https://github.com/sponsors)
+    * [ The ReadME Project GitHub community articles  ](https://github.com/readme)
+Repositories
+    * [ Topics ](https://github.com/topics)
+    * [ Trending ](https://github.com/trending)
+    * [ Collections ](https://github.com/collections)
+  * Enterprise 
+    * [ Enterprise platform AI-powered developer platform  ](https://github.com/enterprise)
+Available add-ons
+    * [ Advanced Security Enterprise-grade security features  ](https://github.com/enterprise/advanced-security)
+    * [ Copilot for business Enterprise-grade AI features  ](https://github.com/features/copilot/copilot-business)
+    * [ Premium Support Enterprise-grade 24/7 support  ](https://github.com/premium-support)
+  * [Pricing](https://github.com/pricing)
+
+
+Search or jump to...
+# Search code, repositories, users, issues, pull requests...
+Search 
+Clear
+[Search syntax tips](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax)
+#  Provide feedback 
+We read every piece of feedback, and take your input very seriously.
+Include my email address so I can be contacted
+Cancel  Submit feedback 
+#  Saved searches 
+## Use saved searches to filter your results more quickly
+Name
+Query
+To see all available qualifiers, see our [documentation](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax). 
+Cancel  Create saved search 
+[ Sign in ](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fyoheinakajima%2Fbabyagi%2F)
+[ Sign up ](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E&source=header-repo&source_repo=yoheinakajima%2Fbabyagi) Reseting focus
+You signed in with another tab or window. [Reload](https://github.com/yoheinakajima/babyagi/) to refresh your session. You signed out in another tab or window. [Reload](https://github.com/yoheinakajima/babyagi/) to refresh your session. You switched accounts on another tab or window. [Reload](https://github.com/yoheinakajima/babyagi/) to refresh your session. Dismiss alert
+{{ message }}
+[ yoheinakajima ](https://github.com/yoheinakajima) / **[babyagi](https://github.com/yoheinakajima/babyagi) ** Public
+  * [ Notifications ](https://github.com/login?return_to=%2Fyoheinakajima%2Fbabyagi) You must be signed in to change notification settings
+  * [ Fork 2.8k ](https://github.com/login?return_to=%2Fyoheinakajima%2Fbabyagi)
+  * [ Star  21.3k ](https://github.com/login?return_to=%2Fyoheinakajima%2Fbabyagi)
+
+
+[babyagi.org/](https://babyagi.org/ "https://babyagi.org/")
+[ 21.3k stars ](https://github.com/yoheinakajima/babyagi/stargazers) [ 2.8k forks ](https://github.com/yoheinakajima/babyagi/forks) [ Branches ](https://github.com/yoheinakajima/babyagi/branches) [ Tags ](https://github.com/yoheinakajima/babyagi/tags) [ Activity ](https://github.com/yoheinakajima/babyagi/activity)
+[ Star  ](https://github.com/login?return_to=%2Fyoheinakajima%2Fbabyagi)
+[ Notifications ](https://github.com/login?return_to=%2Fyoheinakajima%2Fbabyagi) You must be signed in to change notification settings
+  * [ Code ](https://github.com/yoheinakajima/babyagi)
+  * [ Issues 7 ](https://github.com/yoheinakajima/babyagi/issues)
+  * [ Pull requests 5 ](https://github.com/yoheinakajima/babyagi/pulls)
+  * [ Actions ](https://github.com/yoheinakajima/babyagi/actions)
+  * [ Projects 0 ](https://github.com/yoheinakajima/babyagi/projects)
+  * [ Security ](https://github.com/yoheinakajima/babyagi/security)
+  * [ Insights ](https://github.com/yoheinakajima/babyagi/pulse)
+
+
+Additional navigation options
+  * [ Code  ](https://github.com/yoheinakajima/babyagi)
+  * [ Issues  ](https://github.com/yoheinakajima/babyagi/issues)
+  * [ Pull requests  ](https://github.com/yoheinakajima/babyagi/pulls)
+  * [ Actions  ](https://github.com/yoheinakajima/babyagi/actions)
+  * [ Projects  ](https://github.com/yoheinakajima/babyagi/projects)
+  * [ Security  ](https://github.com/yoheinakajima/babyagi/security)
+  * [ Insights  ](https://github.com/yoheinakajima/babyagi/pulse)
+
+
+# yoheinakajima/babyagi
+main
+[Branches](https://github.com/yoheinakajima/babyagi/branches)[Tags](https://github.com/yoheinakajima/babyagi/tags)
+[](https://github.com/yoheinakajima/babyagi/branches)[](https://github.com/yoheinakajima/babyagi/tags)
+Go to file
+Code
+## Folders and files
+Name| Name| Last commit message| Last commit date  
+---|---|---|---  
+## Latest commit
+## History
+[13 Commits](https://github.com/yoheinakajima/babyagi/commits/main/)[](https://github.com/yoheinakajima/babyagi/commits/main/)  
+[babyagi](https://github.com/yoheinakajima/babyagi/tree/main/babyagi "babyagi")| [babyagi](https://github.com/yoheinakajima/babyagi/tree/main/babyagi "babyagi")  
+[examples](https://github.com/yoheinakajima/babyagi/tree/main/examples "examples")| [examples](https://github.com/yoheinakajima/babyagi/tree/main/examples "examples")  
+[.gitignore](https://github.com/yoheinakajima/babyagi/blob/main/.gitignore ".gitignore")| [.gitignore](https://github.com/yoheinakajima/babyagi/blob/main/.gitignore ".gitignore")  
+[.replit](https://github.com/yoheinakajima/babyagi/blob/main/.replit ".replit")| [.replit](https://github.com/yoheinakajima/babyagi/blob/main/.replit ".replit")  
+[CNAME](https://github.com/yoheinakajima/babyagi/blob/main/CNAME "CNAME")| [CNAME](https://github.com/yoheinakajima/babyagi/blob/main/CNAME "CNAME")  
+[MANIFEST.in](https://github.com/yoheinakajima/babyagi/blob/main/MANIFEST.in "MANIFEST.in")| [MANIFEST.in](https://github.com/yoheinakajima/babyagi/blob/main/MANIFEST.in "MANIFEST.in")  
+[README.md](https://github.com/yoheinakajima/babyagi/blob/main/README.md "README.md")| [README.md](https://github.com/yoheinakajima/babyagi/blob/main/README.md "README.md")  
+[main.py](https://github.com/yoheinakajima/babyagi/blob/main/main.py "main.py")| [main.py](https://github.com/yoheinakajima/babyagi/blob/main/main.py "main.py")  
+[poetry.lock](https://github.com/yoheinakajima/babyagi/blob/main/poetry.lock "poetry.lock")| [poetry.lock](https://github.com/yoheinakajima/babyagi/blob/main/poetry.lock "poetry.lock")  
+[pyproject.toml](https://github.com/yoheinakajima/babyagi/blob/main/pyproject.toml "pyproject.toml")| [pyproject.toml](https://github.com/yoheinakajima/babyagi/blob/main/pyproject.toml "pyproject.toml")  
+[requirements.txt](https://github.com/yoheinakajima/babyagi/blob/main/requirements.txt "requirements.txt")| [requirements.txt](https://github.com/yoheinakajima/babyagi/blob/main/requirements.txt "requirements.txt")  
+[self_build.png](https://github.com/yoheinakajima/babyagi/blob/main/self_build.png "self_build.png")| [self_build.png](https://github.com/yoheinakajima/babyagi/blob/main/self_build.png "self_build.png")  
+[setup.py](https://github.com/yoheinakajima/babyagi/blob/main/setup.py "setup.py")| [setup.py](https://github.com/yoheinakajima/babyagi/blob/main/setup.py "setup.py")  
+View all files  
+## Repository files navigation
+  * [README](https://github.com/yoheinakajima/babyagi/)
+
+
+# BabyAGI
+[](https://github.com/yoheinakajima/babyagi/#babyagi)
+Note
+The original BabyAGI from March 2023 introduced task planning as a method for developing autonomous agents. This project has been archived and moved to the [babyagi_archive](https://github.com/yoheinakajima/babyagi_archive) repo (September 2024 snapshot).
+Caution
+This is a framework built by Yohei who has never held a job as a developer. The purpose of this repo is to share ideas and spark discussion and for experienced devs to play with. Not meant for production use. Use with cautioun.
+This newest BabyAGI is an experimental framework for a self-building autonomous agent. Earlier efforts to expand BabyAGI have made it clear that the optimal way to build a general autonomous agent is to build the simplest thing that can build itself.
+Check out [this introductory X/Twitter thread](https://x.com/yoheinakajima/status/1840678823681282228) for a simple overview.
+The core is a new function framework (**functionz**) for storing, managing, and executing functions from a database. It offers a graph-based structure for tracking imports, dependent functions, and authentication secrets, with automatic loading and comprehensive logging capabilities. Additionally, it comes with a dashboard for managing functions, running updates, and viewing logs.
+## Table of Contents
+[](https://github.com/yoheinakajima/babyagi/#table-of-contents)
+  * [Quick Start](https://github.com/yoheinakajima/babyagi/#quick-start)
+  * [Basic Usage](https://github.com/yoheinakajima/babyagi/#basic-usage)
+  * [Function Metadata](https://github.com/yoheinakajima/babyagi/#function-metadata)
+  * [Function Loading](https://github.com/yoheinakajima/babyagi/#function-loading)
+  * [Key Dependencies](https://github.com/yoheinakajima/babyagi/#key-dependencies)
+  * [Execution Environment](https://github.com/yoheinakajima/babyagi/#execution-environment)
+    * [Log](https://github.com/yoheinakajima/babyagi/#log)
+  * [Dashboard](https://github.com/yoheinakajima/babyagi/#dashboard)
+  * [Pre-loaded Functions](https://github.com/yoheinakajima/babyagi/#pre-loaded-functions)
+  * [Future/Draft Features](https://github.com/yoheinakajima/babyagi/#futuredraft-features)
+  * [API Reference](https://github.com/yoheinakajima/babyagi/#api-reference)
+  * [Contributing](https://github.com/yoheinakajima/babyagi/#contributing)
+  * [License](https://github.com/yoheinakajima/babyagi/#license)
+
+
+## Quick Start
+[](https://github.com/yoheinakajima/babyagi/#quick-start)
+To quickly check out the dashboard and see how it works:
+  1. **Install BabyAGI:**
+```
+pip install babyagi
+```
+
+  2. **Import BabyAGI and load the dashboard:**
+```
+import babyagi
+if __name__ == "__main__":
+  app = babyagi.create_app('/dashboard')
+  app.run(host='0.0.0.0', port=8080)
+```
+
+  3. **Navigate to the dashboard:**
+Open your browser and go to `http://localhost:8080/dashboard` to access the BabyAGI dashboard.
+
+
+## Basic Usage
+[](https://github.com/yoheinakajima/babyagi/#basic-usage)
+Start by importing `babyagi` and registering your functions. Here's how to register two functions, where one depends on the other:
+```
+import babyagi
+# Register a simple function
+@babyagi.register_function()
+def world():
+  return "world"
+# Register a function that depends on 'world'
+@babyagi.register_function(dependencies=["world"])
+def hello_world():
+  x = world()
+  return f"Hello {x}!"
+# Execute the function
+print(babyagi.hello_world()) # Output: Hello world!
+if __name__ == "__main__":
+  app = babyagi.create_app('/dashboard')
+  app.run(host='0.0.0.0', port=8080)
+```
+
+## Function Metadata
+[](https://github.com/yoheinakajima/babyagi/#function-metadata)
+Functions can be registered with metadata to enhance their capabilities and manage their relationships. Here's a more comprehensive example of function metadata, showing logical usage of all fields:
+```
+import babyagi
+@babyagi.register_function(
+  imports=["math"],
+  dependencies=["circle_area"],
+  key_dependencies=["openai_api_key"],
+  metadata={
+    "description": "Calculates the volume of a cylinder using the circle_area function."
+  }
+)
+def cylinder_volume(radius, height):
+  import math
+  area = circle_area(radius)
+  return area * height
+```
+
+**Available Metadata Fields:**
+  * `imports`: List of external libraries the function depends on.
+  * `dependencies`: List of other functions this function depends on.
+  * `key_dependencies`: List of secret keys required by the function.
+  * `metadata["description"]`: A description of what the function does.
+
+
+## Function Loading
+[](https://github.com/yoheinakajima/babyagi/#function-loading)
+In addition to using `register_function`, you can use `load_function` to load plugins or draft packs of functions. BabyAGI comes with built-in function packs, or you can load your own packs by pointing to the file path.
+You can find available function packs in `babyagi/functionz/packs`.
+**Loading Custom Function Packs:**
+```
+import babyagi
+# Load your custom function pack
+babyagi.load_functions("path/to/your/custom_functions.py")
+```
+
+This approach makes function building and management easier by organizing related functions into packs.
+## Key Dependencies
+[](https://github.com/yoheinakajima/babyagi/#key-dependencies)
+You can store `key_dependencies` directly from your code or manage them via the dashboard.
+**Storing Key Dependencies from Code:**
+```
+import babyagi
+# Add a secret key
+babyagi.add_key_wrapper('openai_api_key', 'your_openai_api_key')
+```
+
+**Adding Key Dependencies via Dashboard:**
+Navigate to the dashboard and use the **add_key_wrapper** feature to securely add your secret keys.
+## Execution Environment
+[](https://github.com/yoheinakajima/babyagi/#execution-environment)
+BabyAGI automatically loads essential function packs and manages their dependencies, ensuring a seamless execution environment. Additionally, it logs all activities, including the relationships between functions, to provide comprehensive tracking of function executions and dependencies.
+### Log
+[](https://github.com/yoheinakajima/babyagi/#log)
+BabyAGI implements a comprehensive logging system to track all function executions and their interactions. The logging mechanism ensures that every function call, including its inputs, outputs, execution time, and any errors, is recorded for monitoring and debugging purposes.
+**Key Logging Features:**
+  * **Execution Tracking:** Logs when a function starts and finishes execution, including the function name, arguments, keyword arguments, and execution time.
+  * **Error Logging:** Captures and logs any errors that occur during function execution, providing detailed error messages for troubleshooting.
+  * **Dependency Management:** Automatically resolves and logs dependencies between functions, ensuring that all required functions and libraries are loaded before execution.
+  * **Trigger Logging:** Logs the execution of triggered functions, detailing which functions were triggered by others and their respective execution outcomes.
+  * **Comprehensive Records:** Maintains a history of all function executions, enabling users to review past activities, understand function relationships, and analyze performance metrics.
+
+
+**How Triggers Work:**
+Triggers are mechanisms that allow certain functions to be automatically executed in response to specific events or actions within the system. For example, when a function is added or updated, a trigger can initiate the generation of a description for that function.
+Triggers enhance the autonomy of BabyAGI by enabling automated workflows and reducing the need for manual intervention. However, it's essential to manage triggers carefully to avoid unintended recursive executions or conflicts between dependent functions.
+## Dashboard
+[](https://github.com/yoheinakajima/babyagi/#dashboard)
+The BabyAGI dashboard offers a user-friendly interface for managing functions, monitoring executions, and handling configurations. Key features include:
+  * **Function Management:** Register, deregister, and update functions directly from the dashboard.
+  * **Dependency Visualization:** View and manage dependencies between functions to understand their relationships.
+  * **Secret Key Management:** Add and manage secret keys securely through the dashboard interface.
+  * **Logging and Monitoring:** Access comprehensive logs of function executions, including inputs, outputs, and execution times.
+  * **Trigger Management:** Set up triggers to automate function executions based on specific events or conditions.
+
+
+**Accessing the Dashboard:**
+After running your application, navigate to `http://localhost:8080/dashboard` to access the BabyAGI dashboard.
+## Pre-loaded Functions Summary
+[](https://github.com/yoheinakajima/babyagi/#pre-loaded-functions-summary)
+BabyAGI includes two pre-loaded function packs:
+  1. **Default Functions (`packs/default_functions.py`):**
+     * **Function Execution:** Run, add, update, or retrieve functions and versions.
+     * **Key Management:** Add and retrieve secret keys.
+     * **Triggers:** Add triggers to execute functions based on others.
+     * **Logs:** Retrieve logs with optional filters.
+  2. **AI Functions (`packs/ai_generator.py`):**
+     * **AI Description & Embeddings:** Auto-generate descriptions and embeddings for functions.
+     * **Function Selection:** Find or choose similar functions based on prompts.
+
+
+## Running a Self-Building Agent
+[](https://github.com/yoheinakajima/babyagi/#running-a-self-building-agent)
+BabyAGI includes two experimental self-building agents, showcasing how the framework can help a self-building coding agent leverage existing functions to write new ones.
+### 1. `process_user_input` in the `code_writing_functions` pack
+[](https://github.com/yoheinakajima/babyagi/#1-process_user_input-in-the-code_writing_functions-pack)
+This function first determines whether to use an existing function or generate new ones. If new functions are needed, it breaks them down into smaller reusable components and combines them into a final function.
+Try this:
+```
+import babyagi
+babyagi.add_key_wrapper('openai_api_key', os.environ['OPENAI_API_KEY'])
+babyagi.load_functions("drafts/code_writing_functions")
+babyagi.process_user_input("Grab today's score from ESPN and email it to test@test.com")
+```
+
+When you run this, you will see the functions being generated in the shell and new functions will be available in the dashboard once completed.
+### 2. `self_build` in the `self_build` pack
+[](https://github.com/yoheinakajima/babyagi/#2-self_build-in-the-self_build-pack)
+This function takes a user description and generates X distinct tasks that a user might ask an AI assistant. Each task is processed by `process_user_input`, creating new functions if no existing ones suffice.
+Try this:
+```
+import babyagi
+babyagi.add_key_wrapper('openai_api_key', os.environ['OPENAI_API_KEY'])
+babyagi.load_functions("drafts/code_writing_functions")
+babyagi.load_functions("drafts/self_build")
+babyagi.self_build("A sales person at an enterprise SaaS company.", 3)
+```
+
+This will generate 3 distinct tasks a salesperson might ask an AI assistant and create functions to handle those.
+*The functions will be generated and stored in the dashboard, but note that the generated code is minimal and may need improvement.
+[![alt text](https://github.com/yoheinakajima/babyagi_staging/raw/main/self_build.png?raw=true)](https://github.com/yoheinakajima/babyagi_staging/blob/main/self_build.png?raw=true)
+**Warning:** These draft features are experimental concepts and may not function as intended. They require significant improvements and should be used with caution.
+## Contributing
+[](https://github.com/yoheinakajima/babyagi/#contributing)
+Contributions are greatly appreciatedly, but candidly I have not been great at managing PRs. Please be patient as things will move slow while I am working on this alone (on nights and weekends). I may start by building a small core crew before collaborating with a larger group.
+If you are a dev, investor, friend of open-source and interesting supporting AI work I do, please fill [this form](https://forms.gle/UZLyT75HQULr8XNUA) (I have a few fun initiatives coming up!)
+## License
+[](https://github.com/yoheinakajima/babyagi/#license)
+BabyAGI is released under the MIT License. See the [LICENSE](https://github.com/yoheinakajima/babyagi/blob/main/LICENSE) file for more details.
+## About
+[babyagi.org/](https://babyagi.org/ "https://babyagi.org/")
+### Resources
+[ Readme ](https://github.com/yoheinakajima/babyagi/#readme-ov-file)
+[ Activity](https://github.com/yoheinakajima/babyagi/activity)
+### Stars
+[ **21.3k** stars](https://github.com/yoheinakajima/babyagi/stargazers)
+### Watchers
+[ **310** watching](https://github.com/yoheinakajima/babyagi/watchers)
+### Forks
+[ **2.8k** forks](https://github.com/yoheinakajima/babyagi/forks)
+[ Report repository ](https://github.com/contact/report-content?content_url=https%3A%2F%2Fgithub.com%2Fyoheinakajima%2Fbabyagi&report=yoheinakajima+%28user%29)
+##  [Releases](https://github.com/yoheinakajima/babyagi/releases)
+[ 1 tags ](https://github.com/yoheinakajima/babyagi/tags)
+##  [Packages 0](https://github.com/users/yoheinakajima/packages?repo_name=babyagi)
+No packages published 
+##  [Contributors 79](https://github.com/yoheinakajima/babyagi/graphs/contributors)
+  * [ ![@yoheinakajima](https://avatars.githubusercontent.com/u/1701418?s=64&v=4) ](https://github.com/yoheinakajima)
+  * [ ![@MalikMAlna](https://avatars.githubusercontent.com/u/24833545?s=64&v=4) ](https://github.com/MalikMAlna)
+  * [ ![@davidbyttow](https://avatars.githubusercontent.com/u/1735553?s=64&v=4) ](https://github.com/davidbyttow)
+  * [ ![@hsm207](https://avatars.githubusercontent.com/u/2398765?s=64&v=4) ](https://github.com/hsm207)
+  * [ ![@dibrale](https://avatars.githubusercontent.com/u/108030031?s=64&v=4) ](https://github.com/dibrale)
+  * [ ![@fxchen](https://avatars.githubusercontent.com/u/178719?s=64&v=4) ](https://github.com/fxchen)
+  * [ ![@atroyn](https://avatars.githubusercontent.com/u/1302641?s=64&v=4) ](https://github.com/atroyn)
+  * [ ![@jhcao23](https://avatars.githubusercontent.com/u/2023204?s=64&v=4) ](https://github.com/jhcao23)
+  * [ ![@fschieber88](https://avatars.githubusercontent.com/u/115842157?s=64&v=4) ](https://github.com/fschieber88)
+  * [ ![@zainhas](https://avatars.githubusercontent.com/u/21254008?s=64&v=4) ](https://github.com/zainhas)
+  * [ ![@my2582](https://avatars.githubusercontent.com/u/43156630?s=64&v=4) ](https://github.com/my2582)
+  * [ ![@zeelsheladiya](https://avatars.githubusercontent.com/u/46935793?s=64&v=4) ](https://github.com/zeelsheladiya)
+  * [ ![@Josh-XT](https://avatars.githubusercontent.com/u/102809327?s=64&v=4) ](https://github.com/Josh-XT)
+  * [ ![@jmtatsch](https://avatars.githubusercontent.com/u/3080674?s=64&v=4) ](https://github.com/jmtatsch)
+
+
+[+ 65 contributors](https://github.com/yoheinakajima/babyagi/graphs/contributors)
+## Languages
+  * [ Python 66.5% ](https://github.com/yoheinakajima/babyagi/search?l=python)
+  * [ HTML 19.7% ](https://github.com/yoheinakajima/babyagi/search?l=html)
+  * [ JavaScript 11.7% ](https://github.com/yoheinakajima/babyagi/search?l=javascript)
+  * [ CSS 2.1% ](https://github.com/yoheinakajima/babyagi/search?l=css)
+
+
+## Footer
+[ ](https://github.com "GitHub") © 2025 GitHub, Inc. 
+### Footer navigation
+  * [Terms](https://docs.github.com/site-policy/github-terms/github-terms-of-service)
+  * [Privacy](https://docs.github.com/site-policy/privacy-policies/github-privacy-statement)
+  * [Security](https://github.com/security)
+  * [Status](https://www.githubstatus.com/)
+  * [Docs](https://docs.github.com/)
+  * [Contact](https://support.github.com?tags=dotcom-footer)
+  * Manage cookies 
+  * Do not share my personal information 
+
+
+You can’t perform that action at this time. 

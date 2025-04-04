@@ -1,0 +1,303 @@
+[Skip to content](https://towardsdatascience.com/a-guide-on-12-tuning-strategies-for-production-ready-rag-applications-7ca646833439/#wp--skip-link--target)
+[![Towards Data Science](https://towardsdatascience.com/wp-content/uploads/2025/02/TDS-Vector-Logo.svg)](https://towardsdatascience.com/)
+The world’s leading publication for data science, AI, and ML professionals.
+Sign in
+Sign out
+[Contributor Portal](https://contributor.insightmediagroup.io/)
+  * [Latest](https://towardsdatascience.com/latest/)
+  * [Editor’s Picks](https://towardsdatascience.com/tag/editors-pick/)
+  * [Deep Dives](https://towardsdatascience.com/tag/deep-dives/)
+  * [Contribute](https://towardsdatascience.com/questions-96667b06af5/)
+  * [Newsletter](https://newsletter.towardsdatascience.com/subscription-to-the-newsletter)
+[![Towards Data Science](https://towardsdatascience.com/wp-content/uploads/2025/02/TDS-Vector-Logo.svg)](https://towardsdatascience.com/)
+
+
+Toggle Mobile Navigation
+  * [LinkedIn](https://www.linkedin.com/company/towards-data-science/?originalSubdomain=ca)
+  * [X](https://x.com/TDataScience)
+
+
+Toggle Search
+Search
+[ Artificial Intelligence ](https://towardsdatascience.com/category/artificial-intelligence/)
+# A Guide on 12 Tuning Strategies for Production-Ready RAG Applications
+How to improve the performance of your Retrieval-Augmented Generation (RAG) pipeline with these "hyperparameters" and tuning strategies 
+[Leonie Monigatti](https://towardsdatascience.com/author/iamleonie/)
+Dec 6, 2023
+12 min read
+Share 
+![Tuning Strategies for Retrieval-Augmented Generation Applications](https://towardsdatascience.com/wp-content/uploads/2023/12/114bRGUWZojH8Y1x12kA2IQ.png)Tuning Strategies for Retrieval-Augmented Generation Applications
+Data Science is an experimental science. It starts with the "No Free Lunch Theorem," which states that there is no one-size-fits-all algorithm that works best for every problem. And it results in data scientists using [experiment tracking systems](https://medium.com/@iamleonie/intro-to-mlops-experiment-tracking-for-machine-learning-858e432bd133) to help them [tune the hyperparameters of their Machine Learning (ML) projects to achieve the best performance](https://medium.com/towards-data-science/intermediate-deep-learning-with-transfer-learning-f1aba5a814f).
+This article looks at a [Retrieval-Augmented Generation (RAG) pipeline](https://medium.com/towards-data-science/retrieval-augmented-generation-rag-from-theory-to-langchain-implementation-4e9bd5f6a4f2) through the eyes of a data scientist. It discusses potential "hyperparameters" you can experiment with to improve your RAG pipeline’s performance. Similar to experimentation in Deep Learning, where, e.g., data augmentation techniques are not a hyperparameter but a knob you can tune and experiment with, this article will also cover different strategies you can apply, which are not per se hyperparameters.
+> [**Retrieval-Augmented Generation (RAG): From Theory to LangChain Implementation**](https://towardsdatascience.com/retrieval-augmented-generation-rag-from-theory-to-langchain-implementation-4e9bd5f6a4f2)
+This article covers the following "hyperparameters" sorted by their relevant stage. In the [ingestion stage](https://towardsdatascience.com/a-guide-on-12-tuning-strategies-for-production-ready-rag-applications-7ca646833439/#4142) of a RAG pipeline, you can achieve performance improvements by:
+  * [Data cleaning](https://towardsdatascience.com/a-guide-on-12-tuning-strategies-for-production-ready-rag-applications-7ca646833439/#196c)
+  * [Chunking](https://towardsdatascience.com/a-guide-on-12-tuning-strategies-for-production-ready-rag-applications-7ca646833439/#e45f)
+  * [Embedding models](https://towardsdatascience.com/a-guide-on-12-tuning-strategies-for-production-ready-rag-applications-7ca646833439/#156e)
+  * [Metadata](https://towardsdatascience.com/a-guide-on-12-tuning-strategies-for-production-ready-rag-applications-7ca646833439/#2b47)
+  * [Multi-indexing](https://towardsdatascience.com/a-guide-on-12-tuning-strategies-for-production-ready-rag-applications-7ca646833439/#ce6c)
+  * [Indexing algorithms](https://towardsdatascience.com/a-guide-on-12-tuning-strategies-for-production-ready-rag-applications-7ca646833439/#4daa)
+
+
+And in the [inferencing stage (retrieval and generation)](https://towardsdatascience.com/a-guide-on-12-tuning-strategies-for-production-ready-rag-applications-7ca646833439/#ac53), you can tune:
+  * [Query transformations](https://towardsdatascience.com/a-guide-on-12-tuning-strategies-for-production-ready-rag-applications-7ca646833439/#a5e2)
+  * [Retrieval parameters](https://towardsdatascience.com/a-guide-on-12-tuning-strategies-for-production-ready-rag-applications-7ca646833439/#fa73)
+  * [Advanced retrieval strategies](https://towardsdatascience.com/a-guide-on-12-tuning-strategies-for-production-ready-rag-applications-7ca646833439/#a3bb)
+  * [Re-ranking models](https://towardsdatascience.com/a-guide-on-12-tuning-strategies-for-production-ready-rag-applications-7ca646833439/#341d)
+  * [LLMs](https://towardsdatascience.com/a-guide-on-12-tuning-strategies-for-production-ready-rag-applications-7ca646833439/#e9f9)
+  * [Prompt engineering](https://towardsdatascience.com/a-guide-on-12-tuning-strategies-for-production-ready-rag-applications-7ca646833439/#9c1c)
+
+
+Note that this article covers text-use cases of RAG. For multimodal RAG applications, different considerations may apply.
+## Ingestion Stage
+The ingestion stage is a preparation step for building a RAG pipeline, similar to the data cleaning and preprocessing steps in an ML pipeline. Usually, the ingestion stage consists of the following steps:
+  1. Collect data
+  2. Chunk data
+  3. Generate vector embeddings of chunks
+  4. Store vector embeddings and chunks in a vector database
+
+![Ingestion stage of a RAG pipeline](https://towardsdatascience.com/wp-content/uploads/2023/12/14WQ2HYCrZO8VwOXeugeGAg.png)Ingestion stage of a RAG pipeline
+This section discusses impactful techniques and hyperparameters that you can apply and tune to improve the relevance of the retrieved contexts in the inferencing stage.
+### Data cleaning
+Like any Data Science pipeline, the quality of your data heavily impacts the outcome in your RAG pipeline [8, 9]. Before moving on to any of the following steps, ensure that your data meets the following criteria:
+  * **Clean** : Apply at least some basic data cleaning techniques commonly used in Natural Language Processing, such as making sure all special characters are encoded correctly.
+  * **Correct** : Make sure your information is consistent and factually accurate to avoid conflicting information confusing your LLM.
+
+
+### Chunking
+Chunking your documents is an essential preparation step for your external knowledge source in a RAG pipeline that can impact the performance [1, 8, 9]. It is a technique to generate logically coherent snippets of information, usually by breaking up long documents into smaller sections (but it can also combine smaller snippets into coherent paragraphs).
+One consideration you need to make is the **choice of the chunking technique**. For example, in [LangChain, different text splitters](https://python.langchain.com/docs/modules/data_connection/document_transformers/) split up documents by different logics, such as by characters, tokens, etc. This depends on the type of data you have. For example, you will need to use different chunking techniques if your input data is code vs. if it is a Markdown file.
+The ideal **length of your chunk (`chunk_size`)** depends on your use case: If your use case is question answering, you may need shorter specific chunks, but if your use case is summarization, you may need longer chunks. Additionally, if a chunk is too short, it might not contain enough context. On the other hand, if a chunk is too long, it might contain too much irrelevant information.
+Additionally, you will need to think about a **"rolling window" between chunks (`overlap`)** to introduce some additional context.
+### Embedding models
+Embedding models are at the core of your retrieval. The **quality of your embeddings** heavily impacts your retrieval results [1, 4]. Usually, the higher the dimensionality of the generated embeddings, the higher the precision of your embeddings.
+For an idea of what alternative embedding models are available, you can look at the [Massive Text Embedding Benchmark (MTEB) Leaderboard](https://huggingface.co/spaces/mteb/leaderboard), which covers 164 text embedding models (at the time of this writing).
+> [**MTEB Leaderboard – a Hugging Face Space by mteb**](https://huggingface.co/spaces/mteb/leaderboard)
+While you can use general-purpose embedding models out-of-the-box, it may make sense to **fine-tune your embedding model** to your specific use case in some cases to avoid out-of-domain issues later on [9]. According to experiments conducted by LlamaIndex, fine-tuning your embedding model can lead to a [5–10% performance increase in retrieval evaluation metrics](https://github.com/run-llama/finetune-embedding/blob/main/evaluate.ipynb) [2].
+Note that you cannot fine-tune all embedding models (e.g., OpenAI’s `text-ebmedding-ada-002` can’t be fine-tuned at the moment).
+### Metadata
+When you store vector embeddings in a [vector database](https://medium.com/towards-data-science/explaining-vector-databases-in-3-levels-of-difficulty-fc392e48ab78), some vector databases let you store them together with metadata (or data that is not vectorized). **Annotating vector embeddings with metadata** can be helpful for additional post-processing of the search results, such as **metadata filtering** [1, 3, 8, 9]. For example, you could add metadata, such as the date, chapter, or subchapter reference.
+### Multi-indexing
+If the metadata is not sufficient enough to provide additional information to separate different types of context logically, you may want to **experiment with multiple indexes** [1, 9]. For example, you can use different indexes for different types of documents. Note that you will have to incorporate some index routing at retrieval time [1, 9]. If you are interested in a deeper dive into metadata and separate collections, you might want to learn more about the concept of [native multi-tenancy](https://www.youtube.com/watch?v=KT2RFMTJKGs).
+### Indexing algorithms
+To enable lightning-fast similarity search at scale, vector databases and vector indexing libraries use an Approximate Nearest Neighbor (ANN) search instead of a k-nearest neighbor (kNN) search. As the name suggests, ANN algorithms approximate the nearest neighbors and thus can be less precise than a kNN algorithm.
+There are **different ANN algorithms** you could experiment with, such as [Facebook Faiss](https://github.com/facebookresearch/faiss) (clustering), [Spotify Annoy](https://github.com/spotify/annoy) (trees), [Google ScaNN](https://github.com/google-research/google-research/tree/master/scann) (vector compression), and [HNSWLIB](https://github.com/nmslib/hnswlib) (proximity graphs). Also, many of these ANN algorithms have some parameters you could tune, such as `ef`, `efConstruction`, and `maxConnections` for HNSW [1].
+Additionally, you can enable vector compression for these indexing algorithms. Analogous to ANN algorithms, you will lose some precision with vector compression. However, depending on the choice of the vector compression algorithm and its tuning, you can optimize this as well.
+However, in practice, these parameters are already tuned by research teams of vector databases and vector indexing libraries during benchmarking experiments and not by developers of RAG systems. However, if you want to experiment with these parameters to squeeze out the last bits of performance, I recommend this article as a starting point:
+> [**An Overview on RAG Evaluation | Weaviate – vector database**](https://weaviate.io/blog/rag-evaluation#indexing-knobs)
+## Inferencing Stage (Retrieval & Generation)
+The main components of the RAG pipeline are the retrieval and the generative components. This section mainly discusses strategies to improve the retrieval ([Query transformations](https://towardsdatascience.com/a-guide-on-12-tuning-strategies-for-production-ready-rag-applications-7ca646833439/#a5e2), [retrieval parameters](https://towardsdatascience.com/a-guide-on-12-tuning-strategies-for-production-ready-rag-applications-7ca646833439/#fa73), [advanced retrieval strategies](https://towardsdatascience.com/a-guide-on-12-tuning-strategies-for-production-ready-rag-applications-7ca646833439/#a3bb), and [re-ranking models](https://towardsdatascience.com/a-guide-on-12-tuning-strategies-for-production-ready-rag-applications-7ca646833439/#341d)) as this is the more impactful component of the two. But it also briefly touches on some strategies to improve the generation ([LLM](https://towardsdatascience.com/a-guide-on-12-tuning-strategies-for-production-ready-rag-applications-7ca646833439/#e9f9) and [prompt engineering](https://towardsdatascience.com/a-guide-on-12-tuning-strategies-for-production-ready-rag-applications-7ca646833439/#9c1c)).
+![Inference stage of a RAG pipeline](https://towardsdatascience.com/wp-content/uploads/2023/12/1tT14GpYfEMSqCjnt2UQOGQ.png)Inference stage of a RAG pipeline
+### Query transformations
+Since the search query to retrieve additional context in a RAG pipeline is also embedded into the vector space, its phrasing can also impact the search results. Thus, if your search query doesn’t result in satisfactory search results, you can experiment with various [query transformation techniques](https://gpt-index.readthedocs.io/en/v0.6.9/how_to/query/query_transformations.html) [5, 8, 9], such as:
+  * **Rephrasing:** Use an LLM to rephrase the query and try again.
+  * **Hypothetical Document Embeddings (HyDE):** Use an LLM to generate a hypothetical response to the search query and use both for retrieval.
+  * **Sub-queries:** Break down longer queries into multiple shorter queries.
+
+
+### Retrieval parameters
+The retrieval is an essential component of the RAG pipeline. The first consideration is whether semantic search will be sufficient for your use case or if you want to experiment with hybrid search.
+In the latter case, you need to experiment with weighting the aggregation of sparse and dense retrieval methods in hybrid search [1, 4, 9]. Thus, tuning the parameter **`alpha`, which controls the weighting between semantic (`alpha = 1`) and keyword-based search (`alpha = 0`)**, will become necessary.
+> [**Improving Retrieval Performance in RAG Pipelines with Hybrid Search**](https://towardsdatascience.com/improving-retrieval-performance-in-rag-pipelines-with-hybrid-search-c75203c2f2f5)
+Also, the **number of search results to retrieve** will play an essential role. The number of retrieved contexts will impact the length of the used context window (see [Prompt Engineering](https://towardsdatascience.com/a-guide-on-12-tuning-strategies-for-production-ready-rag-applications-7ca646833439/#9c1c)). Also, if you are using a re-ranking model, you need to consider how many contexts to input to the model (see [Re-ranking models](https://towardsdatascience.com/a-guide-on-12-tuning-strategies-for-production-ready-rag-applications-7ca646833439/#341d)).
+Note, while the used similarity measure for semantic search is a parameter you can change, you should not experiment with it but instead set it according to the used embedding model (e.g., `[text-embedding-ada-002](https://platform.openai.com/docs/guides/embeddings/what-are-embeddings)` supports cosine similarity or `[multi-qa-MiniLM-l6-cos-v1](https://huggingface.co/sentence-transformers/multi-qa-MiniLM-L6-cos-v1#technical-details)` supports cosine similarity, dot product, and Euclidean distance).
+### Advanced retrieval strategies
+This section could technically be its own article. For this overview, we will keep this as concise as possible. For an in-depth explanation of the following techniques, I recommend this DeepLearning.AI course:
+> [**Building and Evaluating Advanced RAG Applications**](https://www.deeplearning.ai/short-courses/building-evaluating-advanced-rag/)
+The underlying idea of this section is that the chunks for retrieval shouldn’t necessarily be the same chunks used for the generation. Ideally, you would embed smaller chunks for retrieval (see [Chunking](https://towardsdatascience.com/a-guide-on-12-tuning-strategies-for-production-ready-rag-applications-7ca646833439/#e45f)) but retrieve bigger contexts. [7]
+  * **Sentence-window retrieval:** Do not just retrieve the relevant sentence, but the window of appropriate sentences before and after the retrieved one.
+  * **Auto-merging retrieval:** The documents are organized in a tree-like structure. At query time, separate but related, smaller chunks can be consolidated into a larger context.
+
+
+### Re-ranking models
+While semantic search retrieves context based on its semantic similarity to the search query, "most similar" doesn’t necessarily mean "most relevant". **Re-ranking models** , such as [Cohere’s Rerank](https://cohere.com/rerank?ref=txt.cohere.com&__hstc=14363112.8fc20f6b1a1ad8c0f80dcfed3741d271.1697800567394.1701091033915.1701173515537.7&__hssc=14363112.1.1701173515537&__hsfp=3638092843) model, can help eliminate irrelevant search results by computing a score for the relevance of the query for each retrieved context [1, 9].
+> "most similar" doesn’t necessarily mean "most relevant"
+If you are using a re-ranker model, you may need to re-tune the **number of search results** for the input of the re-ranker and how many of the reranked results you want to feed into the LLM.
+As with the [embedding models](https://towardsdatascience.com/a-guide-on-12-tuning-strategies-for-production-ready-rag-applications-7ca646833439/#156e), you may want to experiment with **fine-tuning the re-ranker** to your specific use case.
+### LLMs
+The **LLM is the core component** for generating the response. Similarly to the embedding models, there is a wide range of LLMs you can choose from depending on your requirements, such as open vs. proprietary models, inferencing costs, context length, etc. [1]
+As with the [embedding models](https://towardsdatascience.com/a-guide-on-12-tuning-strategies-for-production-ready-rag-applications-7ca646833439/#156e) or [re-ranking models](https://towardsdatascience.com/a-guide-on-12-tuning-strategies-for-production-ready-rag-applications-7ca646833439/#341d), you may want to experiment with **fine-tuning the LLM** to your specific use case to incorporate specific wording or tone of voice.
+### Prompt engineering
+How you phrase or **[engineer your prompt](https://towardsdatascience.com/how-to-write-expert-prompts-for-chatgpt-gpt-4-and-other-language-models-23133dc85550)** will significantly impact the LLM’s completion [1, 8, 9].
+```
+Please base your answer only on the search results and nothing else!
+```
+```
+Very important! Your answer MUST be grounded in the search results provided. 
+Please explain why your answer is grounded in the search results!
+```
+
+Additionally, using **few-shot examples** in your prompt can improve the quality of the completions.
+As mentioned in [Retrieval parameters](https://towardsdatascience.com/a-guide-on-12-tuning-strategies-for-production-ready-rag-applications-7ca646833439/#fa73), the **number of contexts** fed into the prompt is a parameter you should experiment with [1]. While the performance of your RAG pipeline can improve with increasing relevant context, you can also run into a "Lost in the Middle" [6] effect where relevant context is not recognized as such by the LLM if it is placed in the middle of many contexts.
+## Summary
+As more and more developers gain experience with prototyping RAG pipelines, it becomes more important to discuss strategies to bring RAG pipelines to production-ready performances. This article discussed different "hyperparameters" and other knobs you can tune in a RAG pipeline according to the relevant stages:
+This article covered the following strategies in the [ingestion stage](https://towardsdatascience.com/a-guide-on-12-tuning-strategies-for-production-ready-rag-applications-7ca646833439/#4142):
+  * [Data cleaning](https://towardsdatascience.com/a-guide-on-12-tuning-strategies-for-production-ready-rag-applications-7ca646833439/#196c): Ensure data is clean and correct.
+  * [Chunking](https://towardsdatascience.com/a-guide-on-12-tuning-strategies-for-production-ready-rag-applications-7ca646833439/#e45f): Choice of chunking technique, chunk size (`chunk_size`) and chunk overlap (`overlap`).
+  * [Embedding models](https://towardsdatascience.com/a-guide-on-12-tuning-strategies-for-production-ready-rag-applications-7ca646833439/#156e): Choice of the embedding model, incl. dimensionality, and whether to fine-tune it.
+  * [Metadata](https://towardsdatascience.com/a-guide-on-12-tuning-strategies-for-production-ready-rag-applications-7ca646833439/#2b47): Whether to use metadata and choice of metadata.
+  * [Multi-indexing](https://towardsdatascience.com/a-guide-on-12-tuning-strategies-for-production-ready-rag-applications-7ca646833439/#ce6c): Decide whether to use multiple indexes for different data collections.
+  * [Indexing algorithms](https://towardsdatascience.com/a-guide-on-12-tuning-strategies-for-production-ready-rag-applications-7ca646833439/#4daa): Choice and tuning of ANN and vector compression algorithms can be tuned but are usually not tuned by practitioners.
+
+
+And the following strategies in the [inferencing stage (retrieval and generation)](https://towardsdatascience.com/a-guide-on-12-tuning-strategies-for-production-ready-rag-applications-7ca646833439/#ac53):
+  * [Query transformations](https://towardsdatascience.com/a-guide-on-12-tuning-strategies-for-production-ready-rag-applications-7ca646833439/#a5e2): Experiment with rephrasing, HyDE, or sub-queries.
+  * [Retrieval parameters](https://towardsdatascience.com/a-guide-on-12-tuning-strategies-for-production-ready-rag-applications-7ca646833439/#fa73): Choice of search technique (`alpha` if you have hybrid search enabled) and the number of retrieved search results.
+  * [Advanced retrieval strategies](https://towardsdatascience.com/a-guide-on-12-tuning-strategies-for-production-ready-rag-applications-7ca646833439/#a3bb): Whether to use advanced retrieval strategies, such as sentence-window or auto-merging retrieval.
+  * [Re-ranking models](https://towardsdatascience.com/a-guide-on-12-tuning-strategies-for-production-ready-rag-applications-7ca646833439/#341d): Whether to use a re-ranking model, choice of re-ranking model, number of search results to input into the re-ranking model, and whether to fine-tune the re-ranking model.
+  * [LLMs](https://towardsdatascience.com/a-guide-on-12-tuning-strategies-for-production-ready-rag-applications-7ca646833439/#e9f9): Choice of LLM and whether to fine-tune it.
+  * [Prompt engineering](https://towardsdatascience.com/a-guide-on-12-tuning-strategies-for-production-ready-rag-applications-7ca646833439/#9c1c): Experiment with different phrasing and few-shot examples.
+
+
+## Enjoyed This Story?
+_[Subscribe for free](https://medium.com/subscribe/@iamleonie) to get notified when I publish a new story._
+> [**Get an email whenever Leonie Monigatti publishes.**](https://medium.com/@iamleonie/subscribe)
+_Find me on[LinkedIn](https://www.linkedin.com/in/804250ab/)_, _[Twitter](https://twitter.com/helloiamleonie), and [Kaggle](https://www.kaggle.com/iamleonie)!_
+## References
+### Literature
+[1] [Connor Shorten](https://towardsdatascience.com/a-guide-on-12-tuning-strategies-for-production-ready-rag-applications-7ca646833439/None) and [Erika Cardenas](https://towardsdatascience.com/a-guide-on-12-tuning-strategies-for-production-ready-rag-applications-7ca646833439/None) (2023). Weaviate Blog. [An Overview on RAG Evaluation](https://weaviate.io/blog/rag-evaluation) (accessed Nov. 27, 2023)
+[2] [Jerry Liu](https://towardsdatascience.com/a-guide-on-12-tuning-strategies-for-production-ready-rag-applications-7ca646833439/None) (2023). LlamaIndex Blog. [Fine-Tuning Embeddings for RAG with Synthetic Data](https://blog.llamaindex.ai/fine-tuning-embeddings-for-rag-with-synthetic-data-e534409a3971) (accessed Nov. 28, 2023)
+[3] LlamaIndex Documentation (2023). [Building Performant RAG Applications for Production](https://gpt-index.readthedocs.io/en/stable/optimizing/production_rag.html) (accessed Nov. 28, 2023)
+[4] Voyage AI (2023). [Embeddings Drive the Quality of RAG: A Case Study of Chat.LangChain](https://blog.voyageai.com/2023/10/29/a-case-study-of-chat-langchain/) (accessed Dec. 5, 2023)
+[5] LlamaIndex Documentation (2023). [Query Transformations](https://gpt-index.readthedocs.io/en/v0.6.9/how_to/query/query_transformations.html) (accessed Nov. 28, 2023)
+[6] Liu, N. F., Lin, K., Hewitt, J., Paranjape, A., Bevilacqua, M., Petroni, F., & Liang, P. (2023). Lost in the middle: How language models use long contexts. _arXiv preprint arXiv:2307.03172_.
+[7] DeepLearning.AI (2023). [Building and Evaluating Advanced RAG Applications](https://www.deeplearning.ai/short-courses/building-evaluating-advanced-rag/) (accessed Dec 4, 2023)
+[8] [Ahmed Besbes](https://towardsdatascience.com/a-guide-on-12-tuning-strategies-for-production-ready-rag-applications-7ca646833439/None) (2023). Towards Data Science. [Why Your RAG Is Not Reliable in a Production Environment](https://towardsdatascience.com/why-your-rag-is-not-reliable-in-a-production-environment-9e6a73b3eddb) (accessed Nov. 27, 2023)
+[9] [Matt Ambrogi](https://towardsdatascience.com/a-guide-on-12-tuning-strategies-for-production-ready-rag-applications-7ca646833439/None) (2023). Towards Data Science. [10 Ways to Improve the Performance of Retrieval Augmented Generation Systems](https://towardsdatascience.com/10-ways-to-improve-the-performance-of-retrieval-augmented-generation-systems-5fa2cee7cd5c) (accessed Nov. 27, 2023)
+### Images
+If not otherwise stated, all images are created by the author.
+Written By
+Leonie Monigatti
+[See all from Leonie Monigatti](https://towardsdatascience.com/author/iamleonie/)
+Topics:
+[Artificial Intelligence](https://towardsdatascience.com/tag/artificial-intelligence/), [Data Scientist](https://towardsdatascience.com/tag/data-scientist/), [Machine Learning](https://towardsdatascience.com/tag/machine-learning/), [Programming](https://towardsdatascience.com/tag/programming/), [Rags](https://towardsdatascience.com/tag/rags/)
+Share this article:
+  * [ Share on Facebook  ](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Ftowardsdatascience.com%2Fa-guide-on-12-tuning-strategies-for-production-ready-rag-applications-7ca646833439%2F&title=A%20Guide%20on%2012%20Tuning%20Strategies%20for%20Production-Ready%20RAG%20Applications)
+  * [ Share on LinkedIn  ](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Ftowardsdatascience.com%2Fa-guide-on-12-tuning-strategies-for-production-ready-rag-applications-7ca646833439%2F&title=A%20Guide%20on%2012%20Tuning%20Strategies%20for%20Production-Ready%20RAG%20Applications)
+  * [ Share on X  ](https://x.com/share?url=https%3A%2F%2Ftowardsdatascience.com%2Fa-guide-on-12-tuning-strategies-for-production-ready-rag-applications-7ca646833439%2F&text=A%20Guide%20on%2012%20Tuning%20Strategies%20for%20Production-Ready%20RAG%20Applications)
+
+
+## Related Articles
+  * ![](https://towardsdatascience.com/wp-content/uploads/2024/08/0c09RmbCCpfjAbSMq.png)
+## [Implementing Convolutional Neural Networks in TensorFlow](https://towardsdatascience.com/implementing-convolutional-neural-networks-in-tensorflow-bc1c4f00bd34/)
+[ Artificial Intelligence ](https://towardsdatascience.com/category/artificial-intelligence/)
+Step-by-step code guide to building a Convolutional Neural Network 
+[Shreya Rao](https://towardsdatascience.com/author/shreya-rao/)
+August 20, 2024
+6 min read
+  * ## [What Do Large Language Models “Understand”?](https://towardsdatascience.com/what-do-large-language-models-understand-befdb4411b77/)
+[ Artificial Intelligence ](https://towardsdatascience.com/category/artificial-intelligence/)
+A deep dive on the meaning of understanding and how it applies to LLMs 
+[Tarik Dzekman](https://towardsdatascience.com/author/tarikdzekman/)
+August 21, 2024
+31 min read
+  * ![Photo by Krista Mangulsone on Unsplash](https://towardsdatascience.com/wp-content/uploads/2024/08/0GyVVTbgotH-DhGPH-scaled.jpg)
+## [How to Forecast Hierarchical Time Series](https://towardsdatascience.com/how-to-forecast-hierarchical-time-series-75f223f79793/)
+[ Artificial Intelligence ](https://towardsdatascience.com/category/artificial-intelligence/)
+A beginner’s guide to forecast reconciliation 
+[Dr. Robert Kübler](https://towardsdatascience.com/author/dr-robert-kuebler/)
+August 20, 2024
+13 min read
+  * ![Photo by davisuko on Unsplash](https://towardsdatascience.com/wp-content/uploads/2024/08/1bAABgtZtAIG5YW1oEjW3pA-scaled.jpeg)
+## [Hands-on Time Series Anomaly Detection using Autoencoders, with Python](https://towardsdatascience.com/hands-on-time-series-anomaly-detection-using-autoencoders-with-python-7cd893bbc122/)
+[ Data Science ](https://towardsdatascience.com/category/data-science/)
+Here’s how to use Autoencoders to detect signals with anomalies in a few lines of… 
+[Piero Paialunga](https://towardsdatascience.com/author/piero-paialunga/)
+August 21, 2024
+12 min read
+  * ![Image from Canva.](https://towardsdatascience.com/wp-content/uploads/2024/08/1UAA9jQVdqMXnwzYiz8Q53Q.png)
+## [3 AI Use Cases (That Are Not a Chatbot)](https://towardsdatascience.com/3-ai-use-cases-that-are-not-a-chatbot-f4f328a2707a/)
+[ Machine Learning ](https://towardsdatascience.com/category/artificial-intelligence/machine-learning/)
+Feature engineering, structuring unstructured data, and lead scoring 
+[Shaw Talebi](https://towardsdatascience.com/author/shawhin/)
+August 21, 2024
+7 min read
+  * ![](https://towardsdatascience.com/wp-content/uploads/2023/02/1VEUgT5T4absnTqBMOEuNig.png)
+## [Back To Basics, Part Uno: Linear Regression and Cost Function](https://towardsdatascience.com/back-to-basics-part-uno-linear-regression-cost-function-and-gradient-descent-590dcb3eee46/)
+[ Data Science ](https://towardsdatascience.com/category/data-science/)
+An illustrated guide on essential machine learning concepts 
+[Shreya Rao](https://towardsdatascience.com/author/shreya-rao/)
+February 3, 2023
+6 min read
+  * ![](https://towardsdatascience.com/wp-content/uploads/2024/08/1kM8tfYcdaoccB1HX71YDig.png)
+## [Must-Know in Statistics: The Bivariate Normal Projection Explained](https://towardsdatascience.com/must-know-in-statistics-the-bivariate-normal-projection-explained-ace7b2f70b5b/)
+[ Data Science ](https://towardsdatascience.com/category/data-science/)
+Derivation and practical examples of this powerful concept 
+[Luigi Battistoni](https://towardsdatascience.com/author/lu-battistoni/)
+August 14, 2024
+7 min read
+  * ![Photo by Alex Geerts on Unsplash](https://towardsdatascience.com/wp-content/uploads/2020/11/0BF38u2sw4WQdaMLS-scaled.jpg)
+## [Our Columns](https://towardsdatascience.com/our-columns-53501f74c86d/)
+[ Data Science ](https://towardsdatascience.com/category/data-science/)
+Columns on TDS are carefully curated collections of posts on a particular idea or category… 
+[TDS Editors](https://towardsdatascience.com/author/towardsdatascience/)
+November 14, 2020
+4 min read
+  * ![Image created by authors with GPT-4o](https://towardsdatascience.com/wp-content/uploads/2024/08/1vilI3Q4nlwqsAQLq3TOzSA.jpg)
+## [Optimizing Marketing Campaigns with Budgeted Multi-Armed Bandits](https://towardsdatascience.com/optimizing-marketing-campaigns-with-budgeted-multi-armed-bandits-a65fccd61878/)
+[ Data Science ](https://towardsdatascience.com/category/data-science/)
+With demos, our new solution, and a video 
+[Vadim Arzamasov](https://towardsdatascience.com/author/vadim-arzamasov/)
+August 16, 2024
+10 min read
+
+
+  * [YouTube](https://www.youtube.com/c/TowardsDataScience)
+  * [X](https://x.com/TDataScience)
+  * [LinkedIn](https://www.linkedin.com/company/towards-data-science/?originalSubdomain=ca)
+  * [Threads](https://www.threads.net/@towardsdatascience)
+  * [Bluesky](https://bsky.app/profile/towardsdatascience.com)
+
+
+[![Towards Data Science](https://towardsdatascience.com/wp-content/uploads/2025/02/TDS-Vector-Logo.svg)](https://towardsdatascience.com/)
+Your home for data science and Al. The world’s leading publication for data science, data analytics, data engineering, machine learning, and artificial intelligence professionals.
+©  Insight Media Group, LLC 2025 
+  * [About](https://towardsdatascience.com/about-towards-data-science-d691af11cc2f/)
+  * [Privacy Policy](https://towardsdatascience.com/privacy-policy/)
+  * [Terms of Use](https://towardsdatascience.com/website-terms-of-use/)
+
+
+[Towards Data Science is now independent!](https://towardsdatascience.com/towards-data-science-is-launching-as-an-independent-publication/)
+Cookies Settings
+## Sign up to our newsletter
+Email address*
+First name*
+Last name*
+Job title*
+Job level*
+Please SelectC-LevelVP/DirectorManager/SupervisorMid Level or Senior Non-Managerial StaffEntry Level/Junior StaffFreelancer/ContractorStudent/InternOther
+Company name*
+  * I consent to receive newsletters and other communications from Towards Data Science publications.*
+
+
+![Company Logo](https://cdn.cookielaw.org/logos/static/ot_company_logo.png)
+## Privacy Preference Center
+When you visit any website, it may store or retrieve information on your browser, mostly in the form of cookies. This information might be about you, your preferences or your device and is mostly used to make the site work as you expect it to. The information does not usually directly identify you, but it can give you a more personalized web experience. Because we respect your right to privacy, you can choose not to allow some types of cookies. Click on the different category headings to find out more and change our default settings. However, blocking some types of cookies may impact your experience of the site and the services we are able to offer. [More information](https://cookiepedia.co.uk/giving-consent-to-cookies)
+Allow All
+###  Manage Consent Preferences
+#### Functional Cookies
+Functional Cookies Active
+These cookies enable the website to provide enhanced functionality and personalisation. They may be set by us or by third party providers whose services we have added to our pages. If you do not allow these cookies then some or all of these services may not function properly.
+#### Strictly Necessary Cookies
+Always Active
+These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the site will not then work. These cookies do not store any personally identifiable information.
+#### Performance Cookies
+Performance Cookies Active
+These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site. All information these cookies collect is aggregated and therefore anonymous. If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance.
+#### Targeting Cookies
+Targeting Cookies Active
+These cookies may be set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites. They do not store directly personal information, but are based on uniquely identifying your browser and internet device. If you do not allow these cookies, you will experience less targeted advertising.
+Back Button
+### Cookie List
+Search Icon
+Filter Icon
+Clear
+checkbox label label
+Apply Cancel
+Consent Leg.Interest
+checkbox label label
+checkbox label label
+checkbox label label
+Reject All Confirm My Choices
+[![Powered by Onetrust](https://cdn.cookielaw.org/logos/static/powered_by_logo.svg)](https://www.onetrust.com/products/cookie-consent/)
+Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order.

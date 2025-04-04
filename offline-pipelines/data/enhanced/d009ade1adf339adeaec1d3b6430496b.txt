@@ -1,0 +1,98 @@
+[Skip to main content](https://docs.cloud.llamaindex.ai/llamaparse/getting_started/#__docusaurus_skipToContent_fallback)
+[![LlamaIndex](https://docs.cloud.llamaindex.ai/img/llamacloud-black.svg)![LlamaIndex](https://docs.cloud.llamaindex.ai/img/llamacloud-white.svg)](https://docs.cloud.llamaindex.ai/)
+[Docs](https://docs.cloud.llamaindex.ai/)[API Reference](https://docs.cloud.llamaindex.ai/API/llama-platform)
+  * [Welcome to LlamaCloud 🦙](https://docs.cloud.llamaindex.ai/)
+  * [Indexing & Search 🔎](https://docs.cloud.llamaindex.ai/llamacloud/getting_started)
+  * [Parsing 📄](https://docs.cloud.llamaindex.ai/llamaparse/getting_started)
+    * [Getting Started](https://docs.cloud.llamaindex.ai/llamaparse/getting_started)
+      * [Using the UI](https://docs.cloud.llamaindex.ai/llamaparse/getting_started/web_ui)
+      * [Api](https://docs.cloud.llamaindex.ai/llamaparse/getting_started/get_an_api_key)
+      * [Using in Python](https://docs.cloud.llamaindex.ai/llamaparse/getting_started/python)
+      * [Using in TypeScript](https://docs.cloud.llamaindex.ai/llamaparse/getting_started/typescript)
+      * [Using the REST API](https://docs.cloud.llamaindex.ai/llamaparse/getting_started/api)
+    * [Input](https://docs.cloud.llamaindex.ai/llamaparse/input)
+    * [Examples](https://docs.cloud.llamaindex.ai/llamaparse/examples)
+    * [Parsing Modes](https://docs.cloud.llamaindex.ai/llamaparse/parsing/parsing_modes)
+    * [Schemas](https://docs.cloud.llamaindex.ai/llamaparse/schemas/invoice)
+    * [Features](https://docs.cloud.llamaindex.ai/llamaparse/features/parsing_options)
+    * [Pricing and usage data](https://docs.cloud.llamaindex.ai/llamaparse/usage_data)
+    * [Latency](https://docs.cloud.llamaindex.ai/llamaparse/latency)
+    * [Privacy](https://docs.cloud.llamaindex.ai/llamaparse/privacy)
+    * [FAQ](https://docs.cloud.llamaindex.ai/llamaparse/faq)
+    * [Limitations](https://docs.cloud.llamaindex.ai/llamaparse/limits)
+  * [Document Extraction (beta) 🧩](https://docs.cloud.llamaindex.ai/llamaextract/getting_started)
+  * [Report Generation (beta) 📋](https://docs.cloud.llamaindex.ai/llamareport/learn)
+  * [Organizations](https://docs.cloud.llamaindex.ai/organizations)
+  * [Regions](https://docs.cloud.llamaindex.ai/regions)
+  * [Managing your subscription](https://docs.cloud.llamaindex.ai/upgrading)
+
+
+  * [](https://docs.cloud.llamaindex.ai/)
+  * Parsing 📄
+  * Getting Started
+
+
+On this page
+# Getting Started
+## Overview[​](https://docs.cloud.llamaindex.ai/llamaparse/getting_started/#overview "Direct link to Overview")
+Welcome to LlamaParse, the world's best document parsing service, from [LlamaIndex](https://llamaindex.ai). LlamaParse allows you to securely parse complex documents such as PDFs, PowerPoints, Word documents and spreadsheets into structured data using state-of-the-art AI.
+LlamaParse is available as a standalone REST API, a Python package, a TypeScript SDK, and a web UI.
+You can [sign up](https://cloud.llamaindex.ai/login) to try it out or read the [onboarding documentation](https://docs.cloud.llamaindex.ai/llamaparse/getting_started/web_ui).
+## Original Document
+![uploading](https://docs.cloud.llamaindex.ai/assets/images/parse_original-23ccfa27d97317b118d5d4dd4098fc36.png)
+## Parsing Results
+![uploading](https://docs.cloud.llamaindex.ai/assets/images/parse_result-d4b4f0fe7bdaa6097a972ce0c5b3cbe0.png)
+### Why LlamaParse?[​](https://docs.cloud.llamaindex.ai/llamaparse/getting_started/#why-llamaparse "Direct link to Why LlamaParse?")
+At LlamaIndex we have a mission to connect your data to LLMs. A key factor in the effectiveness of presenting your data to LLMs is that it be easily understood by the model.
+Our experiments show that high-quality parsing makes a significant difference to the outcomes of your generative AI applications. So we compiled all of our expertise in document parsing into LlamaParse, to make it easy for you to get your data into the best possible shape for your LLMs.
+## Quick starts[​](https://docs.cloud.llamaindex.ai/llamaparse/getting_started/#quick-starts "Direct link to Quick starts")
+### Using the web UI[​](https://docs.cloud.llamaindex.ai/llamaparse/getting_started/#using-the-web-ui "Direct link to Using the web UI")
+The fastest way to try out LlamaParse is to [use the web UI](https://docs.cloud.llamaindex.ai/llamaparse/getting_started/web_ui). Just drag and drop any PDF, PowerPoint, Word document, or spreadsheet into LlamaCloud and see your results in real time. This is great for getting a sense of what LlamaParse can do before you integrate it into your code.
+### Get an API key[​](https://docs.cloud.llamaindex.ai/llamaparse/getting_started/#get-an-api-key "Direct link to Get an API key")
+Once you're ready to start coding, [get an API key](https://docs.cloud.llamaindex.ai/llamaparse/getting_started/get_an_api_key) to use LlamaParse in Python, TypeScript or as a standalone REST API.
+### Use our libraries[​](https://docs.cloud.llamaindex.ai/llamaparse/getting_started/#use-our-libraries "Direct link to Use our libraries")
+We have libraries available for Python and TypeScript. Check out the [Python quick start](https://docs.cloud.llamaindex.ai/llamaparse/getting_started/python) or the [TypeScript quick start](https://docs.cloud.llamaindex.ai/llamaparse/getting_started/typescript) to get started.
+### Use the REST API[​](https://docs.cloud.llamaindex.ai/llamaparse/getting_started/#use-the-rest-api "Direct link to Use the REST API")
+If you're using a different language, you can use the [LlamaParse REST API](https://docs.cloud.llamaindex.ai/llamaparse/getting_started/api) to parse your documents.
+[PreviousEnterprise Rollout](https://docs.cloud.llamaindex.ai/llamacloud/cookbooks/enterprise_onboarding)[NextUsing the UI](https://docs.cloud.llamaindex.ai/llamaparse/getting_started/web_ui)
+  * [Overview](https://docs.cloud.llamaindex.ai/llamaparse/getting_started/#overview)
+    * [Why LlamaParse?](https://docs.cloud.llamaindex.ai/llamaparse/getting_started/#why-llamaparse)
+  * [Quick starts](https://docs.cloud.llamaindex.ai/llamaparse/getting_started/#quick-starts)
+    * [Using the web UI](https://docs.cloud.llamaindex.ai/llamaparse/getting_started/#using-the-web-ui)
+    * [Get an API key](https://docs.cloud.llamaindex.ai/llamaparse/getting_started/#get-an-api-key)
+    * [Use our libraries](https://docs.cloud.llamaindex.ai/llamaparse/getting_started/#use-our-libraries)
+    * [Use the REST API](https://docs.cloud.llamaindex.ai/llamaparse/getting_started/#use-the-rest-api)
+
+
+LlamaIndex
+  * [Blog](https://llamaindex.ai/blog)
+  * [Careers](https://llamaindex.ai/careers)
+  * [Contact](https://llamaindex.ai/contact)
+
+
+Open Source
+  * [Python package](https://pypi.org/project/llama-index/)
+  * [Python docs](https://docs.llamaindex.ai/)
+  * [TypeScript package](https://www.npmjs.com/package/llamaindex)
+  * [TypeScript docs](https://ts.llamaindex.ai/)
+  * [LlamaHub](https://llamahub.ai/)
+  * [GitHub](https://github.com/run-llama)
+
+
+Community
+  * [Newsletter](https://www.llamaindex.ai/community#newsletter)
+  * [Discord](https://discord.com/invite/eN6D2HQ4aX)
+  * [Twitter/X](https://twitter.com/llama_index)
+  * [LinkedIn](https://www.linkedin.com/company/91154103/)
+  * [YouTube](https://www.youtube.com/@LlamaIndex)
+
+
+Starter projects
+  * [create-llama](https://www.npmjs.com/package/create-llama)
+  * [SEC Insights](https://secinsights.ai/)
+  * [Chat LlamaIndex](https://chat.llamaindex.ai/)
+  * [LlamaBot](https://github.com/run-llama/llamabot)
+  * [RAG CLI](https://docs.llamaindex.ai/en/stable/use_cases/q_and_a/rag_cli.html)
+
+
+Copyright © 2025 LlamaIndex, Inc.

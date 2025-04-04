@@ -1,0 +1,73 @@
+[ ](https://paperswithcode.com/)
+[ ](https://twitter.com/paperswithcode)
+  * [ Browse State-of-the-Art ](https://paperswithcode.com/sota)
+  * [ Datasets ](https://paperswithcode.com/datasets)
+  * [Methods](https://paperswithcode.com/methods)
+  * More 
+[Newsletter](https://paperswithcode.com/newsletter) [RC2022](https://paperswithcode.com/rc2022) [About](https://paperswithcode.com/about) [Trends](https://paperswithcode.com/trends) [ Portals ](https://portal.paperswithcode.com/) [ Libraries ](https://paperswithcode.com/libraries)
+
+
+  * [ ](https://twitter.com/paperswithcode)
+  * [Sign In](https://paperswithcode.com/accounts/login?next=/sota/code-generation-on-humaneval/)
+
+
+### Subscribe to the PwC Newsletter
+×
+Stay informed on the latest trending ML papers with code, research developments, libraries, methods, and datasets. [Read previous issues](https://paperswithcode.com/newsletter)
+Subscribe
+##### Join the community
+×
+You need to [log in](https://paperswithcode.com/accounts/login?next=/sota/code-generation-on-humaneval/) to edit. You can [create a new account](https://paperswithcode.com/accounts/register?next=/sota/code-generation-on-humaneval/) if you don't have one. 
+[ ![](https://production-media.paperswithcode.com/thumbnails/task/658fcf6a-52ca-4865-b111-28bf61c346dc.jpg) Code Generation ](https://paperswithcode.com/task/code-generation)
+# Code Generation on HumanEval
+  * [Leaderboard](https://paperswithcode.com/sota/code-generation-on-humaneval/)
+  * [Community Models](https://paperswithcode.com/sota/code-generation-on-humaneval/)
+  * [Dataset](https://paperswithcode.com/sota/code-generation-on-humaneval/)
+
+
+View
+Pass@1
+by 
+Date
+for
+All modelsModels not using extra training dataModels using extra training data
+All competition entriesPublished models only
+![](https://production-assets.paperswithcode.com/perf/1ec4a49d2652754b9838.gif)
+Filter: Hierarchical Promptingmythuntagged
+Edit Leaderboard
+Rank| Model| Pass@1| Extra Training Data| Paper| Code| Result| Year| Tags  
+---|---|---|---|---|---|---|---|---  
+1| [Claude 3.5 Sonnet (HPT)](https://paperswithcode.com/paper/hierarchical-prompting-taxonomy-a-universal)| 100| Close| [Hierarchical Prompting Taxonomy: A Universal Evaluation Framework for Large Language Models Aligned with Human Cognitive Principles](https://paperswithcode.com/paper/hierarchical-prompting-taxonomy-a-universal)| [](https://paperswithcode.com/paper/hierarchical-prompting-taxonomy-a-universal#code)| [Enter](https://paperswithcode.com/paper/hierarchical-prompting-taxonomy-a-universal/review/?hl=142247)| 2024| Hierarchical Prompting  
+2| [Llama-3 8B (HPT)](https://paperswithcode.com/paper/hierarchical-prompting-taxonomy-a-universal)| 100| Close| [Hierarchical Prompting Taxonomy: A Universal Evaluation Framework for Large Language Models Aligned with Human Cognitive Principles](https://paperswithcode.com/paper/hierarchical-prompting-taxonomy-a-universal)| [](https://paperswithcode.com/paper/hierarchical-prompting-taxonomy-a-universal#code)| [Enter](https://paperswithcode.com/paper/hierarchical-prompting-taxonomy-a-universal/review/?hl=142248)| 2024| Hierarchical Prompting  
+3| [LLMDebugger (OpenAI o1)](https://paperswithcode.com/paper/ldb-a-large-language-model-debugger-via)| 99.4| Close| [Debug like a Human: A Large Language Model Debugger via Verifying Runtime Execution Step-by-step](https://paperswithcode.com/paper/ldb-a-large-language-model-debugger-via)| [](https://paperswithcode.com/paper/ldb-a-large-language-model-debugger-via#code)| [Enter](https://paperswithcode.com/paper/ldb-a-large-language-model-debugger-via#results)| 2025  
+4| [QualityFlow (Sonnet-3.5)](https://paperswithcode.com/paper/qualityflow-an-agentic-workflow-for-program)| 98.8| Close| [QualityFlow: An Agentic Workflow for Program Synthesis Controlled by LLM Quality Checks](https://paperswithcode.com/paper/qualityflow-an-agentic-workflow-for-program)| [Enter](https://paperswithcode.com/paper/qualityflow-an-agentic-workflow-for-program/review/?hl=141407)| 2025  
+5| [CodeSim (o3-mini)](https://paperswithcode.com/paper/codesim-multi-agent-code-generation-and-1)| 98.8| Close| [CODESIM: Multi-Agent Code Generation and Problem Solving through Simulation-Driven Planning and Debugging](https://paperswithcode.com/paper/codesim-multi-agent-code-generation-and-1)| [](https://paperswithcode.com/paper/codesim-multi-agent-code-generation-and-1#code)| [Enter](https://paperswithcode.com/paper/codesim-multi-agent-code-generation-and-1#results)| 2025  
+6| [Nexus (Claude 3.5 Sonnet)](https://paperswithcode.com/paper/nexus-a-lightweight-and-scalable-multi-agent)| 98.8| Close| [Nexus: A Lightweight and Scalable Multi-Agent Framework for Complex Tasks Automation](https://paperswithcode.com/paper/nexus-a-lightweight-and-scalable-multi-agent)| [](https://paperswithcode.com/paper/nexus-a-lightweight-and-scalable-multi-agent#code)| [Enter](https://paperswithcode.com/paper/nexus-a-lightweight-and-scalable-multi-agent#results)| 2025  
+7| [LPW (GPT-4o)](https://paperswithcode.com/paper/planning-driven-programming-a-large-language)| 98.2| Close| [Planning-Driven Programming: A Large Language Model Programming Workflow](https://paperswithcode.com/paper/planning-driven-programming-a-large-language)| [](https://paperswithcode.com/paper/planning-driven-programming-a-large-language#code)| [Enter](https://paperswithcode.com/paper/planning-driven-programming-a-large-language/review/?hl=141601)| 2024  
+8| [LLMDebugger (GPT 4o)](https://paperswithcode.com/paper/ldb-a-large-language-model-debugger-via)| 98.2| Close| [Debug like a Human: A Large Language Model Debugger via Verifying Runtime Execution Step-by-step](https://paperswithcode.com/paper/ldb-a-large-language-model-debugger-via)| [](https://paperswithcode.com/paper/ldb-a-large-language-model-debugger-via#code)| [Enter](https://paperswithcode.com/paper/ldb-a-large-language-model-debugger-via#results)| 2024  
+9| [CodeSim (GPT-4o and LDB Debugger )](https://paperswithcode.com/paper/codesim-multi-agent-code-generation-and-1)| 97.6| Close| [CODESIM: Multi-Agent Code Generation and Problem Solving through Simulation-Driven Planning and Debugging](https://paperswithcode.com/paper/codesim-multi-agent-code-generation-and-1)| [](https://paperswithcode.com/paper/codesim-multi-agent-code-generation-and-1#code)| [Enter](https://paperswithcode.com/paper/codesim-multi-agent-code-generation-and-1#results)| 2025  
+10| [AgentCoder (GPT-4)](https://paperswithcode.com/paper/agentcoder-multi-agent-based-code-generation)| 96.3| Close| [AgentCoder: Multi-Agent-based Code Generation with Iterative Testing and Optimisation](https://paperswithcode.com/paper/agentcoder-multi-agent-based-code-generation)| [](https://paperswithcode.com/paper/agentcoder-multi-agent-based-code-generation#code)| [Enter](https://paperswithcode.com/paper/agentcoder-multi-agent-based-code-generation/review/?hl=118774)| 2023  
+11| [MGDebugger (DeepSeek-Coder-V2-Lite)](https://paperswithcode.com/paper/from-code-to-correctness-closing-the-last)| 96.3| Checkmark| [From Code to Correctness: Closing the Last Mile of Code Generation with Hierarchical Debugging](https://paperswithcode.com/paper/from-code-to-correctness-closing-the-last)| [](https://paperswithcode.com/paper/from-code-to-correctness-closing-the-last#code)| [Enter](https://paperswithcode.com/paper/from-code-to-correctness-closing-the-last/review/?hl=130376)| 2024  
+12| [CodeSim (GPT-4o)](https://paperswithcode.com/paper/codesim-multi-agent-code-generation-and-1)| 95.1| Close| [CODESIM: Multi-Agent Code Generation and Problem Solving through Simulation-Driven Planning and Debugging](https://paperswithcode.com/paper/codesim-multi-agent-code-generation-and-1)| [](https://paperswithcode.com/paper/codesim-multi-agent-code-generation-and-1#code)| [Enter](https://paperswithcode.com/paper/codesim-multi-agent-code-generation-and-1#results)| 2025  
+13| [AFlow(GPT-4o-mini)](https://paperswithcode.com/paper/aflow-automating-agentic-workflow-generation)| 94.7| Close| [AFlow: Automating Agentic Workflow Generation](https://paperswithcode.com/paper/aflow-automating-agentic-workflow-generation)| [](https://paperswithcode.com/paper/aflow-automating-agentic-workflow-generation#code)| [Enter](https://paperswithcode.com/paper/aflow-automating-agentic-workflow-generation#results)| 2024  
+14| [MapCoder (GPT-4)](https://paperswithcode.com/paper/mapcoder-multi-agent-code-generation-for)| 93.9| Close| [MapCoder: Multi-Agent Code Generation for Competitive Problem Solving](https://paperswithcode.com/paper/mapcoder-multi-agent-code-generation-for)| [](https://paperswithcode.com/paper/mapcoder-multi-agent-code-generation-for#code)| [Enter](https://paperswithcode.com/paper/mapcoder-multi-agent-code-generation-for#results)| 2024  
+15| Claude 3.5 Sonnet (0-shot)| 92.0| Close| 2024| myth  
+16| FractalResearch : Pioneer-SWO (GPT-4-turbo)| 91.65| Close  
+17| [L2MAC (GPT-4)](https://paperswithcode.com/paper/l2mac-large-language-model-automatic-computer)| 90.2| Close| [L2MAC: Large Language Model Automatic Computer for Extensive Code Generation](https://paperswithcode.com/paper/l2mac-large-language-model-automatic-computer)| [](https://paperswithcode.com/paper/l2mac-large-language-model-automatic-computer#code)| [Enter](https://paperswithcode.com/paper/l2mac-large-language-model-automatic-computer/review/?hl=120475)| 2023  
+18| [GPT-4o (0-shot)](https://paperswithcode.com/paper/claude-3-5-sonnet-model-card-addendum)| 90.2| Close| [Claude 3.5 Sonnet Model Card Addendum](https://paperswithcode.com/paper/claude-3-5-sonnet-model-card-addendum)| [Enter](https://paperswithcode.com/paper/claude-3-5-sonnet-model-card-addendum#results)| 2024| myth  
+19| [OctorCoder (GPT-4)](https://paperswithcode.com/paper/octopack-instruction-tuning-code-large)| 86.6| Close| [OctoPack: Instruction Tuning Code Large Language Models](https://paperswithcode.com/paper/octopack-instruction-tuning-code-large)| [](https://paperswithcode.com/paper/octopack-instruction-tuning-code-large#code)| [Enter](https://paperswithcode.com/paper/octopack-instruction-tuning-code-large#results)| 2023  
+20| Spark_FP16_medium_v4.1.1| 85.97| Close| 2024  
+21| [MetaGPT (GPT-4)](https://paperswithcode.com/paper/metagpt-meta-programming-for-multi-agent)| 85.9| Close| [MetaGPT: Meta Programming for A Multi-Agent Collaborative Framework](https://paperswithcode.com/paper/metagpt-meta-programming-for-multi-agent)| [](https://paperswithcode.com/paper/metagpt-meta-programming-for-multi-agent#code)| [Enter](https://paperswithcode.com/paper/metagpt-meta-programming-for-multi-agent/review/?hl=107865)| 2023  
+View
+Pass@1
+by 
+Date
+![](https://production-assets.paperswithcode.com/perf/1ec4a49d2652754b9838.gif)
+Filter: untagged
+Rank| Model| Pass@1| Details| Year| Tags  
+---|---|---|---|---|---  
+1| [replit-code-v1-3b](https://huggingface.co/replit/replit-code-v1-3b)| 0.219| [](https://huggingface.co/replit/replit-code-v1-3b)| 2023  
+2| [replit-code-v1-3b](https://huggingface.co/lentan/replit)| 0.219| [](https://huggingface.co/lentan/replit)| 2023  
+[HumanEvalThis is an evaluation harness for the HumanEval problem solving dataset described in the paper "Evaluating Large Language Models Trained on Code". It used to measure functional correctness for synthesizing programs from docstrings. It consists of 164 original programming problems, assessing language comprehension, algorithms, and simple mathematics, with some comparable to simple software interview questions.](https://paperswithcode.com/dataset/humaneval)
+Contact us on: hello@paperswithcode.com .  Papers With Code is a free resource with all data licensed under [CC-BY-SA](https://creativecommons.org/licenses/by-sa/4.0/). 
+[Terms](https://paperswithcode.com/site/terms) [Data policy](https://paperswithcode.com/site/data-policy) [Cookies policy](https://paperswithcode.com/site/cookies-policy) [ from ![](https://paperswithcode.com/sota/code-generation-on-humaneval/) ](https://paperswithcode.com/about#team)

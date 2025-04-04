@@ -1,0 +1,55 @@
+{
+    "id": "4eed2d66aad73c54d74fdb3f1f0dac4a",
+    "metadata": {
+        "id": "4eed2d66aad73c54d74fdb3f1f0dac4a",
+        "url": "https://newsletter.systemdesign.one/",
+        "title": "The System Design Newsletter | Neo Kim | Substack",
+        "properties": {
+            "description": "Weekly newsletter to help busy software engineers become good at work. Click to read The System Design Newsletter, by Neo Kim, a Substack publication with hundreds of thousands of subscribers.",
+            "keywords": null,
+            "author": "Neo Kim",
+            "og:url": "https://newsletter.systemdesign.one/",
+            "og:type": "article",
+            "og:title": "The System Design Newsletter | Neo Kim | Substack",
+            "og:description": "Weekly newsletter to help busy software engineers become good at work. Click to read The System Design Newsletter, by Neo Kim, a Substack publication with hundreds of thousands of subscribers.",
+            "og:image": "https://substackcdn.com/image/fetch/f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsystemdesignone.substack.com%2Ftwitter%2Fsubscribe-card.jpg%3Fv%3D524399944%26version%3D9",
+            "twitter:title": "The System Design Newsletter | Neo Kim | Substack",
+            "twitter:description": "Weekly newsletter to help busy software engineers become good at work. Click to read The System Design Newsletter, by Neo Kim, a Substack publication with hundreds of thousands of subscribers.",
+            "twitter:image": "https://substackcdn.com/image/fetch/f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsystemdesignone.substack.com%2Ftwitter%2Fsubscribe-card.jpg%3Fv%3D524399944%26version%3D9",
+            "twitter:card": "summary_large_image"
+        }
+    },
+    "parent_metadata": {
+        "id": "afabc3372dbf4c7c49bda57d0cdb60ec",
+        "url": "https://www.notion.so/Sources-afabc3372dbf4c7c49bda57d0cdb60ec",
+        "title": "Sources",
+        "properties": {
+            "Type": [
+                "Node"
+            ],
+            "Language": null,
+            "Created": {
+                "id": "tmas",
+                "type": "created_time",
+                "created_time": "2024-10-18T14:29:00.000Z"
+            }
+        }
+    },
+    "content": "![](https://substackcdn.com/image/fetch/w_176,h_176,c_fill,f_auto,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc307af20-7930-4c70-9a4b-1e800617ef9e_256x256.png)\n# The System Design Newsletter\nWeekly newsletter to help busy software engineers become good at work\nBy Neo Kim\n· Over 139,000 subscribers\nSubscribe\nBy subscribing, I agree to Substack’s [Terms of Use](https://substack.com/tos) and acknowledge its [Information Collection Notice](https://substack.com/ccpa#personal-data-collected) and [Privacy Policy](https://substack.com/privacy)\nNot right now\n[![The System Design Newsletter](https://substackcdn.com/image/fetch/w_80,h_80,c_fill,f_auto,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc307af20-7930-4c70-9a4b-1e800617ef9e_256x256.png)](https://newsletter.systemdesign.one/)\n# [The System Design Newsletter](https://newsletter.systemdesign.one/)\nSubscribeSign in\n[Home](https://newsletter.systemdesign.one/)\n[Videos](https://www.youtube.com/@systemdesignone?sub_confirmation=1)\n[Sponsorship](https://newsletter.systemdesign.one/p/sponsorship)\n[About](https://newsletter.systemdesign.one/about)\n© 2025 Neo Kim\n[Publisher Privacy](https://newsletter.systemdesign.one/privacy)\nSubstack\n[Privacy](https://substack.com/privacy) ∙ [Terms](https://substack.com/tos) ∙ [Collection notice](https://substack.com/ccpa#personal-data-collected)\n[ Start Writing](https://substack.com/signup?utm_source=substack&utm_medium=web&utm_content=footer)[Get the app](https://substack.com/app/app-store-redirect?utm_campaign=app-marketing&utm_content=web-footer-button)\n[Substack](https://substack.com) is the home for great culture\n#### Share\n[](https://newsletter.systemdesign.one/?utm_campaign=unknown&utm_medium=web)\nCopy linkFacebookEmailNotesMore\n",
+    "content_quality_score": 0.1,
+    "summary": null,
+    "child_urls": [
+        "https://newsletter.systemdesign.one/",
+        "https://newsletter.systemdesign.one/p/sponsorship",
+        "https://newsletter.systemdesign.one/about",
+        "https://newsletter.systemdesign.one/privacy",
+        "https://newsletter.systemdesign.one/?utm_campaign=unknown&utm_medium=web",
+        "https://substack.com/tos",
+        "https://substack.com/ccpa#personal-data-collected",
+        "https://substack.com/privacy",
+        "https://www.youtube.com/@systemdesignone?sub_confirmation=1",
+        "https://substack.com/signup?utm_source=substack&utm_medium=web&utm_content=footer",
+        "https://substack.com/app/app-store-redirect?utm_campaign=app-marketing&utm_content=web-footer-button",
+        "https://substack.com"
+    ]
+}

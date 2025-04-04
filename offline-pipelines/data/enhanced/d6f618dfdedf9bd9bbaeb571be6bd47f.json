@@ -1,0 +1,48 @@
+{
+    "id": "d6f618dfdedf9bd9bbaeb571be6bd47f",
+    "metadata": {
+        "id": "d6f618dfdedf9bd9bbaeb571be6bd47f",
+        "url": "https://ml-ops.org/",
+        "title": "ML Ops: Machine Learning Operations",
+        "properties": {
+            "description": "Machine Learning Operations",
+            "keywords": null,
+            "author": null,
+            "og:title": "ml-ops.org",
+            "og:description": "Machine Learning Operations",
+            "og:url": "https://ml-ops.org/",
+            "twitter:card": "summary_large_image",
+            "twitter:site": "@INNOQ",
+            "twitter:creator": "@INNOQ",
+            "twitter:title": "ml-ops.org",
+            "twitter:description": "Machine Learning Operations"
+        }
+    },
+    "parent_metadata": {
+        "id": "e0efae982a2fe2c2fa686cd1dabff97e",
+        "url": "https://www.notion.so/Sources-e0efae982a2fe2c2fa686cd1dabff97e",
+        "title": "📙 Sources",
+        "properties": {
+            "Type": "Node"
+        }
+    },
+    "content": "![MLOps Logo](https://ml-ops.org/assets/mlops_header_logo.svg)\n# Machine Learning Operations\nWith Machine Learning Model Operationalization Management (MLOps), we want to provide an end-to-end machine learning development process to design, build and manage reproducible, testable, and evolvable ML-powered software.\n![MLOps Logo](https://ml-ops.org/assets/mlops_visual.svg)\n[![Please scroll](https://ml-ops.org/assets/icons/Icon__ButtonDown.svg)](https://ml-ops.org/#gettingstarted)\n## Getting started\nBeing an emerging field, MLOps is rapidly gaining momentum amongst Data Scientists, ML Engineers and AI enthusiasts. Following this trend, the [Continuous Delivery Foundation SIG MLOps](https://github.com/cdfoundation/sig-mlops) differentiates the ML models management from traditional software engineering and suggests the following MLOps capabilities:\n  * MLOps aims to unify the release cycle for machine learning and software application release. \n  * MLOps enables automated testing of machine learning artifacts (e.g. data validation, ML model testing, and ML model integration testing) \n  * MLOps enables the application of agile principles to machine learning projects.\n  * MLOps enables supporting machine learning models and datasets to build these models as first-class citizens within CI/CD systems. \n  * MLOps reduces technical debt across machine learning models.\n  * MLOps must be a language-, framework-, platform-, and infrastructure-agnostic practice.\n\n\n![](https://ml-ops.org/assets/icons/Icon__Motivation.svg)\n### Motivation for MLOps\nYou will learn for what to use Machine Learning, about various scenarios of change that need to be managed and the iterative nature of ML-based software development. Finally, we provide the MLOps definition and show the evolution of MLOps.\n[Read more](https://ml-ops.org/content/motivation)\n![](https://ml-ops.org/assets/icons/Icon__DesigningSoftware.svg)\n### Designing ML-powered Software\nThis part is devoted to one of the most important phase in any software project — understanding the business problem and requirements. As these equally apply to ML-based software you need to make sure to have a good understanding before setting out designing things.\n[Read more](https://ml-ops.org/content/phase-zero)\n![](https://ml-ops.org/assets/icons/Icon__Lifecycle.svg)\n### End-to-End ML Workflow Lifecycle\nIn this section, we provide a high-level overview of a typical workflow for machine learning-based software development.\n[Read more](https://ml-ops.org/content/end-to-end-ml-workflow)\n![](https://ml-ops.org/assets/icons/Icon__ThreeLevels.svg)\n### Three Levels of ML-based Software\nYou will learn about three core elements of ML-based software — Data, ML models, and Code. In particular, we will talk about\n  * Data Engineering Pipelines\n  * ML Pipelines and ML workflows.\n  * Model Serving Patterns and Deployment Strategies\n\n\n[Read more](https://ml-ops.org/content/three-levels-of-ml-software)\n![](https://ml-ops.org/assets/icons/Icon__Principles.svg)\n### MLOps Principles\nIn this part, we describe principles and established practices to test, deploy, manage, and monitor ML models in production.\n[Read more](https://ml-ops.org/content/mlops-principles)\n![](https://ml-ops.org/assets/icons/Icon__Crisp.svg)\n### CRISP-ML(Q)\nYou will learn about the standard process model for machine learning development.\n[Read more](https://ml-ops.org/content/crisp-ml)\n![](https://ml-ops.org/assets/icons/Icon__StackCanvas.svg)\n### MLOps Stack Canvas\nIn this part, you will learn how to specify an architecture and infrastructure stack for MLOps by applying a general MLOps Stack Canvas framework, which is designed to be application- and industry-neutral.\n[Read more](https://ml-ops.org/content/mlops-stack-canvas)\n![](https://ml-ops.org/assets/icons/Icon__ModelGovernance.svg)\n### ML Model Governance\nThis part presents an overview of governance processes, which are an integral part of MLOps.\n[Read more](https://ml-ops.org/content/model-governance)\n![](https://ml-ops.org/assets/icons/Icon__Help.svg)\n### Need Help?\nMLOps consulting services by INNOQ\n[Read more](https://data-ai.innoq.com/en)\nThe content of this site was created by Dr. Larysa Visengeriyeva, Anja Kammer, Isabel Bär, Alexander Kniesz, and Michael Plöd (DDD Advisor).\nIt is published under [Creative Commons Attribution 4.0 International Public License](https://creativecommons.org/licenses/by/4.0/) and can therefore be shared and adapted with attribution (\"INNOQ\").\nMade and maintained by\n[ ![INNOQ](https://ml-ops.org/assets/innoq-logo_mlops.svg) ](https://data-ai.innoq.com/en)\n[Privacy](https://www.innoq.com/en/datenschutz) | [Site notice](https://www.innoq.com/en/impressum/)\n",
+    "content_quality_score": 0.9,
+    "summary": null,
+    "child_urls": [
+        "https://ml-ops.org/#gettingstarted",
+        "https://ml-ops.org/content/motivation",
+        "https://ml-ops.org/content/phase-zero",
+        "https://ml-ops.org/content/end-to-end-ml-workflow",
+        "https://ml-ops.org/content/three-levels-of-ml-software",
+        "https://ml-ops.org/content/mlops-principles",
+        "https://ml-ops.org/content/crisp-ml",
+        "https://ml-ops.org/content/mlops-stack-canvas",
+        "https://ml-ops.org/content/model-governance",
+        "https://github.com/cdfoundation/sig-mlops",
+        "https://data-ai.innoq.com/en",
+        "https://creativecommons.org/licenses/by/4.0/",
+        "https://www.innoq.com/en/datenschutz",
+        "https://www.innoq.com/en/impressum/"
+    ]
+}

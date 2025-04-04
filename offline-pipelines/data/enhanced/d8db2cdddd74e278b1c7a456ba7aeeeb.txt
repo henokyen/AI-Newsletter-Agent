@@ -1,0 +1,33 @@
+[![logo](https://www.philschmid.de/_next/image?url=%2Fstatic%2Flogo.png&w=48&q=75)Philschmid](https://www.philschmid.de/)
+Search`⌘k`
+[Blog](https://www.philschmid.de/)[Projects](https://www.philschmid.de/projects)[Newsletter](https://www.philschmid.de/cloud-attention)[About Me](https://www.philschmid.de/philipp-schmid)Toggle Menu
+# Index
+## 2025 March
+### [Pass@k vs Pass^k: Understanding Agent ReliabilityMarch 24, 2025 — Agents, Metrics, Reliability, Production](https://www.philschmid.de/agents-pass-at-k-pass-power-k)### [Google Gemma 3 Function Calling ExampleMarch 14, 2025 — Gemma, Function Calling, Google, Agents](https://www.philschmid.de/gemma-function-calling)### [Function Calling Guide: Google DeepMind Gemini 2.0 FlashMarch 5, 2025 — Gemini, Function Calling, Google, Agents](https://www.philschmid.de/gemini-function-calling)
+## 2025 February
+### [From PDFs to Insights: Structured Outputs from PDFs with Gemini 2.0February 7, 2025 — Gemini, Structured Outputs, Pydantic, PDF](https://www.philschmid.de/gemini-pdf-to-data)
+## 2025 January
+### [Mini-R1: Reproduce Deepseek R1 „aha moment“ a RL tutorialJanuary 30, 2025 — Deepseek, Reinforcement Learning, Reasoning, Hugging Face](https://www.philschmid.de/mini-deepseek-r1)### [How to align open LLMs in 2025 with DPO & and synthetic dataJanuary 23, 2025 — HuggingFace, DPO, RL, LLMs](https://www.philschmid.de/rl-with-llms-in-2025-dpo)### [Bite: How Deepseek R1 was trainedJanuary 17, 2025 — Bite, Deepseek, Reinforcement Learning, Reasoning](https://www.philschmid.de/deepseek-r1)### [How to use Anthropic MCP Server with open LLMs, OpenAI or Google GeminiJanuary 17, 2025 — Agents, Anthropic, OpenAI, Gemini](https://www.philschmid.de/mcp-example-llama)
+## 2024 December
+### [Fine-tune classifier with ModernBERT in 2025December 25, 2024 — Open Source, HuggingFace, Bert, Guide](https://www.philschmid.de/fine-tune-modern-bert-in-2025)### [How to fine-tune open LLMs in 2025 with Hugging FaceDecember 20, 2024 — Open Source, HuggingFace, LLM, Guide](https://www.philschmid.de/fine-tune-llms-in-2025)### [Deploy QwQ-32B-Preview the best open Reasoning Model on AWS with Hugging FaceDecember 3, 2024 — Qwen, HuggingFace, LLM, SageMaker](https://www.philschmid.de/sagemaker-deploy-qwq)
+## 2024 October
+### [Deploy Llama 3.2 Vision on Amazon SageMakerOctober 17, 2024 — HuggingFace, LLM, SageMaker, GenerativeAI](https://www.philschmid.de/sagemaker-llama32-vision)
+## 2024 September
+### [How to Fine-Tune Multimodal Models or VLMs with Hugging Face TRLSeptember 30, 2024 — HuggingFace, LLMs, Fine-Tuning, Multimodal](https://www.philschmid.de/fine-tune-multimodal-llms-with-trl)### [Evaluate open LLMs with Vertex AI and GeminiSeptember 24, 2024 — HuggingFace, LLMs, Evaluation, Google Cloud](https://www.philschmid.de/evaluate-llm-with-gemini)### [Evaluate LLMs using Evaluation Harness and Hugging Face TGI/vLLMSeptember 19, 2024 — HuggingFace, LLMs, Evaluation, Llama 3](https://www.philschmid.de/evaluate-llms-with-lm-eval-and-tgi-vllm)
+  * [1](https://www.philschmid.de/?page=1)
+  * [2](https://www.philschmid.de/?page=2)
+  * [3](https://www.philschmid.de/?page=3)
+  * [4](https://www.philschmid.de/?page=4)
+  * [5](https://www.philschmid.de/?page=5)
+  * [6](https://www.philschmid.de/?page=6)
+  * [7](https://www.philschmid.de/?page=7)
+  * [8](https://www.philschmid.de/?page=8)
+  * [9](https://www.philschmid.de/?page=9)
+  * [10](https://www.philschmid.de/?page=10)
+  * [11](https://www.philschmid.de/?page=11)
+  * [Next](https://www.philschmid.de/?page=2)
+
+
+[Philipp Schmid © 2025](https://www.philschmid.de/philipp-schmid)[Imprint](https://www.philschmid.de/imprint)[RSS Feed](https://www.philschmid.de/rss)
+theme
+Mail[Twitter](https://twitter.com/_philschmid)[LinkedIn](https://www.linkedin.com/in/philipp-schmid-a6a2bb196/)[GitHub](https://github.com/philschmid)

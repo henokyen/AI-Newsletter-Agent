@@ -1,0 +1,274 @@
+[Skip to content](https://github.com/FrancescoSaverioZuppichini/python-template/#start-of-content)
+## Navigation Menu
+Toggle navigation
+[ ](https://github.com/)
+[ Sign in ](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2FFrancescoSaverioZuppichini%2Fpython-template%2F)
+  * Product 
+    * [ GitHub Copilot Write better code with AI  ](https://github.com/features/copilot)
+    * [ Security Find and fix vulnerabilities  ](https://github.com/features/security)
+    * [ Actions Automate any workflow  ](https://github.com/features/actions)
+    * [ Codespaces Instant dev environments  ](https://github.com/features/codespaces)
+    * [ Issues Plan and track work  ](https://github.com/features/issues)
+    * [ Code Review Manage code changes  ](https://github.com/features/code-review)
+    * [ Discussions Collaborate outside of code  ](https://github.com/features/discussions)
+    * [ Code Search Find more, search less  ](https://github.com/features/code-search)
+Explore
+    * [ All features ](https://github.com/features)
+    * [ Documentation ](https://docs.github.com)
+    * [ GitHub Skills ](https://skills.github.com)
+    * [ Blog ](https://github.blog)
+  * Solutions 
+By company size
+    * [ Enterprises ](https://github.com/enterprise)
+    * [ Small and medium teams ](https://github.com/team)
+    * [ Startups ](https://github.com/enterprise/startups)
+    * [ Nonprofits ](https://github.com/solutions/industry/nonprofits)
+By use case
+    * [ DevSecOps ](https://github.com/solutions/use-case/devsecops)
+    * [ DevOps ](https://github.com/solutions/use-case/devops)
+    * [ CI/CD ](https://github.com/solutions/use-case/ci-cd)
+    * [ View all use cases ](https://github.com/solutions/use-case)
+By industry
+    * [ Healthcare ](https://github.com/solutions/industry/healthcare)
+    * [ Financial services ](https://github.com/solutions/industry/financial-services)
+    * [ Manufacturing ](https://github.com/solutions/industry/manufacturing)
+    * [ Government ](https://github.com/solutions/industry/government)
+    * [ View all industries ](https://github.com/solutions/industry)
+[ View all solutions ](https://github.com/solutions)
+  * Resources 
+Topics
+    * [ AI ](https://github.com/resources/articles/ai)
+    * [ DevOps ](https://github.com/resources/articles/devops)
+    * [ Security ](https://github.com/resources/articles/security)
+    * [ Software Development ](https://github.com/resources/articles/software-development)
+    * [ View all ](https://github.com/resources/articles)
+Explore
+    * [ Learning Pathways ](https://resources.github.com/learn/pathways)
+    * [ Events & Webinars ](https://resources.github.com)
+    * [ Ebooks & Whitepapers ](https://github.com/resources/whitepapers)
+    * [ Customer Stories ](https://github.com/customer-stories)
+    * [ Partners ](https://partner.github.com)
+    * [ Executive Insights ](https://github.com/solutions/executive-insights)
+  * Open Source 
+    * [ GitHub Sponsors Fund open source developers  ](https://github.com/sponsors)
+    * [ The ReadME Project GitHub community articles  ](https://github.com/readme)
+Repositories
+    * [ Topics ](https://github.com/topics)
+    * [ Trending ](https://github.com/trending)
+    * [ Collections ](https://github.com/collections)
+  * Enterprise 
+    * [ Enterprise platform AI-powered developer platform  ](https://github.com/enterprise)
+Available add-ons
+    * [ Advanced Security Enterprise-grade security features  ](https://github.com/enterprise/advanced-security)
+    * [ Copilot for business Enterprise-grade AI features  ](https://github.com/features/copilot/copilot-business)
+    * [ Premium Support Enterprise-grade 24/7 support  ](https://github.com/premium-support)
+  * [Pricing](https://github.com/pricing)
+
+
+Search or jump to...
+# Search code, repositories, users, issues, pull requests...
+Search 
+Clear
+[Search syntax tips](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax)
+#  Provide feedback 
+We read every piece of feedback, and take your input very seriously.
+Include my email address so I can be contacted
+Cancel  Submit feedback 
+#  Saved searches 
+## Use saved searches to filter your results more quickly
+Name
+Query
+To see all available qualifiers, see our [documentation](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax). 
+Cancel  Create saved search 
+[ Sign in ](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2FFrancescoSaverioZuppichini%2Fpython-template%2F)
+[ Sign up ](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E&source=header-repo&source_repo=FrancescoSaverioZuppichini%2Fpython-template) Reseting focus
+You signed in with another tab or window. [Reload](https://github.com/FrancescoSaverioZuppichini/python-template/) to refresh your session. You signed out in another tab or window. [Reload](https://github.com/FrancescoSaverioZuppichini/python-template/) to refresh your session. You switched accounts on another tab or window. [Reload](https://github.com/FrancescoSaverioZuppichini/python-template/) to refresh your session. Dismiss alert
+{{ message }}
+[ FrancescoSaverioZuppichini ](https://github.com/FrancescoSaverioZuppichini) / **[python-template](https://github.com/FrancescoSaverioZuppichini/python-template) ** Public template
+  * [ Notifications ](https://github.com/login?return_to=%2FFrancescoSaverioZuppichini%2Fpython-template) You must be signed in to change notification settings
+  * [ Fork 15 ](https://github.com/login?return_to=%2FFrancescoSaverioZuppichini%2Fpython-template)
+  * [ Star  182 ](https://github.com/login?return_to=%2FFrancescoSaverioZuppichini%2Fpython-template)
+
+
+### License
+[ MIT license ](https://github.com/FrancescoSaverioZuppichini/python-template/blob/main/LICENSE)
+[ 182 stars ](https://github.com/FrancescoSaverioZuppichini/python-template/stargazers) [ 15 forks ](https://github.com/FrancescoSaverioZuppichini/python-template/forks) [ Branches ](https://github.com/FrancescoSaverioZuppichini/python-template/branches) [ Tags ](https://github.com/FrancescoSaverioZuppichini/python-template/tags) [ Activity ](https://github.com/FrancescoSaverioZuppichini/python-template/activity)
+[ Star  ](https://github.com/login?return_to=%2FFrancescoSaverioZuppichini%2Fpython-template)
+[ Notifications ](https://github.com/login?return_to=%2FFrancescoSaverioZuppichini%2Fpython-template) You must be signed in to change notification settings
+  * [ Code ](https://github.com/FrancescoSaverioZuppichini/python-template)
+  * [ Issues 1 ](https://github.com/FrancescoSaverioZuppichini/python-template/issues)
+  * [ Pull requests 0 ](https://github.com/FrancescoSaverioZuppichini/python-template/pulls)
+  * [ Actions ](https://github.com/FrancescoSaverioZuppichini/python-template/actions)
+  * [ Projects 0 ](https://github.com/FrancescoSaverioZuppichini/python-template/projects)
+  * [ Security ](https://github.com/FrancescoSaverioZuppichini/python-template/security)
+  * [ Insights ](https://github.com/FrancescoSaverioZuppichini/python-template/pulse)
+
+
+Additional navigation options
+  * [ Code  ](https://github.com/FrancescoSaverioZuppichini/python-template)
+  * [ Issues  ](https://github.com/FrancescoSaverioZuppichini/python-template/issues)
+  * [ Pull requests  ](https://github.com/FrancescoSaverioZuppichini/python-template/pulls)
+  * [ Actions  ](https://github.com/FrancescoSaverioZuppichini/python-template/actions)
+  * [ Projects  ](https://github.com/FrancescoSaverioZuppichini/python-template/projects)
+  * [ Security  ](https://github.com/FrancescoSaverioZuppichini/python-template/security)
+  * [ Insights  ](https://github.com/FrancescoSaverioZuppichini/python-template/pulse)
+
+
+# FrancescoSaverioZuppichini/python-template
+main
+[**3** Branches](https://github.com/FrancescoSaverioZuppichini/python-template/branches)[**1** Tag](https://github.com/FrancescoSaverioZuppichini/python-template/tags)
+[](https://github.com/FrancescoSaverioZuppichini/python-template/branches)[](https://github.com/FrancescoSaverioZuppichini/python-template/tags)
+Go to file
+Code
+## Folders and files
+Name| Name| Last commit message| Last commit date  
+---|---|---|---  
+## Latest commit
+[![FrancescoSaverioZuppichini](https://avatars.githubusercontent.com/u/15908060?v=4&size=40)](https://github.com/FrancescoSaverioZuppichini)[FrancescoSaverioZuppichini](https://github.com/FrancescoSaverioZuppichini/python-template/commits?author=FrancescoSaverioZuppichini)[Update pyproject.toml](https://github.com/FrancescoSaverioZuppichini/python-template/commit/06459b247e3ab191c2d3da094f447f6b05e30be2)Jan 16, 2025[06459b2](https://github.com/FrancescoSaverioZuppichini/python-template/commit/06459b247e3ab191c2d3da094f447f6b05e30be2) · Jan 16, 2025
+## History
+[38 Commits](https://github.com/FrancescoSaverioZuppichini/python-template/commits/main/)[](https://github.com/FrancescoSaverioZuppichini/python-template/commits/main/)  
+[.github/workflows](https://github.com/FrancescoSaverioZuppichini/python-template/tree/main/.github/workflows "This path skips through empty directories")| [.github/workflows](https://github.com/FrancescoSaverioZuppichini/python-template/tree/main/.github/workflows "This path skips through empty directories")  
+[examples](https://github.com/FrancescoSaverioZuppichini/python-template/tree/main/examples "examples")| [examples](https://github.com/FrancescoSaverioZuppichini/python-template/tree/main/examples "examples")  
+[src/jokes](https://github.com/FrancescoSaverioZuppichini/python-template/tree/main/src/jokes "This path skips through empty directories")| [src/jokes](https://github.com/FrancescoSaverioZuppichini/python-template/tree/main/src/jokes "This path skips through empty directories")  
+[tests](https://github.com/FrancescoSaverioZuppichini/python-template/tree/main/tests "tests")| [tests](https://github.com/FrancescoSaverioZuppichini/python-template/tree/main/tests "tests")  
+[.gitignore](https://github.com/FrancescoSaverioZuppichini/python-template/blob/main/.gitignore ".gitignore")| [.gitignore](https://github.com/FrancescoSaverioZuppichini/python-template/blob/main/.gitignore ".gitignore")  
+[.python-version](https://github.com/FrancescoSaverioZuppichini/python-template/blob/main/.python-version ".python-version")| [.python-version](https://github.com/FrancescoSaverioZuppichini/python-template/blob/main/.python-version ".python-version")  
+[Dockerfile](https://github.com/FrancescoSaverioZuppichini/python-template/blob/main/Dockerfile "Dockerfile")| [Dockerfile](https://github.com/FrancescoSaverioZuppichini/python-template/blob/main/Dockerfile "Dockerfile")  
+[LICENSE](https://github.com/FrancescoSaverioZuppichini/python-template/blob/main/LICENSE "LICENSE")| [LICENSE](https://github.com/FrancescoSaverioZuppichini/python-template/blob/main/LICENSE "LICENSE")  
+[Makefile](https://github.com/FrancescoSaverioZuppichini/python-template/blob/main/Makefile "Makefile")| [Makefile](https://github.com/FrancescoSaverioZuppichini/python-template/blob/main/Makefile "Makefile")  
+[README.md](https://github.com/FrancescoSaverioZuppichini/python-template/blob/main/README.md "README.md")| [README.md](https://github.com/FrancescoSaverioZuppichini/python-template/blob/main/README.md "README.md")  
+[pyproject.toml](https://github.com/FrancescoSaverioZuppichini/python-template/blob/main/pyproject.toml "pyproject.toml")| [pyproject.toml](https://github.com/FrancescoSaverioZuppichini/python-template/blob/main/pyproject.toml "pyproject.toml")  
+[uv.lock](https://github.com/FrancescoSaverioZuppichini/python-template/blob/main/uv.lock "uv.lock")| [uv.lock](https://github.com/FrancescoSaverioZuppichini/python-template/blob/main/uv.lock "uv.lock")  
+View all files  
+## Repository files navigation
+  * [README](https://github.com/FrancescoSaverioZuppichini/python-template/)
+  * [MIT license](https://github.com/FrancescoSaverioZuppichini/python-template/)
+
+
+# Python Template 🐍
+[](https://github.com/FrancescoSaverioZuppichini/python-template/#python-template-)
+[![PyPI version](https://camo.githubusercontent.com/881ee4dfd62a0edbf71a73d8424d982377eec679a033aadbe26434dfcdc4aeb2/68747470733a2f2f696d672e736869656c64732e696f2f707970692f762f707974686f6e2d74656d706c6174652d7a7570706966)](https://pypi.org/project/python-template-zuppif/)
+A template for a python project for 2025
+Features:
+  * 🛠️ configuration in a single file [`pyproject.toml`](https://github.com/FrancescoSaverioZuppichini/python-template/blob/main/pyproject.toml)
+  * 📦 [`uv`](https://docs.astral.sh/uv/) as package manager
+  * 💅 [`ruff`](https://docs.astral.sh/ruff/) for linting and formatting
+  * 🧪 [`pytest`](https://docs.pytest.org/en/stable/)
+  * 🧹 [`Makefile`](https://github.com/FrancescoSaverioZuppichini/python-template/blob/main/Makefile) with code quality checks
+  * 📚 auto doc generation
+  * 🐳 CI/CD Optimized Docker Image runs when a new _release_ is created pushing to gh registry
+  * 🦾 GitHub actions: 
+    * auto publish to [`pypi`](https://pypi.org/) on push on `main`
+    * auto creating a new tag on push on `main`, sync versions
+    * run `tests` and `lint` on `dev` and `main` when a PR is open
+
+
+## Getting started
+[](https://github.com/FrancescoSaverioZuppichini/python-template/#getting-started)
+### Installation
+[](https://github.com/FrancescoSaverioZuppichini/python-template/#installation)
+To set it up and run
+```
+uv sync
+```
+
+Then
+```
+python main.py
+```
+
+Will output a random joke
+```
+Why did the cow in the pasture get promoted at work? ... Because he is OUT-STANDING in his field!
+
+```
+
+You can now run, for example, a function defined as `scripts` in the [`pyproject.toml`](https://github.com/FrancescoSaverioZuppichini/python-template/blob/main/pyproject.toml)
+```
+make_me_laugh
+```
+
+### Linting
+[](https://github.com/FrancescoSaverioZuppichini/python-template/#linting)
+```
+ruff check
+
+```
+
+### Formatting
+[](https://github.com/FrancescoSaverioZuppichini/python-template/#formatting)
+```
+ruff format
+
+```
+
+## CI/CD
+[](https://github.com/FrancescoSaverioZuppichini/python-template/#cicd)
+### Tests
+[](https://github.com/FrancescoSaverioZuppichini/python-template/#tests)
+Tests inside `/tests` are run using [`pytest`](https://docs.pytest.org/en/stable/) on PR both on `dev` and `main`
+### Publish Package
+[](https://github.com/FrancescoSaverioZuppichini/python-template/#publish-package)
+In order to publish to [pypi](https://pypi.org/) you need to create a publisher on pypi.
+This is explained [here](https://packaging.python.org/en/latest/guides/publishing-package-distribution-releases-using-github-actions-ci-cd-workflows/) and [here](https://docs.pypi.org/trusted-publishers/)
+In practice go your pypi project -> Manage Project -> Publishing, scroll and "add a new publisher"
+### Docker
+[](https://github.com/FrancescoSaverioZuppichini/python-template/#docker)
+[`Dockerfile`](https://github.com/FrancescoSaverioZuppichini/python-template/blob/main/Dockerfile) contains a multi stage build that uses `--compile-bytecode` to compite your package. For this example, the resulting image is just
+```
+docker build -t python-template .
+```
+
+```
+REPOSITORY    TAG    IMAGE ID    CREATED     SIZE
+python-template  latest  1ded7d260b1c  58 seconds ago  55.4MB
+
+```
+
+The image is build using the [`build`](https://github.com/FrancescoSaverioZuppichini/python-template/blob/main/.github/workflows/build.yml) workflow when a new _release_ is created
+## About
+No description, website, or topics provided. 
+### Resources
+[ Readme ](https://github.com/FrancescoSaverioZuppichini/python-template/#readme-ov-file)
+### License
+[ MIT license ](https://github.com/FrancescoSaverioZuppichini/python-template/#MIT-1-ov-file)
+[ Activity](https://github.com/FrancescoSaverioZuppichini/python-template/activity)
+### Stars
+[ **182** stars](https://github.com/FrancescoSaverioZuppichini/python-template/stargazers)
+### Watchers
+[ **2** watching](https://github.com/FrancescoSaverioZuppichini/python-template/watchers)
+### Forks
+[ **15** forks](https://github.com/FrancescoSaverioZuppichini/python-template/forks)
+[ Report repository ](https://github.com/contact/report-content?content_url=https%3A%2F%2Fgithub.com%2FFrancescoSaverioZuppichini%2Fpython-template&report=FrancescoSaverioZuppichini+%28user%29)
+##  [Releases 1](https://github.com/FrancescoSaverioZuppichini/python-template/releases)
+[ v0.1.1 Latest  Dec 22, 2024 ](https://github.com/FrancescoSaverioZuppichini/python-template/releases/tag/v0.1.1)
+##  [Packages 1](https://github.com/users/FrancescoSaverioZuppichini/packages?repo_name=python-template)
+  * [ python-template ](https://github.com/users/FrancescoSaverioZuppichini/packages/container/package/python-template)
+
+
+##  [Contributors 3](https://github.com/FrancescoSaverioZuppichini/python-template/graphs/contributors)
+  * [ ![@FrancescoSaverioZuppichini](https://avatars.githubusercontent.com/u/15908060?s=64&v=4) ](https://github.com/FrancescoSaverioZuppichini) [ **FrancescoSaverioZuppichini** Francesco Saverio Zuppichini ](https://github.com/FrancescoSaverioZuppichini)
+  * [ ![@gmacario](https://avatars.githubusercontent.com/u/75182?s=64&v=4) ](https://github.com/gmacario) [ **gmacario** Gianpaolo Macario ](https://github.com/gmacario)
+  * [ ![@pablojim](https://avatars.githubusercontent.com/u/683731?s=64&v=4) ](https://github.com/pablojim) [ **pablojim** Barry Fitzgerald ](https://github.com/pablojim)
+
+
+## Languages
+  * [ Dockerfile 48.9% ](https://github.com/FrancescoSaverioZuppichini/python-template/search?l=dockerfile)
+  * [ Python 35.4% ](https://github.com/FrancescoSaverioZuppichini/python-template/search?l=python)
+  * [ Makefile 15.7% ](https://github.com/FrancescoSaverioZuppichini/python-template/search?l=makefile)
+
+
+## Footer
+[ ](https://github.com "GitHub") © 2025 GitHub, Inc. 
+### Footer navigation
+  * [Terms](https://docs.github.com/site-policy/github-terms/github-terms-of-service)
+  * [Privacy](https://docs.github.com/site-policy/privacy-policies/github-privacy-statement)
+  * [Security](https://github.com/security)
+  * [Status](https://www.githubstatus.com/)
+  * [Docs](https://docs.github.com/)
+  * [Contact](https://support.github.com?tags=dotcom-footer)
+  * Manage cookies 
+  * Do not share my personal information 
+
+
+You can’t perform that action at this time. 

@@ -1,0 +1,904 @@
+[Skip to content](https://github.com/SeleniumHQ/selenium/#start-of-content)
+## Navigation Menu
+Toggle navigation
+[ ](https://github.com/)
+[ Sign in ](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2FSeleniumHQ%2Fselenium%2F)
+  * Product 
+    * [ GitHub Copilot Write better code with AI  ](https://github.com/features/copilot)
+    * [ Security Find and fix vulnerabilities  ](https://github.com/features/security)
+    * [ Actions Automate any workflow  ](https://github.com/features/actions)
+    * [ Codespaces Instant dev environments  ](https://github.com/features/codespaces)
+    * [ Issues Plan and track work  ](https://github.com/features/issues)
+    * [ Code Review Manage code changes  ](https://github.com/features/code-review)
+    * [ Discussions Collaborate outside of code  ](https://github.com/features/discussions)
+    * [ Code Search Find more, search less  ](https://github.com/features/code-search)
+Explore
+    * [ All features ](https://github.com/features)
+    * [ Documentation ](https://docs.github.com)
+    * [ GitHub Skills ](https://skills.github.com)
+    * [ Blog ](https://github.blog)
+  * Solutions 
+By company size
+    * [ Enterprises ](https://github.com/enterprise)
+    * [ Small and medium teams ](https://github.com/team)
+    * [ Startups ](https://github.com/enterprise/startups)
+    * [ Nonprofits ](https://github.com/solutions/industry/nonprofits)
+By use case
+    * [ DevSecOps ](https://github.com/solutions/use-case/devsecops)
+    * [ DevOps ](https://github.com/solutions/use-case/devops)
+    * [ CI/CD ](https://github.com/solutions/use-case/ci-cd)
+    * [ View all use cases ](https://github.com/solutions/use-case)
+By industry
+    * [ Healthcare ](https://github.com/solutions/industry/healthcare)
+    * [ Financial services ](https://github.com/solutions/industry/financial-services)
+    * [ Manufacturing ](https://github.com/solutions/industry/manufacturing)
+    * [ Government ](https://github.com/solutions/industry/government)
+    * [ View all industries ](https://github.com/solutions/industry)
+[ View all solutions ](https://github.com/solutions)
+  * Resources 
+Topics
+    * [ AI ](https://github.com/resources/articles/ai)
+    * [ DevOps ](https://github.com/resources/articles/devops)
+    * [ Security ](https://github.com/resources/articles/security)
+    * [ Software Development ](https://github.com/resources/articles/software-development)
+    * [ View all ](https://github.com/resources/articles)
+Explore
+    * [ Learning Pathways ](https://resources.github.com/learn/pathways)
+    * [ Events & Webinars ](https://resources.github.com)
+    * [ Ebooks & Whitepapers ](https://github.com/resources/whitepapers)
+    * [ Customer Stories ](https://github.com/customer-stories)
+    * [ Partners ](https://partner.github.com)
+    * [ Executive Insights ](https://github.com/solutions/executive-insights)
+  * Open Source 
+    * [ GitHub Sponsors Fund open source developers  ](https://github.com/sponsors)
+    * [ The ReadME Project GitHub community articles  ](https://github.com/readme)
+Repositories
+    * [ Topics ](https://github.com/topics)
+    * [ Trending ](https://github.com/trending)
+    * [ Collections ](https://github.com/collections)
+  * Enterprise 
+    * [ Enterprise platform AI-powered developer platform  ](https://github.com/enterprise)
+Available add-ons
+    * [ Advanced Security Enterprise-grade security features  ](https://github.com/enterprise/advanced-security)
+    * [ Copilot for business Enterprise-grade AI features  ](https://github.com/features/copilot/copilot-business)
+    * [ Premium Support Enterprise-grade 24/7 support  ](https://github.com/premium-support)
+  * [Pricing](https://github.com/pricing)
+
+
+Search or jump to...
+# Search code, repositories, users, issues, pull requests...
+Search 
+Clear
+[Search syntax tips](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax)
+#  Provide feedback 
+We read every piece of feedback, and take your input very seriously.
+Include my email address so I can be contacted
+Cancel  Submit feedback 
+#  Saved searches 
+## Use saved searches to filter your results more quickly
+Name
+Query
+To see all available qualifiers, see our [documentation](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax). 
+Cancel  Create saved search 
+[ Sign in ](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2FSeleniumHQ%2Fselenium%2F)
+[ Sign up ](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E&source=header-repo&source_repo=SeleniumHQ%2Fselenium) Reseting focus
+You signed in with another tab or window. [Reload](https://github.com/SeleniumHQ/selenium/) to refresh your session. You signed out in another tab or window. [Reload](https://github.com/SeleniumHQ/selenium/) to refresh your session. You switched accounts on another tab or window. [Reload](https://github.com/SeleniumHQ/selenium/) to refresh your session. Dismiss alert
+{{ message }}
+[ SeleniumHQ ](https://github.com/SeleniumHQ) / **[selenium](https://github.com/SeleniumHQ/selenium) ** Public
+  * Sponsor
+#  Sponsor SeleniumHQ/selenium 
+  * [ Notifications ](https://github.com/login?return_to=%2FSeleniumHQ%2Fselenium) You must be signed in to change notification settings
+  * [ Fork 8.4k ](https://github.com/login?return_to=%2FSeleniumHQ%2Fselenium)
+  * [ Star  32k ](https://github.com/login?return_to=%2FSeleniumHQ%2Fselenium)
+
+
+A browser automation framework and ecosystem. 
+[selenium.dev](https://selenium.dev "https://selenium.dev")
+### License
+[ Apache-2.0 license ](https://github.com/SeleniumHQ/selenium/blob/trunk/LICENSE)
+[ 32k stars ](https://github.com/SeleniumHQ/selenium/stargazers) [ 8.4k forks ](https://github.com/SeleniumHQ/selenium/forks) [ Branches ](https://github.com/SeleniumHQ/selenium/branches) [ Tags ](https://github.com/SeleniumHQ/selenium/tags) [ Activity ](https://github.com/SeleniumHQ/selenium/activity)
+[ Star  ](https://github.com/login?return_to=%2FSeleniumHQ%2Fselenium)
+[ Notifications ](https://github.com/login?return_to=%2FSeleniumHQ%2Fselenium) You must be signed in to change notification settings
+  * [ Code ](https://github.com/SeleniumHQ/selenium)
+  * [ Issues 154 ](https://github.com/SeleniumHQ/selenium/issues)
+  * [ Pull requests 107 ](https://github.com/SeleniumHQ/selenium/pulls)
+  * [ Actions ](https://github.com/SeleniumHQ/selenium/actions)
+  * [ Projects 1 ](https://github.com/SeleniumHQ/selenium/projects)
+  * [ Wiki ](https://github.com/SeleniumHQ/selenium/wiki)
+  * [ Security ](https://github.com/SeleniumHQ/selenium/security)
+  * [ Insights ](https://github.com/SeleniumHQ/selenium/pulse)
+
+
+Additional navigation options
+  * [ Code  ](https://github.com/SeleniumHQ/selenium)
+  * [ Issues  ](https://github.com/SeleniumHQ/selenium/issues)
+  * [ Pull requests  ](https://github.com/SeleniumHQ/selenium/pulls)
+  * [ Actions  ](https://github.com/SeleniumHQ/selenium/actions)
+  * [ Projects  ](https://github.com/SeleniumHQ/selenium/projects)
+  * [ Wiki  ](https://github.com/SeleniumHQ/selenium/wiki)
+  * [ Security  ](https://github.com/SeleniumHQ/selenium/security)
+  * [ Insights  ](https://github.com/SeleniumHQ/selenium/pulse)
+
+
+# SeleniumHQ/selenium
+trunk
+[**105** Branches](https://github.com/SeleniumHQ/selenium/branches)[**243** Tags](https://github.com/SeleniumHQ/selenium/tags)
+[](https://github.com/SeleniumHQ/selenium/branches)[](https://github.com/SeleniumHQ/selenium/tags)
+Go to file
+Code
+## Folders and files
+Name| Name| Last commit message| Last commit date  
+---|---|---|---  
+## Latest commit
+[![nvborisenko](https://avatars.githubusercontent.com/u/22616990?v=4&size=40)](https://github.com/nvborisenko)[nvborisenko](https://github.com/SeleniumHQ/selenium/commits?author=nvborisenko)[[dotnet] [bidi] Ignore some Storage Cookies related tests for Edge wi…](https://github.com/SeleniumHQ/selenium/commit/06fe6815171ae4e388e98a17b2477e95b8682d9b)Mar 30, 2025[06fe681](https://github.com/SeleniumHQ/selenium/commit/06fe6815171ae4e388e98a17b2477e95b8682d9b) · Mar 30, 2025
+## History
+[32,839 Commits](https://github.com/SeleniumHQ/selenium/commits/trunk/)[](https://github.com/SeleniumHQ/selenium/commits/trunk/)  
+[.devcontainer](https://github.com/SeleniumHQ/selenium/tree/trunk/.devcontainer ".devcontainer")| [.devcontainer](https://github.com/SeleniumHQ/selenium/tree/trunk/.devcontainer ".devcontainer")| [Add devcontainer.json to ease local dev environment setup (](https://github.com/SeleniumHQ/selenium/commit/c0711e2d0b18e238429aab47367fff851ef59ebb "Add devcontainer.json to ease local dev environment setup \(#13638\)
+* Added devcontainer.json
+Added devcontainer.json
+* Moved file to devcontainer folder
+Moved devcontainer.json to devcontainer folder
+* Documented Dev Container setup in README
+Section 'Using Docker Image' rephrased to include Dev Container setup documentation
+* Added back the original section 'Using Docker Image'
+Dev Container section separated from Docker Image section
+---------
+Co-authored-by: Trig <7973740+Trigtrig@users.noreply.github.com>")[#13638](https://github.com/SeleniumHQ/selenium/pull/13638)[)](https://github.com/SeleniumHQ/selenium/commit/c0711e2d0b18e238429aab47367fff851ef59ebb "Add devcontainer.json to ease local dev environment setup \(#13638\)
+* Added devcontainer.json
+Added devcontainer.json
+* Moved file to devcontainer folder
+Moved devcontainer.json to devcontainer folder
+* Documented Dev Container setup in README
+Section 'Using Docker Image' rephrased to include Dev Container setup documentation
+* Added back the original section 'Using Docker Image'
+Dev Container section separated from Docker Image section
+---------
+Co-authored-by: Trig <7973740+Trigtrig@users.noreply.github.com>")| Mar 4, 2024  
+[.github](https://github.com/SeleniumHQ/selenium/tree/trunk/.github ".github")| [.github](https://github.com/SeleniumHQ/selenium/tree/trunk/.github ".github")| [[build] ensure apt-get update happens before installing fluxbox](https://github.com/SeleniumHQ/selenium/commit/8b5f9c453689812abd597b5604368f6a1ba3282c "\[build\] ensure apt-get update happens before installing fluxbox")| Mar 30, 2025  
+[.idea](https://github.com/SeleniumHQ/selenium/tree/trunk/.idea ".idea")| [.idea](https://github.com/SeleniumHQ/selenium/tree/trunk/.idea ".idea")| [[JS] Update npm deps to latest](https://github.com/SeleniumHQ/selenium/commit/25fd49a3d9c588a38027effe423d010233d0fb82 "\[JS\] Update npm deps to latest")| Apr 14, 2024  
+[.tours](https://github.com/SeleniumHQ/selenium/tree/trunk/.tours ".tours")| [.tours](https://github.com/SeleniumHQ/selenium/tree/trunk/.tours ".tours")| [[tours] Add initial tours to get started](https://github.com/SeleniumHQ/selenium/commit/607bfe680b31be011453622aef9f3ca631ccfc8d "\[tours\] Add initial tours to get started")| Nov 18, 2021  
+[common](https://github.com/SeleniumHQ/selenium/tree/trunk/common "common")| [common](https://github.com/SeleniumHQ/selenium/tree/trunk/common "common")| [Enable rust tests in RBE builds (](https://github.com/SeleniumHQ/selenium/commit/481a43029237da4352365c6f1b2ada44df35b11f "Enable rust tests in RBE builds \(#15516\)")[#15516](https://github.com/SeleniumHQ/selenium/pull/15516)[)](https://github.com/SeleniumHQ/selenium/commit/481a43029237da4352365c6f1b2ada44df35b11f "Enable rust tests in RBE builds \(#15516\)")| Mar 27, 2025  
+[cpp](https://github.com/SeleniumHQ/selenium/tree/trunk/cpp "cpp")| [cpp](https://github.com/SeleniumHQ/selenium/tree/trunk/cpp "cpp")| [Fixed typo in CHANGELOG](https://github.com/SeleniumHQ/selenium/commit/cea0a3c7acef471fb136ec84583175440889e7e0 "Fixed typo in CHANGELOG")| Jan 30, 2024  
+[deploys/docker](https://github.com/SeleniumHQ/selenium/tree/trunk/deploys/docker "This path skips through empty directories")| [deploys/docker](https://github.com/SeleniumHQ/selenium/tree/trunk/deploys/docker "This path skips through empty directories")| [[bazel] Also fix up lint warnings with buildifier](https://github.com/SeleniumHQ/selenium/commit/354d6b0389f9f86b4bbf27bc0a99350dc7987336 "\[bazel\] Also fix up lint warnings with buildifier")| Jun 19, 2023  
+[dotnet](https://github.com/SeleniumHQ/selenium/tree/trunk/dotnet "dotnet")| [dotnet](https://github.com/SeleniumHQ/selenium/tree/trunk/dotnet "dotnet")| [[dotnet] [bidi] Ignore some Storage Cookies related tests for Edge wi…](https://github.com/SeleniumHQ/selenium/commit/06fe6815171ae4e388e98a17b2477e95b8682d9b "\[dotnet\] \[bidi\] Ignore some Storage Cookies related tests for Edge with known issue attached")| Mar 30, 2025  
+[java](https://github.com/SeleniumHQ/selenium/tree/trunk/java "java")| [java](https://github.com/SeleniumHQ/selenium/tree/trunk/java "java")| [[java] Add nullness for interactions (](https://github.com/SeleniumHQ/selenium/commit/d8f156bca812fc862f3fc2b66abd147b26199992 "\[java\] Add nullness for interactions \(#15118\)
+Co-authored-by: Puja Jagani <puja.jagani93@gmail.com>")[#15118](https://github.com/SeleniumHQ/selenium/pull/15118)[)](https://github.com/SeleniumHQ/selenium/commit/d8f156bca812fc862f3fc2b66abd147b26199992 "\[java\] Add nullness for interactions \(#15118\)
+Co-authored-by: Puja Jagani <puja.jagani93@gmail.com>")| Mar 26, 2025  
+[javascript](https://github.com/SeleniumHQ/selenium/tree/trunk/javascript "javascript")| [javascript](https://github.com/SeleniumHQ/selenium/tree/trunk/javascript "javascript")| [[build] fix javascript documentation generation](https://github.com/SeleniumHQ/selenium/commit/1d94a5956e24412039355401cbc7a71fda5a8de8 "\[build\] fix javascript documentation generation")| Mar 30, 2025  
+[py](https://github.com/SeleniumHQ/selenium/tree/trunk/py "py")| [py](https://github.com/SeleniumHQ/selenium/tree/trunk/py "py")| [[py] service: only shutdown if process not terminated (](https://github.com/SeleniumHQ/selenium/commit/3a051cdb3f4268a7f2818828da5e7231357d260a "\[py\] service: only shutdown if process not terminated \(#15183\)
+* service: only shutdown if process not terminated
+There are scenarios where a stop\(\) is called on a Service object
+multiple times. This also happens when explicitly quitting a Webdriver using
+driver.quit\(\) and afterwards having the garbage collector destroy the service
+object, calling stop\(\) another time even though the service process
+has already terminated.
+The check inside the stop\(\) call only ensured that the process variable
+is not None, but ignored the fact that the process might already have
+terminated. Therefor an additional check is introduced to only send
+the remote shutdown command if the service process has not ended.
+Fixes #15182
+Signed-off-by: Sandro Pischinger <mail@sandropischinger.de>
+* service: move process termination to finally block
+If a type error or similar occurs during send_remote_shutdown_command,
+one should always terminate the service process, even if an exception
+is thrown.
+Thus moving self._terminate_process\(\) into a finally block.
+Signed-off-by: Sandro Pischinger <mail@sandropischinger.de>
+---------
+Signed-off-by: Sandro Pischinger <mail@sandropischinger.de>
+Co-authored-by: Viet Nguyen Duc <nguyenducviet4496@gmail.com>
+Co-authored-by: Corey Goldberg <1113081+cgoldberg@users.noreply.github.com>
+Co-authored-by: Simon Benzer <69980130+shbenzer@users.noreply.github.com>")[#15183](https://github.com/SeleniumHQ/selenium/pull/15183)[)](https://github.com/SeleniumHQ/selenium/commit/3a051cdb3f4268a7f2818828da5e7231357d260a "\[py\] service: only shutdown if process not terminated \(#15183\)
+* service: only shutdown if process not terminated
+There are scenarios where a stop\(\) is called on a Service object
+multiple times. This also happens when explicitly quitting a Webdriver using
+driver.quit\(\) and afterwards having the garbage collector destroy the service
+object, calling stop\(\) another time even though the service process
+has already terminated.
+The check inside the stop\(\) call only ensured that the process variable
+is not None, but ignored the fact that the process might already have
+terminated. Therefor an additional check is introduced to only send
+the remote shutdown command if the service process has not ended.
+Fixes #15182
+Signed-off-by: Sandro Pischinger <mail@sandropischinger.de>
+* service: move process termination to finally block
+If a type error or similar occurs during send_remote_shutdown_command,
+one should always terminate the service process, even if an exception
+is thrown.
+Thus moving self._terminate_process\(\) into a finally block.
+Signed-off-by: Sandro Pischinger <mail@sandropischinger.de>
+---------
+Signed-off-by: Sandro Pischinger <mail@sandropischinger.de>
+Co-authored-by: Viet Nguyen Duc <nguyenducviet4496@gmail.com>
+Co-authored-by: Corey Goldberg <1113081+cgoldberg@users.noreply.github.com>
+Co-authored-by: Simon Benzer <69980130+shbenzer@users.noreply.github.com>")| Mar 22, 2025  
+[rake_tasks](https://github.com/SeleniumHQ/selenium/tree/trunk/rake_tasks "rake_tasks")| [rake_tasks](https://github.com/SeleniumHQ/selenium/tree/trunk/rake_tasks "rake_tasks")| [[build] fix all linter errors for Rakefile](https://github.com/SeleniumHQ/selenium/commit/ce96b41bfe113d96d8eb3603a01c588a367e8232 "\[build\] fix all linter errors for Rakefile")| Jun 13, 2024  
+[rb](https://github.com/SeleniumHQ/selenium/tree/trunk/rb "rb")| [rb](https://github.com/SeleniumHQ/selenium/tree/trunk/rb "rb")| [[rb] Allow symbols again to be passed on delete_cookie (](https://github.com/SeleniumHQ/selenium/commit/8f0963803a2aa43823e6ca3f4603691a8cbd001c "\[rb\] Allow symbols again to be passed on delete_cookie \(#15519\)
+* \[build\] allow tests tagged exclusive-if-local to run on rbe
+* Fix bug where symbol is not accepting on delete cookie
+---------
+Co-authored-by: titusfortner <titus.fortner@gmail.com>")[#15519](https://github.com/SeleniumHQ/selenium/pull/15519)[)](https://github.com/SeleniumHQ/selenium/commit/8f0963803a2aa43823e6ca3f4603691a8cbd001c "\[rb\] Allow symbols again to be passed on delete_cookie \(#15519\)
+* \[build\] allow tests tagged exclusive-if-local to run on rbe
+* Fix bug where symbol is not accepting on delete cookie
+---------
+Co-authored-by: titusfortner <titus.fortner@gmail.com>")| Mar 26, 2025  
+[rust](https://github.com/SeleniumHQ/selenium/tree/trunk/rust "rust")| [rust](https://github.com/SeleniumHQ/selenium/tree/trunk/rust "rust")| [Run `./scripts/format.sh`](https://github.com/SeleniumHQ/selenium/commit/99419ef81eba3e64b749a4f8810ff6a1fb03abe7 "Run `./scripts/format.sh`")| Mar 28, 2025  
+[scripts](https://github.com/SeleniumHQ/selenium/tree/trunk/scripts "scripts")| [scripts](https://github.com/SeleniumHQ/selenium/tree/trunk/scripts "scripts")| [Relocate selenium-webdriver to root directory (](https://github.com/SeleniumHQ/selenium/commit/c6210c12990eab02b9a02beab6bd72de7c641ec9 "Relocate selenium-webdriver to root directory \(#15509\)
+* \[JS\] Remove js_dossiar references
+* \[JS\] move selenium-webdriver to top level")[#15509](https://github.com/SeleniumHQ/selenium/pull/15509)[)](https://github.com/SeleniumHQ/selenium/commit/c6210c12990eab02b9a02beab6bd72de7c641ec9 "Relocate selenium-webdriver to root directory \(#15509\)
+* \[JS\] Remove js_dossiar references
+* \[JS\] move selenium-webdriver to top level")| Mar 25, 2025  
+[third_party](https://github.com/SeleniumHQ/selenium/tree/trunk/third_party "third_party")| [third_party](https://github.com/SeleniumHQ/selenium/tree/trunk/third_party "third_party")| [Remove the `wgxpath` library](https://github.com/SeleniumHQ/selenium/commit/3054072cd0e2ecfb3166bea7d7b4dfe234ef7b1b "Remove the `wgxpath` library
+We needed to include this to support IE as it didn't have an
+underlying XPath implementation available to JS scripts to use.
+The `IEDriverServer` hasn't been recompiled for a while now,
+and no other driver needs to have an xpath shim. Removing it
+should be a no-op.")| Mar 24, 2025  
+[.OLD_AUTHORS](https://github.com/SeleniumHQ/selenium/blob/trunk/.OLD_AUTHORS ".OLD_AUTHORS")| [.OLD_AUTHORS](https://github.com/SeleniumHQ/selenium/blob/trunk/.OLD_AUTHORS ".OLD_AUTHORS")| [Add target for generating AUTHORS file](https://github.com/SeleniumHQ/selenium/commit/00a3c7df9fb4109e1f99b5f7bee5f5df74fb876a "Add target for generating AUTHORS file")| Dec 9, 2013  
+[.bazelignore](https://github.com/SeleniumHQ/selenium/blob/trunk/.bazelignore ".bazelignore")| [.bazelignore](https://github.com/SeleniumHQ/selenium/blob/trunk/.bazelignore ".bazelignore")| [Relocate selenium-webdriver to root directory (](https://github.com/SeleniumHQ/selenium/commit/c6210c12990eab02b9a02beab6bd72de7c641ec9 "Relocate selenium-webdriver to root directory \(#15509\)
+* \[JS\] Remove js_dossiar references
+* \[JS\] move selenium-webdriver to top level")[#15509](https://github.com/SeleniumHQ/selenium/pull/15509)[)](https://github.com/SeleniumHQ/selenium/commit/c6210c12990eab02b9a02beab6bd72de7c641ec9 "Relocate selenium-webdriver to root directory \(#15509\)
+* \[JS\] Remove js_dossiar references
+* \[JS\] move selenium-webdriver to top level")| Mar 25, 2025  
+[.bazelrc](https://github.com/SeleniumHQ/selenium/blob/trunk/.bazelrc ".bazelrc")| [.bazelrc](https://github.com/SeleniumHQ/selenium/blob/trunk/.bazelrc ".bazelrc")| [[bazel] Rename `remote` config to `rbe`](https://github.com/SeleniumHQ/selenium/commit/46eb0b5f8ed78011c98f09b68afa855ca5bb8847 "\[bazel\] Rename `remote` config to `rbe`
+In the Selenium project, `remote` may refer to a number of different
+things:
+ * A driver running on the local machine, but not in process
+ * A driver running remotely, in Grid or a Selenium As A Service provider
+ * The remote protocol we're using
+ * The `remote` Bazel config for builds
+To reduce this plethora of options, renaming the Bazel `remote`
+config to `rbe` will help.")| Mar 24, 2025  
+[.bazelrc.remote](https://github.com/SeleniumHQ/selenium/blob/trunk/.bazelrc.remote ".bazelrc.remote")| [.bazelrc.remote](https://github.com/SeleniumHQ/selenium/blob/trunk/.bazelrc.remote ".bazelrc.remote")| [[bazel] Rename `remote` config to `rbe`](https://github.com/SeleniumHQ/selenium/commit/46eb0b5f8ed78011c98f09b68afa855ca5bb8847 "\[bazel\] Rename `remote` config to `rbe`
+In the Selenium project, `remote` may refer to a number of different
+things:
+ * A driver running on the local machine, but not in process
+ * A driver running remotely, in Grid or a Selenium As A Service provider
+ * The remote protocol we're using
+ * The `remote` Bazel config for builds
+To reduce this plethora of options, renaming the Bazel `remote`
+config to `rbe` will help.")| Mar 24, 2025  
+[.bazelversion](https://github.com/SeleniumHQ/selenium/blob/trunk/.bazelversion ".bazelversion")| [.bazelversion](https://github.com/SeleniumHQ/selenium/blob/trunk/.bazelversion ".bazelversion")| [[dotnet][java][js][py][rb][rust] Update dependency bazel to v7.4.1 (](https://github.com/SeleniumHQ/selenium/commit/c6da9f791cadf53e7f2a1f7df62578514031359b "\[dotnet\]\[java\]\[js\]\[py\]\[rb\]\[rust\] Update dependency bazel to v7.4.1 \(#14973\)
+* \[dotnet\]\[java\]\[js\]\[py\]\[rb\]\[rust\] Update dependency bazel to v7.4.1
+* Repin dependencies
+---------
+Co-authored-by: renovate\[bot\] <29139614+renovate\[bot\]@users.noreply.github.com>
+Co-authored-by: Selenium CI Bot <selenium-ci@users.noreply.github.com>
+Co-authored-by: Diego Molina <diemol@users.noreply.github.com>")[#…](https://github.com/SeleniumHQ/selenium/pull/14973)| Dec 30, 2024  
+[.editorconfig](https://github.com/SeleniumHQ/selenium/blob/trunk/.editorconfig ".editorconfig")| [.editorconfig](https://github.com/SeleniumHQ/selenium/blob/trunk/.editorconfig ".editorconfig")| [[rb] Split `rb/BUILD` into smaller packages](https://github.com/SeleniumHQ/selenium/commit/29949525e37b36c9954285cfc500615c760d500e "\[rb\] Split `rb/BUILD` into smaller packages
+This fits more into Bazel approach because smaller packages with a
+proper dependency tree would allow to use Bazel caching more
+efficiently. For example, only few tests would be re-run considering
+you ran all integration tests for Chrome before and only changed code
+in `chrome/driver.rb`. This is because just a few tests depend on
+`chrome/driver.rb`. Per-test file packages also allow us to use Bazel
+flaky retry flags efficiently - previously it would re-run all the tests
+when one of them fails.
+This commit also moves certain files around to make Ruby codebase more
+reasonable:
+* CDP client code generator lives in the `rb/lib/selenium/devtools`
+* Nightly version generator lives in a new `rb/lib/selenium/support`
+Since now integration tests are being in parallel by default, few
+changes had to be done to make support code more concurrency-safe.
+Notably, Grid and Rack servers are being started on randomized ports.
+Some other tests were adapted/guarded to work better when run in
+parallel.
+The test configuration is now controlled by a combination of
+`--define <name>=<value>` flags, supporting `browser/remote/headless` as
+names. See README.md changes for more details.")| Jan 12, 2023  
+[.git-fixfiles](https://github.com/SeleniumHQ/selenium/blob/trunk/.git-fixfiles ".git-fixfiles")| [.git-fixfiles](https://github.com/SeleniumHQ/selenium/blob/trunk/.git-fixfiles ".git-fixfiles")| [Fix the build](https://github.com/SeleniumHQ/selenium/commit/67bff6cca2d217fa680d39b66e85b9be3fbc8041 "Fix the build")| Feb 22, 2017  
+[.gitattributes](https://github.com/SeleniumHQ/selenium/blob/trunk/.gitattributes ".gitattributes")| [.gitattributes](https://github.com/SeleniumHQ/selenium/blob/trunk/.gitattributes ".gitattributes")| [Update .xml in .gitattributes](https://github.com/SeleniumHQ/selenium/commit/61506a4624b13675f24581e453592342b7485d71 "Update .xml in .gitattributes
+Add "*.xml" in .gitattributes as "text"
+Some .xml files in HEAD currently have different EOL styles, and it can cause commits to span the whole file because of this. It is recommended to unify the ending, and it can be "eol=lf" if needed
+Signed-off-by: Luke Inman-Semerau <luke.semerau@gmail.com>")| Jun 4, 2015  
+[.gitignore](https://github.com/SeleniumHQ/selenium/blob/trunk/.gitignore ".gitignore")| [.gitignore](https://github.com/SeleniumHQ/selenium/blob/trunk/.gitignore ".gitignore")| [Relocate selenium-webdriver to root directory (](https://github.com/SeleniumHQ/selenium/commit/c6210c12990eab02b9a02beab6bd72de7c641ec9 "Relocate selenium-webdriver to root directory \(#15509\)
+* \[JS\] Remove js_dossiar references
+* \[JS\] move selenium-webdriver to top level")[#15509](https://github.com/SeleniumHQ/selenium/pull/15509)[)](https://github.com/SeleniumHQ/selenium/commit/c6210c12990eab02b9a02beab6bd72de7c641ec9 "Relocate selenium-webdriver to root directory \(#15509\)
+* \[JS\] Remove js_dossiar references
+* \[JS\] move selenium-webdriver to top level")| Mar 25, 2025  
+[.gitpod.yml](https://github.com/SeleniumHQ/selenium/blob/trunk/.gitpod.yml ".gitpod.yml")| [.gitpod.yml](https://github.com/SeleniumHQ/selenium/blob/trunk/.gitpod.yml ".gitpod.yml")| [[build] Updating GitPod config](https://github.com/SeleniumHQ/selenium/commit/428422b56d337c3e370e0a08421410f46bbdf03d "\[build\] Updating GitPod config")| Feb 19, 2024  
+[.mailmap](https://github.com/SeleniumHQ/selenium/blob/trunk/.mailmap ".mailmap")| [.mailmap](https://github.com/SeleniumHQ/selenium/blob/trunk/.mailmap ".mailmap")| [Update AUTHORS (](https://github.com/SeleniumHQ/selenium/commit/583d00801c8592e41f0e12568fa713fda223f1a5 "Update AUTHORS \(#15316\)")[#15316](https://github.com/SeleniumHQ/selenium/pull/15316)[)](https://github.com/SeleniumHQ/selenium/commit/583d00801c8592e41f0e12568fa713fda223f1a5 "Update AUTHORS \(#15316\)")| Feb 21, 2025  
+[.npmrc](https://github.com/SeleniumHQ/selenium/blob/trunk/.npmrc ".npmrc")| [.npmrc](https://github.com/SeleniumHQ/selenium/blob/trunk/.npmrc ".npmrc")| [Migrate to `aspect_rules_js`](https://github.com/SeleniumHQ/selenium/commit/bbd59478af06ea060dac342e406434c54056eba3 "Migrate to `aspect_rules_js`
+Also builds the Grid UI using `esbuild`.
+The weird imports in the Grid UI are due to an issue with the way that
+`esbuild` interacts with `@mui/material-icons`:
+https://github.com/mui/material-ui/issues/31835#issuecomment-1158660722")| Mar 20, 2024  
+[.readthedocs.yaml](https://github.com/SeleniumHQ/selenium/blob/trunk/.readthedocs.yaml ".readthedocs.yaml")| [.readthedocs.yaml](https://github.com/SeleniumHQ/selenium/blob/trunk/.readthedocs.yaml ".readthedocs.yaml")| [[py] Fixing path for docs conf](https://github.com/SeleniumHQ/selenium/commit/38802986d2ae5e2e8082dfd21e6a3db4dc46c911 "\[py\] Fixing path for docs conf
+\[skip ci\]")| Jun 8, 2023  
+[.skipped-tests](https://github.com/SeleniumHQ/selenium/blob/trunk/.skipped-tests ".skipped-tests")| [.skipped-tests](https://github.com/SeleniumHQ/selenium/blob/trunk/.skipped-tests ".skipped-tests")| [Enable rust tests in RBE builds (](https://github.com/SeleniumHQ/selenium/commit/481a43029237da4352365c6f1b2ada44df35b11f "Enable rust tests in RBE builds \(#15516\)")[#15516](https://github.com/SeleniumHQ/selenium/pull/15516)[)](https://github.com/SeleniumHQ/selenium/commit/481a43029237da4352365c6f1b2ada44df35b11f "Enable rust tests in RBE builds \(#15516\)")| Mar 27, 2025  
+[AUTHORS](https://github.com/SeleniumHQ/selenium/blob/trunk/AUTHORS "AUTHORS")| [AUTHORS](https://github.com/SeleniumHQ/selenium/blob/trunk/AUTHORS "AUTHORS")| [[build] update authors file](https://github.com/SeleniumHQ/selenium/commit/95d67e96b24069cb57f19978e175c0f0ba1aa043 "\[build\] update authors file")| Mar 20, 2025  
+[BUILD.bazel](https://github.com/SeleniumHQ/selenium/blob/trunk/BUILD.bazel "BUILD.bazel")| [BUILD.bazel](https://github.com/SeleniumHQ/selenium/blob/trunk/BUILD.bazel "BUILD.bazel")| [Relocate selenium-webdriver to root directory (](https://github.com/SeleniumHQ/selenium/commit/c6210c12990eab02b9a02beab6bd72de7c641ec9 "Relocate selenium-webdriver to root directory \(#15509\)
+* \[JS\] Remove js_dossiar references
+* \[JS\] move selenium-webdriver to top level")[#15509](https://github.com/SeleniumHQ/selenium/pull/15509)[)](https://github.com/SeleniumHQ/selenium/commit/c6210c12990eab02b9a02beab6bd72de7c641ec9 "Relocate selenium-webdriver to root directory \(#15509\)
+* \[JS\] Remove js_dossiar references
+* \[JS\] move selenium-webdriver to top level")| Mar 25, 2025  
+[CONTRIBUTING.md](https://github.com/SeleniumHQ/selenium/blob/trunk/CONTRIBUTING.md "CONTRIBUTING.md")| [CONTRIBUTING.md](https://github.com/SeleniumHQ/selenium/blob/trunk/CONTRIBUTING.md "CONTRIBUTING.md")| [Relocate selenium-webdriver to root directory (](https://github.com/SeleniumHQ/selenium/commit/c6210c12990eab02b9a02beab6bd72de7c641ec9 "Relocate selenium-webdriver to root directory \(#15509\)
+* \[JS\] Remove js_dossiar references
+* \[JS\] move selenium-webdriver to top level")[#15509](https://github.com/SeleniumHQ/selenium/pull/15509)[)](https://github.com/SeleniumHQ/selenium/commit/c6210c12990eab02b9a02beab6bd72de7c641ec9 "Relocate selenium-webdriver to root directory \(#15509\)
+* \[JS\] Remove js_dossiar references
+* \[JS\] move selenium-webdriver to top level")| Mar 25, 2025  
+[LICENSE](https://github.com/SeleniumHQ/selenium/blob/trunk/LICENSE "LICENSE")| [LICENSE](https://github.com/SeleniumHQ/selenium/blob/trunk/LICENSE "LICENSE")| [update year in LICENSE and NOTICE docs](https://github.com/SeleniumHQ/selenium/commit/c62597e5cdbfb7065a7587bddccc253c3e739846 "update year in LICENSE and NOTICE docs")| Jan 2, 2025  
+[MODULE.bazel](https://github.com/SeleniumHQ/selenium/blob/trunk/MODULE.bazel "MODULE.bazel")| [MODULE.bazel](https://github.com/SeleniumHQ/selenium/blob/trunk/MODULE.bazel "MODULE.bazel")| [[bazel] Bump `rules_ruby`](https://github.com/SeleniumHQ/selenium/commit/75ae3ad973dc7f2dc3d16072891d2f18051eb810 "\[bazel\] Bump `rules_ruby`")| Mar 25, 2025  
+[NOTICE](https://github.com/SeleniumHQ/selenium/blob/trunk/NOTICE "NOTICE")| [NOTICE](https://github.com/SeleniumHQ/selenium/blob/trunk/NOTICE "NOTICE")| [update year in LICENSE and NOTICE docs](https://github.com/SeleniumHQ/selenium/commit/c62597e5cdbfb7065a7587bddccc253c3e739846 "update year in LICENSE and NOTICE docs")| Jan 2, 2025  
+[README.md](https://github.com/SeleniumHQ/selenium/blob/trunk/README.md "README.md")| [README.md](https://github.com/SeleniumHQ/selenium/blob/trunk/README.md "README.md")| [chore(README.md): Update bazel test command for JS (](https://github.com/SeleniumHQ/selenium/commit/e4319a23c4b9ebe9854aa4ece44fbf167ddc716e "chore\(README.md\): Update bazel test command for JS \(#15520\)
+update JS test commands in readme
+Co-authored-by: Sri Harsha <12621691+harsha509@users.noreply.github.com>")[#15520](https://github.com/SeleniumHQ/selenium/pull/15520)[)](https://github.com/SeleniumHQ/selenium/commit/e4319a23c4b9ebe9854aa4ece44fbf167ddc716e "chore\(README.md\): Update bazel test command for JS \(#15520\)
+update JS test commands in readme
+Co-authored-by: Sri Harsha <12621691+harsha509@users.noreply.github.com>")| Mar 27, 2025  
+[Rakefile](https://github.com/SeleniumHQ/selenium/blob/trunk/Rakefile "Rakefile")| [Rakefile](https://github.com/SeleniumHQ/selenium/blob/trunk/Rakefile "Rakefile")| [[build] fix javascript documentation generation](https://github.com/SeleniumHQ/selenium/commit/1d94a5956e24412039355401cbc7a71fda5a8de8 "\[build\] fix javascript documentation generation")| Mar 30, 2025  
+[WORKSPACE](https://github.com/SeleniumHQ/selenium/blob/trunk/WORKSPACE "WORKSPACE")| [WORKSPACE](https://github.com/SeleniumHQ/selenium/blob/trunk/WORKSPACE "WORKSPACE")| [[bazel] Add integrity hash to closure rules to remove warning from co…](https://github.com/SeleniumHQ/selenium/commit/4062023372b1d797cb97a57a28487a32e47f6ed0 "\[bazel\] Add integrity hash to closure rules to remove warning from console")| Mar 6, 2025  
+[copyiedriver.bat](https://github.com/SeleniumHQ/selenium/blob/trunk/copyiedriver.bat "copyiedriver.bat")| [copyiedriver.bat](https://github.com/SeleniumHQ/selenium/blob/trunk/copyiedriver.bat "copyiedriver.bat")| [Updating .NET online documentation to new presentation style and upda…](https://github.com/SeleniumHQ/selenium/commit/5647d8fd5c31f1ecacb1aaba28035fe5a8470046 "Updating .NET online documentation to new presentation style and updating tools for documentation generation")| Jan 18, 2013  
+[generate_web_code.sh](https://github.com/SeleniumHQ/selenium/blob/trunk/generate_web_code.sh "generate_web_code.sh")| [generate_web_code.sh](https://github.com/SeleniumHQ/selenium/blob/trunk/generate_web_code.sh "generate_web_code.sh")| [[build] Avoiding nested directory](https://github.com/SeleniumHQ/selenium/commit/38b780fbb24ed6f9faaf050b1da572cbc30bb487 "\[build\] Avoiding nested directory")| May 12, 2022  
+[go](https://github.com/SeleniumHQ/selenium/blob/trunk/go "go")| [go](https://github.com/SeleniumHQ/selenium/blob/trunk/go "go")| [[build] allow passing rake flags to go scripts with -- separator](https://github.com/SeleniumHQ/selenium/commit/030f1f6bd27b99122c5bb57173e47a6390cab99d "\[build\] allow passing rake flags to go scripts with -- separator")| Mar 18, 2025  
+[go.bat](https://github.com/SeleniumHQ/selenium/blob/trunk/go.bat "go.bat")| [go.bat](https://github.com/SeleniumHQ/selenium/blob/trunk/go.bat "go.bat")| [[build] allow passing rake flags to go scripts with -- separator](https://github.com/SeleniumHQ/selenium/commit/030f1f6bd27b99122c5bb57173e47a6390cab99d "\[build\] allow passing rake flags to go scripts with -- separator")| Mar 18, 2025  
+[package.json](https://github.com/SeleniumHQ/selenium/blob/trunk/package.json "package.json")| [package.json](https://github.com/SeleniumHQ/selenium/blob/trunk/package.json "package.json")| [Relocate selenium-webdriver to root directory (](https://github.com/SeleniumHQ/selenium/commit/c6210c12990eab02b9a02beab6bd72de7c641ec9 "Relocate selenium-webdriver to root directory \(#15509\)
+* \[JS\] Remove js_dossiar references
+* \[JS\] move selenium-webdriver to top level")[#15509](https://github.com/SeleniumHQ/selenium/pull/15509)[)](https://github.com/SeleniumHQ/selenium/commit/c6210c12990eab02b9a02beab6bd72de7c641ec9 "Relocate selenium-webdriver to root directory \(#15509\)
+* \[JS\] Remove js_dossiar references
+* \[JS\] move selenium-webdriver to top level")| Mar 25, 2025  
+[pnpm-lock.yaml](https://github.com/SeleniumHQ/selenium/blob/trunk/pnpm-lock.yaml "pnpm-lock.yaml")| [pnpm-lock.yaml](https://github.com/SeleniumHQ/selenium/blob/trunk/pnpm-lock.yaml "pnpm-lock.yaml")| [Relocate selenium-webdriver to root directory (](https://github.com/SeleniumHQ/selenium/commit/c6210c12990eab02b9a02beab6bd72de7c641ec9 "Relocate selenium-webdriver to root directory \(#15509\)
+* \[JS\] Remove js_dossiar references
+* \[JS\] move selenium-webdriver to top level")[#15509](https://github.com/SeleniumHQ/selenium/pull/15509)[)](https://github.com/SeleniumHQ/selenium/commit/c6210c12990eab02b9a02beab6bd72de7c641ec9 "Relocate selenium-webdriver to root directory \(#15509\)
+* \[JS\] Remove js_dossiar references
+* \[JS\] move selenium-webdriver to top level")| Mar 25, 2025  
+[pnpm-workspace.yaml](https://github.com/SeleniumHQ/selenium/blob/trunk/pnpm-workspace.yaml "pnpm-workspace.yaml")| [pnpm-workspace.yaml](https://github.com/SeleniumHQ/selenium/blob/trunk/pnpm-workspace.yaml "pnpm-workspace.yaml")| [Relocate selenium-webdriver to root directory (](https://github.com/SeleniumHQ/selenium/commit/c6210c12990eab02b9a02beab6bd72de7c641ec9 "Relocate selenium-webdriver to root directory \(#15509\)
+* \[JS\] Remove js_dossiar references
+* \[JS\] move selenium-webdriver to top level")[#15509](https://github.com/SeleniumHQ/selenium/pull/15509)[)](https://github.com/SeleniumHQ/selenium/commit/c6210c12990eab02b9a02beab6bd72de7c641ec9 "Relocate selenium-webdriver to root directory \(#15509\)
+* \[JS\] Remove js_dossiar references
+* \[JS\] move selenium-webdriver to top level")| Mar 25, 2025  
+[renovate.json](https://github.com/SeleniumHQ/selenium/blob/trunk/renovate.json "renovate.json")| [renovate.json](https://github.com/SeleniumHQ/selenium/blob/trunk/renovate.json "renovate.json")| [Added rangeStrategy to renovate file (](https://github.com/SeleniumHQ/selenium/commit/75aab755017897edb7c1273f9cfc8441a86f688b "Added rangeStrategy to renovate file \(#15027\)
+Added rangeStrategy to npm and cargo managers as some of the dependencies in package.json or cargo.toml is not getting updated")[#15027](https://github.com/SeleniumHQ/selenium/pull/15027)[)](https://github.com/SeleniumHQ/selenium/commit/75aab755017897edb7c1273f9cfc8441a86f688b "Added rangeStrategy to renovate file \(#15027\)
+Added rangeStrategy to npm and cargo managers as some of the dependencies in package.json or cargo.toml is not getting updated")| Jan 6, 2025  
+[selenium.iml](https://github.com/SeleniumHQ/selenium/blob/trunk/selenium.iml "selenium.iml")| [selenium.iml](https://github.com/SeleniumHQ/selenium/blob/trunk/selenium.iml "selenium.iml")| [SimonStewart: Break out a server and client module for the IDEA proje…](https://github.com/SeleniumHQ/selenium/commit/1070d4d94d662eb13ef2acbf1e14e0c31b6f5fae "SimonStewart: Break out a server and client module for the IDEA project definitions. This paves the way to be able to also include the android code. Tests have been run with firefox and htmlunit in the IDE, but no full test run done on the command line.
+r16207")| Mar 9, 2012  
+[sonar-project.properties](https://github.com/SeleniumHQ/selenium/blob/trunk/sonar-project.properties "sonar-project.properties")| [sonar-project.properties](https://github.com/SeleniumHQ/selenium/blob/trunk/sonar-project.properties "sonar-project.properties")| [Move java sources and tests into a single tree (](https://github.com/SeleniumHQ/selenium/commit/702b3aae7385adf331d75cdeacd79720cf6b9c84 "Move java sources and tests into a single tree \(#9710\)
+This emphasizes that all the java code is inter-related. We make use
+of bazel to avoid introducing Java 8 incompatible changes, and bazel's
+visibility rules to ensure that generated jars only contain what they
+should.")[#9710](https://github.com/SeleniumHQ/selenium/pull/9710)[)](https://github.com/SeleniumHQ/selenium/commit/702b3aae7385adf331d75cdeacd79720cf6b9c84 "Move java sources and tests into a single tree \(#9710\)
+This emphasizes that all the java code is inter-related. We make use
+of bazel to avoid introducing Java 8 incompatible changes, and bazel's
+visibility rules to ensure that generated jars only contain what they
+should.")| Aug 3, 2021  
+View all files  
+## Repository files navigation
+  * [README](https://github.com/SeleniumHQ/selenium/)
+  * [Code of conduct](https://github.com/SeleniumHQ/selenium/)
+  * [Apache-2.0 license](https://github.com/SeleniumHQ/selenium/)
+  * [Security](https://github.com/SeleniumHQ/selenium/)
+
+
+#  [![Selenium](https://github.com/SeleniumHQ/selenium/raw/trunk/common/images/selenium_logo_mark_green.svg)](https://selenium.dev) Selenium 
+[](https://github.com/SeleniumHQ/selenium/#--------selenium--)
+### Automates browsers. That's it!
+[](https://github.com/SeleniumHQ/selenium/#automates-browsers-thats-it)
+[Contributing](https://github.com/SeleniumHQ/selenium/#contributing) • [Installing](https://github.com/SeleniumHQ/selenium/#installing) • [Building](https://github.com/SeleniumHQ/selenium/#building) • [Developing](https://github.com/SeleniumHQ/selenium/#developing) • [Testing](https://github.com/SeleniumHQ/selenium/#testing) • [Documenting](https://github.com/SeleniumHQ/selenium/#documenting) • [Releasing](https://github.com/SeleniumHQ/selenium/#releasing) • [License](https://github.com/SeleniumHQ/selenium/#license)
+Selenium is an umbrella project encapsulating a variety of tools and libraries enabling web browser automation. Selenium specifically provides an infrastructure for the [W3C WebDriver specification](https://w3c.github.io/webdriver/) — a platform and language-neutral coding interface compatible with all major web browsers.
+The project is made possible by volunteer contributors who've generously donated thousands of hours in code development and upkeep.
+This README is for developers interested in contributing to the project. For people looking to get started using Selenium, please check out our [User Manual](https://selenium.dev/documentation/) for detailed examples and descriptions, and if you get stuck, there are several ways to [Get Help](https://www.selenium.dev/support/).
+[![CI](https://github.com/SeleniumHQ/selenium/actions/workflows/ci.yml/badge.svg)](https://github.com/SeleniumHQ/selenium/actions/workflows/ci.yml) [![CI - RBE](https://github.com/SeleniumHQ/selenium/actions/workflows/ci-rbe.yml/badge.svg)](https://github.com/SeleniumHQ/selenium/actions/workflows/ci-rbe.yml) [![Releases downloads](https://camo.githubusercontent.com/dad8fb9dc5482c583e85e46c04fcf65c02aaebc59a55bcbdc9b66204b13c0302/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f646f776e6c6f6164732f53656c656e69756d48512f73656c656e69756d2f746f74616c2e737667)](https://github.com/SeleniumHQ/selenium/releases)
+## Contributing
+[](https://github.com/SeleniumHQ/selenium/#contributing)
+Please read [CONTRIBUTING.md](https://github.com/SeleniumHQ/selenium/blob/trunk/CONTRIBUTING.md) before submitting your pull requests.
+## Installing
+[](https://github.com/SeleniumHQ/selenium/#installing)
+These are the requirements to create your own local dev environment to contribute to Selenium.
+### All Platforms
+[](https://github.com/SeleniumHQ/selenium/#all-platforms)
+  * [Bazelisk](https://github.com/bazelbuild/bazelisk), a Bazel wrapper that automatically downloads the version of Bazel specified in `.bazelversion` file and transparently passes through all command-line arguments to the real Bazel binary.
+  * Java JDK version 17 or greater (e.g., [Java 17 Temurin](https://adoptium.net/temurin/releases/?version=17)) 
+    * Set `JAVA_HOME` environment variable to location of Java executable (the JDK not the JRE)
+    * To test this, try running the command `javac`. This command won't exist if you only have the JRE installed. If you're met with a list of command-line options, you're referencing the JDK properly.
+
+
+### MacOS
+[](https://github.com/SeleniumHQ/selenium/#macos)
+  * Xcode including the command-line tools. Install the latest version using: `xcode-select --install`
+  * Rosetta for Apple Silicon Macs. Add `build --host_platform=//:rosetta` to the `.bazelrc.local` file. We are working to make sure this isn't required in the long run.
+
+
+### Windows
+[](https://github.com/SeleniumHQ/selenium/#windows)
+Several years ago [Jim Evans](https://www.linkedin.com/in/jimevansmusic/) published a great article on [Setting Up a Windows Development Environment for the Selenium .NET Language Bindings](https://jimevansmusic.blogspot.com/2020/04/setting-up-windows-development.html); This article is out of date, but it includes more detailed descriptions and screenshots that some people might find useful.
+Click to see Current Windows Setup Requirements
+#### Option 1: Automatic Installation from Scratch
+[](https://github.com/SeleniumHQ/selenium/#option-1-automatic-installation-from-scratch)
+This script will ensure a complete ready to execute developer environment. (nothing is installed or set that is already present unless otherwise prompted)
+  1. Open Powershell as an Administrator
+  2. Execute: `Set-ExecutionPolicy Bypass -Scope Process -Force` to allow running the script in the process
+  3. Navigate to the directory you want to clone Selenium in, or the parent directory of an already cloned Selenium repo
+  4. Download and execute this script in the powershell terminal: [scripts/dev-environment-setup.ps1]`
+
+
+#### Option 2: Manual Installation
+[](https://github.com/SeleniumHQ/selenium/#option-2-manual-installation)
+  1. Allow running scripts in Selenium in general: 
+```
+Set-ExecutionPolicy -ExecutionPolicy RemoteSigned
+
+```
+
+  2. Enable Developer Mode: 
+```
+reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\AppModelUnlock" /t REG_DWORD /f /v "AllowDevelopmentWithoutDevLicense" /d "1"
+
+```
+
+  3. Install [MSYS2](https://www.msys2.org/), which is an alternative shell environment that provides Unix-like commands 
+     * Add bin directory to `PATH` environment variable (e.g., `"C:\tools\msys64\usr\bin"`)
+     * Add `bash.exe` location as the `BAZEL_SH` environment variable (e.g., `"C:\tools\msys64\usr\bin\bash.exe"`)
+  4. Install the latest version of [Visual Studio Community](https://visualstudio.microsoft.com/vs/community/)
+     * Use the visual studio installer to modify and add the "Desktop development with C++" Workload
+     * Add Visual C++ build tools installation directory location to `BAZEL_VC` environment variable (e.g. `"C:\Program Files\Microsoft Visual Studio\2022\Community\VC"`)
+     * Add Visual C++ Build tools version to `BAZEL_VC_FULL_VERSION` environment variable (this can be discovered from the directory name in `"$BAZEL_VC\Tools\MSVC\<BAZEL_VC_FULL_VERSION>"`)
+  5. Add support for long file names (bazel has a lot of nested directories that can exceed default limits in Windows) 
+     * Enable Long Paths support with these 2 registry commands:
+```
+reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Command Processor" /t REG_DWORD /f /v "DisableUNCCheck" /d "1"
+reg add "HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\FileSystem" /t REG_DWORD /f /v "LongPathsEnabled" /d "1"
+```
+
+     * Allow Bazel to create short name versions of long file paths: `fsutil 8dot3name set 0`
+     * Set bazel output to `C:/tmp` instead of nested inside project directory: 
+       * Create a file `selenium/.bazelrc.windows.local`
+       * Add "startup --output_user_root=C:/tmp" to the file
+
+
+### Alternative Dev Environments
+[](https://github.com/SeleniumHQ/selenium/#alternative-dev-environments)
+If you want to contribute to the project, but do not want to set up your own local dev environment, there are two alternatives available.
+#### Using GitPod
+[](https://github.com/SeleniumHQ/selenium/#using-gitpod)
+Rather than creating your own local dev environment, GitPod provides a ready to use environment for you.
+[![Open in Gitpod](https://camo.githubusercontent.com/b04f5659467d23b5109ba935a40c00decd264eea25c22d50a118021349eea94f/68747470733a2f2f676974706f642e696f2f627574746f6e2f6f70656e2d696e2d676974706f642e737667)](https://gitpod.io/#https://github.com/SeleniumHQ/selenium)
+#### Using Dev Container
+[](https://github.com/SeleniumHQ/selenium/#using-dev-container)
+As an alternative you can build a [Dev Container](https://containers.dev/) - basically a docker container - suitable for building and testing Selenium using the devcontainer.json in the [.devcontainer](https://github.com/SeleniumHQ/selenium/blob/trunk/.devcontainer/devcontainer.json) directory. Supporting IDEs like VS Code or IntelliJ IDEA should point you to how such a container can be created.
+#### Using Docker Image
+[](https://github.com/SeleniumHQ/selenium/#using-docker-image)
+You can also build a Docker image suitable for building and testing Selenium using the Dockerfile in the [dev image](https://github.com/SeleniumHQ/selenium/blob/trunk/scripts/dev-image/Dockerfile) directory.
+## Building
+[](https://github.com/SeleniumHQ/selenium/#building)
+Selenium is built using a common build tool called [Bazel](https://bazel.build/), to allow us to easily manage dependency downloads, generate required binaries, build and release packages, and execute tests; all in a fast, efficient manner. For a more detailed discussion, read Simon Stewart's article on [Building Selenium](https://www.selenium.dev/blog/2023/building-selenium/)
+Often we wrap Bazel commands with our custom [Rake](http://rake.rubyforge.org/) wrapper. These are run with the `./go` command.
+The common Bazel commands are:
+  * `bazel build` — evaluates dependencies, compiles source files and generates output files for the specified target. It's used to create executable binaries, libraries, or other artifacts.
+  * `bazel run` — builds the target and then executes it. It's typically used for targets that produce executable binaries.
+  * `bazel test` — builds and runs the target in a context with additional testing functionality
+  * `bazel query` — identifies available targets for the provided path.
+
+
+Each module that can be built is defined in a `BUILD.bazel` file. To execute the module you refer to it starting with a `//`, then include the relative path to the file that defines it, then `:`, then the name of the target. For example, the target to build the Grid is named `executable-grid` and it is defined in the `'selenium/java/src/org/openqa/selenium/grid/BAZEL.build'` file. So to build the grid you would run: `bazel build //java/src/org/openqa/selenium/grid:executable-grid`.
+The Bazel documentation has a [handy guide](https://bazel.build/run/build#specifying-build-targets) for various shortcuts and all the ways to build multiple targets, which Selenium makes frequent use of.
+To build everything for a given language:
+```
+bazel build //<language>/...
+```
+
+To build just the grid there is an alias name to use (the log will show where the output jar is located):
+```
+bazel build grid
+```
+
+To make things more simple, building each of the bindings is available with this `./go` command
+```
+./go <language>:build
+```
+
+## Developing
+[](https://github.com/SeleniumHQ/selenium/#developing)
+### Java
+[](https://github.com/SeleniumHQ/selenium/#java)
+#### IntelliJ
+[](https://github.com/SeleniumHQ/selenium/#intellij)
+Most of the team uses Intellij for their day-to-day editing. If you're working in IntelliJ, then we highly recommend installing the [Bazel IJ plugin](https://plugins.jetbrains.com/plugin/8609-bazel) which is documented on [its own site](https://plugins.jetbrains.com/plugin/8609-bazel).
+To use Selenium with the IntelliJ Bazel plugin, import the repository as a Bazel project, and select the project view file from the [scripts](https://github.com/SeleniumHQ/selenium/blob/trunk/scripts) directory. `ij.bazelproject` for Mac/Linux and `ij-win.bazelproject` for Windows.
+#### Linting
+[](https://github.com/SeleniumHQ/selenium/#linting)
+We also use Google Java Format for linting, so using the Google Java Formatter Plugin is useful; there are a few steps to get it working, so read their [configuration documentation](https://github.com/google/google-java-format/blob/master/README.md#intellij-jre-config). There is also an auto-formatting script that can be run: `./scripts/format.sh`
+#### Local Installation
+[](https://github.com/SeleniumHQ/selenium/#local-installation)
+While Selenium is not built with Maven, you can build and install the Selenium pieces for Maven to use locally by deploying to your local maven repository (`~/.m2/repository`), using:
+```
+./go java:install
+```
+
+#### Updating Dependencies
+[](https://github.com/SeleniumHQ/selenium/#updating-dependencies)
+Dependencies are defined in the file [MODULE.bazel](https://github.com/SeleniumHQ/selenium/blob/trunk/MODULE.bazel). To automatically update and pin new dependencies, run:
+```
+./go java:update
+```
+
+### Python
+[](https://github.com/SeleniumHQ/selenium/#python)
+#### Linting
+[](https://github.com/SeleniumHQ/selenium/#linting-1)
+We follow the [PEP8 Style Guide for Python Code](https://peps.python.org/pep-0008) (except we use a 120 character line length). This is checked and enforced with several linting tools, including [black](https://pypi.org/project/black), [docformatter](https://pypi.org/project/docformatter), [flake8](https://flake8.pycqa.org), and [isort](https://pycqa.github.io/isort).
+To run all of the linting tools:
+```
+./go py:lint
+```
+
+You need `tox` installed to run the linting tools (`pip install tox`).
+#### Local Installation
+[](https://github.com/SeleniumHQ/selenium/#local-installation-1)
+To run Python code locally without building/installing the package, you must first install the dependencies:
+```
+pip install -r py/requirements.txt
+```
+
+Then, build the generated files and copy them into your local source tree:
+```
+./go py:local_dev
+```
+
+After that, you can import the selenium package directly from source from the `py` directory.
+Instead of running from source, you can build and install the selenium package (wheel) locally:
+```
+./go py:install
+```
+
+This will attempt to install into the global Python `site-packages` directory, which might not be writable. To avoid this, you should create and activate a [virtual environment](https://packaging.python.org/en/latest/tutorials/installing-packages/#creating-virtual-environments) before installing.
+### Ruby
+[](https://github.com/SeleniumHQ/selenium/#ruby)
+Instead of using `irb`, you can create an interactive REPL with all gems loaded using: `bazel run //rb:console`
+If you want to debug code, you can do it via [`debug`](https://github.com/ruby/debug) gem:
+  1. Add `binding.break` to the code where you want the debugger to start.
+  2. Run tests with `ruby_debug` configuration: `bazel test --config ruby_debug <test>`.
+  3. When debugger starts, run the following in a separate terminal to connect to debugger:
+
+
+```
+bazel-selenium/external/bundle/bin/rdbg -A
+```
+
+If you want to use [RubyMine](https://www.jetbrains.com/ruby/) for development, you can configure it use Bazel artifacts:
+  1. Open `rb/` as a main project directory.
+  2. Run `bundle exec rake update` as necessary to create up-to-date artifacts. If this does not work, run `./go rb:update` from the `selenium` (parent) directory.
+  3. In `Settings / Languages & Frameworks / Ruby SDK and Gems` add new `Interpreter` pointing to `../bazel-selenium/external/rules_ruby_dist/dist/bin/ruby`.
+  4. You should now be able to run and debug any spec. It uses Chrome by default, but you can alter it using environment variables secified in [Ruby Testing](https://github.com/SeleniumHQ/selenium/#ruby-2) section below.
+
+
+### Rust
+[](https://github.com/SeleniumHQ/selenium/#rust)
+To keep `Carbo.Bazel.lock` synchronized with `Cargo.lock`, run:
+```
+CARGO_BAZEL_REPIN=true bazel sync --only=crates
+```
+
+## Testing
+[](https://github.com/SeleniumHQ/selenium/#testing)
+There are a number of bazel configurations specific for testing.
+### Common Options Examples
+[](https://github.com/SeleniumHQ/selenium/#common-options-examples)
+Here are examples of arguments we make use of in testing the Selenium code:
+  * `--pin_browsers` - run specific browser versions defined in the build (versions are updated regularly)
+  * `--headless` - run browsers in headless mode (supported be Chrome, Edge and Firefox)
+  * `--flaky_test_attempts 3` - re-run failed tests up to 3 times
+  * `--local_test_jobs 1` - control parallelism of tests
+  * `--cache_test_results=no`, `-t-` - disable caching of test results and re-runs all of them
+  * `--test_output all` - print all output from the tests, not just errors
+  * `--test_output streamed` - run all tests one by one and print its output immediately
+  * `--test_env FOO=bar` - pass extra environment variable to test process
+  * `--run_under="xvfb-run -a"` - prefix to insert before the execution
+
+
+### Filtering
+[](https://github.com/SeleniumHQ/selenium/#filtering)
+Selenium tests can be filtered by size:
+  * small — typically unit tests where no browser is opened
+  * large — typically tests that actually drive a browser
+  * medium — tests that are more involved than simple unit tests, but not fully driving a browser
+
+
+These can be filtered using the `test_size_filters` argument like this:
+```
+bazel test //<language>/... --test_size_filters=small
+```
+
+Tests can also be filtered by tag like:
+```
+bazel test //<language>/... --test_tag_filters=this,-not-this
+```
+
+If there are multiple `--test_tag_filters`, only the last one is considered, so be careful if also using an inherited config
+### Java
+[](https://github.com/SeleniumHQ/selenium/#java-1)
+Click to see Java Test Commands
+To run unit tests:
+```
+bazel test //java/... --test_size_filters=small
+```
+
+To run integration tests:
+```
+bazel test //java/... --test_size_filters=medium
+```
+
+To run browser tests:
+```
+bazel test //java/... --test_size_filters=large --test_tag_filters=<browser>
+```
+
+To run a specific test:
+```
+bazel test //java/test/org/openqa/selenium/chrome:ChromeDriverFunctionalTest
+```
+
+### JavaScript
+[](https://github.com/SeleniumHQ/selenium/#javascript)
+Click to see JavaScript Test Commands
+To run the tests run:
+```
+bazel test //javascript/selenium-webdriver:all
+```
+
+You can use `--test_env` to pass in the browser name as `SELENIUM_BROWSER`.
+```
+bazel test //javascript/selenium-webdriver:all --test_env=SELENIUM_BROWSER=firefox
+```
+
+### Python
+[](https://github.com/SeleniumHQ/selenium/#python-1)
+Click to see Python Test Commands
+Run unit tests with:
+```
+bazel test //py:unit
+```
+
+To run common tests with a specific browser:
+```
+bazel test //py:common-<browsername>
+```
+
+To run common tests with a specific browser (include BiDi tests):
+```
+bazel test //py:common-<browsername>-bidi
+```
+
+To run tests with a specific browser:
+```
+bazel test //py:test-<browsername>
+```
+
+To run all Python tests:
+```
+bazel test //py:all
+```
+
+### Ruby
+[](https://github.com/SeleniumHQ/selenium/#ruby-1)
+Click to see Ruby Test Commands
+Test targets:
+Command | Description  
+---|---  
+`bazel test //rb/...` | Run unit, all integration tests and lint  
+`bazel test //rb:lint` | Run RuboCop linter  
+`bazel test //rb/spec/...` | Run unit and integration tests for all browsers  
+`bazel test //rb/spec/... --test_size_filters small` | Run unit tests  
+`bazel test //rb/spec/unit/...` | Run unit tests  
+`bazel test //rb/spec/... --test_size_filters large` | Run integration tests for all browsers  
+`bazel test //rb/spec/integration/...` | Run integration tests for all browsers  
+`bazel test //rb/spec/integration/... --test_tag_filters firefox` | Run integration tests for local Firefox only  
+`bazel test //rb/spec/integration/... --test_tag_filters firefox-remote` | Run integration tests for remote Firefox only  
+`bazel test //rb/spec/integration/... --test_tag_filters firefox,firefox-remote` | Run integration tests for local and remote Firefox  
+Ruby test targets have the same name as the spec file with `_spec.rb` removed, so you can run them individually. Integration tests targets also have a browser and remote suffix to control which browser to pick and whether to use Grid.
+Test file | Test target  
+---|---  
+`rb/spec/unit/selenium/webdriver/proxy_spec.rb` | `//rb/spec/unit/selenium/webdriver:proxy`  
+`rb/spec/integration/selenium/webdriver/driver_spec.rb` | `//rb/spec/integration/selenium/webdriver:driver-chrome`  
+`rb/spec/integration/selenium/webdriver/driver_spec.rb` | `//rb/spec/integration/selenium/webdriver:driver-chrome-remote`  
+`rb/spec/integration/selenium/webdriver/driver_spec.rb` | `//rb/spec/integration/selenium/webdriver:driver-firefox`  
+`rb/spec/integration/selenium/webdriver/driver_spec.rb` | `//rb/spec/integration/selenium/webdriver:driver-firefox-remote`  
+Supported browsers:
+  * `chrome`
+  * `edge`
+  * `firefox`
+  * `firefox-beta`
+  * `ie`
+  * `safari`
+  * `safari-preview`
+
+
+In addition to the [Common Options Examples](https://github.com/SeleniumHQ/selenium/#common-options-examples), here are some additional Ruby specific ones:
+  * `--test_arg "-eTimeouts"` - test only specs which name include "Timeouts"
+  * `--test_arg "<any other RSpec argument>"` - pass any extra RSpec arguments (see `bazel run @bundle//bin:rspec -- --help`)
+
+
+Supported environment variables for use with `--test_env`:
+  * `WD_SPEC_DRIVER` - the driver to test; either the browser name or 'remote' (gets set by Bazel)
+  * `WD_REMOTE_BROWSER` - when `WD_SPEC_DRIVER` is `remote`; the name of the browser to test (gets set by Bazel)
+  * `WD_REMOTE_URL` - URL of an already running server to use for remote tests
+  * `DOWNLOAD_SERVER` - when `WD_REMOTE_URL` not set; whether to download and use most recently released server version for remote tests
+  * `DEBUG` - turns on verbose debugging
+  * `HEADLESS` - for chrome, edge and firefox; runs tests in headless mode
+  * `DISABLE_BUILD_CHECK` - for chrome and edge; whether to ignore driver and browser version mismatches (allows testing Canary builds)
+  * `CHROME_BINARY` - path to test specific Chrome browser
+  * `CHROMEDRIVER_BINARY` - path to test specific ChromeDriver
+  * `EDGE_BINARY` - path to test specific Edge browser
+  * `MSEDGEDRIVER_BINARY` - path to test specific msedgedriver
+  * `FIREFOX_BINARY` - path to test specific Firefox browser
+  * `GECKODRIVER_BINARY` - path to test specific GeckoDriver
+
+
+To run with a specific version of Ruby you can change the version in `rb/.ruby-version` or from command line:
+```
+echo '<X.Y.Z>' > rb/.ruby-version
+```
+
+### .NET
+[](https://github.com/SeleniumHQ/selenium/#net)
+Click to see .NET Test Commands
+.NET tests currently only work with pinned browsers, so make sure to include that.
+Run all tests with:
+```
+bazel test //dotnet/test/common:AllTests --pin_browsers=true
+```
+
+You can run specific tests by specifying the class name:
+```
+bazel test //dotnet/test/common:ElementFindingTest --pin_browsers=true
+```
+
+If the module supports multiple browsers:
+```
+bazel test //dotnet/test/common:ElementFindingTest-edge --pin_browsers=true
+```
+
+### Rust
+[](https://github.com/SeleniumHQ/selenium/#rust-1)
+Click to see Rust Test Commands
+Rust tests are run with:
+```
+bazel test //rust/...
+```
+
+### Linux
+[](https://github.com/SeleniumHQ/selenium/#linux)
+Click to see Linux Testing Requirements
+By default, Bazel runs these tests in your current X-server UI. If you prefer, you can alternatively run them in a virtual or nested X-server.
+  1. Run the X server `Xvfb :99` or `Xnest :99`
+  2. Run a window manager, for example, `DISPLAY=:99 jwm`
+  3. Run the tests you are interested in:
+
+
+```
+bazel test --test_env=DISPLAY=:99 //java/... --test_tag_filters=chrome
+```
+
+An easy way to run tests in a virtual X-server is to use Bazel's `--run_under` functionality:
+```
+bazel test --run_under="xvfb-run -a" //java/...
+
+```
+
+## Documenting
+[](https://github.com/SeleniumHQ/selenium/#documenting)
+API documentation can be found here:
+  * [C#](https://seleniumhq.github.io/selenium/docs/api/dotnet/)
+  * [JavaScript](https://seleniumhq.github.io/selenium/docs/api/javascript/)
+  * [Java](https://seleniumhq.github.io/selenium/docs/api/java/index.html)
+  * [Python](https://seleniumhq.github.io/selenium/docs/api/py/)
+  * [Ruby](https://seleniumhq.github.io/selenium/docs/api/rb/)
+
+
+To update API documentation for a specific language: `./go <language>:docs`
+To update all documentation: `./go all:docs`
+Note that JavaScript generation is [currently broken](https://github.com/SeleniumHQ/selenium/issues/10185).
+## Releasing
+[](https://github.com/SeleniumHQ/selenium/#releasing)
+The full process for doing a release can be found in [the wiki](https://github.com/SeleniumHQ/selenium/wiki/Releasing-Selenium)
+Releasing is a combination of building and publishing, which often requires coordination of multiple executions and additional processing. As discussed in the [Building](https://github.com/SeleniumHQ/selenium/#building) section, we use Rake tasks with the `./go` command for these things. These `./go` commands include the `--stamp` argument to provide necessary information about the constructed asset.
+You can build and release everything with:
+```
+./go all:release
+```
+
+To build and release a specific language:
+```
+./go <language>:release
+```
+
+If you have access to the Selenium EngFlow repository, you can have the assets built remotely and downloaded locally using:
+```
+./go all:release['--config', 'release']
+```
+
+## License
+[](https://github.com/SeleniumHQ/selenium/#license)
+Selenium's source code is made available under the [Apache 2.0 license](https://github.com/SeleniumHQ/selenium/blob/trunk/LICENSE).
+## About
+A browser automation framework and ecosystem. 
+[selenium.dev](https://selenium.dev "https://selenium.dev")
+### Topics
+[ javascript ](https://github.com/topics/javascript "Topic: javascript") [ ruby ](https://github.com/topics/ruby "Topic: ruby") [ python ](https://github.com/topics/python "Topic: python") [ java ](https://github.com/topics/java "Topic: java") [ rust ](https://github.com/topics/rust "Topic: rust") [ webdriver ](https://github.com/topics/webdriver "Topic: webdriver") [ dotnet ](https://github.com/topics/dotnet "Topic: dotnet") [ selenium ](https://github.com/topics/selenium "Topic: selenium")
+### Resources
+[ Readme ](https://github.com/SeleniumHQ/selenium/#readme-ov-file)
+### License
+[ Apache-2.0 license ](https://github.com/SeleniumHQ/selenium/#Apache-2.0-1-ov-file)
+### Code of conduct
+[ Code of conduct ](https://github.com/SeleniumHQ/selenium/#coc-ov-file)
+### Security policy
+[ Security policy ](https://github.com/SeleniumHQ/selenium/#security-ov-file)
+[ Activity](https://github.com/SeleniumHQ/selenium/activity)
+[ Custom properties](https://github.com/SeleniumHQ/selenium/custom-properties)
+### Stars
+[ **32k** stars](https://github.com/SeleniumHQ/selenium/stargazers)
+### Watchers
+[ **1.3k** watching](https://github.com/SeleniumHQ/selenium/watchers)
+### Forks
+[ **8.4k** forks](https://github.com/SeleniumHQ/selenium/forks)
+[ Report repository ](https://github.com/contact/report-content?content_url=https%3A%2F%2Fgithub.com%2FSeleniumHQ%2Fselenium&report=SeleniumHQ+%28user%29)
+##  [Releases 103](https://github.com/SeleniumHQ/selenium/releases)
+[ Selenium 4.30.0 Latest  Mar 21, 2025 ](https://github.com/SeleniumHQ/selenium/releases/tag/selenium-4.30.0)
+[+ 102 releases](https://github.com/SeleniumHQ/selenium/releases)
+## Sponsor this project
+  * [ ![@SeleniumHQ](https://avatars.githubusercontent.com/u/983927?s=64&v=4) ](https://github.com/SeleniumHQ) [ **SeleniumHQ** Selenium ](https://github.com/SeleniumHQ) [ ](https://github.com/sponsors/SeleniumHQ)
+
+
+  * ![open_collective](https://github.githubassets.com/assets/open_collective-0a706523753d.svg) [opencollective.com/**selenium**](https://opencollective.com/selenium)
+
+
+[Learn more about GitHub Sponsors](https://github.com/sponsors)
+##  [Packages 5](https://github.com/orgs/SeleniumHQ/packages?repo_name=selenium)
+  * [ Selenium.WebDriver ](https://github.com/orgs/SeleniumHQ/packages/nuget/package/Selenium.WebDriver)
+  * [ Selenium.Support ](https://github.com/orgs/SeleniumHQ/packages/nuget/package/Selenium.Support)
+  * [ selenium-webdriver ](https://github.com/orgs/SeleniumHQ/packages/rubygems/package/selenium-webdriver)
+
+
+[+ 2 packages](https://github.com/orgs/SeleniumHQ/packages?repo_name=selenium)
+##  [Used by 323k](https://github.com/SeleniumHQ/selenium/network/dependents)
+[
+  * ![@divyanshismena](https://avatars.githubusercontent.com/u/167890120?s=64&v=4)
+  * ![@creusserp](https://avatars.githubusercontent.com/u/84042586?s=64&v=4)
+  * ![@dgonzamat](https://avatars.githubusercontent.com/u/133278940?s=64&v=4)
+  * ![@KateV2024](https://avatars.githubusercontent.com/u/175302840?s=64&v=4)
+  * ![@Robinho67200](https://avatars.githubusercontent.com/u/128142367?s=64&v=4)
+  * ![@socialdy](https://avatars.githubusercontent.com/u/193834092?s=64&v=4)
+  * ![@msalas555](https://avatars.githubusercontent.com/u/95562714?s=64&v=4)
+  * ![@SanthiKumarYadavalli](https://avatars.githubusercontent.com/u/77564884?s=64&v=4)
+
++ 322,686  ](https://github.com/SeleniumHQ/selenium/network/dependents)
+##  [Contributors 776](https://github.com/SeleniumHQ/selenium/graphs/contributors)
+  * [ ![@shs96c](https://avatars.githubusercontent.com/u/28229?s=64&v=4) ](https://github.com/shs96c)
+  * [ ![@barancev](https://avatars.githubusercontent.com/u/617090?s=64&v=4) ](https://github.com/barancev)
+  * [ ![@jimevans](https://avatars.githubusercontent.com/u/352840?s=64&v=4) ](https://github.com/jimevans)
+  * [ ![@diemol](https://avatars.githubusercontent.com/u/5992658?s=64&v=4) ](https://github.com/diemol)
+  * [ ![@titusfortner](https://avatars.githubusercontent.com/u/777185?s=64&v=4) ](https://github.com/titusfortner)
+  * [ ![@jleyba](https://avatars.githubusercontent.com/u/254985?s=64&v=4) ](https://github.com/jleyba)
+  * [ ![@AutomatedTester](https://avatars.githubusercontent.com/u/128518?s=64&v=4) ](https://github.com/AutomatedTester)
+  * [ ![@jarib](https://avatars.githubusercontent.com/u/572?s=64&v=4) ](https://github.com/jarib)
+  * [ ![@dfabulich](https://avatars.githubusercontent.com/u/96150?s=64&v=4) ](https://github.com/dfabulich)
+  * [ ![@illicitonion](https://avatars.githubusercontent.com/u/1131704?s=64&v=4) ](https://github.com/illicitonion)
+  * [ ![@p0deje](https://avatars.githubusercontent.com/u/665846?s=64&v=4) ](https://github.com/p0deje)
+  * [ ![@pujagani](https://avatars.githubusercontent.com/u/10705590?s=64&v=4) ](https://github.com/pujagani)
+  * [ ![@lukeis](https://avatars.githubusercontent.com/u/926454?s=64&v=4) ](https://github.com/lukeis)
+  * [ ![@eranmes](https://avatars.githubusercontent.com/u/1072163?s=64&v=4) ](https://github.com/eranmes)
+
+
+[+ 762 contributors](https://github.com/SeleniumHQ/selenium/graphs/contributors)
+## Languages
+  * [ Java 34.0% ](https://github.com/SeleniumHQ/selenium/search?l=java)
+  * [ C# 18.0% ](https://github.com/SeleniumHQ/selenium/search?l=c%23)
+  * [ C++ 12.7% ](https://github.com/SeleniumHQ/selenium/search?l=c%2B%2B)
+  * [ JavaScript 10.8% ](https://github.com/SeleniumHQ/selenium/search?l=javascript)
+  * [ Ruby 6.7% ](https://github.com/SeleniumHQ/selenium/search?l=ruby)
+  * [ Python 6.5% ](https://github.com/SeleniumHQ/selenium/search?l=python)
+  * Other 11.3%
+
+
+## Footer
+[ ](https://github.com "GitHub") © 2025 GitHub, Inc. 
+### Footer navigation
+  * [Terms](https://docs.github.com/site-policy/github-terms/github-terms-of-service)
+  * [Privacy](https://docs.github.com/site-policy/privacy-policies/github-privacy-statement)
+  * [Security](https://github.com/security)
+  * [Status](https://www.githubstatus.com/)
+  * [Docs](https://docs.github.com/)
+  * [Contact](https://support.github.com?tags=dotcom-footer)
+  * Manage cookies 
+  * Do not share my personal information 
+
+
+You can’t perform that action at this time. 

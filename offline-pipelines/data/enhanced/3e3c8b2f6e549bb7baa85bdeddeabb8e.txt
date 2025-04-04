@@ -1,0 +1,111 @@
+[Qwak is Now Officially Part of JFrog! 💚 Learn More -->](https://www.jfrog.com/jfrog-ml/)
+x
+[](https://www.qwak.com/)
+[Platform](https://jfrog.com/jfrog-ml/)
+Resources
+[Blog](https://www.qwak.com/blog)[Events & Webinars](https://www.qwak.com/events)[Customer Stories](https://www.qwak.com/case-studies)[Documentation](https://docs.qwak.com/docs)
+[![State of AI and LLMs by Qwak](https://cdn.prod.website-files.com/64b3ee21cac9398c75e5d3ab/66ab89d732723793e7d1ff9d_state%20of%20ai%20%26llms.png)](https://www.qwak.com/state-of-ai)
+New Report
+[Discover the latest AI trends, insights, and innovations in 2024. Access the Report ->](https://www.qwak.com/state-of-ai)
+[Pricing](https://www.qwak.com/old-pricing)
+[Schedule a Demo](https://www.qwak.com/demo)
+[Start for Free](https://app.qwak.ai)
+[Back to Events](https://www.qwak.com/events)
+On Demand
+# Lightricks Customer Story: Building A Recommendation Engine From Scratch
+The hurdles of productionizing a recommendation engine
+![Pavel Klushin](https://cdn.prod.website-files.com/64b3ee21cac9398c75e5d3ac/65756649b900dfa46cf52d98_Pavel%20Klushin.webp)
+Pavel Klushin
+Head of Solution Architecture at Qwak
+![Shaked Zychlinski](https://cdn.prod.website-files.com/64b3ee21cac9398c75e5d3ac/6592d4fbecce583b5a69a2df_Shaked.png)
+Shaked Zychlinski
+AI Architect, CTO Office at JFrog
+at 
+at 
+**Lightricks is an award-winning Photo & Video editing solution that enables users to craft and share unique visual content.**
+Lightricks data driven approach allows building a highly accurate and scalable recommendation system to boost user value and support the business growth.
+Join Shaked and Pavel to learn more about **the hurdles of productionizing a recommendation engine** and how to maintain a scalable ML model workflow in production.
+## Join upcoming demo
+[Register with Slack](https://www.qwak.com/academy/lightricks-customer-story-building-a-recommendation-engine-from-scratch/)![Slack](https://cdn.prod.website-files.com/64b3ee21cac9398c75e5d3ab/65a794f8039ccc18f8384942_slack.svg)
+‍
+**Lightricks is an award-winning Photo & Video editing solution that enables users to craft and share unique visual content.**
+Lightricks data driven approach allows building a highly accurate and scalable recommendation system to boost user value and support the business growth.
+Join Shaked and Pavel to learn more about **the hurdles of productionizing a recommendation engine** and how to maintain a scalable ML model workflow in production.
+## Learn more from top AI experts
+[![Qwak webinar logo](https://cdn.prod.website-files.com/64b3ee21cac9398c75e5d3ac/65378bf99dc470634b34071f_qwak-logo-white.svg)Transforming the Future of AI and MLLatest Trends and Innovations in MLOps 2.0![](https://cdn.prod.website-files.com/64b3ee21cac9398c75e5d3ac/65378bccf50142857beb3dc3_light-blue.webp)On Demand![Transforming the Future of AI and ML](https://cdn.prod.website-files.com/64b3ee21cac9398c75e5d3ac/6592d4eeaf078b1674bb1f3d_Ran.png)![Transforming the Future of AI and ML](https://cdn.prod.website-files.com/64b3ee21cac9398c75e5d3ac/64c8f73189eed430ebb8bcd3_Mask%20group-min.png)Ran Romano,Sakib Dadi,,](https://www.qwak.com/academy/transforming-the-future-of-ai-and-ml-latest-trends-and-innovations-in-mlops-2-0)
+[![Qwak webinar logo](https://cdn.prod.website-files.com/64b3ee21cac9398c75e5d3ac/65378bf99dc470634b34071f_qwak-logo-white.svg)AI Infra for Scaling LLM Apps: MLOps World The challenges in building Generative AI and LLM apps![](https://cdn.prod.website-files.com/64b3ee21cac9398c75e5d3ac/65378c0f933147a7ea66cdb2_dark-blue.webp)![](https://cdn.prod.website-files.com/64b3ee21cac9398c75e5d3ac/6649c8a7c0d26e8661145dea_genAI%20Summit.png)On Demand![AI Infra for Scaling LLM Apps: MLOps World ](https://cdn.prod.website-files.com/64b3ee21cac9398c75e5d3ac/673b2597b8c150ffe6776c2c_Guy%20Eshet.png)Guy Eshet,,,](https://www.qwak.com/academy/ai-infra-for-scaling-llm-apps-mlops-world)
+[![Qwak webinar logo](https://cdn.prod.website-files.com/64b3ee21cac9398c75e5d3ac/65378bb6e3fbd1973589920a_qwak-logo-dark.svg)Building an Optimized ML PipelineThe builders behind Superbet’s profanity detection model![](https://cdn.prod.website-files.com/64b3ee21cac9398c75e5d3ac/65378b88f815caefef37e995_yellow.webp)On Demand![Building an Optimized ML Pipeline](https://cdn.prod.website-files.com/64b3ee21cac9398c75e5d3ac/65756649b900dfa46cf52d98_Pavel%20Klushin.webp)![Building an Optimized ML Pipeline](https://cdn.prod.website-files.com/64b3ee21cac9398c75e5d3ac/6592d50fe7771a666bf72a0b_Filip.png)![Building an Optimized ML Pipeline](https://cdn.prod.website-files.com/64b3ee21cac9398c75e5d3ac/6592d515b67afefeece7fa81_Zvonimir.png)![Mateja Iveta](https://cdn.prod.website-files.com/64b3ee21cac9398c75e5d3ac/65818a42d6fa664b7deb55b8_Mateja%20Iveta%20.jpeg)Pavel Klushin,Filip Gvardijan,Zvonimir Cikojevic',Mateja Iveta](https://www.qwak.com/academy/how-to-create-an-optimized-ml-pipeline)
+## JFrog ML helps companies deploy AI in production
+![Edward Zhou](https://cdn.prod.website-files.com/64b3ee21cac9398c75e5d3ac/6571d22ae2cb4add98137c71_Edward%20Zhou.webp)
+Edward Zhou
+Software Engineer, Notion
+“JFrog ML streamlines AI development from prototype to production, freeing us from infrastructure concerns and maximizing our focus on business value.”
+![Notion](https://cdn.prod.website-files.com/64b3ee21cac9398c75e5d3ac/656325dff514c92e0ee08c38_notion-logo-small.svg)
+![Ryan Rollings](https://cdn.prod.website-files.com/64b3ee21cac9398c75e5d3ac/6571d2979ffa952851ef1dca_Ryan%20Rollings.webp)
+Ryan Rollings
+Principal Machine Learning Engineer, Upside
+“We ditched our in-house platform for JFrog ML. I wish we had found them sooner.”
+![Upside](https://cdn.prod.website-files.com/64b3ee21cac9398c75e5d3ac/656c45b5ccb09777eb6a379d_UPSIDE.png)
+![Asi Messica](https://cdn.prod.website-files.com/64b3ee21cac9398c75e5d3ac/65f6c8a5c6fd1895947cbc38_assim.jpeg)
+Asi Messica
+VP Data Science, Lightricks
+“The JFrog ML platform enabled us to deploy a complex recommendations solution within a remarkably short timeframe. JFrog ML is an exceptionally responsive partner, continually refining their solution.”
+![Lightricks](https://cdn.prod.website-files.com/64b3ee21cac9398c75e5d3ac/656c45eddabb71952a9d6e20_LIGHTRICKS.png)
+[See how our customers win with JFrog ML![right arrow](https://cdn.prod.website-files.com/64b3ee21cac9398c75e5d3ab/65081959de3877caeff0ea6f_arrow-cta.svg)](https://www.qwak.com/case-studies)
+## Get started with JFrog ML today.
+Access JFrog ML to see how the best ML engineering and data science teams deploy models in production. Say goodbye to complex MLOps and start delivering today.
+[Book Demo](https://www.qwak.com/demo)[Learn More](https://www.qwak.com/blog)
+[![Qwak Logo Footer](https://cdn.prod.website-files.com/64b3ee21cac9398c75e5d3ab/6720b199b1e9016806e44919_JFrogML_Oct25.svg)](https://www.qwak.com/)
+Your AI Platform. Built to Scale.
+© 2024 JFrog ML. All rights reserved.
+[Terms & Conditions](https://www.qwak.com/terms-of-use)[Privacy Notice](https://jfrog.com/privacy-policy/)[Cookie Notice](https://jfrog.com/jfrog-cookies-policy/)[Cookie Settings](https://www.qwak.com/academy/lightricks-customer-story-building-a-recommendation-engine-from-scratch/)![Qwak MLOps platform has SOC2 compliance](https://cdn.prod.website-files.com/64b3ee21cac9398c75e5d3ab/655d250e320f966cc4d6d595_qwak-soc2.svg)
+Platform
+[MLOps](https://www.qwak.com/products/mlops)[LLMOps](https://www.qwak.com/products/llmops)[Feature Store](https://www.qwak.com/products/feature-store)
+Resources
+[Blog](https://www.qwak.com/blog)[Case Studies](https://www.qwak.com/case-studies)[Documentation](https://docs.qwak.com/docs)
+Stay updated
+Follow us
+[](https://www.linkedin.com/company/qwakai/)[](https://twitter.com/Qwak_ai)[](https://github.com/qwak-ai/qwak-examples/tree/main)[](https://mlengineering.medium.com/)
+![](https://t.co/1/i/adsct?bci=4&dv=America%2FBoise%26en-US%26Google%20Inc.%26MacIntel%26127%261080%26600%2610%2630%261080%26600%260%26na&eci=3&event=%7B%7D&event_id=988d54d4-f446-41ad-8ed5-fa2afb219dce&integration=gtm&p_id=Twitter&p_user_id=0&pl_id=d38c8257-0365-44b6-85a4-d2f1ca312e26&tw_document_href=https%3A%2F%2Fwww.qwak.com%2Facademy%2Flightricks-customer-story-building-a-recommendation-engine-from-scratch&tw_iframe_status=0&txn_id=oe76x&type=javascript&version=2.3.31)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FBoise%26en-US%26Google%20Inc.%26MacIntel%26127%261080%26600%2610%2630%261080%26600%260%26na&eci=3&event=%7B%7D&event_id=988d54d4-f446-41ad-8ed5-fa2afb219dce&integration=gtm&p_id=Twitter&p_user_id=0&pl_id=d38c8257-0365-44b6-85a4-d2f1ca312e26&tw_document_href=https%3A%2F%2Fwww.qwak.com%2Facademy%2Flightricks-customer-story-building-a-recommendation-engine-from-scratch&tw_iframe_status=0&txn_id=oe76x&type=javascript&version=2.3.31)
+Cookies Button
+JFrog uses cookies and other tracking technologies, including session replay tools (“Cookies”), to gather information about you and your device to improve our services, conduct analytics to gain insights about how you interact with our websites and services, evaluate and improve advertising, and enhance performance and functionality. Click “Accept All” to consent to this data processing by us and our third-party vendors. Click “Cookie Settings” to customize your selections or click “Required Only” to disable all non-Essential Cookies. For more information, please review our [Privacy Notice](https://jfrog.com/privacy-notice/) and [Cookie Policy](https://jfrog.com/jfrog-cookies-policy/). 
+Accept All 
+Required Only
+Cookie Settings
+![Company Logo](https://cdn.cookielaw.org/logos/static/ot_company_logo.png)
+## Privacy Preference Center
+Your Opt Out Preference Signal is Honored
+  * ### Your Privacy
+  * ### Strictly Necessary Cookies
+  * ### Performance Cookies
+  * ### Functional Cookies
+  * ### Targeting Cookies
+
+
+#### Your Privacy
+JFrog and our partners use cookies and other tracking technologies to gather information about you and how you interact with our websites and services. As set forth in the table below, we use this information for a variety of purposes, such as for analytics, to optimize the performance of our website, to improve effectiveness of our advertising, and to remember your preferences. You can disable certain types of cookies using the Privacy Preference Center toggles below. For more information, including which cookies/tracking technologies belong to the below categories, see our Privacy Notice and Cookie Policy. [More information](https://jfrog.com/jfrog-cookies-policy/)
+#### Strictly Necessary Cookies
+Always Active
+These are technologies that the digital services need in order to function, and that enable you to move around and use the digital services. Without these essential technologies, the digital services will not perform as smoothly for you as we would like them to, and we may not be able to provide the digital services or certain features you request. Examples of where these cookies are used include: to determine when you are signed in; to determine when your account has been inactive; and for other troubleshooting and security purposes.
+#### Performance Cookies
+Performance Cookies
+These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site. Although analytics technologies allow us to gather specific information about the pages that you visit and whether you have visited our digital services multiple times, we cannot use them to find out details such as your name or address. For more information about Google Analytics, please refer to "How Google Uses Information From Sites or Apps that Use Our Services," which can be found at www.google.com/policies/privacy/partners/, or any other URL Google may provide from time to time.
+#### Functional Cookies
+Functional Cookies
+These are technologies that help enhance performance and functionality. For example, functionality cookies can be used to remember a user's region or remember language preferences and pages and products you have viewed in order to enhance and personalize your experience when you visit our digital services.
+#### Targeting Cookies
+Targeting Cookies
+We use marketing technologies, including cookies and other conversion tracking tools, to improve the effectiveness of our online marketing efforts (such as personalized advertisements placed on other digital properties you may visit).
+Back Button
+### Cookie List
+Filter Button
+Consent Leg.Interest
+checkbox label label
+checkbox label label
+checkbox label label
+Clear
+checkbox label label
+Apply Cancel
+Confirm My Choices
+Allow All
+[![Powered by Onetrust](https://cdn.cookielaw.org/logos/static/powered_by_logo.svg)](https://www.onetrust.com/products/cookie-consent/)

@@ -1,0 +1,47 @@
+{
+    "id": "67bbd81be5f088c80da6862aa4dfeaaa",
+    "metadata": {
+        "id": "67bbd81be5f088c80da6862aa4dfeaaa",
+        "url": "https://argoproj.github.io/workflows/",
+        "title": "Argo Workflows | Argo",
+        "properties": {
+            "description": "Kubernetes-native workflow engine supporting DAG and step-based workflows.",
+            "keywords": null,
+            "author": null,
+            "og:title": "Argo Workflows",
+            "og:description": "Kubernetes-native workflow engine supporting DAG and step-based workflows.",
+            "og:type": "website",
+            "og:image": "/static/db13ca8ed5bf65c28742454220231e7e/workflows-thumbnail.png",
+            "twitter:card": "summary",
+            "twitter:title": "Argo Workflows",
+            "twitter:description": "Kubernetes-native workflow engine supporting DAG and step-based workflows."
+        }
+    },
+    "parent_metadata": {
+        "id": "a8da8586bb9e9a08ca963f1ecaaf8f6c",
+        "url": "https://www.notion.so/Orchestrators-a8da8586bb9e9a08ca963f1ecaaf8f6c",
+        "title": "Orchestrators",
+        "properties": {
+            "Type": "Leaf"
+        }
+    },
+    "content": "[Skip to content](https://argoproj.github.io/workflows/#main)\n[Join us at ArgoCon EU 2025, colocated with KubeCon/CloudNativeCon 2025 London. Register now!](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/co-located-events/argocon/)\n[Argo](https://argoproj.github.io/)\n  * [Workflows](https://argoproj.github.io/workflows/)\n  * [CD](https://argoproj.github.io/cd/)\n  * [Rollouts](https://argoproj.github.io/rollouts/)\n  * [Events](https://argoproj.github.io/events/)\n  * [Trainings](https://argoproj.github.io/trainings/)\n  * [ Blog ](https://blog.argoproj.io)\n\n\n[](https://github.com/argoproj \"Follow us on GitHub\")[](https://argoproj.github.io/community/join-slack/)\n# Argo Workflows\nKubernetes-native workflow engine supporting DAG and step-based workflows.\n[ Documentation ](https://argo-workflows.readthedocs.io/en/latest/)\n## What is Argo Workflows?\nArgo Workflows is an open source container-native workflow engine for orchestrating parallel jobs on Kubernetes. Argo Workflows is implemented as a Kubernetes CRD.\n  * Define workflows where each step in the workflow is a container.\n  * Model multi-step workflows as a sequence of tasks or capture the dependencies between tasks using a graph (DAG).\n  * Easily run compute intensive jobs for machine learning or data processing in a fraction of the time using Argo Workflows on Kubernetes.\n  * Run CI/CD pipelines natively on Kubernetes without configuring complex software development products.\n\n\n## Why Argo Workflows?\n  * Designed from the ground up for containers without the overhead and limitations of legacy VM and server-based environments.\n  * Cloud agnostic and can run on any Kubernetes cluster.\n  * Easily orchestrate highly parallel jobs on Kubernetes.\n  * Argo Workflows puts a cloud-scale supercomputer at your fingertips!\n\n\n[ View Docs ](https://argo-workflows.readthedocs.io/en/latest/)[ Get Started ](https://argo-workflows.readthedocs.io/en/latest/quick-start/)\n[](https://github.com/argoproj \"Follow us on GitHub\")[](https://argoproj.github.io/community/join-slack/)\n2025 © Argo Project Authors. All rights reserved. The Linux Foundation has registered trademarks and uses trademarks. For a list of trademarks of The Linux Foundation, please see our [Trademark Usage page](https://www.linuxfoundation.org/trademark-usage).\n",
+    "content_quality_score": 0.8,
+    "summary": null,
+    "child_urls": [
+        "https://argoproj.github.io/workflows/#main",
+        "https://argoproj.github.io/",
+        "https://argoproj.github.io/workflows/",
+        "https://argoproj.github.io/cd/",
+        "https://argoproj.github.io/rollouts/",
+        "https://argoproj.github.io/events/",
+        "https://argoproj.github.io/trainings/",
+        "https://argoproj.github.io/community/join-slack/",
+        "https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/co-located-events/argocon/",
+        "https://blog.argoproj.io",
+        "https://github.com/argoproj",
+        "https://argo-workflows.readthedocs.io/en/latest/",
+        "https://argo-workflows.readthedocs.io/en/latest/quick-start/",
+        "https://www.linuxfoundation.org/trademark-usage"
+    ]
+}

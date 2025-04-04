@@ -1,0 +1,253 @@
+[Skip to content](https://github.com/mongodb-developer/GenAI-Showcase/tree/main/#start-of-content)
+## Navigation Menu
+Toggle navigation
+[ ](https://github.com/)
+[ Sign in ](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fmongodb-developer%2FGenAI-Showcase%2Ftree%2Fmain%2F)
+  * Product 
+    * [ GitHub Copilot Write better code with AI  ](https://github.com/features/copilot)
+    * [ Security Find and fix vulnerabilities  ](https://github.com/features/security)
+    * [ Actions Automate any workflow  ](https://github.com/features/actions)
+    * [ Codespaces Instant dev environments  ](https://github.com/features/codespaces)
+    * [ Issues Plan and track work  ](https://github.com/features/issues)
+    * [ Code Review Manage code changes  ](https://github.com/features/code-review)
+    * [ Discussions Collaborate outside of code  ](https://github.com/features/discussions)
+    * [ Code Search Find more, search less  ](https://github.com/features/code-search)
+Explore
+    * [ All features ](https://github.com/features)
+    * [ Documentation ](https://docs.github.com)
+    * [ GitHub Skills ](https://skills.github.com)
+    * [ Blog ](https://github.blog)
+  * Solutions 
+By company size
+    * [ Enterprises ](https://github.com/enterprise)
+    * [ Small and medium teams ](https://github.com/team)
+    * [ Startups ](https://github.com/enterprise/startups)
+    * [ Nonprofits ](https://github.com/solutions/industry/nonprofits)
+By use case
+    * [ DevSecOps ](https://github.com/solutions/use-case/devsecops)
+    * [ DevOps ](https://github.com/solutions/use-case/devops)
+    * [ CI/CD ](https://github.com/solutions/use-case/ci-cd)
+    * [ View all use cases ](https://github.com/solutions/use-case)
+By industry
+    * [ Healthcare ](https://github.com/solutions/industry/healthcare)
+    * [ Financial services ](https://github.com/solutions/industry/financial-services)
+    * [ Manufacturing ](https://github.com/solutions/industry/manufacturing)
+    * [ Government ](https://github.com/solutions/industry/government)
+    * [ View all industries ](https://github.com/solutions/industry)
+[ View all solutions ](https://github.com/solutions)
+  * Resources 
+Topics
+    * [ AI ](https://github.com/resources/articles/ai)
+    * [ DevOps ](https://github.com/resources/articles/devops)
+    * [ Security ](https://github.com/resources/articles/security)
+    * [ Software Development ](https://github.com/resources/articles/software-development)
+    * [ View all ](https://github.com/resources/articles)
+Explore
+    * [ Learning Pathways ](https://resources.github.com/learn/pathways)
+    * [ Events & Webinars ](https://resources.github.com)
+    * [ Ebooks & Whitepapers ](https://github.com/resources/whitepapers)
+    * [ Customer Stories ](https://github.com/customer-stories)
+    * [ Partners ](https://partner.github.com)
+    * [ Executive Insights ](https://github.com/solutions/executive-insights)
+  * Open Source 
+    * [ GitHub Sponsors Fund open source developers  ](https://github.com/sponsors)
+    * [ The ReadME Project GitHub community articles  ](https://github.com/readme)
+Repositories
+    * [ Topics ](https://github.com/topics)
+    * [ Trending ](https://github.com/trending)
+    * [ Collections ](https://github.com/collections)
+  * Enterprise 
+    * [ Enterprise platform AI-powered developer platform  ](https://github.com/enterprise)
+Available add-ons
+    * [ Advanced Security Enterprise-grade security features  ](https://github.com/enterprise/advanced-security)
+    * [ Copilot for business Enterprise-grade AI features  ](https://github.com/features/copilot/copilot-business)
+    * [ Premium Support Enterprise-grade 24/7 support  ](https://github.com/premium-support)
+  * [Pricing](https://github.com/pricing)
+
+
+Search or jump to...
+# Search code, repositories, users, issues, pull requests...
+Search 
+Clear
+[Search syntax tips](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax)
+#  Provide feedback 
+We read every piece of feedback, and take your input very seriously.
+Include my email address so I can be contacted
+Cancel  Submit feedback 
+#  Saved searches 
+## Use saved searches to filter your results more quickly
+Name
+Query
+To see all available qualifiers, see our [documentation](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax). 
+Cancel  Create saved search 
+[ Sign in ](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fmongodb-developer%2FGenAI-Showcase%2Ftree%2Fmain%2F)
+[ Sign up ](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E&source=header-repo&source_repo=mongodb-developer%2FGenAI-Showcase) Reseting focus
+You signed in with another tab or window. [Reload](https://github.com/mongodb-developer/GenAI-Showcase/tree/main/) to refresh your session. You signed out in another tab or window. [Reload](https://github.com/mongodb-developer/GenAI-Showcase/tree/main/) to refresh your session. You switched accounts on another tab or window. [Reload](https://github.com/mongodb-developer/GenAI-Showcase/tree/main/) to refresh your session. Dismiss alert
+{{ message }}
+[ mongodb-developer ](https://github.com/mongodb-developer) / **[GenAI-Showcase](https://github.com/mongodb-developer/GenAI-Showcase) ** Public
+  * [ Notifications ](https://github.com/login?return_to=%2Fmongodb-developer%2FGenAI-Showcase) You must be signed in to change notification settings
+  * [ Fork 558 ](https://github.com/login?return_to=%2Fmongodb-developer%2FGenAI-Showcase)
+  * [ Star  3.1k ](https://github.com/login?return_to=%2Fmongodb-developer%2FGenAI-Showcase)
+
+
+GenAI Cookbook 
+[www.mongodb.com/cloud/atlas/register](https://www.mongodb.com/cloud/atlas/register "https://www.mongodb.com/cloud/atlas/register")
+### License
+[ MIT license ](https://github.com/mongodb-developer/GenAI-Showcase/blob/main/LICENSE)
+[ 3.1k stars ](https://github.com/mongodb-developer/GenAI-Showcase/stargazers) [ 558 forks ](https://github.com/mongodb-developer/GenAI-Showcase/forks) [ Branches ](https://github.com/mongodb-developer/GenAI-Showcase/branches) [ Tags ](https://github.com/mongodb-developer/GenAI-Showcase/tags) [ Activity ](https://github.com/mongodb-developer/GenAI-Showcase/activity)
+[ Star  ](https://github.com/login?return_to=%2Fmongodb-developer%2FGenAI-Showcase)
+[ Notifications ](https://github.com/login?return_to=%2Fmongodb-developer%2FGenAI-Showcase) You must be signed in to change notification settings
+  * [ Code ](https://github.com/mongodb-developer/GenAI-Showcase)
+  * [ Issues 4 ](https://github.com/mongodb-developer/GenAI-Showcase/issues)
+  * [ Pull requests 6 ](https://github.com/mongodb-developer/GenAI-Showcase/pulls)
+  * [ Actions ](https://github.com/mongodb-developer/GenAI-Showcase/actions)
+  * [ Projects 0 ](https://github.com/mongodb-developer/GenAI-Showcase/projects)
+  * [ Security ](https://github.com/mongodb-developer/GenAI-Showcase/security)
+  * [ Insights ](https://github.com/mongodb-developer/GenAI-Showcase/pulse)
+
+
+Additional navigation options
+  * [ Code  ](https://github.com/mongodb-developer/GenAI-Showcase)
+  * [ Issues  ](https://github.com/mongodb-developer/GenAI-Showcase/issues)
+  * [ Pull requests  ](https://github.com/mongodb-developer/GenAI-Showcase/pulls)
+  * [ Actions  ](https://github.com/mongodb-developer/GenAI-Showcase/actions)
+  * [ Projects  ](https://github.com/mongodb-developer/GenAI-Showcase/projects)
+  * [ Security  ](https://github.com/mongodb-developer/GenAI-Showcase/security)
+  * [ Insights  ](https://github.com/mongodb-developer/GenAI-Showcase/pulse)
+
+
+# mongodb-developer/GenAI-Showcase
+main
+[**21** Branches](https://github.com/mongodb-developer/GenAI-Showcase/branches)[**0** Tags](https://github.com/mongodb-developer/GenAI-Showcase/tags)
+[](https://github.com/mongodb-developer/GenAI-Showcase/branches)[](https://github.com/mongodb-developer/GenAI-Showcase/tags)
+Go to file
+Code
+## Folders and files
+Name| Name| Last commit message| Last commit date  
+---|---|---|---  
+## Latest commit
+[![RichmondAlake](https://avatars.githubusercontent.com/u/16384755?v=4&size=40)](https://github.com/RichmondAlake)[RichmondAlake](https://github.com/mongodb-developer/GenAI-Showcase/commits?author=RichmondAlake)[Merge pull request](https://github.com/mongodb-developer/GenAI-Showcase/commit/f20829ba5abc29b1399127e2eae17655f5fd7aa5) [#102](https://github.com/mongodb-developer/GenAI-Showcase/pull/102) [from mongodb-developer/postgres_performance_g…](https://github.com/mongodb-developer/GenAI-Showcase/commit/f20829ba5abc29b1399127e2eae17655f5fd7aa5)Mar 27, 2025[f20829b](https://github.com/mongodb-developer/GenAI-Showcase/commit/f20829ba5abc29b1399127e2eae17655f5fd7aa5) · Mar 27, 2025
+## History
+[502 Commits](https://github.com/mongodb-developer/GenAI-Showcase/commits/main/)[](https://github.com/mongodb-developer/GenAI-Showcase/commits/main/)  
+[.github](https://github.com/mongodb-developer/GenAI-Showcase/tree/main/.github ".github")| [.github](https://github.com/mongodb-developer/GenAI-Showcase/tree/main/.github ".github")| [Adding codeowners file](https://github.com/mongodb-developer/GenAI-Showcase/commit/e1c1f8321b84923ed492f93ed758605d6406d583 "Adding codeowners file")| Jan 15, 2025  
+[apps](https://github.com/mongodb-developer/GenAI-Showcase/tree/main/apps "apps")| [apps](https://github.com/mongodb-developer/GenAI-Showcase/tree/main/apps "apps")| [Pre-commit checks are green](https://github.com/mongodb-developer/GenAI-Showcase/commit/fbe5e9c8275e0c755391352dfb8be62f46793302 "Pre-commit checks are green")| Mar 19, 2025  
+[misc](https://github.com/mongodb-developer/GenAI-Showcase/tree/main/misc "misc")| [misc](https://github.com/mongodb-developer/GenAI-Showcase/tree/main/misc "misc")| [Updating README](https://github.com/mongodb-developer/GenAI-Showcase/commit/4d8e8b6aa48b7c01b41bfae99b3d4ed9f6f9a781 "Updating README")| Feb 5, 2025  
+[notebooks](https://github.com/mongodb-developer/GenAI-Showcase/tree/main/notebooks "notebooks")| [notebooks](https://github.com/mongodb-developer/GenAI-Showcase/tree/main/notebooks "notebooks")| [Merge pull request](https://github.com/mongodb-developer/GenAI-Showcase/commit/f20829ba5abc29b1399127e2eae17655f5fd7aa5 "Merge pull request #102 from mongodb-developer/postgres_performance_guidance
+Postgres performance guidance") [#102](https://github.com/mongodb-developer/GenAI-Showcase/pull/102) [from mongodb-developer/postgres_performance_g…](https://github.com/mongodb-developer/GenAI-Showcase/commit/f20829ba5abc29b1399127e2eae17655f5fd7aa5 "Merge pull request #102 from mongodb-developer/postgres_performance_guidance
+Postgres performance guidance")| Mar 27, 2025  
+[partners](https://github.com/mongodb-developer/GenAI-Showcase/tree/main/partners "partners")| [partners](https://github.com/mongodb-developer/GenAI-Showcase/tree/main/partners "partners")| [Pre-commit checks are green](https://github.com/mongodb-developer/GenAI-Showcase/commit/fbe5e9c8275e0c755391352dfb8be62f46793302 "Pre-commit checks are green")| Mar 19, 2025  
+[tools](https://github.com/mongodb-developer/GenAI-Showcase/tree/main/tools "tools")| [tools](https://github.com/mongodb-developer/GenAI-Showcase/tree/main/tools "tools")| [Updating README](https://github.com/mongodb-developer/GenAI-Showcase/commit/4d8e8b6aa48b7c01b41bfae99b3d4ed9f6f9a781 "Updating README")| Feb 5, 2025  
+[.gitignore](https://github.com/mongodb-developer/GenAI-Showcase/blob/main/.gitignore ".gitignore")| [.gitignore](https://github.com/mongodb-developer/GenAI-Showcase/blob/main/.gitignore ".gitignore")| [INTPYTHON-442 Add autoformatting to repo](https://github.com/mongodb-developer/GenAI-Showcase/commit/e5c87fe01fbb766c071ad2ce8e51699307785336 "INTPYTHON-442 Add autoformatting to repo")| Dec 10, 2024  
+[.pre-commit-config.yaml](https://github.com/mongodb-developer/GenAI-Showcase/blob/main/.pre-commit-config.yaml ".pre-commit-config.yaml")| [.pre-commit-config.yaml](https://github.com/mongodb-developer/GenAI-Showcase/blob/main/.pre-commit-config.yaml ".pre-commit-config.yaml")| [Update Jupyter notebooks](https://github.com/mongodb-developer/GenAI-Showcase/commit/4ab0cc3c42da8902b8ab5a036d848b36726e2534 "Update Jupyter notebooks
+Signed-off-by: Emmanuel Ferdman <emmanuelferdman@gmail.com>")| Mar 6, 2025  
+[CONTRIBUTING.md](https://github.com/mongodb-developer/GenAI-Showcase/blob/main/CONTRIBUTING.md "CONTRIBUTING.md")| [CONTRIBUTING.md](https://github.com/mongodb-developer/GenAI-Showcase/blob/main/CONTRIBUTING.md "CONTRIBUTING.md")| [Updating contribution guidelines](https://github.com/mongodb-developer/GenAI-Showcase/commit/6fb2054ef54ab2bcc4e3f28590480ce659ca3b53 "Updating contribution guidelines")| Jan 15, 2025  
+[LICENSE](https://github.com/mongodb-developer/GenAI-Showcase/blob/main/LICENSE "LICENSE")| [LICENSE](https://github.com/mongodb-developer/GenAI-Showcase/blob/main/LICENSE "LICENSE")| [Create LICENSE](https://github.com/mongodb-developer/GenAI-Showcase/commit/97e92db59bde3667f5fab3ac18874faa1fcd04f3 "Create LICENSE
+MIT")| Oct 1, 2024  
+[README.md](https://github.com/mongodb-developer/GenAI-Showcase/blob/main/README.md "README.md")| [README.md](https://github.com/mongodb-developer/GenAI-Showcase/blob/main/README.md "README.md")| [updated readme](https://github.com/mongodb-developer/GenAI-Showcase/commit/8079e20ab82932aaf624b3e058ffa1ed33c05236 "updated readme")| Mar 20, 2025  
+[ruff.toml](https://github.com/mongodb-developer/GenAI-Showcase/blob/main/ruff.toml "ruff.toml")| [ruff.toml](https://github.com/mongodb-developer/GenAI-Showcase/blob/main/ruff.toml "ruff.toml")| [Updating README](https://github.com/mongodb-developer/GenAI-Showcase/commit/4d8e8b6aa48b7c01b41bfae99b3d4ed9f6f9a781 "Updating README")| Feb 5, 2025  
+View all files  
+## Repository files navigation
+  * [README](https://github.com/mongodb-developer/GenAI-Showcase/tree/main/)
+  * [MIT license](https://github.com/mongodb-developer/GenAI-Showcase/tree/main/)
+
+
+## MongoDB's GenAI Showcase
+[](https://github.com/mongodb-developer/GenAI-Showcase/tree/main/#mongodbs-genai-showcase)
+Welcome to MongoDB's Generative AI Showcase Repository!
+Whether you are just starting out on your Generative AI journey, or looking to build advanced GenAI applications, we've got you covered. This repository has an exhaustive list of examples and sample applications that cover Retrieval-Augmented Generation (RAG), AI Agents, and industry-specific use cases.
+Discover how MongoDB integrates into RAG pipelines and AI Agents, serving as a vector database, operational database, and memory provider.
+## Contents
+[](https://github.com/mongodb-developer/GenAI-Showcase/tree/main/#contents)
+This repo mainly contains:
+Folder | Description  
+---|---  
+[`notebooks`](https://github.com/mongodb-developer/GenAI-Showcase/blob/main/notebooks/README.md) | Jupyter notebooks examples for RAG, agentic applications, evaluations etc.  
+[`apps`](https://github.com/mongodb-developer/GenAI-Showcase/blob/main/apps/README.md) | Javascipt and Python apps and demos  
+[`partners`](https://github.com/mongodb-developer/GenAI-Showcase/blob/main/partners/README.md) | Contributions from our AI partners  
+## Getting Started
+[](https://github.com/mongodb-developer/GenAI-Showcase/tree/main/#getting-started)
+You will need to connect to a MongoDB cluster to run any of the apps or examples in this repo. Follow these steps to get set up:
+  * Register for a [free MongoDB Atlas account](https://www.mongodb.com/cloud/atlas/register)
+  * [Create a new database cluster](https://www.mongodb.com/docs/guides/atlas/cluster/)
+  * [Obtain the connection string](https://www.mongodb.com/docs/guides/atlas/connection-string/) for your database cluster
+
+
+## Contributing
+[](https://github.com/mongodb-developer/GenAI-Showcase/tree/main/#contributing)
+We welcome contributions! Please read our [Contribution Guidelines](https://github.com/mongodb-developer/GenAI-Showcase/blob/main/CONTRIBUTING.md) for more information on how to participate.
+## License
+[](https://github.com/mongodb-developer/GenAI-Showcase/tree/main/#license)
+This project is licensed under the [MIT License](https://github.com/mongodb-developer/GenAI-Showcase/blob/main/LICENSE).
+## Getting Support
+[](https://github.com/mongodb-developer/GenAI-Showcase/tree/main/#getting-support)
+As you work through these examples, if you encounter any problems, please [open a new issue](https://github.com/mongodb-developer/GenAI-Showcase/issues/new).
+## Additional Resources
+[](https://github.com/mongodb-developer/GenAI-Showcase/tree/main/#additional-resources)
+  * [AI Learning Hub](https://www.mongodb.com/resources/use-cases/artificial-intelligence?utm_campaign=ai_learning_hub&utm_source=github&utm_medium=referral)
+  * [GenAI Community Forum](https://www.mongodb.com/community/forums/c/generative-ai/162)
+  * [Tutorials and code examples from our official docs](https://github.com/mongodb/docs-notebooks)
+
+
+## About
+GenAI Cookbook 
+[www.mongodb.com/cloud/atlas/register](https://www.mongodb.com/cloud/atlas/register "https://www.mongodb.com/cloud/atlas/register")
+### Topics
+[ artificial-intelligence ](https://github.com/topics/artificial-intelligence "Topic: artificial-intelligence") [ agents ](https://github.com/topics/agents "Topic: agents") [ rag ](https://github.com/topics/rag "Topic: rag") [ llms ](https://github.com/topics/llms "Topic: llms") [ generative-ai ](https://github.com/topics/generative-ai "Topic: generative-ai")
+### Resources
+[ Readme ](https://github.com/mongodb-developer/GenAI-Showcase/tree/main/#readme-ov-file)
+### License
+[ MIT license ](https://github.com/mongodb-developer/GenAI-Showcase/tree/main/#MIT-1-ov-file)
+[ Activity](https://github.com/mongodb-developer/GenAI-Showcase/activity)
+[ Custom properties](https://github.com/mongodb-developer/GenAI-Showcase/custom-properties)
+### Stars
+[ **3.1k** stars](https://github.com/mongodb-developer/GenAI-Showcase/stargazers)
+### Watchers
+[ **73** watching](https://github.com/mongodb-developer/GenAI-Showcase/watchers)
+### Forks
+[ **558** forks](https://github.com/mongodb-developer/GenAI-Showcase/forks)
+[ Report repository ](https://github.com/contact/report-content?content_url=https%3A%2F%2Fgithub.com%2Fmongodb-developer%2FGenAI-Showcase&report=mongodb-developer+%28user%29)
+##  [Releases](https://github.com/mongodb-developer/GenAI-Showcase/releases)
+No releases published
+##  [Packages 0](https://github.com/orgs/mongodb-developer/packages?repo_name=GenAI-Showcase)
+No packages published 
+##  [Contributors 23](https://github.com/mongodb-developer/GenAI-Showcase/graphs/contributors)
+  * [ ![@RichmondAlake](https://avatars.githubusercontent.com/u/16384755?s=64&v=4) ](https://github.com/RichmondAlake)
+  * [ ![@Pash10g](https://avatars.githubusercontent.com/u/16643200?s=64&v=4) ](https://github.com/Pash10g)
+  * [ ![@ajosh0504](https://avatars.githubusercontent.com/u/30438249?s=64&v=4) ](https://github.com/ajosh0504)
+  * [ ![@anaiyaraisin](https://avatars.githubusercontent.com/u/86017775?s=64&v=4) ](https://github.com/anaiyaraisin)
+  * [ ![@snarvaez](https://avatars.githubusercontent.com/u/1014889?s=64&v=4) ](https://github.com/snarvaez)
+  * [ ![@blink1073](https://avatars.githubusercontent.com/u/2096628?s=64&v=4) ](https://github.com/blink1073)
+  * [ ![@LuceCarter](https://avatars.githubusercontent.com/u/6980734?s=64&v=4) ](https://github.com/LuceCarter)
+  * [ ![@codeSTACKr](https://avatars.githubusercontent.com/u/52665907?s=64&v=4) ](https://github.com/codeSTACKr)
+  * [ ![@cozypet](https://avatars.githubusercontent.com/u/7107896?s=64&v=4) ](https://github.com/cozypet)
+  * [ ![@ranfysvalle02](https://avatars.githubusercontent.com/u/6230773?s=64&v=4) ](https://github.com/ranfysvalle02)
+  * [ ![@ArturoNereu](https://avatars.githubusercontent.com/u/263776?s=64&v=4) ](https://github.com/ArturoNereu)
+  * [ ![@timotheekelly](https://avatars.githubusercontent.com/u/63365669?s=64&v=4) ](https://github.com/timotheekelly)
+  * [ ![@seldo](https://avatars.githubusercontent.com/u/185893?s=64&v=4) ](https://github.com/seldo)
+  * [ ![@caseyclements](https://avatars.githubusercontent.com/u/737181?s=64&v=4) ](https://github.com/caseyclements)
+
+
+[+ 9 contributors](https://github.com/mongodb-developer/GenAI-Showcase/graphs/contributors)
+## Languages
+  * [ Jupyter Notebook 94.9% ](https://github.com/mongodb-developer/GenAI-Showcase/search?l=jupyter-notebook)
+  * [ TypeScript 4.5% ](https://github.com/mongodb-developer/GenAI-Showcase/search?l=typescript)
+  * [ Python 0.4% ](https://github.com/mongodb-developer/GenAI-Showcase/search?l=python)
+  * [ JavaScript 0.1% ](https://github.com/mongodb-developer/GenAI-Showcase/search?l=javascript)
+  * [ CSS 0.1% ](https://github.com/mongodb-developer/GenAI-Showcase/search?l=css)
+  * [ HTML 0.0% ](https://github.com/mongodb-developer/GenAI-Showcase/search?l=html)
+
+
+## Footer
+[ ](https://github.com "GitHub") © 2025 GitHub, Inc. 
+### Footer navigation
+  * [Terms](https://docs.github.com/site-policy/github-terms/github-terms-of-service)
+  * [Privacy](https://docs.github.com/site-policy/privacy-policies/github-privacy-statement)
+  * [Security](https://github.com/security)
+  * [Status](https://www.githubstatus.com/)
+  * [Docs](https://docs.github.com/)
+  * [Contact](https://support.github.com?tags=dotcom-footer)
+  * Manage cookies 
+  * Do not share my personal information 
+
+
+You can’t perform that action at this time. 

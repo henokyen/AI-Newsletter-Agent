@@ -1,0 +1,138 @@
+[ ![Logo](https://pypdf2.readthedocs.io/en/3.x/_static/logo.png) ](https://pypdf2.readthedocs.io/en/3.x/)
+3.x 
+User Guide
+  * [Installation](https://pypdf2.readthedocs.io/en/3.x/user/installation.html)
+  * [Migration Guide: 1.x to 2.x](https://pypdf2.readthedocs.io/en/3.x/user/migration-1-to-2.html)
+  * [Imports and Modules](https://pypdf2.readthedocs.io/en/3.x/user/migration-1-to-2.html#imports-and-modules)
+  * [Naming Adjustments](https://pypdf2.readthedocs.io/en/3.x/user/migration-1-to-2.html#naming-adjustments)
+  * [Robustness and strict=False](https://pypdf2.readthedocs.io/en/3.x/user/robustness.html)
+  * [Exceptions, Warnings, and Log messages](https://pypdf2.readthedocs.io/en/3.x/user/suppress-warnings.html)
+  * [Metadata](https://pypdf2.readthedocs.io/en/3.x/user/metadata.html)
+  * [Extract Text from a PDF](https://pypdf2.readthedocs.io/en/3.x/user/extract-text.html)
+  * [Extract Images](https://pypdf2.readthedocs.io/en/3.x/user/extract-images.html)
+  * [Encryption and Decryption of PDFs](https://pypdf2.readthedocs.io/en/3.x/user/encryption-decryption.html)
+  * [Merging PDF files](https://pypdf2.readthedocs.io/en/3.x/user/merging-pdfs.html)
+  * [Cropping and Transforming PDFs](https://pypdf2.readthedocs.io/en/3.x/user/cropping-and-transforming.html)
+  * [Adding a Stamp/Watermark to a PDF](https://pypdf2.readthedocs.io/en/3.x/user/add-watermark.html)
+  * [Reading PDF Annotations](https://pypdf2.readthedocs.io/en/3.x/user/reading-pdf-annotations.html)
+  * [Adding PDF Annotations](https://pypdf2.readthedocs.io/en/3.x/user/adding-pdf-annotations.html)
+  * [Interactions with PDF Forms](https://pypdf2.readthedocs.io/en/3.x/user/forms.html)
+  * [Streaming Data with PyPDF2](https://pypdf2.readthedocs.io/en/3.x/user/streaming-data.html)
+  * [Reduce PDF Size](https://pypdf2.readthedocs.io/en/3.x/user/file-size.html)
+  * [PDF Version Support](https://pypdf2.readthedocs.io/en/3.x/user/pdf-version-support.html)
+
+
+API Reference
+  * [The PdfReader Class](https://pypdf2.readthedocs.io/en/3.x/modules/PdfReader.html)
+  * [The PdfWriter Class](https://pypdf2.readthedocs.io/en/3.x/modules/PdfWriter.html)
+  * [The PdfMerger Class](https://pypdf2.readthedocs.io/en/3.x/modules/PdfMerger.html)
+  * [The PageObject Class](https://pypdf2.readthedocs.io/en/3.x/modules/PageObject.html)
+  * [The Transformation Class](https://pypdf2.readthedocs.io/en/3.x/modules/Transformation.html)
+  * [The DocumentInformation Class](https://pypdf2.readthedocs.io/en/3.x/modules/DocumentInformation.html)
+  * [The XmpInformation Class](https://pypdf2.readthedocs.io/en/3.x/modules/XmpInformation.html)
+  * [The Destination Class](https://pypdf2.readthedocs.io/en/3.x/modules/Destination.html)
+  * [The RectangleObject Class](https://pypdf2.readthedocs.io/en/3.x/modules/RectangleObject.html)
+  * [The Field Class](https://pypdf2.readthedocs.io/en/3.x/modules/Field.html)
+  * [The PageRange Class](https://pypdf2.readthedocs.io/en/3.x/modules/PageRange.html)
+  * [The AnnotationBuilder Class](https://pypdf2.readthedocs.io/en/3.x/modules/AnnotationBuilder.html)
+  * [The Fit Class](https://pypdf2.readthedocs.io/en/3.x/modules/Fit.html)
+  * [The PaperSize Class](https://pypdf2.readthedocs.io/en/3.x/modules/PaperSize.html)
+
+
+Developer Guide
+  * [Developer Intro](https://pypdf2.readthedocs.io/en/3.x/dev/intro.html)
+  * [The PDF Format](https://pypdf2.readthedocs.io/en/3.x/dev/pdf-format.html)
+  * [CMaps](https://pypdf2.readthedocs.io/en/3.x/dev/cmaps.html)
+  * [The Deprecation Process](https://pypdf2.readthedocs.io/en/3.x/dev/deprecations.html)
+  * [Testing](https://pypdf2.readthedocs.io/en/3.x/dev/testing.html)
+
+
+About PyPDF2
+  * [CHANGELOG](https://pypdf2.readthedocs.io/en/3.x/meta/CHANGELOG.html)
+  * [Changelog of PyPDF2 1.X](https://pypdf2.readthedocs.io/en/3.x/meta/changelog-v1.html)
+  * [Project Governance](https://pypdf2.readthedocs.io/en/3.x/meta/project-governance.html)
+  * [History of PyPDF2](https://pypdf2.readthedocs.io/en/3.x/meta/history.html)
+  * [Contributors](https://pypdf2.readthedocs.io/en/3.x/meta/CONTRIBUTORS.html)
+  * [PyPDF2 vs X](https://pypdf2.readthedocs.io/en/3.x/meta/comparisons.html)
+  * [Frequently-Asked Questions](https://pypdf2.readthedocs.io/en/3.x/meta/faq.html)
+
+
+[PyPDF2](https://pypdf2.readthedocs.io/en/3.x/)
+  * [](https://pypdf2.readthedocs.io/en/3.x/)
+  * Welcome to PyPDF2
+  * [ Edit on GitHub](https://github.com/py-pdf/PyPDF2/blob/3.x/docs/index.rst)
+
+
+Note
+This page is about PyPDF2. [PyPDF2 is deprecated, please use pypdf](https://pypdf.readthedocs.io/en/latest/user/migration-1-to-2.html)
+# Welcome to PyPDF2[](https://pypdf2.readthedocs.io/en/3.x/#welcome-to-pypdf2 "Permalink to this heading")
+PyPDF2 is a [free](https://en.wikipedia.org/wiki/Free_software) and open source pure-python PDF library capable of splitting, merging, cropping, and transforming the pages of PDF files. It can also add custom data, viewing options, and passwords to PDF files. PyPDF2 can retrieve text and metadata from PDFs as well.
+You can contribute to [PyPDF2 on GitHub](https://github.com/py-pdf/PyPDF2).
+User Guide
+  * [Installation](https://pypdf2.readthedocs.io/en/3.x/user/installation.html)
+  * [Migration Guide: 1.x to 2.x](https://pypdf2.readthedocs.io/en/3.x/user/migration-1-to-2.html)
+  * [Imports and Modules](https://pypdf2.readthedocs.io/en/3.x/user/migration-1-to-2.html#imports-and-modules)
+  * [Naming Adjustments](https://pypdf2.readthedocs.io/en/3.x/user/migration-1-to-2.html#naming-adjustments)
+  * [Robustness and strict=False](https://pypdf2.readthedocs.io/en/3.x/user/robustness.html)
+  * [Exceptions, Warnings, and Log messages](https://pypdf2.readthedocs.io/en/3.x/user/suppress-warnings.html)
+  * [Metadata](https://pypdf2.readthedocs.io/en/3.x/user/metadata.html)
+  * [Extract Text from a PDF](https://pypdf2.readthedocs.io/en/3.x/user/extract-text.html)
+  * [Extract Images](https://pypdf2.readthedocs.io/en/3.x/user/extract-images.html)
+  * [Encryption and Decryption of PDFs](https://pypdf2.readthedocs.io/en/3.x/user/encryption-decryption.html)
+  * [Merging PDF files](https://pypdf2.readthedocs.io/en/3.x/user/merging-pdfs.html)
+  * [Cropping and Transforming PDFs](https://pypdf2.readthedocs.io/en/3.x/user/cropping-and-transforming.html)
+  * [Adding a Stamp/Watermark to a PDF](https://pypdf2.readthedocs.io/en/3.x/user/add-watermark.html)
+  * [Reading PDF Annotations](https://pypdf2.readthedocs.io/en/3.x/user/reading-pdf-annotations.html)
+  * [Adding PDF Annotations](https://pypdf2.readthedocs.io/en/3.x/user/adding-pdf-annotations.html)
+  * [Interactions with PDF Forms](https://pypdf2.readthedocs.io/en/3.x/user/forms.html)
+  * [Streaming Data with PyPDF2](https://pypdf2.readthedocs.io/en/3.x/user/streaming-data.html)
+  * [Reduce PDF Size](https://pypdf2.readthedocs.io/en/3.x/user/file-size.html)
+  * [PDF Version Support](https://pypdf2.readthedocs.io/en/3.x/user/pdf-version-support.html)
+
+
+API Reference
+  * [The PdfReader Class](https://pypdf2.readthedocs.io/en/3.x/modules/PdfReader.html)
+  * [The PdfWriter Class](https://pypdf2.readthedocs.io/en/3.x/modules/PdfWriter.html)
+  * [The PdfMerger Class](https://pypdf2.readthedocs.io/en/3.x/modules/PdfMerger.html)
+  * [The PageObject Class](https://pypdf2.readthedocs.io/en/3.x/modules/PageObject.html)
+  * [The Transformation Class](https://pypdf2.readthedocs.io/en/3.x/modules/Transformation.html)
+  * [The DocumentInformation Class](https://pypdf2.readthedocs.io/en/3.x/modules/DocumentInformation.html)
+  * [The XmpInformation Class](https://pypdf2.readthedocs.io/en/3.x/modules/XmpInformation.html)
+  * [The Destination Class](https://pypdf2.readthedocs.io/en/3.x/modules/Destination.html)
+  * [The RectangleObject Class](https://pypdf2.readthedocs.io/en/3.x/modules/RectangleObject.html)
+  * [The Field Class](https://pypdf2.readthedocs.io/en/3.x/modules/Field.html)
+  * [The PageRange Class](https://pypdf2.readthedocs.io/en/3.x/modules/PageRange.html)
+  * [The AnnotationBuilder Class](https://pypdf2.readthedocs.io/en/3.x/modules/AnnotationBuilder.html)
+  * [The Fit Class](https://pypdf2.readthedocs.io/en/3.x/modules/Fit.html)
+  * [The PaperSize Class](https://pypdf2.readthedocs.io/en/3.x/modules/PaperSize.html)
+
+
+Developer Guide
+  * [Developer Intro](https://pypdf2.readthedocs.io/en/3.x/dev/intro.html)
+  * [The PDF Format](https://pypdf2.readthedocs.io/en/3.x/dev/pdf-format.html)
+  * [CMaps](https://pypdf2.readthedocs.io/en/3.x/dev/cmaps.html)
+  * [The Deprecation Process](https://pypdf2.readthedocs.io/en/3.x/dev/deprecations.html)
+  * [Testing](https://pypdf2.readthedocs.io/en/3.x/dev/testing.html)
+
+
+About PyPDF2
+  * [CHANGELOG](https://pypdf2.readthedocs.io/en/3.x/meta/CHANGELOG.html)
+  * [Changelog of PyPDF2 1.X](https://pypdf2.readthedocs.io/en/3.x/meta/changelog-v1.html)
+  * [Project Governance](https://pypdf2.readthedocs.io/en/3.x/meta/project-governance.html)
+  * [History of PyPDF2](https://pypdf2.readthedocs.io/en/3.x/meta/history.html)
+  * [Contributors](https://pypdf2.readthedocs.io/en/3.x/meta/CONTRIBUTORS.html)
+  * [PyPDF2 vs X](https://pypdf2.readthedocs.io/en/3.x/meta/comparisons.html)
+  * [Frequently-Asked Questions](https://pypdf2.readthedocs.io/en/3.x/meta/faq.html)
+
+
+# Indices and tables[](https://pypdf2.readthedocs.io/en/3.x/#indices-and-tables "Permalink to this heading")
+  * [Index](https://pypdf2.readthedocs.io/en/3.x/genindex.html)
+  * [Module Index](https://pypdf2.readthedocs.io/en/3.x/py-modindex.html)
+  * [Search Page](https://pypdf2.readthedocs.io/en/3.x/search.html)
+
+
+Note
+This page is about PyPDF2. [PyPDF2 is deprecated, please use pypdf](https://pypdf.readthedocs.io/en/latest/user/migration-1-to-2.html)
+[Next ](https://pypdf2.readthedocs.io/en/3.x/user/installation.html "Installation")
+© Copyright 2006 - 2008, Mathieu Fenniak. Revision `1c4173a1`. 
+Built with [Sphinx](https://www.sphinx-doc.org/) using a [theme](https://github.com/readthedocs/sphinx_rtd_theme) provided by [Read the Docs](https://readthedocs.org). 

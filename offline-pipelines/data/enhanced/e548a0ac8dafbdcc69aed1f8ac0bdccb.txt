@@ -1,0 +1,339 @@
+Agree & Join LinkedIn 
+By clicking Continue to join or sign in, you agree to LinkedIn’s [User Agreement](https://www.linkedin.com/legal/user-agreement?trk=linkedin-tc_auth-button_user-agreement), [Privacy Policy](https://www.linkedin.com/legal/privacy-policy?trk=linkedin-tc_auth-button_privacy-policy), and [Cookie Policy](https://www.linkedin.com/legal/cookie-policy?trk=linkedin-tc_auth-button_cookie-policy). 
+[ Skip to main content ](https://www.linkedin.com/posts/banias_dont-waste-time-on-your-github-actions-workflows-activity-7283422188534198272-hBPO?utm_source=share&utm_medium=member_desktop/#main-content) [ LinkedIn ](https://www.linkedin.com/?trk=public_post_nav-header-logo)
+  * [ Articles  ](https://www.linkedin.com/pulse/topics/home/?trk=public_post_guest_nav_menu_articles)
+  * [ People  ](https://www.linkedin.com/pub/dir/+/+?trk=public_post_guest_nav_menu_people)
+  * [ Learning  ](https://www.linkedin.com/learning/search?trk=public_post_guest_nav_menu_learning)
+  * [ Jobs  ](https://www.linkedin.com/jobs/search?trk=public_post_guest_nav_menu_jobs)
+  * [ Games  ](https://www.linkedin.com/games?trk=public_post_guest_nav_menu_games)
+
+
+[ Join now ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fbanias_dont-waste-time-on-your-github-actions-workflows-activity-7283422188534198272-hBPO&trk=public_post_nav-header-join) [ Sign in ](https://www.linkedin.com/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fbanias_dont-waste-time-on-your-github-actions-workflows-activity-7283422188534198272-hBPO&fromSignIn=true&trk=public_post_nav-header-signin)
+#  Banias Baabe’s Post
+[ ](https://de.linkedin.com/in/banias?trk=public_post_feed-actor-image)
+[ Banias Baabe ](https://de.linkedin.com/in/banias?trk=public_post_feed-actor-name)
+Learn Data Science with me | Data Scientist @ MHP - A Porsche Company 
+2mo 
+  * [ Report this post ](https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fbanias_dont-waste-time-on-your-github-actions-workflows-activity-7283422188534198272-hBPO&trk=public_post_ellipsis-menu-semaphore-sign-in-redirect&guestReportContentType=POST&_f=guest-reporting)
+
+
+Don’t waste time on your GitHub Actions workflows. Whenever a new run is triggered, your dependencies are probably installed again and again and again… Even if you didn’t change anything in your dependency file. With the small snippet below, the action caches your dependencies so you can skip the install step the next time your workflow runs. Pretty useful for larger dependencies.
+[ 308  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fbanias_dont-waste-time-on-your-github-actions-workflows-activity-7283422188534198272-hBPO&trk=public_post_social-actions-reactions) [ 22 Comments ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fbanias_dont-waste-time-on-your-github-actions-workflows-activity-7283422188534198272-hBPO&trk=public_post_social-actions-comments)
+[ Like  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fbanias_dont-waste-time-on-your-github-actions-workflows-activity-7283422188534198272-hBPO&trk=public_post_like-cta) [ Comment  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fbanias_dont-waste-time-on-your-github-actions-workflows-activity-7283422188534198272-hBPO&trk=public_post_comment-cta)
+Share 
+  * Copy
+  * LinkedIn
+  * Facebook
+  * Twitter
+
+
+[ ](https://ch.linkedin.com/in/maxime-bonnesoeur?trk=public_post_comment_actor-image)
+[ Maxime Bonnesoeur ](https://ch.linkedin.com/in/maxime-bonnesoeur?trk=public_post_comment_actor-name)
+Data Scientist & Engineer | Machine Learning & LLM Enthusiast | Passionate about Learning and Exploring | Soon to be trail running athlete
+2mo 
+  * [ Report this comment ](https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fbanias_dont-waste-time-on-your-github-actions-workflows-activity-7283422188534198272-hBPO&trk=public_post_comment_ellipsis-menu-semaphore-sign-in-redirect&guestReportContentType=COMMENT&_f=guest-reporting)
+
+
+And for the uv fanbase, we even have it built in in their dedicated github actions (doc there: [https://docs.astral.sh/uv/guides/integration/github/#syncing-and-running](https://docs.astral.sh/uv/guides/integration/github/#syncing-and-running?trk=public_post_comment-text))
+No more previous content 
+No more next content 
+[ Like  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fbanias_dont-waste-time-on-your-github-actions-workflows-activity-7283422188534198272-hBPO&trk=public_post_comment_like) [ Reply  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fbanias_dont-waste-time-on-your-github-actions-workflows-activity-7283422188534198272-hBPO&trk=public_post_comment_reply) [ 20 Reactions ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fbanias_dont-waste-time-on-your-github-actions-workflows-activity-7283422188534198272-hBPO&trk=public_post_comment_reactions) 21 Reactions 
+[ ](https://cm.linkedin.com/in/nembotjules?trk=public_post_comment_actor-image)
+[ SAAH NEMBOT JULES CLINTON ](https://cm.linkedin.com/in/nembotjules?trk=public_post_comment_actor-name)
+Machine Learning Engineer | 2X Kaggle Expert
+2mo 
+  * [ Report this comment ](https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fbanias_dont-waste-time-on-your-github-actions-workflows-activity-7283422188534198272-hBPO&trk=public_post_comment_ellipsis-menu-semaphore-sign-in-redirect&guestReportContentType=COMMENT&_f=guest-reporting)
+
+
+Thanks really great
+[ Like  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fbanias_dont-waste-time-on-your-github-actions-workflows-activity-7283422188534198272-hBPO&trk=public_post_comment_like) [ Reply  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fbanias_dont-waste-time-on-your-github-actions-workflows-activity-7283422188534198272-hBPO&trk=public_post_comment_reply) [ 1 Reaction ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fbanias_dont-waste-time-on-your-github-actions-workflows-activity-7283422188534198272-hBPO&trk=public_post_comment_reactions) 2 Reactions 
+[ ](https://ro.linkedin.com/in/pauliusztin?trk=public_post_comment_actor-image)
+[ Paul Iusztin ](https://ro.linkedin.com/in/pauliusztin?trk=public_post_comment_actor-name)
+Senior ML/AI Engineer • Founder @ Decoding ML ~ Posts and articles about building production-grade ML/AI systems.
+2mo 
+  * [ Report this comment ](https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fbanias_dont-waste-time-on-your-github-actions-workflows-activity-7283422188534198272-hBPO&trk=public_post_comment_ellipsis-menu-semaphore-sign-in-redirect&guestReportContentType=COMMENT&_f=guest-reporting)
+
+
+Super insightful post [Banias](https://de.linkedin.com/in/banias?trk=public_post_comment-text)
+[ Like  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fbanias_dont-waste-time-on-your-github-actions-workflows-activity-7283422188534198272-hBPO&trk=public_post_comment_like) [ Reply  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fbanias_dont-waste-time-on-your-github-actions-workflows-activity-7283422188534198272-hBPO&trk=public_post_comment_reply) [ 1 Reaction ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fbanias_dont-waste-time-on-your-github-actions-workflows-activity-7283422188534198272-hBPO&trk=public_post_comment_reactions) 2 Reactions 
+[ ](https://in.linkedin.com/in/danishalda?trk=public_post_comment_actor-image)
+[ Danish Alam ](https://in.linkedin.com/in/danishalda?trk=public_post_comment_actor-name)
+Data Analytics
+2mo 
+  * [ Report this comment ](https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fbanias_dont-waste-time-on-your-github-actions-workflows-activity-7283422188534198272-hBPO&trk=public_post_comment_ellipsis-menu-semaphore-sign-in-redirect&guestReportContentType=COMMENT&_f=guest-reporting)
+
+
+Useful tip... Thanks
+[ Like  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fbanias_dont-waste-time-on-your-github-actions-workflows-activity-7283422188534198272-hBPO&trk=public_post_comment_like) [ Reply  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fbanias_dont-waste-time-on-your-github-actions-workflows-activity-7283422188534198272-hBPO&trk=public_post_comment_reply) 1 Reaction 
+[ ](https://www.linkedin.com/in/dan-romano-0771257?trk=public_post_comment_actor-image)
+[ Dan Romano ](https://www.linkedin.com/in/dan-romano-0771257?trk=public_post_comment_actor-name)
+Data and Technology Leader | Azure + Power Platform
+2mo 
+  * [ Report this comment ](https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fbanias_dont-waste-time-on-your-github-actions-workflows-activity-7283422188534198272-hBPO&trk=public_post_comment_ellipsis-menu-semaphore-sign-in-redirect&guestReportContentType=COMMENT&_f=guest-reporting)
+
+
+For large dependencies, sure. Conditional dependency update is advisable. Generally speaking, you don’t want to miss important security updates and a periodic refresh prevents that as well as drift.
+[ Like  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fbanias_dont-waste-time-on-your-github-actions-workflows-activity-7283422188534198272-hBPO&trk=public_post_comment_like) [ Reply  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fbanias_dont-waste-time-on-your-github-actions-workflows-activity-7283422188534198272-hBPO&trk=public_post_comment_reply) 1 Reaction 
+[ ](https://fr.linkedin.com/in/amira-rayane-benamer-626a8b114?trk=public_post_comment_actor-image)
+[ AMIRA RAYANE BENAMER ](https://fr.linkedin.com/in/amira-rayane-benamer-626a8b114?trk=public_post_comment_actor-name) 2mo 
+  * [ Report this comment ](https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fbanias_dont-waste-time-on-your-github-actions-workflows-activity-7283422188534198272-hBPO&trk=public_post_comment_ellipsis-menu-semaphore-sign-in-redirect&guestReportContentType=COMMENT&_f=guest-reporting)
+
+
+Insightful, thanks for sharing!
+[ Like  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fbanias_dont-waste-time-on-your-github-actions-workflows-activity-7283422188534198272-hBPO&trk=public_post_comment_like) [ Reply  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fbanias_dont-waste-time-on-your-github-actions-workflows-activity-7283422188534198272-hBPO&trk=public_post_comment_reply) 1 Reaction 
+[ ](https://vn.linkedin.com/in/truonggiangle?trk=public_post_comment_actor-image)
+[ Lê Trường Giang ](https://vn.linkedin.com/in/truonggiangle?trk=public_post_comment_actor-name)
+Software engineer (plus a few more) by day, FOSS contributor by night
+2mo 
+  * [ Report this comment ](https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fbanias_dont-waste-time-on-your-github-actions-workflows-activity-7283422188534198272-hBPO&trk=public_post_comment_ellipsis-menu-semaphore-sign-in-redirect&guestReportContentType=COMMENT&_f=guest-reporting)
+
+
+I remember when I was doing a CI project where effectively I have to compile a compiler before compiling the actual code for Wine Caching that intermediate compiler’s compilation results knocked 1.5 hours off the action runtime
+[ Like  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fbanias_dont-waste-time-on-your-github-actions-workflows-activity-7283422188534198272-hBPO&trk=public_post_comment_like) [ Reply  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fbanias_dont-waste-time-on-your-github-actions-workflows-activity-7283422188534198272-hBPO&trk=public_post_comment_reply) 1 Reaction 
+[ ](https://www.linkedin.com/in/ericgroo?trk=public_post_comment_actor-image)
+[ Eric Groo ](https://www.linkedin.com/in/ericgroo?trk=public_post_comment_actor-name)
+Operations Research Leader @ CACI International Inc | Forecasting, Optimization
+2mo 
+  * [ Report this comment ](https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fbanias_dont-waste-time-on-your-github-actions-workflows-activity-7283422188534198272-hBPO&trk=public_post_comment_ellipsis-menu-semaphore-sign-in-redirect&guestReportContentType=COMMENT&_f=guest-reporting)
+
+
+Great advice, was trying to figure this out today!
+[ Like  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fbanias_dont-waste-time-on-your-github-actions-workflows-activity-7283422188534198272-hBPO&trk=public_post_comment_like) [ Reply  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fbanias_dont-waste-time-on-your-github-actions-workflows-activity-7283422188534198272-hBPO&trk=public_post_comment_reply) 1 Reaction 
+[ ](https://in.linkedin.com/in/abby33459?trk=public_post_comment_actor-image)
+[ Abhishek B. ](https://in.linkedin.com/in/abby33459?trk=public_post_comment_actor-name)
+Sustainable AI Innovator | Research, Strategy, Planning and Execution | Ex-CTO
+2mo 
+  * [ Report this comment ](https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fbanias_dont-waste-time-on-your-github-actions-workflows-activity-7283422188534198272-hBPO&trk=public_post_comment_ellipsis-menu-semaphore-sign-in-redirect&guestReportContentType=COMMENT&_f=guest-reporting)
+
+
+[Banias Baabe](https://de.linkedin.com/in/banias?trk=public_post_comment-text) you can skip continuous integration. Only do continuous delivery and deployment as well. Everything depends on the use case and dealing the business logic regardless whether it's predictive or deterministic.
+[ Like  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fbanias_dont-waste-time-on-your-github-actions-workflows-activity-7283422188534198272-hBPO&trk=public_post_comment_like) [ Reply  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fbanias_dont-waste-time-on-your-github-actions-workflows-activity-7283422188534198272-hBPO&trk=public_post_comment_reply) 1 Reaction 
+[ See more comments ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fbanias_dont-waste-time-on-your-github-actions-workflows-activity-7283422188534198272-hBPO&trk=public_post_see-more-comments)
+To view or add a comment, [sign in](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fbanias_dont-waste-time-on-your-github-actions-workflows-activity-7283422188534198272-hBPO&trk=public_post_feed-cta-banner-cta)
+##  More Relevant Posts 
+  * [](https://www.linkedin.com/posts/jamilah-foucher_github-actions-automatically-update-keys-activity-7212500082808553472-6cCr)
+[ ](https://fr.linkedin.com/in/jamilah-foucher?trk=public_post_feed-actor-image)
+[ Jamilah Foucher ](https://fr.linkedin.com/in/jamilah-foucher?trk=public_post_feed-actor-name)
+Data Scientist 
+9mo 
+    * [ Report this post ](https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fjamilah-foucher_github-actions-automatically-update-keys-activity-7212500082808553472-6cCr&trk=public_post_ellipsis-menu-semaphore-sign-in-redirect&guestReportContentType=POST&_f=guest-reporting)
+Automatically update GitHub Secrets with an automated GitHub Actions workflow 🔑
+## [ GitHub Actions: automatically update keys  link.medium.com  ](https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Flink%2Emedium%2Ecom%2FYpdxTckLNKb&urlhash=7loi&trk=public_post_feed-article-content)
+[ Like  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fjamilah-foucher_github-actions-automatically-update-keys-activity-7212500082808553472-6cCr&trk=public_post_like-cta) [ Comment  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fjamilah-foucher_github-actions-automatically-update-keys-activity-7212500082808553472-6cCr&trk=public_post_comment-cta)
+Share 
+    * Copy
+    * LinkedIn
+    * Facebook
+    * Twitter
+To view or add a comment, [sign in](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fjamilah-foucher_github-actions-automatically-update-keys-activity-7212500082808553472-6cCr&trk=public_post_feed-cta-banner-cta)
+  * [](https://www.linkedin.com/posts/quickstart-for-actions-runner-controller-activity-7244520485672157184-AuMa)
+  * [](https://www.linkedin.com/posts/mukul-jha-626b301a6_today-i-learnt-to-create-github-workflow-activity-7288852526446088192-rhaC)
+[ ](https://in.linkedin.com/in/mukul-jha-626b301a6?trk=public_post_feed-actor-image)
+[ Mukul jha ](https://in.linkedin.com/in/mukul-jha-626b301a6?trk=public_post_feed-actor-name)
+SDET|| Automation Tester|| Playwright ||Typescript|| Javascript || Java ||Selenium || Agile Methodology || Azure DevOps || VS CODE || Sql Server || Mark Logic || Intellij ||Jenkins||GEN AI|| Cucumber ||Github Copilot 
+2mo 
+    * [ Report this post ](https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fmukul-jha-626b301a6_today-i-learnt-to-create-github-workflow-activity-7288852526446088192-rhaC&trk=public_post_ellipsis-menu-semaphore-sign-in-redirect&guestReportContentType=POST&_f=guest-reporting)
+Today I learnt to create GitHub Workflow and used GitHub Actions to Create a Workflow that prints I created .github/workflows/[main.yml](http://main.yml?trk=public_post-text) to create automated workflow based on commit it will trigger the workflow and run the job on Agents provided by GitHub like (ubuntu latest) .YML file follows a strict indentation and runs JOBS on Event (like push or pull).Please refer the below YML file. name: hello-world 'on': push jobs: my-job: runs-on: ubuntu-latest steps: - name: my-step run: echo "Hello ABC"
+[ 4  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fmukul-jha-626b301a6_today-i-learnt-to-create-github-workflow-activity-7288852526446088192-rhaC&trk=public_post_social-actions-reactions)
+[ Like  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fmukul-jha-626b301a6_today-i-learnt-to-create-github-workflow-activity-7288852526446088192-rhaC&trk=public_post_like-cta) [ Comment  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fmukul-jha-626b301a6_today-i-learnt-to-create-github-workflow-activity-7288852526446088192-rhaC&trk=public_post_comment-cta)
+Share 
+    * Copy
+    * LinkedIn
+    * Facebook
+    * Twitter
+To view or add a comment, [sign in](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fmukul-jha-626b301a6_today-i-learnt-to-create-github-workflow-activity-7288852526446088192-rhaC&trk=public_post_feed-cta-banner-cta)
+  * [](https://www.linkedin.com/posts/nadunweerakkody_how-to-switch-between-multiple-github-accounts-activity-7226827869040078849-0P3u)
+[ ](https://lk.linkedin.com/in/nadunweerakkody?trk=public_post_feed-actor-image)
+[ Nadun Weerakkody ](https://lk.linkedin.com/in/nadunweerakkody?trk=public_post_feed-actor-name)
+SE Intern | Synapse AI Labs | AIESECer 
+7mo 
+    * [ Report this post ](https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fnadunweerakkody_how-to-switch-between-multiple-github-accounts-activity-7226827869040078849-0P3u&trk=public_post_ellipsis-menu-semaphore-sign-in-redirect&guestReportContentType=POST&_f=guest-reporting)
+Hey folks! 👋 Switching between multiple GitHub accounts with SSH keys used to be a pain, but I found a super easy way using GitHub CLI. Wrote a quick guide to help you switch between your personal and work accounts without the hassle of SSH keys. Check it out and let me know what you think! 
+## [ How to Switch Between Multiple GitHub Accounts with GitHub CLI  nadunwee.medium.com  ](https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Fnadunwee%2Emedium%2Ecom%2Fhow-to-switch-between-multiple-github-accounts-with-github-cli-cbbad399c2ff&urlhash=3tpm&trk=public_post_feed-article-content)
+[ 7  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fnadunweerakkody_how-to-switch-between-multiple-github-accounts-activity-7226827869040078849-0P3u&trk=public_post_social-actions-reactions)
+[ Like  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fnadunweerakkody_how-to-switch-between-multiple-github-accounts-activity-7226827869040078849-0P3u&trk=public_post_like-cta) [ Comment  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fnadunweerakkody_how-to-switch-between-multiple-github-accounts-activity-7226827869040078849-0P3u&trk=public_post_comment-cta)
+Share 
+    * Copy
+    * LinkedIn
+    * Facebook
+    * Twitter
+To view or add a comment, [sign in](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fnadunweerakkody_how-to-switch-between-multiple-github-accounts-activity-7226827869040078849-0P3u&trk=public_post_feed-cta-banner-cta)
+  * [](https://www.linkedin.com/posts/dannysteenman_is-your-github-actions-dashboard-a-graveyard-activity-7230482315968233472-pDA8)
+[ ](https://nl.linkedin.com/in/dannysteenman?trk=public_post_feed-actor-image)
+[ Danny Steenman ](https://nl.linkedin.com/in/dannysteenman?trk=public_post_feed-actor-name)
+Helping businesses launch faster on AWS and become fully compliant from day one. 
+7mo 
+    * [ Report this post ](https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fdannysteenman_is-your-github-actions-dashboard-a-graveyard-activity-7230482315968233472-pDA8&trk=public_post_ellipsis-menu-semaphore-sign-in-redirect&guestReportContentType=POST&_f=guest-reporting)
+Is your GitHub Actions dashboard a graveyard of failed runs? Here's a handy utility. I recently came across a useful GitHub CLI command that helps manage workflow run history. It's particularly effective for cleaning up failed and canceled runs. Just replace <your_repo_name> with your repository name, save as a bash script, and run. It'll fetch and delete failed and canceled workflow runs, helping keep your GitHub Actions environment tidy. Checkout the script below (click the alt of this image for the code):
+[ 53  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fdannysteenman_is-your-github-actions-dashboard-a-graveyard-activity-7230482315968233472-pDA8&trk=public_post_social-actions-reactions) [ 4 Comments ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fdannysteenman_is-your-github-actions-dashboard-a-graveyard-activity-7230482315968233472-pDA8&trk=public_post_social-actions-comments)
+[ Like  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fdannysteenman_is-your-github-actions-dashboard-a-graveyard-activity-7230482315968233472-pDA8&trk=public_post_like-cta) [ Comment  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fdannysteenman_is-your-github-actions-dashboard-a-graveyard-activity-7230482315968233472-pDA8&trk=public_post_comment-cta)
+Share 
+    * Copy
+    * LinkedIn
+    * Facebook
+    * Twitter
+To view or add a comment, [sign in](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fdannysteenman_is-your-github-actions-dashboard-a-graveyard-activity-7230482315968233472-pDA8&trk=public_post_feed-cta-banner-cta)
+  * [](https://www.linkedin.com/posts/knixk_if-you-write-code-and-use-github-a-lot-you-activity-7235684766220464128-VlLi)
+[ ](https://in.linkedin.com/in/knixk?trk=public_post_feed-actor-image)
+[ Kanishk Shrivastava ](https://in.linkedin.com/in/knixk?trk=public_post_feed-actor-name)
+Tech Grad | AWS Infrastructure camper 
+7mo 
+    * [ Report this post ](https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fknixk_if-you-write-code-and-use-github-a-lot-you-activity-7235684766220464128-VlLi&trk=public_post_ellipsis-menu-semaphore-sign-in-redirect&guestReportContentType=POST&_f=guest-reporting)
+If you write code and use Github a lot, you should definitely start using Github desktop. It's a very easy tool to create, add local repositories, add commits, push, pull, merge branches & everything else you usually do with the cli. Integrates well with your choice of ide, so you always continue where you last left off. With a nice GUI! (A senior told me this hack back in 2023)
+[ 13  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fknixk_if-you-write-code-and-use-github-a-lot-you-activity-7235684766220464128-VlLi&trk=public_post_social-actions-reactions)
+[ Like  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fknixk_if-you-write-code-and-use-github-a-lot-you-activity-7235684766220464128-VlLi&trk=public_post_like-cta) [ Comment  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fknixk_if-you-write-code-and-use-github-a-lot-you-activity-7235684766220464128-VlLi&trk=public_post_comment-cta)
+Share 
+    * Copy
+    * LinkedIn
+    * Facebook
+    * Twitter
+To view or add a comment, [sign in](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fknixk_if-you-write-code-and-use-github-a-lot-you-activity-7235684766220464128-VlLi&trk=public_post_feed-cta-banner-cta)
+  * [](https://www.linkedin.com/posts/ashish-prajapati-002154193_have-your-ever-tried-to-deploy-something-activity-7280828241546743809-bGKd)
+[ ](https://in.linkedin.com/in/ashish-prajapati-002154193?trk=public_post_feed-actor-image)
+[ Ashish Prajapati ](https://in.linkedin.com/in/ashish-prajapati-002154193?trk=public_post_feed-actor-name)
+Immediate Joiner | ReactJS Developer | Frontend Developer | NextJS | Looking for opportunities 
+2mo  Edited 
+    * [ Report this post ](https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fashish-prajapati-002154193_have-your-ever-tried-to-deploy-something-activity-7280828241546743809-bGKd&trk=public_post_ellipsis-menu-semaphore-sign-in-redirect&guestReportContentType=POST&_f=guest-reporting)
+Have your ever tried to deploy something and ran into problems where Github actions complains about the errors and pipleline fails on production? Or changed the config files for Github actions and it fails on deployment. Watch this awesome guide on [freeCodeCamp](https://www.linkedin.com/school/free-code-camp/?trk=public_post-text) for How to run Github actions on your local and test your pipeline is good to go or not.
+[ ](https://www.linkedin.com/school/free-code-camp/?trk=public_post_reshare_feed-actor-image)
+[ freeCodeCamp ](https://www.linkedin.com/school/free-code-camp/?trk=public_post_reshare_feed-actor-name)
+1,928,316 followers 
+2mo 
+GitHub Actions let you automate tasks like building & deploying in GitHub repos. But testing Actions can be a long process – which is where the act CLI tool comes in. In this guide, Rajdeep shows you how to use it to run GitHub Actions locally. [https://lnkd.in/gzX9Vtrf](https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Flnkd%2Ein%2FgzX9Vtrf&urlhash=o8Iq&trk=public_post_reshare-text)
+[ 5  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fashish-prajapati-002154193_have-your-ever-tried-to-deploy-something-activity-7280828241546743809-bGKd&trk=public_post_social-actions-reactions) [ 1 Comment ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fashish-prajapati-002154193_have-your-ever-tried-to-deploy-something-activity-7280828241546743809-bGKd&trk=public_post_social-actions-comments)
+[ Like  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fashish-prajapati-002154193_have-your-ever-tried-to-deploy-something-activity-7280828241546743809-bGKd&trk=public_post_like-cta) [ Comment  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fashish-prajapati-002154193_have-your-ever-tried-to-deploy-something-activity-7280828241546743809-bGKd&trk=public_post_comment-cta)
+Share 
+    * Copy
+    * LinkedIn
+    * Facebook
+    * Twitter
+To view or add a comment, [sign in](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fashish-prajapati-002154193_have-your-ever-tried-to-deploy-something-activity-7280828241546743809-bGKd&trk=public_post_feed-cta-banner-cta)
+  * [](https://www.linkedin.com/posts/alekis_github-nektosact-run-your-github-actions-activity-7229588800534945792-CNJ7)
+[ ](https://www.linkedin.com/in/alekis?trk=public_post_feed-actor-image)
+[ Alexander Kislukhin, PhD ](https://www.linkedin.com/in/alekis?trk=public_post_feed-actor-name)
+Solving pain with data 🧬 I build life sci data supply chains 
+7mo 
+    * [ Report this post ](https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Falekis_github-nektosact-run-your-github-actions-activity-7229588800534945792-CNJ7&trk=public_post_ellipsis-menu-semaphore-sign-in-redirect&guestReportContentType=POST&_f=guest-reporting)
+"Run your [#GitHub](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fgithub&trk=public_post-text) Actions locally! Why would you want to do this? Two reasons: - Fast Feedback - Rather than having to commit/push every time you want to test out the changes you are making to your .github/workflows/ files (or for any changes to embedded GitHub actions), you can use act to run the actions locally. The environment variables and filesystem are all configured to match what GitHub provides. - Local Task Runner - I love make. However, I also hate repeating myself. With act, you can use the GitHub Actions defined in your .github/workflows/ to replace your Makefile!" [https://lnkd.in/gbtScyq9](https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Flnkd%2Ein%2FgbtScyq9&urlhash=5fiF&trk=public_post-text)
+## [ GitHub - nektos/act: Run your GitHub Actions locally 🚀  github.com  ](https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Fgithub%2Ecom%2Fnektos%2Fact&urlhash=FQgP&trk=public_post_feed-article-content)
+[ 2  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Falekis_github-nektosact-run-your-github-actions-activity-7229588800534945792-CNJ7&trk=public_post_social-actions-reactions)
+[ Like  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Falekis_github-nektosact-run-your-github-actions-activity-7229588800534945792-CNJ7&trk=public_post_like-cta) [ Comment  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Falekis_github-nektosact-run-your-github-actions-activity-7229588800534945792-CNJ7&trk=public_post_comment-cta)
+Share 
+    * Copy
+    * LinkedIn
+    * Facebook
+    * Twitter
+To view or add a comment, [sign in](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Falekis_github-nektosact-run-your-github-actions-activity-7229588800534945792-CNJ7&trk=public_post_feed-cta-banner-cta)
+  * [](https://www.linkedin.com/posts/free-code-camp_github-actions-let-you-automate-tasks-like-activity-7280810470180077568-rsQM)
+[ ](https://www.linkedin.com/school/free-code-camp/?trk=public_post_feed-actor-image)
+[ freeCodeCamp ](https://www.linkedin.com/school/free-code-camp/?trk=public_post_feed-actor-name)
+1,928,316 followers 
+2mo 
+    * [ Report this post ](https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Ffree-code-camp_github-actions-let-you-automate-tasks-like-activity-7280810470180077568-rsQM&trk=public_post_ellipsis-menu-semaphore-sign-in-redirect&guestReportContentType=POST&_f=guest-reporting)
+GitHub Actions let you automate tasks like building & deploying in GitHub repos. But testing Actions can be a long process – which is where the act CLI tool comes in. In this guide, Rajdeep shows you how to use it to run GitHub Actions locally. [https://lnkd.in/gzX9Vtrf](https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Flnkd%2Ein%2FgzX9Vtrf&urlhash=o8Iq&trk=public_post-text)
+[ 289  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Ffree-code-camp_github-actions-let-you-automate-tasks-like-activity-7280810470180077568-rsQM&trk=public_post_social-actions-reactions) [ 7 Comments ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Ffree-code-camp_github-actions-let-you-automate-tasks-like-activity-7280810470180077568-rsQM&trk=public_post_social-actions-comments)
+[ Like  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Ffree-code-camp_github-actions-let-you-automate-tasks-like-activity-7280810470180077568-rsQM&trk=public_post_like-cta) [ Comment  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Ffree-code-camp_github-actions-let-you-automate-tasks-like-activity-7280810470180077568-rsQM&trk=public_post_comment-cta)
+Share 
+    * Copy
+    * LinkedIn
+    * Facebook
+    * Twitter
+To view or add a comment, [sign in](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Ffree-code-camp_github-actions-let-you-automate-tasks-like-activity-7280810470180077568-rsQM&trk=public_post_feed-cta-banner-cta)
+  * [](https://www.linkedin.com/posts/free-code-camp_github-actions-let-you-automate-tasks-like-activity-7243650868883943425-37RQ)
+[ ](https://www.linkedin.com/school/free-code-camp/?trk=public_post_feed-actor-image)
+[ freeCodeCamp ](https://www.linkedin.com/school/free-code-camp/?trk=public_post_feed-actor-name)
+1,928,316 followers 
+6mo 
+    * [ Report this post ](https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Ffree-code-camp_github-actions-let-you-automate-tasks-like-activity-7243650868883943425-37RQ&trk=public_post_ellipsis-menu-semaphore-sign-in-redirect&guestReportContentType=POST&_f=guest-reporting)
+GitHub Actions let you automate tasks like building & deploying in GitHub repos. But testing Actions can be a long process – which is where the act CLI tool comes in. In this guide Rajdeep shows you how to use it to run GitHub Actions locally. [https://lnkd.in/gzX9Vtrf](https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Flnkd%2Ein%2FgzX9Vtrf&urlhash=o8Iq&trk=public_post-text)
+[ 389  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Ffree-code-camp_github-actions-let-you-automate-tasks-like-activity-7243650868883943425-37RQ&trk=public_post_social-actions-reactions) [ 6 Comments ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Ffree-code-camp_github-actions-let-you-automate-tasks-like-activity-7243650868883943425-37RQ&trk=public_post_social-actions-comments)
+[ Like  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Ffree-code-camp_github-actions-let-you-automate-tasks-like-activity-7243650868883943425-37RQ&trk=public_post_like-cta) [ Comment  ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Ffree-code-camp_github-actions-let-you-automate-tasks-like-activity-7243650868883943425-37RQ&trk=public_post_comment-cta)
+Share 
+    * Copy
+    * LinkedIn
+    * Facebook
+    * Twitter
+To view or add a comment, [sign in](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Ffree-code-camp_github-actions-let-you-automate-tasks-like-activity-7243650868883943425-37RQ&trk=public_post_feed-cta-banner-cta)
+
+
+![](https://media.licdn.com/dms/image/v2/D4D16AQGHDyo5gOo9HA/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1738430170018?e=2147483647&v=beta&t=aHaFuSgm3dZSsAFuGRG3bIWn_HRskOFF67lGIadIgcw)
+30,762 followers 
+  * [ 709 Posts ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fin%2Fbanias%2Frecent-activity%2F&trk=public_post_follow-posts)
+
+
+[ View Profile ](https://de.linkedin.com/in/banias?trk=public_post_follow-view-profile) [ Connect ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Ffeed%2Fupdate%2Furn%3Ali%3Aactivity%3A7283422188534198272&trk=public_post_follow)
+##  Explore topics 
+  * [ Sales ](https://www.linkedin.com/pulse/topics/sales-s5/)
+  * [ Marketing ](https://www.linkedin.com/pulse/topics/marketing-s2461/)
+  * [ IT Services ](https://www.linkedin.com/pulse/topics/it-services-s57547/)
+  * [ Business Administration ](https://www.linkedin.com/pulse/topics/business-administration-s50111/)
+  * [ HR Management ](https://www.linkedin.com/pulse/topics/hr-management-s50359/)
+  * [ Engineering ](https://www.linkedin.com/pulse/topics/engineering-s166/)
+  * [ Soft Skills ](https://www.linkedin.com/pulse/topics/soft-skills-s2976/)
+  * [ See All ](https://www.linkedin.com/pulse/topics/home/)
+
+
+  * LinkedIn © 2025
+  * [ About ](https://about.linkedin.com?trk=d_public_post_footer-about)
+  * [ Accessibility ](https://www.linkedin.com/accessibility?trk=d_public_post_footer-accessibility)
+  * [ User Agreement ](https://www.linkedin.com/legal/user-agreement?trk=d_public_post_footer-user-agreement)
+  * [ Privacy Policy ](https://www.linkedin.com/legal/privacy-policy?trk=d_public_post_footer-privacy-policy)
+  * [ Your California Privacy Choices ](https://www.linkedin.com/legal/california-privacy-disclosure?trk=d_public_post_footer-california-privacy-rights-act)
+  * [ Cookie Policy ](https://www.linkedin.com/legal/cookie-policy?trk=d_public_post_footer-cookie-policy)
+  * [ Copyright Policy ](https://www.linkedin.com/legal/copyright-policy?trk=d_public_post_footer-copyright-policy)
+  * [ Brand Policy ](https://brand.linkedin.com/policies?trk=d_public_post_footer-brand-policy)
+  * [ Guest Controls ](https://www.linkedin.com/psettings/guest-controls?trk=d_public_post_footer-guest-controls)
+  * [ Community Guidelines ](https://www.linkedin.com/legal/professional-community-policies?trk=d_public_post_footer-community-guide)
+  *     * العربية (Arabic) 
+    * বাংলা (Bangla) 
+    * Čeština (Czech) 
+    * Dansk (Danish) 
+    * Deutsch (German) 
+    * Ελληνικά (Greek) 
+    * **English (English)**
+    * Español (Spanish) 
+    * فارسی (Persian) 
+    * Suomi (Finnish) 
+    * Français (French) 
+    * हिंदी (Hindi) 
+    * Magyar (Hungarian) 
+    * Bahasa Indonesia (Indonesian) 
+    * Italiano (Italian) 
+    * עברית (Hebrew) 
+    * 日本語 (Japanese) 
+    * 한국어 (Korean) 
+    * मराठी (Marathi) 
+    * Bahasa Malaysia (Malay) 
+    * Nederlands (Dutch) 
+    * Norsk (Norwegian) 
+    * ਪੰਜਾਬੀ (Punjabi) 
+    * Polski (Polish) 
+    * Português (Portuguese) 
+    * Română (Romanian) 
+    * Русский (Russian) 
+    * Svenska (Swedish) 
+    * తెలుగు (Telugu) 
+    * ภาษาไทย (Thai) 
+    * Tagalog (Tagalog) 
+    * Türkçe (Turkish) 
+    * Українська (Ukrainian) 
+    * Tiếng Việt (Vietnamese) 
+    * 简体中文 (Chinese (Simplified)) 
+    * 正體中文 (Chinese (Traditional)) 
+Language 
+
+
+##  Sign in to view more content 
+Create your free account or sign in to continue your search 
+Sign in 
+##  Welcome back 
+Email or phone 
+Password 
+Show
+[Forgot password?](https://www.linkedin.com/uas/request-password-reset?trk=public_post_contextual-sign-in-modal_sign-in-modal_forgot_password) Sign in 
+or 
+By clicking Continue to join or sign in, you agree to LinkedIn’s [User Agreement](https://www.linkedin.com/legal/user-agreement?trk=public_post_contextual-sign-in-modal_sign-in-modal_auth-button_user-agreement), [Privacy Policy](https://www.linkedin.com/legal/privacy-policy?trk=public_post_contextual-sign-in-modal_sign-in-modal_auth-button_privacy-policy), and [Cookie Policy](https://www.linkedin.com/legal/cookie-policy?trk=public_post_contextual-sign-in-modal_sign-in-modal_auth-button_cookie-policy). 
+New to LinkedIn? [Join now](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fbanias_dont-waste-time-on-your-github-actions-workflows-activity-7283422188534198272-hBPO&trk=public_post_contextual-sign-in-modal_sign-in-modal_join-link)
+or 
+New to LinkedIn? [Join now](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fbanias_dont-waste-time-on-your-github-actions-workflows-activity-7283422188534198272-hBPO&trk=public_post_contextual-sign-in-modal_join-link)
+By clicking Continue to join or sign in, you agree to LinkedIn’s [User Agreement](https://www.linkedin.com/legal/user-agreement?trk=linkedin-tc_auth-button_user-agreement), [Privacy Policy](https://www.linkedin.com/legal/privacy-policy?trk=linkedin-tc_auth-button_privacy-policy), and [Cookie Policy](https://www.linkedin.com/legal/cookie-policy?trk=linkedin-tc_auth-button_cookie-policy). 

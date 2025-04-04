@@ -1,0 +1,269 @@
+[![Hugging Face's logo](https://huggingface.co/front/assets/huggingface_logo-noborder.svg) Hugging Face](https://huggingface.co/)
+  * [ Models](https://huggingface.co/models)
+  * [ Datasets](https://huggingface.co/datasets)
+  * [ Spaces](https://huggingface.co/spaces)
+  * [ Posts](https://huggingface.co/posts)
+  * [ Docs](https://huggingface.co/docs)
+  * [ Enterprise](https://huggingface.co/enterprise)
+  * [Pricing](https://huggingface.co/pricing)
+  * [Log In](https://huggingface.co/login)
+  * [Sign Up](https://huggingface.co/join)
+
+
+# 
+[![](https://cdn-avatars.huggingface.co/v1/production/uploads/61a8d1aac664736898ffc84f/AT6cAB5ZNwCcqFMal71WD.jpeg)](https://huggingface.co/tiiuae)
+[tiiuae](https://huggingface.co/tiiuae)
+/
+[falcon-40b](https://huggingface.co/tiiuae/falcon-40b)
+like 2.42k
+Follow
+![](https://cdn-avatars.huggingface.co/v1/production/uploads/61a8d1aac664736898ffc84f/AT6cAB5ZNwCcqFMal71WD.jpeg) Technology Innovation Institute 1.27k
+[ Text Generation ](https://huggingface.co/models?pipeline_tag=text-generation)[ Transformers ](https://huggingface.co/models?library=transformers)[ PyTorch ](https://huggingface.co/models?library=pytorch)[ Safetensors ](https://huggingface.co/models?library=safetensors)
+tiiuae/falcon-refinedweb
+4 languages
+[ falcon ](https://huggingface.co/models?other=falcon)[ custom_code ](https://huggingface.co/models?other=custom_code)[ text-generation-inference ](https://huggingface.co/models?other=text-generation-inference)
+arxiv: 6 papers
+License: apache-2.0
+[ Model card ](https://huggingface.co/tiiuae/falcon-40b)[ Files Files and versions ](https://huggingface.co/tiiuae/falcon-40b/tree/main)[ Community 115 ](https://huggingface.co/tiiuae/falcon-40b/discussions)
+Train 
+Deploy 
+Use this model 
+  * [🚀 Falcon-40B](https://huggingface.co/tiiuae/falcon-40b/#🚀-falcon-40b "🚀 Falcon-40B")
+    * [Why use Falcon-40B?](https://huggingface.co/tiiuae/falcon-40b/#why-use-falcon-40b "Why use Falcon-40B?")
+  * [Model Card for Falcon-40B](https://huggingface.co/tiiuae/falcon-40b/#model-card-for-falcon-40b "Model Card for Falcon-40B")
+    * [Model Details](https://huggingface.co/tiiuae/falcon-40b/#model-details "Model Details")
+      * [Model Description](https://huggingface.co/tiiuae/falcon-40b/#model-description "Model Description")
+      * [Model Source](https://huggingface.co/tiiuae/falcon-40b/#model-source "Model Source")
+    * [Uses](https://huggingface.co/tiiuae/falcon-40b/#uses "Uses")
+      * [Direct Use](https://huggingface.co/tiiuae/falcon-40b/#direct-use "Direct Use")
+      * [Out-of-Scope Use](https://huggingface.co/tiiuae/falcon-40b/#out-of-scope-use "Out-of-Scope Use")
+    * [Bias, Risks, and Limitations](https://huggingface.co/tiiuae/falcon-40b/#bias-risks-and-limitations "Bias, Risks, and Limitations")
+      * [Recommendations](https://huggingface.co/tiiuae/falcon-40b/#recommendations "Recommendations")
+    * [How to Get Started with the Model](https://huggingface.co/tiiuae/falcon-40b/#how-to-get-started-with-the-model "How to Get Started with the Model")
+    * [Training Details](https://huggingface.co/tiiuae/falcon-40b/#training-details "Training Details")
+      * [Training Data](https://huggingface.co/tiiuae/falcon-40b/#training-data "Training Data")
+      * [Training Procedure](https://huggingface.co/tiiuae/falcon-40b/#training-procedure "Training Procedure")
+    * [Evaluation](https://huggingface.co/tiiuae/falcon-40b/#evaluation "Evaluation")
+    * [Technical Specifications](https://huggingface.co/tiiuae/falcon-40b/#technical-specifications "Technical Specifications")
+      * [Model Architecture and Objective](https://huggingface.co/tiiuae/falcon-40b/#model-architecture-and-objective "Model Architecture and Objective")
+      * [Compute Infrastructure](https://huggingface.co/tiiuae/falcon-40b/#compute-infrastructure "Compute Infrastructure")
+    * [Citation](https://huggingface.co/tiiuae/falcon-40b/#citation "Citation")
+    * [License](https://huggingface.co/tiiuae/falcon-40b/#license "License")
+    * [Contact](https://huggingface.co/tiiuae/falcon-40b/#contact "Contact")
+
+
+#  [ ](https://huggingface.co/tiiuae/falcon-40b/#🚀-falcon-40b) 🚀 Falcon-40B 
+**Falcon-40B is a 40B parameters causal decoder-only model built by[TII](https://www.tii.ae) and trained on 1,000B tokens of [RefinedWeb](https://huggingface.co/datasets/tiiuae/falcon-refinedweb) enhanced with curated corpora. It is made available under the Apache 2.0 license.**
+_Paper coming soon 😊._
+🤗 To get started with Falcon (inference, finetuning, quantization, etc.), we recommend reading [this great blogpost fron HF](https://huggingface.co/blog/falcon)!
+##  [ ](https://huggingface.co/tiiuae/falcon-40b/#why-use-falcon-40b) Why use Falcon-40B? 
+  * **It is the best open-source model currently available.** Falcon-40B outperforms [LLaMA](https://github.com/facebookresearch/llama), [StableLM](https://github.com/Stability-AI/StableLM), [RedPajama](https://huggingface.co/togethercomputer/RedPajama-INCITE-Base-7B-v0.1), [MPT](https://huggingface.co/mosaicml/mpt-7b), etc. See the [OpenLLM Leaderboard](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard).
+  * **It features an architecture optimized for inference** , with FlashAttention ([Dao et al., 2022](https://arxiv.org/abs/2205.14135)) and multiquery ([Shazeer et al., 2019](https://arxiv.org/abs/1911.02150)). 
+  * **It is made available under a permissive Apache 2.0 license allowing for commercial use** , without any royalties or restrictions.
+  * ⚠️ **This is a raw, pretrained model, which should be further finetuned for most usecases.** If you are looking for a version better suited to taking generic instructions in a chat format, we recommend taking a look at [Falcon-40B-Instruct](https://huggingface.co/tiiuae/falcon-40b-instruct).
+
+
+💸 **Looking for a smaller, less expensive model?** [Falcon-7B](https://huggingface.co/tiiuae/falcon-7b) is Falcon-40B's little brother!
+```
+from transformers import AutoTokenizer, AutoModelForCausalLM
+import transformers
+import torch
+model = "tiiuae/falcon-40b"
+tokenizer = AutoTokenizer.from_pretrained(model)
+pipeline = transformers.pipeline(
+  "text-generation",
+  model=model,
+  tokenizer=tokenizer,
+  torch_dtype=torch.bfloat16,
+  trust_remote_code=True,
+  device_map="auto",
+)
+sequences = pipeline(
+  "Girafatron is obsessed with giraffes, the most glorious animal on the face of this Earth. Giraftron believes all other animals are irrelevant when compared to the glorious majesty of the giraffe.\nDaniel: Hello, Girafatron!\nGirafatron:",
+  max_length=200,
+  do_sample=True,
+  top_k=10,
+  num_return_sequences=1,
+  eos_token_id=tokenizer.eos_token_id,
+)
+for seq in sequences:
+  print(f"Result: {seq['generated_text']}")
+
+```
+
+💥 **Falcon LLMs require PyTorch 2.0 for use with`transformers`!**
+For fast inference with Falcon, check-out [Text Generation Inference](https://github.com/huggingface/text-generation-inference)! Read more in this [blogpost](https://huggingface.co/tiiuae/falcon-40b/blob/main/\(https://huggingface.co/blog/falcon). 
+You will need **at least 85-100GB of memory** to swiftly run inference with Falcon-40B.
+#  [ ](https://huggingface.co/tiiuae/falcon-40b/#model-card-for-falcon-40b) Model Card for Falcon-40B 
+##  [ ](https://huggingface.co/tiiuae/falcon-40b/#model-details) Model Details 
+###  [ ](https://huggingface.co/tiiuae/falcon-40b/#model-description) Model Description 
+  * **Developed by:** <https://www.tii.ae>;
+  * **Model type:** Causal decoder-only;
+  * **Language(s) (NLP):** English, German, Spanish, French (and limited capabilities in Italian, Portuguese, Polish, Dutch, Romanian, Czech, Swedish);
+  * **License:** Apache 2.0 license.
+
+
+###  [ ](https://huggingface.co/tiiuae/falcon-40b/#model-source) Model Source 
+  * **Paper:** _coming soon_.
+
+
+##  [ ](https://huggingface.co/tiiuae/falcon-40b/#uses) Uses 
+###  [ ](https://huggingface.co/tiiuae/falcon-40b/#direct-use) Direct Use 
+Research on large language models; as a foundation for further specialization and finetuning for specific usecases (e.g., summarization, text generation, chatbot, etc.)
+###  [ ](https://huggingface.co/tiiuae/falcon-40b/#out-of-scope-use) Out-of-Scope Use 
+Production use without adequate assessment of risks and mitigation; any use cases which may be considered irresponsible or harmful. 
+##  [ ](https://huggingface.co/tiiuae/falcon-40b/#bias-risks-and-limitations) Bias, Risks, and Limitations 
+Falcon-40B is trained mostly on English, German, Spanish, French, with limited capabilities also in in Italian, Portuguese, Polish, Dutch, Romanian, Czech, Swedish. It will not generalize appropriately to other languages. Furthermore, as it is trained on a large-scale corpora representative of the web, it will carry the stereotypes and biases commonly encountered online.
+###  [ ](https://huggingface.co/tiiuae/falcon-40b/#recommendations) Recommendations 
+We recommend users of Falcon-40B to consider finetuning it for the specific set of tasks of interest, and for guardrails and appropriate precautions to be taken for any production use.
+##  [ ](https://huggingface.co/tiiuae/falcon-40b/#how-to-get-started-with-the-model) How to Get Started with the Model 
+```
+from transformers import AutoTokenizer, AutoModelForCausalLM
+import transformers
+import torch
+model = "tiiuae/falcon-40b"
+tokenizer = AutoTokenizer.from_pretrained(model)
+pipeline = transformers.pipeline(
+  "text-generation",
+  model=model,
+  tokenizer=tokenizer,
+  torch_dtype=torch.bfloat16,
+  trust_remote_code=True,
+  device_map="auto",
+)
+sequences = pipeline(
+  "Girafatron is obsessed with giraffes, the most glorious animal on the face of this Earth. Giraftron believes all other animals are irrelevant when compared to the glorious majesty of the giraffe.\nDaniel: Hello, Girafatron!\nGirafatron:",
+  max_length=200,
+  do_sample=True,
+  top_k=10,
+  num_return_sequences=1,
+  eos_token_id=tokenizer.eos_token_id,
+)
+for seq in sequences:
+  print(f"Result: {seq['generated_text']}")
+
+```
+
+##  [ ](https://huggingface.co/tiiuae/falcon-40b/#training-details) Training Details 
+###  [ ](https://huggingface.co/tiiuae/falcon-40b/#training-data) Training Data 
+Falcon-40B was trained on 1,000B tokens of [RefinedWeb](https://huggingface.co/datasets/tiiuae/falcon-refinedweb), a high-quality filtered and deduplicated web dataset which we enhanced with curated corpora. Significant components from our curated copora were inspired by The Pile ([Gao et al., 2020](https://arxiv.org/abs/2101.00027)). 
+**Data source** | **Fraction** | **Tokens** | **Sources**  
+---|---|---|---  
+[RefinedWeb-English](https://huggingface.co/datasets/tiiuae/falcon-refinedweb) | 75% | 750B | massive web crawl  
+RefinedWeb-Europe | 7% | 70B | European massive web crawl  
+Books | 6% | 60B  
+Conversations | 5% | 50B | Reddit, StackOverflow, HackerNews  
+Code | 5% | 50B  
+Technical | 2% | 20B | arXiv, PubMed, USPTO, etc.  
+RefinedWeb-Europe is made of the following languages:
+**Language** | **Fraction of multilingual data** | **Tokens**  
+---|---|---  
+German | 26% | 18B  
+Spanish | 24% | 17B  
+French | 23% | 16B  
+_Italian_ | 7% | 5B  
+_Portuguese_ | 4% | 3B  
+_Polish_ | 4% | 3B  
+_Dutch_ | 4% | 3B  
+_Romanian_ | 3% | 2B  
+_Czech_ | 3% | 2B  
+_Swedish_ | 2% | 1B  
+The data was tokenized with the Falcon-[7B](https://huggingface.co/tiiuae/falcon-7b)/[40B](https://huggingface.co/tiiuae/falcon-40b) tokenizer.
+###  [ ](https://huggingface.co/tiiuae/falcon-40b/#training-procedure) Training Procedure 
+Falcon-40B was trained on 384 A100 40GB GPUs, using a 3D parallelism strategy (TP=8, PP=4, DP=12) combined with ZeRO.
+####  [ ](https://huggingface.co/tiiuae/falcon-40b/#training-hyperparameters) Training Hyperparameters 
+**Hyperparameter** | **Value** | **Comment**  
+---|---|---  
+Precision | `bfloat16`  
+Optimizer | AdamW  
+Learning rate | 1.85e-4 | 4B tokens warm-up, cosine decay to 1.85e-5  
+Weight decay | 1e-1  
+Z-loss | 1e-4  
+Batch size | 1152 | 100B tokens ramp-up  
+####  [ ](https://huggingface.co/tiiuae/falcon-40b/#speeds-sizes-times) Speeds, Sizes, Times 
+Training started in December 2022 and took two months. 
+##  [ ](https://huggingface.co/tiiuae/falcon-40b/#evaluation) Evaluation 
+_Paper coming soon._
+See the [OpenLLM Leaderboard](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard) for early results.
+##  [ ](https://huggingface.co/tiiuae/falcon-40b/#technical-specifications) Technical Specifications 
+###  [ ](https://huggingface.co/tiiuae/falcon-40b/#model-architecture-and-objective) Model Architecture and Objective 
+Falcon-40B is a causal decoder-only model trained on a causal language modeling task (i.e., predict the next token).
+The architecture is broadly adapted from the GPT-3 paper ([Brown et al., 2020](https://arxiv.org/abs/2005.14165)), with the following differences:
+  * **Positionnal embeddings:** rotary ([Su et al., 2021](https://arxiv.org/abs/2104.09864));
+  * **Attention:** multiquery ([Shazeer et al., 2019](https://arxiv.org/abs/1911.02150)) and FlashAttention ([Dao et al., 2022](https://arxiv.org/abs/2205.14135));
+  * **Decoder-block:** parallel attention/MLP with a two layer norms.
+
+
+For multiquery, we are using an internal variant which uses independent key and values per tensor parallel degree.
+**Hyperparameter** | **Value** | **Comment**  
+---|---|---  
+Layers | 60  
+`d_model` | 8192  
+`head_dim` | 64 | Reduced to optimise for FlashAttention  
+Vocabulary | 65024  
+Sequence length | 2048  
+###  [ ](https://huggingface.co/tiiuae/falcon-40b/#compute-infrastructure) Compute Infrastructure 
+####  [ ](https://huggingface.co/tiiuae/falcon-40b/#hardware) Hardware 
+Falcon-40B was trained on AWS SageMaker, on 384 A100 40GB GPUs in P4d instances. 
+####  [ ](https://huggingface.co/tiiuae/falcon-40b/#software) Software 
+Falcon-40B was trained a custom distributed training codebase, Gigatron. It uses a 3D parallelism approach combined with ZeRO and high-performance Triton kernels (FlashAttention, etc.)
+##  [ ](https://huggingface.co/tiiuae/falcon-40b/#citation) Citation 
+_Paper coming soon_ 😊. In the meanwhile, you can use the following information to cite: 
+```
+@article{falcon40b,
+ title={{Falcon-40B}: an open large language model with state-of-the-art performance},
+ author={Almazrouei, Ebtesam and Alobeidli, Hamza and Alshamsi, Abdulaziz and Cappelli, Alessandro and Cojocaru, Ruxandra and Debbah, Merouane and Goffinet, Etienne and Heslow, Daniel and Launay, Julien and Malartic, Quentin and Noune, Badreddine and Pannier, Baptiste and Penedo, Guilherme},
+ year={2023}
+}
+
+```
+
+To learn more about the pretraining dataset, see the 📓 [RefinedWeb paper](https://arxiv.org/abs/2306.01116).
+```
+@article{refinedweb,
+ title={The {R}efined{W}eb dataset for {F}alcon {LLM}: outperforming curated corpora with web data, and web data only},
+ author={Guilherme Penedo and Quentin Malartic and Daniel Hesslow and Ruxandra Cojocaru and Alessandro Cappelli and Hamza Alobeidli and Baptiste Pannier and Ebtesam Almazrouei and Julien Launay},
+ journal={arXiv preprint arXiv:2306.01116},
+ eprint={2306.01116},
+ eprinttype = {arXiv},
+ url={https://arxiv.org/abs/2306.01116},
+ year={2023}
+}
+
+```
+
+##  [ ](https://huggingface.co/tiiuae/falcon-40b/#license) License 
+Falcon-40B is made available under the Apache 2.0 license.
+##  [ ](https://huggingface.co/tiiuae/falcon-40b/#contact) Contact 
+falconllm@tii.ae 
+
+Downloads last month
+    144,698 
+Safetensors[](https://huggingface.co/docs/safetensors)
+Model size
+41.8B params
+Tensor type
+BF16 
+·
+Inference Providers [NEW](https://huggingface.co/blog/inference-providers)
+[ Text Generation](https://huggingface.co/tasks/text-generation "Learn more about text-generation")
+This model isn't deployed by any Inference Provider. [🙋 Ask for provider support](https://huggingface.co/spaces/huggingface/InferenceSupport/discussions/new?title=tiiuae/falcon-40b&description=React%20to%20this%20comment%20with%20an%20emoji%20to%20vote%20for%20%5Btiiuae%2Ffalcon-40b%5D\(%2Ftiiuae%2Ffalcon-40b\)%20to%20be%20supported%20by%20Inference%20Providers.%0A%0A\(optional\)%20Which%20providers%20are%20you%20interested%20in%3F%20\(Novita%2C%20Hyperbolic%2C%20Together%E2%80%A6\)%0A)
+HF Inference deployability: The model authors have turned it off explicitly.
+##  Model tree for tiiuae/falcon-40b [](https://huggingface.co/docs/hub/model-cards#specifying-a-base-model)
+Adapters
+[10 models](https://huggingface.co/models?other=base_model:adapter:tiiuae/falcon-40b)
+Finetunes
+[4 models](https://huggingface.co/models?other=base_model:finetune:tiiuae/falcon-40b)
+Quantizations
+[4 models](https://huggingface.co/models?other=base_model:quantized:tiiuae/falcon-40b)
+##  Dataset used to train tiiuae/falcon-40b
+#### [tiiuae/falcon-refinedweb Viewer •  Updated Jun 20, 2023 •  968M •  41.3k •  842  ](https://huggingface.co/datasets/tiiuae/falcon-refinedweb)
+##  Spaces using tiiuae/falcon-40b 100
+[💬 HuggingFaceH4/falcon-chat](https://huggingface.co/spaces/HuggingFaceH4/falcon-chat)[🏆 eduagarcia/open_pt_llm_leaderboard](https://huggingface.co/spaces/eduagarcia/open_pt_llm_leaderboard)[🏆 BAAI/open_cn_llm_leaderboard](https://huggingface.co/spaces/BAAI/open_cn_llm_leaderboard)[😻 Sharathhebbar24/One-stop-for-Open-source-models](https://huggingface.co/spaces/Sharathhebbar24/One-stop-for-Open-source-models)[💃 EvanTHU/MotionLLM](https://huggingface.co/spaces/EvanTHU/MotionLLM)[😻 GTBench/GTBench](https://huggingface.co/spaces/GTBench/GTBench)[🏆 Vikhrmodels/small-shlepa-lb](https://huggingface.co/spaces/Vikhrmodels/small-shlepa-lb)[🚀 Justinrune/LLaMA-Factory](https://huggingface.co/spaces/Justinrune/LLaMA-Factory)[🏆 kz-transformers/kaz-llm-lb](https://huggingface.co/spaces/kz-transformers/kaz-llm-lb)[🚀 awacke1/Deepseek-HPC-GPU-KEDA](https://huggingface.co/spaces/awacke1/Deepseek-HPC-GPU-KEDA)[🔥 HemaAM/GPT_train_on_LLaMa](https://huggingface.co/spaces/HemaAM/GPT_train_on_LLaMa)[🎨 OPTML-Group/UnlearnCanvas-Benchmark](https://huggingface.co/spaces/OPTML-Group/UnlearnCanvas-Benchmark) + 95 Spaces + 88 Spaces
+##  Collection including tiiuae/falcon-40b
+#### [Falcon Collection  8 items •  Updated Feb 13 • 17](https://huggingface.co/collections/tiiuae/falcon-64fb432660017eeec9837b5a)
+System theme 
+Company
+[TOS](https://huggingface.co/terms-of-service) [Privacy](https://huggingface.co/privacy) [About](https://huggingface.co/huggingface) [Jobs](https://apply.workable.com/huggingface/) [](https://huggingface.co/)
+Website
+[Models](https://huggingface.co/models) [Datasets](https://huggingface.co/datasets) [Spaces](https://huggingface.co/spaces) [Pricing](https://huggingface.co/pricing) [Docs](https://huggingface.co/docs)

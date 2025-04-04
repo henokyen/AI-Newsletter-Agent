@@ -1,0 +1,5 @@
+parameters:
+  data_dir: data/
+  max_workers: 4
+  quality_agent_model_id: gpt-4o-mini
+  quality_agent_mock: false

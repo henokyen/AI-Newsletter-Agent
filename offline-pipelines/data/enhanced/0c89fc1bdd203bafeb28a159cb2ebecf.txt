@@ -1,0 +1,257 @@
+•
+NaN / NaN
+Back  [ ](https://www.youtube.com/ "YouTube Home")
+Skip navigation
+Search 
+Search with your voice 
+[Sign in](https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fwatch%253Fv%253DviZrOnJclY0%25252F&hl=en&ec=65620)
+[ ](https://www.youtube.com/ "YouTube Home")
+Word Embedding and Word2Vec, Clearly Explained!!!
+Search
+Watch later
+Share
+Copy link
+Info
+Shopping
+Tap to unmute
+2x
+If playback doesn't begin shortly, try restarting your device.
+•
+Up next
+LiveUpcoming
+CancelPlay Now
+If you want to turn words into numbers...
+You're signed out
+Videos you watch may be added to the TV's watch history and influence TV recommendations. To avoid this, cancel and sign in to YouTube on your computer.
+CancelConfirm
+[StatQuest with Josh Starmer](https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tAhLbw)
+Subscribe
+Subscribed
+Statistics, Machine Learning and Data Science can sometimes seem like very scary topics, but since each technique is really just a combination of small and simple steps, they are actually quite simple. My goal with StatQuest is to break down the major methodologies into easy to understand pieces. That said, I don't dumb down the material. Instead, I build up your understanding so that you are smarter. Contact, Video Index, Etc: https://statquest.org
+[Sequence-to-Sequence (seq2seq) Encoder-Decoder Neural Networks, Clearly Explained!!!16:50](https://www.youtube.com/watch?v=L8HKweZIOmg)
+The StatQuest Store!!!
+statquest.org
+[Support](https://www.youtube.com/redirect?event=endscreen&redir_token=QUFFLUhqbHFpcWFOb19NbmRPZl9qcmlBVjd6Uk5YeUxWUXxBQ3Jtc0tsMVlGMDBWaWttc01jZGM4eEUyNW51X0hCNEhWU0ZPUktJUTVKeE9JRlVHS2oyOUNiMng2dWk2ZEFjNU1nVG1FclFhVUg5bHZ4RFRLQWZfbGtpNXBnTjZoS1dBQXpIeEhFbVhOVjdCUGRLMXNTb2Fvdw&q=https%3A%2F%2Fstatquest.org%2Fstatquest-store%2F)
+Share
+Include playlist
+An error occurred while retrieving sharing information. Please try again later.
+0:00
+[](https://www.youtube.com/watch?v=L8HKweZIOmg "Next \(SHIFT+n\)")
+0:00 / 16:11•Watch full videoLive
+•
+Awesome song and introduction
+•
+Scroll for details
+#  Word Embedding and Word2Vec, Clearly Explained!!!
+[![](https://yt3.ggpht.com/Lzc9YzCKTkcA1My5A5pbsqaEtOoGc0ncWpCJiOQs2-0win3Tjf5XxmDFEYUiVM9jOTuhMjGs=s48-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/@statquest)
+[StatQuest with Josh Starmer](https://www.youtube.com/@statquest)
+StatQuest with Josh Starmer 
+Verified 
+1.38M subscribers
+Join
+<__slot-el>
+Subscribe
+<__slot-el>
+Subscribed
+9.6K
+Share
+Download
+Download 
+401K views2 years ago[#StatQuest](https://www.youtube.com/hashtag/statquest)[#word2vec](https://www.youtube.com/hashtag/word2vec)
+401,982 views • Mar 12, 2023 • #StatQuest #word2vec 
+Show less 
+Words are great, but if we want to use them as input to a neural network, we have to convert them to numbers. One of the most popular methods for assigning numbers to words is to use a Neural Network to create Word Embeddings. In this StatQuest, we go through the steps required to …...more 
+...more 
+## 
+Chapters
+View all
+#### [Awesome song and introduction Awesome song and introduction 0:00 ](https://www.youtube.com/watch?v=viZrOnJclY0)
+#### [Awesome song and introduction ](https://www.youtube.com/watch?v=viZrOnJclY0)
+0:00
+#### [Building a Neural Network to do Word Embedding Building a Neural Network to do Word Embedding 4:25 ](https://www.youtube.com/watch?v=viZrOnJclY0&t=265s)
+#### [Building a Neural Network to do Word Embedding ](https://www.youtube.com/watch?v=viZrOnJclY0&t=265s)
+4:25
+#### [Visualizing and Validating the Word Embedding Visualizing and Validating the Word Embedding 8:18 ](https://www.youtube.com/watch?v=viZrOnJclY0&t=498s&pp=0gcJCcwCDuyUWbzu)
+#### [Visualizing and Validating the Word Embedding ](https://www.youtube.com/watch?v=viZrOnJclY0&t=498s&pp=0gcJCcwCDuyUWbzu)
+8:18
+#### [Summary of Main Ideas Summary of Main Ideas 10:42 ](https://www.youtube.com/watch?v=viZrOnJclY0&t=642s)
+#### [Summary of Main Ideas ](https://www.youtube.com/watch?v=viZrOnJclY0&t=642s)
+10:42
+#### [word2vec word2vec 11:44 ](https://www.youtube.com/watch?v=viZrOnJclY0&t=704s)
+#### [word2vec ](https://www.youtube.com/watch?v=viZrOnJclY0&t=704s)
+11:44
+#### [Speeding up training with Negative Sampling Speeding up training with Negative Sampling 13:36 ](https://www.youtube.com/watch?v=viZrOnJclY0&t=816s)
+#### [Speeding up training with Negative Sampling ](https://www.youtube.com/watch?v=viZrOnJclY0&t=816s)
+13:36
+Transcript
+Follow along using the transcript.
+Show transcript
+### [StatQuest with Josh Starmer 1.38M subscribers  ](https://www.youtube.com/@statquest)
+[Videos](https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tAhLbw/videos)
+[About](https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tAhLbw/about)
+[Videos](https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tAhLbw/videos)[About](https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tAhLbw/about)[Patreon](https://www.youtube.com/redirect?event=Watch_SD_EP&redir_token=QUFFLUhqbkRPNWszZEZzaDBiQVpQcGJqb2ZRcFFHWHNaUXxBQ3Jtc0ttWlRXWi0wTXpWZ09IRGJ4aEg1N2xZVTRsb19hU01MTnRQaXFOWXFQSXV5RzB6SUxsbWxuaEpCTFhRaVY3M2JlZTFOTmRmNzdseU5oVEtqOFlSeWJtTVBlaVNpa2xXdGZmTlJsMk9Tck50U0xoWngwTQ&q=https%3A%2F%2Fwww.patreon.com%2Fstatquest)
+[ 18:54 18:54  ](https://www.youtube.com/watch?v=CqOfi41LfDw) [ The Essential Main Ideas of Neural Networks by StatQuest with Josh Starmer ](https://www.youtube.com/watch?v=CqOfi41LfDw)
+Show less 
+[](https://www.youtube.com/hashtag/statquest)[#StatQuest](https://www.youtube.com/hashtag/statquest)[#word2vec](https://www.youtube.com/hashtag/word2vec)
+# Word Embedding and Word2Vec, Clearly Explained!!!
+401,982 views401K views
+Mar 12, 2023
+9.6K
+Share
+Download
+Download 
+Save
+Shop the StatQuest with Josh Starmer store
+![](https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTcXhkHKr-vTX6EwJt_xe_X_P75QGkfupOZbEjDwLo0QjT1TmrsmjoocY9pr-9BmvdziE7g2Q5l) StatQuest Triple BAM Logo - Men's Premium T-Shirt $26.99 Spreadshop  Classic cut T-shirt for men, 100% cotton (Heather gray and heather ice blue are 95% cotton/5% viscose. Heather blue & charcoal gray are 80% cotton/20% polyester. Heather burgundy is 60% cotton/40% polyester. Heather oatmeal is 99% cotton/1% viscose) Brand: Spreadshirt Shop Spreadshop ![](https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQPMXJuW10d8BHlr83r3CJ0AGV7KI-AmusiIerAqUugsw4hkiDy5ydS5AScMcHCmybVks-CeFMV) Statquest logo color - Coffee/Tea Mug $16.99 Spreadshop  100% Ceramic mug for drinking. Brand: BestSub Shop Spreadshop ![](https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQzbth_oxUOglwTv1zM-tU-ze4rd1I3c4Eu8HhPwnwSuBjExAYN1o0txAyqgkXlqqyR2-66Nb4) Norm N 'Squatch!!! - Men's Premium T-Shirt $26.99 Spreadshop  Classic cut T-shirt for men, 100% cotton (Heather gray and heather ice blue are 95% cotton/5% viscose. Heather blue & charcoal gray are 80% cotton/20% polyester. Heather burgundy is 60% cotton/40% polyester. Heather oatmeal is 99% cotton/1% viscose) Brand: Spreadshirt Shop Spreadshop ![](https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSFtKXupJ43r-9-y-_eCTNso9wIFvAbw7Tibgz9dJPd5PZEkK_pRW-htVHvkpsrRXqTw9UhkdM) StatQuest Triple BAM Logo - Women's Premium T-Shirt $26.99 Spreadshop  Fitted classic T-shirt for women | Brand: Spreadshirt | 100% cotton (heather gray is 95% cotton/5% viscose. Heather Blue & Charcoal Gray are 80% cotton/20% polyester. Heather Burgundy is 60% cotton/40% polyester, Heather Oatmeal is 99% Cotton/1% Viscose, Heather Ice Blue is 95% Cotton/5% Viscose). ITEMS RUNS SMALL. Shop Spreadshop ![](https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSCUEK7Rn8r5kavR5TS2jaxxRoDIw0roJ1XMo-U5_IfXk_Z0qKQtdz11MWn1tTd3_-MkgIVwOs) Bayes Has a Posse - Tote Bag $16.99 Spreadshop  Promotional canvas tote bag | Brand: Spreadshirt | Made from 100% cotton canvas Shop Spreadshop
+##  Comments 614
+Top comments  Newest first 
+##  Chapters
+#### [Awesome song and introduction Awesome song and introduction 0:00 ](https://www.youtube.com/watch?v=viZrOnJclY0)
+#### [Awesome song and introduction ](https://www.youtube.com/watch?v=viZrOnJclY0)
+0:00
+#### [Building a Neural Network to do Word Embedding Building a Neural Network to do Word Embedding 4:25 ](https://www.youtube.com/watch?v=viZrOnJclY0&t=265s&pp=0gcJCcwCDuyUWbzu)
+#### [Building a Neural Network to do Word Embedding ](https://www.youtube.com/watch?v=viZrOnJclY0&t=265s&pp=0gcJCcwCDuyUWbzu)
+4:25
+#### [Visualizing and Validating the Word Embedding Visualizing and Validating the Word Embedding 8:18 ](https://www.youtube.com/watch?v=viZrOnJclY0&t=498s)
+#### [Visualizing and Validating the Word Embedding ](https://www.youtube.com/watch?v=viZrOnJclY0&t=498s)
+8:18
+#### [Summary of Main Ideas Summary of Main Ideas 10:42 ](https://www.youtube.com/watch?v=viZrOnJclY0&t=642s&pp=0gcJCcwCDuyUWbzu)
+#### [Summary of Main Ideas ](https://www.youtube.com/watch?v=viZrOnJclY0&t=642s&pp=0gcJCcwCDuyUWbzu)
+10:42
+#### [word2vec word2vec 11:44 ](https://www.youtube.com/watch?v=viZrOnJclY0&t=704s)
+#### [word2vec ](https://www.youtube.com/watch?v=viZrOnJclY0&t=704s)
+11:44
+#### [Speeding up training with Negative Sampling Speeding up training with Negative Sampling 13:36 ](https://www.youtube.com/watch?v=viZrOnJclY0&t=816s)
+#### [Speeding up training with Negative Sampling ](https://www.youtube.com/watch?v=viZrOnJclY0&t=816s)
+13:36
+Sync to video time 
+Sync to video time
+##  Products
+StatQuest with Josh Starmer tagged products below.Learn more
+StatQuest Triple BAM Logo - Men's Premium T-ShirtSpreadshop$26.99View
+Statquest logo color - Coffee/Tea MugSpreadshop$16.99View
+Norm N 'Squatch!!! - Men's Premium T-ShirtSpreadshop$26.99View
+StatQuest Triple BAM Logo - Women's Premium T-ShirtSpreadshop$26.99View
+Bayes Has a Posse - Tote BagSpreadshop$16.99View
+##  Description
+Word Embedding and Word2Vec, Clearly Explained!!!
+9.6KLikes
+401,982Views
+2023Mar 12
+Words are great, but if we want to use them as input to a neural network, we have to convert them to numbers. One of the most popular methods for assigning numbers to words is to use a Neural Network to create Word Embeddings. In this StatQuest, we go through the steps required to create Word Embeddings, and show how we can visualize and validate them. We then talk about one of the most popular Word Embedding tools, word2vec. BAM!!! Note, this StatQuest assumes that you are already familiar with... The Basics of how Neural Networks Work: [ • The Essential Main Ideas of Neural Ne... ](https://www.youtube.com/watch?v=CqOfi41LfDw) The Basics of how Backpropagation Works: [ • Neural Networks Pt. 2: Backpropagatio... ](https://www.youtube.com/watch?v=IN2XmBhILt4) How the Softmax function works: [ • Neural Networks Part 5: ArgMax and So... ](https://www.youtube.com/watch?v=KpKog-L9veg) How Cross Entropy works: [ • Neural Networks Part 6: Cross Entropy ](https://www.youtube.com/watch?v=6ArSys5qHAU) For a complete index of all the StatQuest videos, check out: [https://statquest.org/video-index/](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa1VtUUgtNVhNWTY3ZFRQSmJic3JFZDZiRUF5QXxBQ3Jtc0tsMF9seV9UV3hNa09sMDZBbU1DTDdyNXk5SEhyNjNtdHd5QXFnOS1RejhYWnhQSF91WTRLWk1uYldpNkRXeHpnVjl1M2tYWktYdjl4bElLd0NOT0JGV3lnVnotYVA5TXctVnRSVk03bEFrRUNQaW1Icw&q=https%3A%2F%2Fstatquest.org%2Fvideo-index%2F&v=viZrOnJclY0) If you'd like to support StatQuest, please consider... Patreon: [ / statquest ](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa2ZadDh5bjlIWUpzaHlKUXV5OFk4N0xYbWZTQXxBQ3Jtc0tsWFpNc3I1XzU5U0VRdUlpZVhlTHpKUGg5ck9LLTFEQzd4enQyLUF5WnEzSXRpV3NLbWpTd00xNW9DZFFMdTEydzE2cGIyZFA5SXFScVY0MWlRQmhybHdkM3k4bHpjeGoyWXlhaGdVNE9ySmpHV2VkSQ&q=https%3A%2F%2Fwww.patreon.com%2Fstatquest&v=viZrOnJclY0) ...or... YouTube Membership: [ / @statquest ](https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tAhLbw/join) ...buying one of my books, a study guide, a t-shirt or hoodie, or a song from the StatQuest store... [https://statquest.org/statquest-store/](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa1hvN0RsQkFvVkJaZlNlT1lITU85RVQyX1hLUXxBQ3Jtc0tuZmVpRHpHaXZJaEdPN0JIQ3Q3YnpSaFNFVWZCeTJHNGc1WDY4ZXBwYUJkblpzQ1ROcU92SDVNSFl5b2d1YjIwbjQxR1JGWERHd3g0TmIxbWZSNHdGXzhXQXBqaTJQWVd4THJUTkx4c0JlMkMyUHhPVQ&q=https%3A%2F%2Fstatquest.org%2Fstatquest-store%2F&v=viZrOnJclY0) ...or just donating to StatQuest! [https://www.paypal.me/statquest](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbmo1TnZld0M4WDBGU0Z3ZnNWajlDNGY1RTNsZ3xBQ3Jtc0ttWUpwa3VibTNPZXZPNFZuRlFMZ1BuSHIzMFd4ZXl4aldILXpVWmd1aUw4a2tTTC0zX2tUWDZYaW9pR2F6TUxIdUhxX1ZXcWhrV05HRG9fQ01lUUkxTkZya0FsZ3A0dzY5V05VRTN5aldwaW5TeFNYQQ&q=https%3A%2F%2Fwww.paypal.me%2Fstatquest&v=viZrOnJclY0) Lastly, if you want to keep up with me as I research and create new StatQuests, follow me on twitter: [ / joshuastarmer ](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa2Q5RUVuZUliaXdPS2c0RTJZTXY5Tnl1VVR4d3xBQ3Jtc0tsZlM1U3lMM0l3cEtwLWxQMEt5a3VPbGJoalNDSzFyZmprQVdOTkdOVzBNejhOeFpDV3g5emZvSzVBX0NiZlg0Wmo4UVV5bEttV2ZiT2lLdHRMRW04d3NQZ0JiTjNiUi1fVWVHb1dVNF8wampfYlFRRQ&q=https%3A%2F%2Ftwitter.com%2Fjoshuastarmer&v=viZrOnJclY0)[0:00](https://www.youtube.com/watch?v=viZrOnJclY0) Awesome song and introduction [4:25](https://www.youtube.com/watch?v=viZrOnJclY0&t=265s) Building a Neural Network to do Word Embedding [8:18](https://www.youtube.com/watch?v=viZrOnJclY0&t=498s) Visualizing and Validating the Word Embedding [10:42](https://www.youtube.com/watch?v=viZrOnJclY0&t=642s) Summary of Main Ideas [11:44](https://www.youtube.com/watch?v=viZrOnJclY0&t=704s) word2vec [13:36](https://www.youtube.com/watch?v=viZrOnJclY0&t=816s) Speeding up training with Negative Sampling [#StatQuest](https://www.youtube.com/hashtag/statquest)[#word2vec](https://www.youtube.com/hashtag/word2vec)…...more 
+...more Show less 
+## 
+Chapters
+View all
+#### [Awesome song and introduction Awesome song and introduction 0:00 ](https://www.youtube.com/watch?v=viZrOnJclY0)
+#### [Awesome song and introduction ](https://www.youtube.com/watch?v=viZrOnJclY0)
+0:00
+#### [Building a Neural Network to do Word Embedding Building a Neural Network to do Word Embedding 4:25 ](https://www.youtube.com/watch?v=viZrOnJclY0&t=265s)
+#### [Building a Neural Network to do Word Embedding ](https://www.youtube.com/watch?v=viZrOnJclY0&t=265s)
+4:25
+#### [Visualizing and Validating the Word Embedding Visualizing and Validating the Word Embedding 8:18 ](https://www.youtube.com/watch?v=viZrOnJclY0&t=498s&pp=0gcJCcwCDuyUWbzu)
+#### [Visualizing and Validating the Word Embedding ](https://www.youtube.com/watch?v=viZrOnJclY0&t=498s&pp=0gcJCcwCDuyUWbzu)
+8:18
+#### [Summary of Main Ideas Summary of Main Ideas 10:42 ](https://www.youtube.com/watch?v=viZrOnJclY0&t=642s)
+#### [Summary of Main Ideas ](https://www.youtube.com/watch?v=viZrOnJclY0&t=642s)
+10:42
+Transcript
+Follow along using the transcript.
+Show transcript
+### [StatQuest with Josh Starmer 1.38M subscribers  ](https://www.youtube.com/@statquest)
+[Videos](https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tAhLbw/videos)
+[About](https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tAhLbw/about)
+[Videos](https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tAhLbw/videos)[About](https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tAhLbw/about)[Patreon](https://www.youtube.com/redirect?event=Watch_SD_EP&redir_token=QUFFLUhqbkRPNWszZEZzaDBiQVpQcGJqb2ZRcFFHWHNaUXxBQ3Jtc0ttWlRXWi0wTXpWZ09IRGJ4aEg1N2xZVTRsb19hU01MTnRQaXFOWXFQSXV5RzB6SUxsbWxuaEpCTFhRaVY3M2JlZTFOTmRmNzdseU5oVEtqOFlSeWJtTVBlaVNpa2xXdGZmTlJsMk9Tck50U0xoWngwTQ&q=https%3A%2F%2Fwww.patreon.com%2Fstatquest)
+[ 18:54 18:54  ](https://www.youtube.com/watch?v=CqOfi41LfDw) [ The Essential Main Ideas of Neural Networks by StatQuest with Josh Starmer ](https://www.youtube.com/watch?v=CqOfi41LfDw)
+##  Transcript
+NaN / NaN
+![](https://lh5.googleusercontent.com/proxy/xIQqzGHhMc-0YUfzbYxqGqvJgACOlZ8TY3fPmTysus3Rt-iJm766FpQGB0birxoGizN1i2p4VtEGhKYWwQ1yVxH1JNCApYUobbAD7Sn2OEdxuzbuRgwNrsTr9nkMyAzkrw)
+[Guide for Cloud Data Warehousing](https://www.googleadservices.com/pagead/aclk?sa=L&ai=CMMuBzIPpZ8b7HL2R7L4P9LDGqAfa4YmNfYHy8cXQE7CQHxABIABgybaGh8yjwBeCARdjYS1wdWItNjIxOTgxMTc0NzA0OTM3MaAB6oWXzQKoAwTIAwqqBN0CT9Byg7FLLwb7emB61iwp6fVAqicUreOJRnxZG2fyk5Gy0Ru1Hy1QuHWgnJkLFAtpeF83Sr39jv8ITO0CUnNZzse2XZWJCltezyLGcrnBMot2l5wwqCncaXJiYOvyljEvH-A-2A_rtfvrF4mK6WorE9tACZ4rIVyjHUITmGHGUaNhAB6C2td8LUA2OAEqLCLb22xuR_YMAtslwigAGHhbr0ug60k0jqYERATd02wsVJlkAUZFjfoNC8in6_Bc3szBHhb6Ead7dU17YiT2_CgzsYV7UHPxGMYFeJeVXGP77RJ_gvOxec_bxEecek65Oz8De0AWHHeUMrtB7CCpgYUhUh8iNgK0F2lgtgX8Pw68WNcx5uoO_chmUW9rL7VAzaDNOVM3CrFlHPIV87J494z7Zpt5YWslKH0wSxO0A3cWpoamdO9GlZ3VQ9IvoyToT2a1zZlFGix9eLtZhRTy2ZIFCggTaAJ4oIyNswGgBm6AB_756LIBkAcEqAf5sbECqAeAurECqAfywLECqAe4xLECqAelz7ECqAe9zbECqAfnnbECqAfonbECqAfvtbECqAfwtbECqAeCqrECqAeECKgHqNIbqAe2B6gHsdwbqAewm7ECqAeusbECqAfmvLECqAfKurECqAf8y7ECqAf9srECqAf3uLECqAf4uLECqAfNx7ECqAelzLECqAeBxhuoB_yvsQKoB6vFG6gHt6GxAqgH1amxAqgH3rWxAqgH6rGxAqgHvrexAqgHmbWxAqgHhcGxAqgH66WxAqgHyqmxAtIIKAiAQRABGF4yAoICOguAY4DAgICAgICAAkjZoNI1UBRY4J_auq6yjAPyCB9jYS15dC1ob3N0LXB1Yi05MjQ5ODU4Mzg4NzEwMzU4mglJaHR0cHM6Ly9oaS5maXJlYm9sdC5pby9scC90aGUtZGVmaW5pdGl2ZS1ndWlkZS1mb3ItY2xvdWQtZGF0YS13YXJlaG91c2luZ7EJEcL_RTd5rvPICQDICYoCmAsBoQvNZ1pm5iHAD7oLOQgBEAUYBCAIKAEwGkABSABYAWAAaABwAYgBAJgBAaIBDAoAWAFwAagCAdgCAqgBAdgBAYACAYgCBdALEtoMJgoLEND8rJ_at8GY5QESAgEDGg0YqIzTx1IgwsL65IsFQAFKAhAfmg0BEqANAaoNAlVTyA0B0g3eAmh0dHBzOi8vaGkuZmlyZWJvbHQuaW8vbHAvdGhlLWRlZmluaXRpdmUtZ3VpZGUtZm9yLWNsb3VkLWRhdGEtd2FyZWhvdXNpbmc_dXRtX3NvdXJjZT1nb29nbGUmdXRtX21lZGl1bT1jcGMmdXRtX2NhbXBhaWduPW5hX2RlbWFuZF9nZW5fbGFsJnV0bV9jb250ZW50PTIyMTYxOTY2NjMyLTE3NDk2MzIwNDQxOC03MzA1Mjc2MTM4NzEmdXRtX3Rlcm09JmhzYV9hY2M9MTMzMzgwMTQwOSZoc2FfY2FtPTIyMTYxOTY2NjMyJmhzYV9ncnA9MTc0OTYzMjA0NDE4JmhzYV9hZD03MzA1Mjc2MTM4NzEmaHNhX3NyYz0maHNhX3RndD0maHNhX2t3PSZoc2FfbXQ9JmhzYV9uZXQ9YWR3b3JkcyZoc2FfdmVyPTMmZ2FkX3NvdXJjZT0yuBP___________8BsBQBwBWBgIBA0BUB2BUB4hYCCAGAFwGKFxYIAxgBIAEoATABOAFAAUgBUAFYAWACoBcBqRfO5dOaJ1WhLLoXBigAMAA4AdAYAfAYAQ&ase=2&gclid=EAIaIQobChMIxpHbuq6yjAMVvQjbAR10mBF1EAEYASAAEgJWqPD_BwE&num=1&cid=CAASFeRoCnVfBPE_EfV2eSeMvz4pUzuPwA&sig=AOD64_3euSrDqAfVZdenEaNOjU-N8HvbBg&ms=%5BCLICK_MS%5D&nb=0&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D)[Insights into overcoming common challenges in cloud data warehousing.](https://www.googleadservices.com/pagead/aclk?sa=L&ai=CMMuBzIPpZ8b7HL2R7L4P9LDGqAfa4YmNfYHy8cXQE7CQHxABIABgybaGh8yjwBeCARdjYS1wdWItNjIxOTgxMTc0NzA0OTM3MaAB6oWXzQKoAwTIAwqqBN0CT9Byg7FLLwb7emB61iwp6fVAqicUreOJRnxZG2fyk5Gy0Ru1Hy1QuHWgnJkLFAtpeF83Sr39jv8ITO0CUnNZzse2XZWJCltezyLGcrnBMot2l5wwqCncaXJiYOvyljEvH-A-2A_rtfvrF4mK6WorE9tACZ4rIVyjHUITmGHGUaNhAB6C2td8LUA2OAEqLCLb22xuR_YMAtslwigAGHhbr0ug60k0jqYERATd02wsVJlkAUZFjfoNC8in6_Bc3szBHhb6Ead7dU17YiT2_CgzsYV7UHPxGMYFeJeVXGP77RJ_gvOxec_bxEecek65Oz8De0AWHHeUMrtB7CCpgYUhUh8iNgK0F2lgtgX8Pw68WNcx5uoO_chmUW9rL7VAzaDNOVM3CrFlHPIV87J494z7Zpt5YWslKH0wSxO0A3cWpoamdO9GlZ3VQ9IvoyToT2a1zZlFGix9eLtZhRTy2ZIFCggTaAJ4oIyNswGgBm6AB_756LIBkAcEqAf5sbECqAeAurECqAfywLECqAe4xLECqAelz7ECqAe9zbECqAfnnbECqAfonbECqAfvtbECqAfwtbECqAeCqrECqAeECKgHqNIbqAe2B6gHsdwbqAewm7ECqAeusbECqAfmvLECqAfKurECqAf8y7ECqAf9srECqAf3uLECqAf4uLECqAfNx7ECqAelzLECqAeBxhuoB_yvsQKoB6vFG6gHt6GxAqgH1amxAqgH3rWxAqgH6rGxAqgHvrexAqgHmbWxAqgHhcGxAqgH66WxAqgHyqmxAtIIKAiAQRABGF4yAoICOguAY4DAgICAgICAAkjZoNI1UBRY4J_auq6yjAPyCB9jYS15dC1ob3N0LXB1Yi05MjQ5ODU4Mzg4NzEwMzU4mglJaHR0cHM6Ly9oaS5maXJlYm9sdC5pby9scC90aGUtZGVmaW5pdGl2ZS1ndWlkZS1mb3ItY2xvdWQtZGF0YS13YXJlaG91c2luZ7EJEcL_RTd5rvPICQDICYoCmAsBoQvNZ1pm5iHAD7oLOQgBEAUYBCAIKAEwGkABSABYAWAAaABwAYgBAJgBAaIBDAoAWAFwAagCAdgCAqgBAdgBAYACAYgCBdALEtoMJgoLEND8rJ_at8GY5QESAgEDGg0YqIzTx1IgwsL65IsFQAFKAhAfmg0BEqANAaoNAlVTyA0B0g3eAmh0dHBzOi8vaGkuZmlyZWJvbHQuaW8vbHAvdGhlLWRlZmluaXRpdmUtZ3VpZGUtZm9yLWNsb3VkLWRhdGEtd2FyZWhvdXNpbmc_dXRtX3NvdXJjZT1nb29nbGUmdXRtX21lZGl1bT1jcGMmdXRtX2NhbXBhaWduPW5hX2RlbWFuZF9nZW5fbGFsJnV0bV9jb250ZW50PTIyMTYxOTY2NjMyLTE3NDk2MzIwNDQxOC03MzA1Mjc2MTM4NzEmdXRtX3Rlcm09JmhzYV9hY2M9MTMzMzgwMTQwOSZoc2FfY2FtPTIyMTYxOTY2NjMyJmhzYV9ncnA9MTc0OTYzMjA0NDE4JmhzYV9hZD03MzA1Mjc2MTM4NzEmaHNhX3NyYz0maHNhX3RndD0maHNhX2t3PSZoc2FfbXQ9JmhzYV9uZXQ9YWR3b3JkcyZoc2FfdmVyPTMmZ2FkX3NvdXJjZT0yuBP___________8BsBQBwBWBgIBA0BUB2BUB4hYCCAGAFwGKFxYIAxgBIAEoATABOAFAAUgBUAFYAWACoBcBqRfO5dOaJ1WhLLoXBigAMAA4AdAYAfAYAQ&ase=2&gclid=EAIaIQobChMIxpHbuq6yjAMVvQjbAR10mBF1EAEYASAAEgJWqPD_BwE&num=1&cid=CAASFeRoCnVfBPE_EfV2eSeMvz4pUzuPwA&sig=AOD64_3euSrDqAfVZdenEaNOjU-N8HvbBg&ms=%5BCLICK_MS%5D&nb=7&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D)
+Sponsored
+Firebolt
+[Learn more](https://www.googleadservices.com/pagead/aclk?sa=L&ai=CMMuBzIPpZ8b7HL2R7L4P9LDGqAfa4YmNfYHy8cXQE7CQHxABIABgybaGh8yjwBeCARdjYS1wdWItNjIxOTgxMTc0NzA0OTM3MaAB6oWXzQKoAwTIAwqqBN0CT9Byg7FLLwb7emB61iwp6fVAqicUreOJRnxZG2fyk5Gy0Ru1Hy1QuHWgnJkLFAtpeF83Sr39jv8ITO0CUnNZzse2XZWJCltezyLGcrnBMot2l5wwqCncaXJiYOvyljEvH-A-2A_rtfvrF4mK6WorE9tACZ4rIVyjHUITmGHGUaNhAB6C2td8LUA2OAEqLCLb22xuR_YMAtslwigAGHhbr0ug60k0jqYERATd02wsVJlkAUZFjfoNC8in6_Bc3szBHhb6Ead7dU17YiT2_CgzsYV7UHPxGMYFeJeVXGP77RJ_gvOxec_bxEecek65Oz8De0AWHHeUMrtB7CCpgYUhUh8iNgK0F2lgtgX8Pw68WNcx5uoO_chmUW9rL7VAzaDNOVM3CrFlHPIV87J494z7Zpt5YWslKH0wSxO0A3cWpoamdO9GlZ3VQ9IvoyToT2a1zZlFGix9eLtZhRTy2ZIFCggTaAJ4oIyNswGgBm6AB_756LIBkAcEqAf5sbECqAeAurECqAfywLECqAe4xLECqAelz7ECqAe9zbECqAfnnbECqAfonbECqAfvtbECqAfwtbECqAeCqrECqAeECKgHqNIbqAe2B6gHsdwbqAewm7ECqAeusbECqAfmvLECqAfKurECqAf8y7ECqAf9srECqAf3uLECqAf4uLECqAfNx7ECqAelzLECqAeBxhuoB_yvsQKoB6vFG6gHt6GxAqgH1amxAqgH3rWxAqgH6rGxAqgHvrexAqgHmbWxAqgHhcGxAqgH66WxAqgHyqmxAtIIKAiAQRABGF4yAoICOguAY4DAgICAgICAAkjZoNI1UBRY4J_auq6yjAPyCB9jYS15dC1ob3N0LXB1Yi05MjQ5ODU4Mzg4NzEwMzU4mglJaHR0cHM6Ly9oaS5maXJlYm9sdC5pby9scC90aGUtZGVmaW5pdGl2ZS1ndWlkZS1mb3ItY2xvdWQtZGF0YS13YXJlaG91c2luZ7EJEcL_RTd5rvPICQDICYoCmAsBoQvNZ1pm5iHAD7oLOQgBEAUYBCAIKAEwGkABSABYAWAAaABwAYgBAJgBAaIBDAoAWAFwAagCAdgCAqgBAdgBAYACAYgCBdALEtoMJgoLEND8rJ_at8GY5QESAgEDGg0YqIzTx1IgwsL65IsFQAFKAhAfmg0BEqANAaoNAlVTyA0B0g3eAmh0dHBzOi8vaGkuZmlyZWJvbHQuaW8vbHAvdGhlLWRlZmluaXRpdmUtZ3VpZGUtZm9yLWNsb3VkLWRhdGEtd2FyZWhvdXNpbmc_dXRtX3NvdXJjZT1nb29nbGUmdXRtX21lZGl1bT1jcGMmdXRtX2NhbXBhaWduPW5hX2RlbWFuZF9nZW5fbGFsJnV0bV9jb250ZW50PTIyMTYxOTY2NjMyLTE3NDk2MzIwNDQxOC03MzA1Mjc2MTM4NzEmdXRtX3Rlcm09JmhzYV9hY2M9MTMzMzgwMTQwOSZoc2FfY2FtPTIyMTYxOTY2NjMyJmhzYV9ncnA9MTc0OTYzMjA0NDE4JmhzYV9hZD03MzA1Mjc2MTM4NzEmaHNhX3NyYz0maHNhX3RndD0maHNhX2t3PSZoc2FfbXQ9JmhzYV9uZXQ9YWR3b3JkcyZoc2FfdmVyPTMmZ2FkX3NvdXJjZT0yuBP___________8BsBQBwBWBgIBA0BUB2BUB4hYCCAGAFwGKFxYIAxgBIAEoATABOAFAAUgBUAFYAWACoBcBqRfO5dOaJ1WhLLoXBigAMAA4AdAYAfAYAQ&ase=2&gclid=EAIaIQobChMIxpHbuq6yjAMVvQjbAR10mBF1EAEYASAAEgJWqPD_BwE&num=1&cid=CAASFeRoCnVfBPE_EfV2eSeMvz4pUzuPwA&sig=AOD64_3euSrDqAfVZdenEaNOjU-N8HvbBg&ms=%5BCLICK_MS%5D&nb=8&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D)
+[![](https://i.ytimg.com/vi/L8HKweZIOmg/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLBjE43TQmipTlwuKbs1E-ehybEDhQ)16:50](https://www.youtube.com/watch?v=L8HKweZIOmg)
+### [Sequence-to-Sequence (seq2seq) Encoder-Decoder Neural Networks, Clearly Explained!!!](https://www.youtube.com/watch?v=L8HKweZIOmg)
+StatQuest with Josh Starmer
+248K views • 1 year ago
+[![](https://i.ytimg.com/vi/AsNTP8Kwu80/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLDG60mUtCuwVUZboj8MQVJyIpCzFQ)16:37](https://www.youtube.com/watch?v=AsNTP8Kwu80&pp=0gcJCegBSCBzzxdG)
+### [Recurrent Neural Networks (RNNs), Clearly Explained!!!](https://www.youtube.com/watch?v=AsNTP8Kwu80&pp=0gcJCegBSCBzzxdG)
+StatQuest with Josh Starmer
+699K views • 2 years ago
+[![](https://i.ytimg.com/vi/wgfSDrqYMJ4/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLBqNXPQt2hIWx84zKHKnbbw7eeqew)8:38](https://www.youtube.com/watch?v=wgfSDrqYMJ4)
+### [What are Word Embeddings?](https://www.youtube.com/watch?v=wgfSDrqYMJ4)
+IBM Technology
+54K views • 7 months ago
+[![](https://i.ytimg.com/vi/gQddtTdmG_8/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLArn1DURz9jFZYzzyJZhF4LaOEDUQ)16:56](https://www.youtube.com/watch?v=gQddtTdmG_8&pp=0gcJCegBSCBzzxdG)
+### [Vectoring Words (Word Embeddings) - Computerphile](https://www.youtube.com/watch?v=gQddtTdmG_8&pp=0gcJCegBSCBzzxdG)
+Computerphile
+308K views • 5 years ago
+[23:57](https://www.youtube.com/watch?v=9fSGYcv8ayg)
+### [🚨 Elon Musk gets NIGHTMARE news about Tesla](https://www.youtube.com/watch?v=9fSGYcv8ayg)
+Brian Tyler Cohen
+458K views • 3 hours ago
+New
+[18:28](https://www.youtube.com/watch?v=hQwFeIupNP0)
+### [What is Word2Vec? A Simple Explanation | Deep Learning Tutorial 41 (Tensorflow, Keras & Python)](https://www.youtube.com/watch?v=hQwFeIupNP0)
+codebasics
+191K views • 3 years ago
+[36:15](https://www.youtube.com/watch?v=zxQyTK8quyY)
+### [Transformer Neural Networks, ChatGPT's foundation, Clearly Explained!!!](https://www.youtube.com/watch?v=zxQyTK8quyY)
+StatQuest with Josh Starmer
+865K views • 1 year ago
+[17:17](https://www.youtube.com/watch?v=5MaWmXwxFNQ)
+### [A Complete Overview of Word Embeddings](https://www.youtube.com/watch?v=5MaWmXwxFNQ)
+AssemblyAI
+121K views • 2 years ago
+[31:33](https://www.youtube.com/watch?v=Zrv1EDIqHkY)
+### [The Oldest Unsolved Problem in Math](https://www.youtube.com/watch?v=Zrv1EDIqHkY)
+Veritasium
+15M views • 1 year ago
+[21:08](https://www.youtube.com/watch?v=pF9wCgUbRtc)
+### [What is Bag of Words?](https://www.youtube.com/watch?v=pF9wCgUbRtc)
+IBM Technology
+8.3K views • 9 months ago
+[18:52](https://www.youtube.com/watch?v=GDN649X_acE)
+### [Encoder-Only Transformers (like BERT) for RAG, Clearly Explained!!!](https://www.youtube.com/watch?v=GDN649X_acE)
+StatQuest with Josh Starmer
+35K views • 4 months ago
+[15:51](https://www.youtube.com/watch?v=PSs6nxngL6k)
+### [Attention for Neural Networks, Clearly Explained!!!](https://www.youtube.com/watch?v=PSs6nxngL6k)
+StatQuest with Josh Starmer
+326K views • 1 year ago
+[29:12](https://www.youtube.com/watch?v=WbtQzAvhnRI)
+### [Лекция. Контестные эмбеддинги. Word2Vec.](https://www.youtube.com/watch?v=WbtQzAvhnRI)
+Deep Learning School
+20K views • 1 year ago
+[16:20](https://www.youtube.com/watch?v=YTNyKG0dhDg)
+### [SNL Weekend Update Trump 3/29/25 |Saturday Night Live March 29, 2025](https://www.youtube.com/watch?v=YTNyKG0dhDg)
+Vua Phim Hay
+71K views • 8 hours ago
+New
+[1:01:39](https://www.youtube.com/watch?v=QzP3vx8XadU)
+### [Turning children's glue into drinkable alcohol](https://www.youtube.com/watch?v=QzP3vx8XadU)
+NileRed
+1.4M views • 20 hours ago
+New
+[19:27](https://www.youtube.com/watch?v=CsgiVnW401c)
+### [What is Word2Vec? How does it work? CBOW and Skip-gram](https://www.youtube.com/watch?v=CsgiVnW401c)
+Kris Ghimire
+37K views • 3 years ago
+[16:17](https://www.youtube.com/watch?v=4jRBRDbJemM)
+### [ROC and AUC, Clearly Explained!](https://www.youtube.com/watch?v=4jRBRDbJemM)
+StatQuest with Josh Starmer
+1.6M views • 5 years ago
+[8:55](https://www.youtube.com/watch?v=R9OHn5ZF4Uo)
+### [How AIs, like ChatGPT, Learn](https://www.youtube.com/watch?v=R9OHn5ZF4Uo)
+CGP Grey
+11M views • 7 years ago
+[13:20](https://www.youtube.com/watch?v=9S0-OC4LFNo)
+### [Word2Vec, GloVe, FastText- EXPLAINED!](https://www.youtube.com/watch?v=9S0-OC4LFNo)
+CodeEmporium
+31K views • 1 year ago
+[20:45](https://www.youtube.com/watch?v=YCzL96nL7j0)
+### [Long Short-Term Memory (LSTM), Clearly Explained](https://www.youtube.com/watch?v=YCzL96nL7j0)
+StatQuest with Josh Starmer
+706K views • 2 years ago
+Show more
+Join this channel and unlock members-only perks

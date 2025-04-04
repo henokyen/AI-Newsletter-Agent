@@ -1,0 +1,26 @@
+{
+    "id": "7ea87aed91c9dc27ca3df3e2ff132fe4",
+    "metadata": {
+        "id": "7ea87aed91c9dc27ca3df3e2ff132fe4",
+        "url": "https://www.notion.so/Knowledge-Graph-Embeddings-7ea87aed91c9dc27ca3df3e2ff132fe4",
+        "title": "Knowledge Graph Embeddings",
+        "properties": {
+            "Type": [
+                "Leaf"
+            ]
+        }
+    },
+    "parent_metadata": {
+        "id": "8f2ae64dfbeace4feadeb4571366dada",
+        "url": "",
+        "title": "",
+        "properties": {}
+    },
+    "content": "# Resources [Community]\n\n\t[https://superlinked.com/vectorhub/articles/answering-questions-knowledge-graph-embeddings](https://superlinked.com/vectorhub/articles/answering-questions-knowledge-graph-embeddings)\n\n# Resources [Science]\n\n# Tools\n\n\t[Link Preview](https://github.com/pyg-team/pytorch_geometric)",
+    "content_quality_score": 0.1,
+    "summary": null,
+    "child_urls": [
+        "https://github.com/pyg-team/pytorch_geometric/",
+        "https://superlinked.com/vectorhub/articles/answering-questions-knowledge-graph-embeddings/"
+    ]
+}

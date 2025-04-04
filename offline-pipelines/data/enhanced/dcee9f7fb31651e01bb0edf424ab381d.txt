@@ -1,0 +1,131 @@
+[Want to learn what it takes to build a data platform? Download the Data Platform Fundamentals e-book.](https://dagster.io/how-to-build-data-platforms-ebook)
+[![Dagster logo](https://dagster.io/images/misc/dagster_logo_primary.svg)](https://dagster.io/)
+[Product](https://dagster.io/platform)[Dagster+](https://dagster.io/plus)[Pricing](https://dagster.io/pricing)[Community](https://dagster.io/community)[Learn](https://docs.dagster.io)
+[Join us on Slack](https://dagster.io/slack)
+[![Check out Dagster on Github](https://dagster.io/images/community_icons/github.svg)Check out Dagster on Github](https://github.com/dagster-io/dagster)
+[Sign In](https://dagster.cloud)
+[Get Started](https://dagster.cloud/signup)
+[Request a Demo](https://dagster.io/request-a-demo)
+[Product](https://dagster.io/platform)[- Integrations](https://dagster.io/integrations)[- Implementation Partners](https://dagster.io/partners)[- Dagster vs. Airflow](https://dagster.io/vs/dagster-vs-airflow)[Dagster+](https://dagster.io/plus)[- Pricing](https://dagster.io/pricing)[- Dagster+ Pro](https://dagster.io/enterprise)[- Request a Demo](https://dagster.io/request-a-demo)[Blog](https://dagster.io/blog)[Community](https://dagster.io/community)[Events](https://dagster.io/events)[Docs](https://docs.dagster.io)[Dagster University](https://courses.dagster.io/)[NewData Platform E-book](https://dagster.io/how-to-build-data-platforms-ebook)[Sign in](https://dagster.cloud)[Request a Demo](https://dagster.io/request-a-demo)
+# Data engineering doesn't need to be a drag
+Ship data pipelines quickly and confidently with the modern data orchestrator built for data engineers building data platforms.
+[Search the docsPress `Ctrl ` and `K` to searchTry Dagster+ For Free](https://dagster.cloud/signup)[Request a Demo](https://dagster.io/request-a-demo)
+## Loved by data platform engineers at fast-growing companies
+[Read our users' success stories](https://dagster.io/blog?category=Case%20Study)
+![Dagster user logo for Bayer.](https://dagster.io/images/clients/logo-bayer-charcoal.svg)![Dagster user logo for Braves.](https://dagster.io/images/clients/logo-braves-charcoal.svg)![Dagster user logo for Flexport.](https://dagster.io/images/clients/logo-flexport-charcoal.svg)![Dagster user logo for Shell.](https://dagster.io/images/clients/logo-shell-charcoal.svg)![Dagster user logo for Magenta.](https://dagster.io/images/clients/logo-magenta-charcoal.svg)![Dagster user logo for Vanta.](https://dagster.io/images/clients/logo-vanta-charcoal.svg)![Dagster user logo for Wellfound.](https://dagster.io/images/clients/logo-wellfound-charcoal.svg)![Dagster user logo for Whatnot.](https://dagster.io/images/clients/logo-whatnot-charcoal.svg)
+![Dagster user logo for Bayer.](https://dagster.io/images/clients/logo-bayer-charcoal.svg)![Dagster user logo for Braves.](https://dagster.io/images/clients/logo-braves-charcoal.svg)![Dagster user logo for Flexport.](https://dagster.io/images/clients/logo-flexport-charcoal.svg)![Dagster user logo for Shell.](https://dagster.io/images/clients/logo-shell-charcoal.svg)![Dagster user logo for Magenta.](https://dagster.io/images/clients/logo-magenta-charcoal.svg)![Dagster user logo for Vanta.](https://dagster.io/images/clients/logo-vanta-charcoal.svg)![Dagster user logo for Wellfound.](https://dagster.io/images/clients/logo-wellfound-charcoal.svg)![Dagster user logo for Whatnot.](https://dagster.io/images/clients/logo-whatnot-charcoal.svg)
+## Dagster is your data platform
+Write pipelines with code
+dbt-native orchestration
+Task-based workflows
+Materialize All
+Materializing an asset launches a run and saves the results to persistent storage. Trigger materializations right from any asset graph.
+![](https://dagster.io/)
+Materialize All
+Materializing an asset launches a run and saves the results to persistent storage. Trigger materializations right from any asset graph.
+![](https://dagster.io/)
+Materialize All
+Materializing an asset launches a run and saves the results to persistent storage. Trigger materializations right from any asset graph.
+![](https://dagster.io/)
+## A single pane of glass for your data platform
+Develop and test pipelines
+Data quality and freshness
+Rich metadata and observability
+End-to-end datalineage
+![](https://dagster.io/)
+Developer and test pipelines with code, and see them come to life in the Dagster UI. Build locally and ship confidently.
+![](https://dagster.io/)
+Monitor data quality and freshness across your data platform. If you can write it in Python, you can test it with Dagster.
+![](https://dagster.io/)
+No more guesswork.
+Understand your data platform with rich metadata and observability. Full data and column-level lineage, a powerful data catalog, custom metadata, logging, cost-insights and more.
+![](https://dagster.io/)
+Get true end-to-end data lineage.
+Lineage doesn't stop in your database. From ingestion to BI, fully understand your data platform.
+Dagster+
+Data engineers can have nice things too.
+## Dagster+ is the only orchestration platform that puts developer experience first, with fully serverless or hybrid deployments, cost insights, a rich data catalog, and branching deploments for easy testing.
+## Dagster+ puts your data at the center of your platform, to go beyond what legacy orchestrators offer.
+[Try it free for 30 days](https://dagster.cloud/signup)
+## Join data teams at high-growth startups and Fortune 500 companies in building with Dagster
+“Dagster has been instrumental in empowering our development team to deliver insights at 20x the velocity compared to the past. From Idea inception to Insight is down to 2 days vs 6+ months before.”
+Gu Xie
+![Logo for Group1001](https://dagster.io/images/misc/logo-group1001.svg)
+“Dagster Insights has been an invaluable tool for our team. Being able to easily track Snowflake costs associated with our dbt models has helped us identify optimization opportunities and reduce our Snowflake costs.”
+Timothée Vandeput
+Data Engineer
+![Logo for BRP](https://dagster.io/images/misc/logo-brp.svg)
+“Dagster is the single pane of glass that our team uses to not only launch and monitor jobs, but also to surface visibility into data quality, track asset metadata and lineage, manage testing environments, and even track costs associated with Dagster and the external services that it manages.”
+Zachary Romer
+![Logo for Empirico](https://dagster.io/images/misc/logo-empirico.svg)
+“Somebody magically built the thing I had been envisioning and wanted, and now it's there and I can use it.”
+David Farnan-Williams
+Lead Machine Learning Engineer
+![Logo for Coterra](https://dagster.io/images/misc/logo_coterra.svg)
+“Being able to visualize and test changes using branch deployments has enabled our data team to ship faster”
+Aaron Fullerton
+![Logo for Charlie Health](https://dagster.io/images/misc/logo-charlie_health.svg)
+“Dagster brings software engineering best practices to a data team that supports a sprawling organization with minimal footprint.”
+Emmanuel Fuentes
+![Logo for Whatnot](https://dagster.io/images/misc/logo-whatnot.svg)
+### [Integrates with everything in your data stack](https://dagster.io/integrations)
+[See all our integrations](https://dagster.io/integrations)
+Dagster comes out of the box with integrations for all the tools you already use, and makes it easy to connect with new tools.
+![Dagster integration logo for snowflake.](https://dagster.io/images/logos/integrations/snowflake.svg)
+![Dagster integration logo for aws.](https://dagster.io/images/logos/integrations/aws.svg)
+![Dagster integration logo for azure.](https://dagster.io/images/logos/integrations/azure.svg)
+![Dagster integration logo for gcp.](https://dagster.io/images/logos/integrations/gcp.svg)
+![Dagster integration logo for spark.](https://dagster.io/images/logos/integrations/spark.svg)
+![Dagster integration logo for k8s.](https://dagster.io/images/logos/integrations/k8s.svg)
+![Dagster integration logo for dbt.](https://dagster.io/images/logos/integrations/dbt.svg)
+![Dagster integration logo for dask.](https://dagster.io/images/logos/integrations/dask.svg)
+![Dagster integration logo for datadog.](https://dagster.io/images/logos/integrations/datadog.svg)
+![Dagster integration logo for jupyter.](https://dagster.io/images/logos/integrations/jupyter.svg)
+![Dagster integration logo for gx.](https://dagster.io/images/logos/integrations/gx.svg)
+![Dagster integration logo for papermill.png.](https://dagster.io/_next/image?url=/images/logos/integrations/papermill.png&w=3840&q=75)
+![Ebook: Data Platform](https://dagster.io/images/ebook-data-platform.svg)
+### Learn the fundamental concepts to build a data platform in your organization
+  * Tips and tricks for data modeling and data ingestion patterns
+  * Explore the benefits of an observation layer across your data pipelines
+  * Learn the key strategies for ensuring data quality for your organization
+
+[Download the e-book today](https://dagster.io/how-to-build-data-platforms-ebook)
+### Latest posts
+[See all](https://dagster.io/blog)
+[![](https://dagster.io/)Mar 21, 2025Observability That Matters with Dagster+ AlertsBroken pipelines are unavoidable. Catch problems as soon as they happen with the improved alerting suite in Dagster+.![](https://dagster.io/)![Matt Krukowski](https://dagster.io/)
+
+Name
+    Matt Krukowski
+
+Handle
+    @matt](https://dagster.io/blog/observability-that-matters-with-dagster-alerts)[![](https://dagster.io/)Mar 17, 2025Three Weeks, 140 Iterations: How Group 1001 redefined their data platformWith Dagster® powering the data platform, the Group 1001 Innovations team is transforming the business at remarkable ...![](https://dagster.io/)![Brandon Phillips](https://dagster.io/)
+
+Name
+    Brandon Phillips
+
+Handle
+](https://dagster.io/blog/group-1001-case-study)[![](https://dagster.io/)Mar 13, 2025Dagster vs. AirflowGet the tale of the tape between the two orchestration giants and see why Dagster stands tall as the superior choice.![](https://dagster.io/)![Alex Noonan](https://dagster.io/)
+
+Name
+    Alex Noonan
+
+Handle
+    @noonan](https://dagster.io/blog/dagster-airflow)
+![The Dagster Labs Data Orchestration Company Logo](https://dagster.io/images/dagster_labs_logo.svg)
+[Join us on Slack](https://dagster.io/slack)
+#### Resources
+[Platform Overview](https://dagster.io/platform)[Integrations](https://dagster.io/integrations)[Docs](https://docs.dagster.io)[Blog](https://dagster.io/blog)[Learning Center](https://dagster.io/learn)[Forrester TEI Study](https://dagster.io/forrester-tei-report)[Data Engineering Glossary](https://dagster.io/glossary)[Changelog](https://docs.dagster.io/about/changelog)[Dagster Vs. Others](https://dagster.io/vs)
+#### Dagster+
+[About](https://dagster.io/plus)[Dagster+ Pro](https://dagster.io/enterprise)[Pricing](https://dagster.io/pricing)[Status](https://dagstercloud.statuspage.io)[Support](https://dagster.io/support)[Request a Demo](https://dagster.io/request-a-demo)
+#### Community
+[Community Overview](https://dagster.io/community)[Implementation Partners](https://dagster.io/partners)[Upcoming Events](https://dagster.io/community#events)
+[![Check out Dagster on Github](https://dagster.io/images/community_icons/github.svg)](https://github.com/dagster-io/dagster)[![Check out Dagster on Twitter / X](https://dagster.io/images/community_icons/twitter.svg)](https://twitter.com/dagster)[![Check out Dagster on LinkedIn](https://dagster.io/images/community_icons/linkedin.svg)](https://www.linkedin.com/company/dagsterlabs/)[![Check out Dagster on Stack Overflow](https://dagster.io/images/community_icons/stack_overflow.svg)](https://stackoverflow.com/questions/tagged/dagster)[![Check out the Dagster YouTube channel](https://dagster.io/images/community_icons/youtube.svg)](https://www.youtube.com/channel/UCfLnv9X8jyHTe6gJ4hVBo9Q/videos)[![Dagster RSS feed icon](https://dagster.io/images/misc/icon-rss.svg)](https://dagster.io/rss.xml)
+#### Company
+[ Careers ](https://dagster.io/careers)[Brand Assets](https://dagster.io/brand)[Contact](https://dagster.io/contact)
+#### ![Icon for the Dagster Newsletter](https://dagster.io/images/misc/icon-newsletter.svg)Get updates delivered to your inbox
+Submit
+Dagster is an open-source project maintained by Dagster Labs.
+Copyright © 2025 Elementl, Inc. d.b.a. Dagster Labs. All rights reserved.
+[Cookie Settings](https://dagster.io/)[Privacy Policy](https://dagster.io/privacy)[Terms of Service](https://dagster.io/terms)[Security](https://dagster.io/security)
+This site is protected by reCAPTCHA and the Google [Privacy Policy](https://policies.google.com/privacy) and [Terms of Service](https://policies.google.com/terms) apply.
+  *[Ctrl ]: Control

@@ -1,0 +1,424 @@
+[Skip to content](https://github.com/embeddings-benchmark/mteb/tree/main/#start-of-content)
+## Navigation Menu
+Toggle navigation
+[ ](https://github.com/)
+[ Sign in ](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fembeddings-benchmark%2Fmteb%2Ftree%2Fmain%2F)
+  * Product 
+    * [ GitHub Copilot Write better code with AI  ](https://github.com/features/copilot)
+    * [ Security Find and fix vulnerabilities  ](https://github.com/features/security)
+    * [ Actions Automate any workflow  ](https://github.com/features/actions)
+    * [ Codespaces Instant dev environments  ](https://github.com/features/codespaces)
+    * [ Issues Plan and track work  ](https://github.com/features/issues)
+    * [ Code Review Manage code changes  ](https://github.com/features/code-review)
+    * [ Discussions Collaborate outside of code  ](https://github.com/features/discussions)
+    * [ Code Search Find more, search less  ](https://github.com/features/code-search)
+Explore
+    * [ All features ](https://github.com/features)
+    * [ Documentation ](https://docs.github.com)
+    * [ GitHub Skills ](https://skills.github.com)
+    * [ Blog ](https://github.blog)
+  * Solutions 
+By company size
+    * [ Enterprises ](https://github.com/enterprise)
+    * [ Small and medium teams ](https://github.com/team)
+    * [ Startups ](https://github.com/enterprise/startups)
+    * [ Nonprofits ](https://github.com/solutions/industry/nonprofits)
+By use case
+    * [ DevSecOps ](https://github.com/solutions/use-case/devsecops)
+    * [ DevOps ](https://github.com/solutions/use-case/devops)
+    * [ CI/CD ](https://github.com/solutions/use-case/ci-cd)
+    * [ View all use cases ](https://github.com/solutions/use-case)
+By industry
+    * [ Healthcare ](https://github.com/solutions/industry/healthcare)
+    * [ Financial services ](https://github.com/solutions/industry/financial-services)
+    * [ Manufacturing ](https://github.com/solutions/industry/manufacturing)
+    * [ Government ](https://github.com/solutions/industry/government)
+    * [ View all industries ](https://github.com/solutions/industry)
+[ View all solutions ](https://github.com/solutions)
+  * Resources 
+Topics
+    * [ AI ](https://github.com/resources/articles/ai)
+    * [ DevOps ](https://github.com/resources/articles/devops)
+    * [ Security ](https://github.com/resources/articles/security)
+    * [ Software Development ](https://github.com/resources/articles/software-development)
+    * [ View all ](https://github.com/resources/articles)
+Explore
+    * [ Learning Pathways ](https://resources.github.com/learn/pathways)
+    * [ Events & Webinars ](https://resources.github.com)
+    * [ Ebooks & Whitepapers ](https://github.com/resources/whitepapers)
+    * [ Customer Stories ](https://github.com/customer-stories)
+    * [ Partners ](https://partner.github.com)
+    * [ Executive Insights ](https://github.com/solutions/executive-insights)
+  * Open Source 
+    * [ GitHub Sponsors Fund open source developers  ](https://github.com/sponsors)
+    * [ The ReadME Project GitHub community articles  ](https://github.com/readme)
+Repositories
+    * [ Topics ](https://github.com/topics)
+    * [ Trending ](https://github.com/trending)
+    * [ Collections ](https://github.com/collections)
+  * Enterprise 
+    * [ Enterprise platform AI-powered developer platform  ](https://github.com/enterprise)
+Available add-ons
+    * [ Advanced Security Enterprise-grade security features  ](https://github.com/enterprise/advanced-security)
+    * [ Copilot for business Enterprise-grade AI features  ](https://github.com/features/copilot/copilot-business)
+    * [ Premium Support Enterprise-grade 24/7 support  ](https://github.com/premium-support)
+  * [Pricing](https://github.com/pricing)
+
+
+Search or jump to...
+# Search code, repositories, users, issues, pull requests...
+Search 
+Clear
+[Search syntax tips](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax)
+#  Provide feedback 
+We read every piece of feedback, and take your input very seriously.
+Include my email address so I can be contacted
+Cancel  Submit feedback 
+#  Saved searches 
+## Use saved searches to filter your results more quickly
+Name
+Query
+To see all available qualifiers, see our [documentation](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax). 
+Cancel  Create saved search 
+[ Sign in ](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fembeddings-benchmark%2Fmteb%2Ftree%2Fmain%2F)
+[ Sign up ](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E&source=header-repo&source_repo=embeddings-benchmark%2Fmteb) Reseting focus
+You signed in with another tab or window. [Reload](https://github.com/embeddings-benchmark/mteb/tree/main/) to refresh your session. You signed out in another tab or window. [Reload](https://github.com/embeddings-benchmark/mteb/tree/main/) to refresh your session. You switched accounts on another tab or window. [Reload](https://github.com/embeddings-benchmark/mteb/tree/main/) to refresh your session. Dismiss alert
+{{ message }}
+[ embeddings-benchmark ](https://github.com/embeddings-benchmark) / **[mteb](https://github.com/embeddings-benchmark/mteb) ** Public
+  * [ Notifications ](https://github.com/login?return_to=%2Fembeddings-benchmark%2Fmteb) You must be signed in to change notification settings
+  * [ Fork 356 ](https://github.com/login?return_to=%2Fembeddings-benchmark%2Fmteb)
+  * [ Star  2.4k ](https://github.com/login?return_to=%2Fembeddings-benchmark%2Fmteb)
+
+
+MTEB: Massive Text Embedding Benchmark 
+[arxiv.org/abs/2210.07316](https://arxiv.org/abs/2210.07316 "https://arxiv.org/abs/2210.07316")
+### License
+[ Apache-2.0 license ](https://github.com/embeddings-benchmark/mteb/blob/main/LICENSE)
+[ 2.4k stars ](https://github.com/embeddings-benchmark/mteb/stargazers) [ 356 forks ](https://github.com/embeddings-benchmark/mteb/forks) [ Branches ](https://github.com/embeddings-benchmark/mteb/branches) [ Tags ](https://github.com/embeddings-benchmark/mteb/tags) [ Activity ](https://github.com/embeddings-benchmark/mteb/activity)
+[ Star  ](https://github.com/login?return_to=%2Fembeddings-benchmark%2Fmteb)
+[ Notifications ](https://github.com/login?return_to=%2Fembeddings-benchmark%2Fmteb) You must be signed in to change notification settings
+  * [ Code ](https://github.com/embeddings-benchmark/mteb)
+  * [ Issues 248 ](https://github.com/embeddings-benchmark/mteb/issues)
+  * [ Pull requests 33 ](https://github.com/embeddings-benchmark/mteb/pulls)
+  * [ Discussions ](https://github.com/embeddings-benchmark/mteb/discussions)
+  * [ Actions ](https://github.com/embeddings-benchmark/mteb/actions)
+  * [ Security ](https://github.com/embeddings-benchmark/mteb/security)
+  * [ Insights ](https://github.com/embeddings-benchmark/mteb/pulse)
+
+
+Additional navigation options
+  * [ Code  ](https://github.com/embeddings-benchmark/mteb)
+  * [ Issues  ](https://github.com/embeddings-benchmark/mteb/issues)
+  * [ Pull requests  ](https://github.com/embeddings-benchmark/mteb/pulls)
+  * [ Discussions  ](https://github.com/embeddings-benchmark/mteb/discussions)
+  * [ Actions  ](https://github.com/embeddings-benchmark/mteb/actions)
+  * [ Security  ](https://github.com/embeddings-benchmark/mteb/security)
+  * [ Insights  ](https://github.com/embeddings-benchmark/mteb/pulse)
+
+
+# embeddings-benchmark/mteb
+main
+[**36** Branches](https://github.com/embeddings-benchmark/mteb/branches)[**506** Tags](https://github.com/embeddings-benchmark/mteb/tags)
+[](https://github.com/embeddings-benchmark/mteb/branches)[](https://github.com/embeddings-benchmark/mteb/tags)
+Go to file
+Code
+## Folders and files
+Name| Name| Last commit message| Last commit date  
+---|---|---|---  
+## Latest commit
+[![ayush1298](https://avatars.githubusercontent.com/u/115063727?v=4&size=40)](https://github.com/ayush1298)[ayush1298](https://github.com/embeddings-benchmark/mteb/commits?author=ayush1298)[leaderboard fix (](https://github.com/embeddings-benchmark/mteb/commit/35a8a5b3ae2606bc3a64ab50319a877f497f888d)[#2456](https://github.com/embeddings-benchmark/mteb/pull/2456)[)](https://github.com/embeddings-benchmark/mteb/commit/35a8a5b3ae2606bc3a64ab50319a877f497f888d)Mar 29, 2025[35a8a5b](https://github.com/embeddings-benchmark/mteb/commit/35a8a5b3ae2606bc3a64ab50319a877f497f888d) · Mar 29, 2025
+## History
+[2,792 Commits](https://github.com/embeddings-benchmark/mteb/commits/main/)[](https://github.com/embeddings-benchmark/mteb/commits/main/)  
+[.github](https://github.com/embeddings-benchmark/mteb/tree/main/.github ".github")| [.github](https://github.com/embeddings-benchmark/mteb/tree/main/.github ".github")| [HOTFIX: pin setuptools (](https://github.com/embeddings-benchmark/mteb/commit/071741d201643f5e2537cb4ac20545032914d5f4 "HOTFIX: pin setuptools \(#2423\)
+* pin setuptools
+* pin setuptools
+* pin setuptools in makefile
+* try ci
+* fix ci
+* remove speed from installs")[#2423](https://github.com/embeddings-benchmark/mteb/pull/2423)[)](https://github.com/embeddings-benchmark/mteb/commit/071741d201643f5e2537cb4ac20545032914d5f4 "HOTFIX: pin setuptools \(#2423\)
+* pin setuptools
+* pin setuptools
+* pin setuptools in makefile
+* try ci
+* fix ci
+* remove speed from installs")| Mar 24, 2025  
+[.vscode](https://github.com/embeddings-benchmark/mteb/tree/main/.vscode ".vscode")| [.vscode](https://github.com/embeddings-benchmark/mteb/tree/main/.vscode ".vscode")| [ci: Add pre-commit hook (](https://github.com/embeddings-benchmark/mteb/commit/5b30d84c72c16efa9bf1e9ff5162d401799ab995 "ci: Add pre-commit hook \(#2194\)
+* make dev life nicer - pre-commit hooks
+* add pre-commit to install
+* update precommit
+* update ruff pre-commit
+* lint
+* lint
+---------
+Co-authored-by: sam021313 <40773225+sam021313@users.noreply.github.com>")[#2194](https://github.com/embeddings-benchmark/mteb/pull/2194)[)](https://github.com/embeddings-benchmark/mteb/commit/5b30d84c72c16efa9bf1e9ff5162d401799ab995 "ci: Add pre-commit hook \(#2194\)
+* make dev life nicer - pre-commit hooks
+* add pre-commit to install
+* update precommit
+* update ruff pre-commit
+* lint
+* lint
+---------
+Co-authored-by: sam021313 <40773225+sam021313@users.noreply.github.com>")| Mar 10, 2025  
+[docs](https://github.com/embeddings-benchmark/mteb/tree/main/docs "docs")| [docs](https://github.com/embeddings-benchmark/mteb/tree/main/docs "docs")| [Update tasks table](https://github.com/embeddings-benchmark/mteb/commit/19dc625583a0206ae68779830cebb7390158bfcb "Update tasks table")| Mar 26, 2025  
+[mteb](https://github.com/embeddings-benchmark/mteb/tree/main/mteb "mteb")| [mteb](https://github.com/embeddings-benchmark/mteb/tree/main/mteb "mteb")| [leaderboard fix (](https://github.com/embeddings-benchmark/mteb/commit/35a8a5b3ae2606bc3a64ab50319a877f497f888d "leaderboard fix \(#2456\)")[#2456](https://github.com/embeddings-benchmark/mteb/pull/2456)[)](https://github.com/embeddings-benchmark/mteb/commit/35a8a5b3ae2606bc3a64ab50319a877f497f888d "leaderboard fix \(#2456\)")| Mar 29, 2025  
+[scripts](https://github.com/embeddings-benchmark/mteb/tree/main/scripts "scripts")| [scripts](https://github.com/embeddings-benchmark/mteb/tree/main/scripts "scripts")| [Add Background Gradients in Summary and Task Table (](https://github.com/embeddings-benchmark/mteb/commit/5af55479ea10f27ee3e10a4a5be5bbaec49f60e7 "Add Background Gradients in Summary and Task Table \(#2392\)
+* Add Background Gradients in Summary and Task Table
+* Remove warnings and add light green cmap
+* Address comments
+* Separate styling function
+* address comments
+* added comments")[#2392](https://github.com/embeddings-benchmark/mteb/pull/2392)[)](https://github.com/embeddings-benchmark/mteb/commit/5af55479ea10f27ee3e10a4a5be5bbaec49f60e7 "Add Background Gradients in Summary and Task Table \(#2392\)
+* Add Background Gradients in Summary and Task Table
+* Remove warnings and add light green cmap
+* Address comments
+* Separate styling function
+* address comments
+* added comments")| Mar 29, 2025  
+[tests](https://github.com/embeddings-benchmark/mteb/tree/main/tests "tests")| [tests](https://github.com/embeddings-benchmark/mteb/tree/main/tests "tests")| [[MIEB] "capability measured"-Abstask 1-1 matching refactor [1/3]: rei…](https://github.com/embeddings-benchmark/mteb/commit/283313845fdde1b07b33b280e74b7602bdcf79f3 "\[MIEB\] "capability measured"-Abstask 1-1 matching refactor \[1/3\]: reimplement CV-Bench \(#2414\)
+* refactor CV-Bench
+* reimplement CV Bench
+* remove abstask/evaluator/tests for Any2TextMultipleChoice
+* rerun descriptive stats")| Mar 22, 2025  
+[.gitignore](https://github.com/embeddings-benchmark/mteb/blob/main/.gitignore ".gitignore")| [.gitignore](https://github.com/embeddings-benchmark/mteb/blob/main/.gitignore ".gitignore")| [ci: Add pre-commit hook (](https://github.com/embeddings-benchmark/mteb/commit/5b30d84c72c16efa9bf1e9ff5162d401799ab995 "ci: Add pre-commit hook \(#2194\)
+* make dev life nicer - pre-commit hooks
+* add pre-commit to install
+* update precommit
+* update ruff pre-commit
+* lint
+* lint
+---------
+Co-authored-by: sam021313 <40773225+sam021313@users.noreply.github.com>")[#2194](https://github.com/embeddings-benchmark/mteb/pull/2194)[)](https://github.com/embeddings-benchmark/mteb/commit/5b30d84c72c16efa9bf1e9ff5162d401799ab995 "ci: Add pre-commit hook \(#2194\)
+* make dev life nicer - pre-commit hooks
+* add pre-commit to install
+* update precommit
+* update ruff pre-commit
+* lint
+* lint
+---------
+Co-authored-by: sam021313 <40773225+sam021313@users.noreply.github.com>")| Mar 10, 2025  
+[.pre-commit-config.yaml](https://github.com/embeddings-benchmark/mteb/blob/main/.pre-commit-config.yaml ".pre-commit-config.yaml")| [.pre-commit-config.yaml](https://github.com/embeddings-benchmark/mteb/blob/main/.pre-commit-config.yaml ".pre-commit-config.yaml")| [ci: Add pre-commit hook (](https://github.com/embeddings-benchmark/mteb/commit/5b30d84c72c16efa9bf1e9ff5162d401799ab995 "ci: Add pre-commit hook \(#2194\)
+* make dev life nicer - pre-commit hooks
+* add pre-commit to install
+* update precommit
+* update ruff pre-commit
+* lint
+* lint
+---------
+Co-authored-by: sam021313 <40773225+sam021313@users.noreply.github.com>")[#2194](https://github.com/embeddings-benchmark/mteb/pull/2194)[)](https://github.com/embeddings-benchmark/mteb/commit/5b30d84c72c16efa9bf1e9ff5162d401799ab995 "ci: Add pre-commit hook \(#2194\)
+* make dev life nicer - pre-commit hooks
+* add pre-commit to install
+* update precommit
+* update ruff pre-commit
+* lint
+* lint
+---------
+Co-authored-by: sam021313 <40773225+sam021313@users.noreply.github.com>")| Mar 10, 2025  
+[CONTRIBUTING.md](https://github.com/embeddings-benchmark/mteb/blob/main/CONTRIBUTING.md "CONTRIBUTING.md")| [CONTRIBUTING.md](https://github.com/embeddings-benchmark/mteb/blob/main/CONTRIBUTING.md "CONTRIBUTING.md")| [docs: fix typos](https://github.com/embeddings-benchmark/mteb/commit/849efbb0126f1471bf1ee15b5c9ab54711ff94e2 "docs: fix typos")| Mar 11, 2025  
+[LICENSE](https://github.com/embeddings-benchmark/mteb/blob/main/LICENSE "LICENSE")| [LICENSE](https://github.com/embeddings-benchmark/mteb/blob/main/LICENSE "LICENSE")| [Initial commit](https://github.com/embeddings-benchmark/mteb/commit/7841bca7daeea0473b4cfdfe37f0a290feba6b8f "Initial commit")| Apr 5, 2022  
+[Makefile](https://github.com/embeddings-benchmark/mteb/blob/main/Makefile "Makefile")| [Makefile](https://github.com/embeddings-benchmark/mteb/blob/main/Makefile "Makefile")| [HOTFIX: pin setuptools (](https://github.com/embeddings-benchmark/mteb/commit/071741d201643f5e2537cb4ac20545032914d5f4 "HOTFIX: pin setuptools \(#2423\)
+* pin setuptools
+* pin setuptools
+* pin setuptools in makefile
+* try ci
+* fix ci
+* remove speed from installs")[#2423](https://github.com/embeddings-benchmark/mteb/pull/2423)[)](https://github.com/embeddings-benchmark/mteb/commit/071741d201643f5e2537cb4ac20545032914d5f4 "HOTFIX: pin setuptools \(#2423\)
+* pin setuptools
+* pin setuptools
+* pin setuptools in makefile
+* try ci
+* fix ci
+* remove speed from installs")| Mar 24, 2025  
+[README.md](https://github.com/embeddings-benchmark/mteb/blob/main/README.md "README.md")| [README.md](https://github.com/embeddings-benchmark/mteb/blob/main/README.md "README.md")| [docs: typos; Standardize spacing; Chronological order (](https://github.com/embeddings-benchmark/mteb/commit/0db0a20d48d422d3f3db25d50b73ada2525ccc19 "docs: typos; Standardize spacing; Chronological order \(#2436\)
+* Fix typos; add chrono order
+* Fix spacing")[#2436](https://github.com/embeddings-benchmark/mteb/pull/2436)[)](https://github.com/embeddings-benchmark/mteb/commit/0db0a20d48d422d3f3db25d50b73ada2525ccc19 "docs: typos; Standardize spacing; Chronological order \(#2436\)
+* Fix typos; add chrono order
+* Fix spacing")| Mar 26, 2025  
+[pyproject.toml](https://github.com/embeddings-benchmark/mteb/blob/main/pyproject.toml "pyproject.toml")| [pyproject.toml](https://github.com/embeddings-benchmark/mteb/blob/main/pyproject.toml "pyproject.toml")| [1.36.33](https://github.com/embeddings-benchmark/mteb/commit/6ae420dbebc848d058805297f8bcee100d799bb6 "1.36.33
+Automatically generated by python-semantic-release")| Mar 26, 2025  
+View all files  
+## Repository files navigation
+  * [README](https://github.com/embeddings-benchmark/mteb/tree/main/)
+  * [Apache-2.0 license](https://github.com/embeddings-benchmark/mteb/tree/main/)
+
+
+# Massive Text Embedding Benchmark
+[](https://github.com/embeddings-benchmark/mteb/tree/main/#massive-text-embedding-benchmark)
+[ ![GitHub release](https://camo.githubusercontent.com/5ec7e5c5dd1cb65f654d92d33109e34d9612fb5f967eb56f7eba4cc6f32bca66/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f72656c656173652f656d62656464696e67732d62656e63686d61726b2f6d7465622e737667) ](https://github.com/embeddings-benchmark/mteb/releases) [ ![GitHub release](https://camo.githubusercontent.com/dc9fa2f56733c2cc015ab9d121a9d7f4d2640d894ef1528357fa1aa7b062b87a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f61725869762d323330352e31343235312d6233316231622e737667) ](https://arxiv.org/abs/2210.07316) [ ![License](https://camo.githubusercontent.com/aefc99c88c51aa25c569c471d94c57bc0deac5686cf563fdc43610944fd80424/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6963656e73652f656d62656464696e67732d62656e63686d61726b2f6d7465622e7376673f636f6c6f723d677265656e) ](https://github.com/embeddings-benchmark/mteb/blob/master/LICENSE) [ ![Downloads](https://camo.githubusercontent.com/17caa95b33d78f9658e545f6980a308b0c227aa130456dbd4e4c76a8d9e0880c/68747470733a2f2f7374617469632e706570792e746563682f706572736f6e616c697a65642d62616467652f6d7465623f706572696f643d746f74616c26756e6974733d696e7465726e6174696f6e616c5f73797374656d266c6566745f636f6c6f723d677265792672696768745f636f6c6f723d6f72616e6765266c6566745f746578743d446f776e6c6f616473) ](https://pepy.tech/project/mteb)
+[Installation](https://github.com/embeddings-benchmark/mteb/tree/main/#installation) | [Usage](https://github.com/embeddings-benchmark/mteb/tree/main/#usage-documentation) | [Leaderboard](https://huggingface.co/spaces/mteb/leaderboard) | [Documentation](https://github.com/embeddings-benchmark/mteb/tree/main/#documentation) | [Citing](https://github.com/embeddings-benchmark/mteb/tree/main/#citing)
+[](https://github.com/embeddings-benchmark/mteb/tree/main/#------------installation---------usage---------leaderboard---------documentation---------citing----)
+###  [![](https://github.com/embeddings-benchmark/mteb/raw/main/docs/images/hf_logo.png)](https://huggingface.co/spaces/mteb/leaderboard)
+[](https://github.com/embeddings-benchmark/mteb/tree/main/#----)
+## Installation
+[](https://github.com/embeddings-benchmark/mteb/tree/main/#installation)
+```
+pip install mteb
+```
+
+## Example Usage
+[](https://github.com/embeddings-benchmark/mteb/tree/main/#example-usage)
+### Using a script
+[](https://github.com/embeddings-benchmark/mteb/tree/main/#using-a-script)
+```
+import mteb
+from sentence_transformers import SentenceTransformer
+# Define the sentence-transformers model name
+model_name = "average_word_embeddings_komninos"
+model = mteb.get_model(model_name) # if the model is not implemented in MTEB it will be eq. to SentenceTransformer(model_name)
+tasks = mteb.get_tasks(tasks=["Banking77Classification"])
+evaluation = mteb.MTEB(tasks=tasks)
+results = evaluation.run(model, output_folder=f"results/{model_name}")
+```
+
+### Using the CLI
+[](https://github.com/embeddings-benchmark/mteb/tree/main/#using-the-cli)
+```
+mteb available_tasks # list _all_ available tasks
+mteb run -m sentence-transformers/all-MiniLM-L6-v2 \
+  -t Banking77Classification \
+  --verbosity 3
+# if nothing is specified default to saving the results in the results/{model_name} folder
+```
+
+Note that using multiple GPUs in parallel can be done by just having a custom encode function that distributes the inputs to multiple GPUs like e.g. [here](https://github.com/microsoft/unilm/blob/b60c741f746877293bb85eed6806736fc8fa0ffd/e5/mteb_eval.py#L60) or [here](https://github.com/ContextualAI/gritlm/blob/09d8630f0c95ac6a456354bcb6f964d7b9b6a609/gritlm/gritlm.py#L75). See [custom models](https://github.com/embeddings-benchmark/mteb/blob/main/docs/usage/usage.md#using-a-custom-model) for more information.
+## Usage Documentation
+[](https://github.com/embeddings-benchmark/mteb/tree/main/#usage-documentation)
+The following links to the main sections in the usage documentation.
+Section  
+---  
+**General**  
+[Evaluating a Model](https://github.com/embeddings-benchmark/mteb/blob/main/docs/usage/usage.md#evaluating-a-model) | How to evaluate a model  
+[Evaluating on different Modalities](https://github.com/embeddings-benchmark/mteb/blob/main/docs/usage/usage.md#evaluating-on-different-modalities) | How to evaluate image and image-text tasks  
+**Selecting Tasks**  
+[Selecting a benchmark](https://github.com/embeddings-benchmark/mteb/blob/main/docs/usage/usage.md#selecting-a-benchmark) | How to select and filter tasks  
+[Task selection](https://github.com/embeddings-benchmark/mteb/blob/main/docs/usage/usage.md#task-selection) | How to select and filter tasks  
+[Selecting Split and Subsets](https://github.com/embeddings-benchmark/mteb/blob/main/docs/usage/usage.md#selecting-evaluation-split-or-subsets) |  How to select evaluation splits or subsets  
+[Using a Custom Task](https://github.com/embeddings-benchmark/mteb/blob/main/docs/usage/usage.md#using-a-custom-task) | How to evaluate on a custom task  
+**Selecting a Model**  
+[Using a Pre-defined Model](https://github.com/embeddings-benchmark/mteb/blob/main/docs/usage/usage.md#using-a-pre-defined-model) |  How to run a pre-defined model  
+[Using a SentenceTransformer Model](https://github.com/embeddings-benchmark/mteb/blob/main/docs/usage/usage.md#using-a-sentence-transformer-model) |  How to run a model loaded using sentence-transformers  
+[Using a Custom Model](https://github.com/embeddings-benchmark/mteb/blob/main/docs/usage/usage.md#using-a-custom-model) |  How to run and implement a custom model  
+**Running Evaluation**  
+[Passing Arguments to the model](https://github.com/embeddings-benchmark/mteb/blob/main/docs/usage/usage.md#passing-in-encode-arguments) | How to pass `encode` arguments to the model  
+[Running Cross Encoders](https://github.com/embeddings-benchmark/mteb/blob/main/docs/usage/usage.md#running-cross-encoders-on-reranking) | How to run cross encoders for reranking  
+[Running Late Interaction (ColBERT)](https://github.com/embeddings-benchmark/mteb/blob/main/docs/usage/usage.md#using-late-interaction-models) | How to run late interaction models  
+[Saving Retrieval Predictions](https://github.com/embeddings-benchmark/mteb/blob/main/docs/usage/usage.md#saving-retrieval-task-predictions) | How to save prediction for later analysis  
+[Caching Embeddings](https://github.com/embeddings-benchmark/mteb/blob/main/docs/usage/usage.md#caching-embeddings-to-re-use-them) | How to cache and re-use embeddings  
+**Leaderboard**  
+[Running the Leaderboard Locally](https://github.com/embeddings-benchmark/mteb/blob/main/docs/usage/usage.md#running-the-leaderboard-locally) | How to run the leaderboard locally  
+[Report Data Contamination](https://github.com/embeddings-benchmark/mteb/blob/main/docs/usage/usage.md#annotate-contamination) | How to report data contamination for a model  
+[Fetching Result from the Leaderboard](https://github.com/embeddings-benchmark/mteb/blob/main/docs/usage/usage.md#fetching-results-from-the-leaderboard) | How to fetch the raw results from the leaderboard  
+## Overview
+[](https://github.com/embeddings-benchmark/mteb/tree/main/#overview)
+Overview  
+---  
+📈 [Leaderboard](https://huggingface.co/spaces/mteb/leaderboard) | The interactive leaderboard of the benchmark  
+📋 [Tasks](https://github.com/embeddings-benchmark/mteb/blob/main/docs/tasks.md) | Overview of available tasks  
+📐 [Benchmarks](https://github.com/embeddings-benchmark/mteb/blob/main/docs/benchmarks.md) | Overview of available benchmarks  
+**Contributing**  
+🤖 [Adding a model](https://github.com/embeddings-benchmark/mteb/blob/main/docs/adding_a_model.md) | Information related to how to submit a model to MTEB and to the leaderboard  
+👩‍🔬 [Reproducible workflows](https://github.com/embeddings-benchmark/mteb/blob/main/docs/reproducible_workflow.md) | Information related to how to create reproducible workflows with MTEB  
+👩‍💻 [Adding a dataset](https://github.com/embeddings-benchmark/mteb/blob/main/docs/adding_a_dataset.md) | How to add a new task/dataset to MTEB  
+👩‍💻 [Adding a benchmark](https://github.com/embeddings-benchmark/mteb/blob/main/docs/adding_a_benchmark.md) | How to add a new benchmark to MTEB and to the leaderboard  
+🤝 [Contributing](https://github.com/embeddings-benchmark/mteb/blob/main/CONTRIBUTING.md) | How to contribute to MTEB and set it up for development  
+## Citing
+[](https://github.com/embeddings-benchmark/mteb/tree/main/#citing)
+MTEB was introduced in "[MTEB: Massive Text Embedding Benchmark](https://arxiv.org/abs/2210.07316)", and heavily expanded in "[MMTEB: Massive Multilingual Text Embedding Benchmark](https://arxiv.org/abs/2502.13595)". When using `mteb`, we recommend that you cite both articles.
+Bibtex Citation (click to unfold) 
+```
+@article{muennighoff2022mteb,
+ author = {Muennighoff, Niklas and Tazi, Nouamane and Magne, Lo{\"\i}c and Reimers, Nils},
+ title = {MTEB: Massive Text Embedding Benchmark},
+ publisher = {arXiv},
+ journal={arXiv preprint arXiv:2210.07316},
+ year = {2022}
+ url = {https://arxiv.org/abs/2210.07316},
+ doi = {10.48550/ARXIV.2210.07316},
+}
+@article{enevoldsen2025mmtebmassivemultilingualtext,
+ title={MMTEB: Massive Multilingual Text Embedding Benchmark},
+ author={Kenneth Enevoldsen and Isaac Chung and Imene Kerboua and Márton Kardos and Ashwin Mathur and David Stap and Jay Gala and Wissam Siblini and Dominik Krzemiński and Genta Indra Winata and Saba Sturua and Saiteja Utpala and Mathieu Ciancone and Marion Schaeffer and Gabriel Sequeira and Diganta Misra and Shreeya Dhakal and Jonathan Rystrøm and Roman Solomatin and Ömer Çağatan and Akash Kundu and Martin Bernstorff and Shitao Xiao and Akshita Sukhlecha and Bhavish Pahwa and Rafał Poświata and Kranthi Kiran GV and Shawon Ashraf and Daniel Auras and Björn Plüster and Jan Philipp Harries and Loïc Magne and Isabelle Mohr and Mariya Hendriksen and Dawei Zhu and Hippolyte Gisserot-Boukhlef and Tom Aarsen and Jan Kostkan and Konrad Wojtasik and Taemin Lee and Marek Šuppa and Crystina Zhang and Roberta Rocca and Mohammed Hamdy and Andrianos Michail and John Yang and Manuel Faysse and Aleksei Vatolin and Nandan Thakur and Manan Dey and Dipam Vasani and Pranjal Chitale and Simone Tedeschi and Nguyen Tai and Artem Snegirev and Michael Günther and Mengzhou Xia and Weijia Shi and Xing Han Lù and Jordan Clive and Gayatri Krishnakumar and Anna Maksimova and Silvan Wehrli and Maria Tikhonova and Henil Panchal and Aleksandr Abramov and Malte Ostendorff and Zheng Liu and Simon Clematide and Lester James Miranda and Alena Fenogenova and Guangyu Song and Ruqiya Bin Safi and Wen-Ding Li and Alessia Borghini and Federico Cassano and Hongjin Su and Jimmy Lin and Howard Yen and Lasse Hansen and Sara Hooker and Chenghao Xiao and Vaibhav Adlakha and Orion Weller and Siva Reddy and Niklas Muennighoff},
+ publisher = {arXiv},
+ journal={arXiv preprint arXiv:2502.13595},
+ year={2025},
+ url={https://arxiv.org/abs/2502.13595},
+ doi = {10.48550/arXiv.2502.13595},
+}
+```
+
+If you use any of the specific benchmarks, we also recommend that you cite the authors.
+```
+benchmark = mteb.get_benchmark("MTEB(eng, v2)")
+benchmark.citation # get citation for a specific benchmark
+# you can also create a table of the task for the appendix using:
+benchmark.tasks.to_latex()
+```
+
+Some of these amazing publications include (ordered chronologically):
+  * Shitao Xiao, Zheng Liu, Peitian Zhang, Niklas Muennighoff. "[C-Pack: Packaged Resources To Advance General Chinese Embedding](https://arxiv.org/abs/2309.07597)" arXiv 2023
+  * Michael Günther, Jackmin Ong, Isabelle Mohr, Alaeddine Abdessalem, Tanguy Abel, Mohammad Kalim Akram, Susana Guzman, Georgios Mastrapas, Saba Sturua, Bo Wang, Maximilian Werk, Nan Wang, Han Xiao. "[Jina Embeddings 2: 8192-Token General-Purpose Text Embeddings for Long Documents](https://arxiv.org/abs/2310.19923)" arXiv 2023
+  * Silvan Wehrli, Bert Arnrich, Christopher Irrgang. "[German Text Embedding Clustering Benchmark](https://arxiv.org/abs/2401.02709)" arXiv 2024
+  * Orion Weller, Benjamin Chang, Sean MacAvaney, Kyle Lo, Arman Cohan, Benjamin Van Durme, Dawn Lawrie, Luca Soldaini. "[FollowIR: Evaluating and Teaching Information Retrieval Models to Follow Instructions](https://arxiv.org/abs/2403.15246)" arXiv 2024
+  * Dawei Zhu, Liang Wang, Nan Yang, Yifan Song, Wenhao Wu, Furu Wei, Sujian Li. "[LongEmbed: Extending Embedding Models for Long Context Retrieval](https://arxiv.org/abs/2404.12096)" arXiv 2024
+  * Kenneth Enevoldsen, Márton Kardos, Niklas Muennighoff, Kristoffer Laigaard Nielbo. "[The Scandinavian Embedding Benchmarks: Comprehensive Assessment of Multilingual and Monolingual Text Embedding](https://arxiv.org/abs/2406.02396)" arXiv 2024
+  * Ali Shiraee Kasmaee, Mohammad Khodadad, Mohammad Arshi Saloot, Nick Sherck, Stephen Dokas, Hamidreza Mahyar, Soheila Samiee. "[ChemTEB: Chemical Text Embedding Benchmark, an Overview of Embedding Models Performance & Efficiency on a Specific Domain](https://arxiv.org/abs/2412.00532)" arXiv 2024
+
+
+## About
+MTEB: Massive Text Embedding Benchmark 
+[arxiv.org/abs/2210.07316](https://arxiv.org/abs/2210.07316 "https://arxiv.org/abs/2210.07316")
+### Topics
+[ benchmark ](https://github.com/topics/benchmark "Topic: benchmark") [ information-retrieval ](https://github.com/topics/information-retrieval "Topic: information-retrieval") [ retrieval ](https://github.com/topics/retrieval "Topic: retrieval") [ text-classification ](https://github.com/topics/text-classification "Topic: text-classification") [ clustering ](https://github.com/topics/clustering "Topic: clustering") [ sts ](https://github.com/topics/sts "Topic: sts") [ semantic-search ](https://github.com/topics/semantic-search "Topic: semantic-search") [ reranking ](https://github.com/topics/reranking "Topic: reranking") [ text-embedding ](https://github.com/topics/text-embedding "Topic: text-embedding") [ sgpt ](https://github.com/topics/sgpt "Topic: sgpt") [ neural-search ](https://github.com/topics/neural-search "Topic: neural-search") [ sentence-transformers ](https://github.com/topics/sentence-transformers "Topic: sentence-transformers") [ sbert ](https://github.com/topics/sbert "Topic: sbert") [ multilingual-nlp ](https://github.com/topics/multilingual-nlp "Topic: multilingual-nlp") [ bitext-mining ](https://github.com/topics/bitext-mining "Topic: bitext-mining") [ mteb ](https://github.com/topics/mteb "Topic: mteb")
+### Resources
+[ Readme ](https://github.com/embeddings-benchmark/mteb/tree/main/#readme-ov-file)
+### License
+[ Apache-2.0 license ](https://github.com/embeddings-benchmark/mteb/tree/main/#Apache-2.0-1-ov-file)
+[ Activity](https://github.com/embeddings-benchmark/mteb/activity)
+[ Custom properties](https://github.com/embeddings-benchmark/mteb/custom-properties)
+### Stars
+[ **2.4k** stars](https://github.com/embeddings-benchmark/mteb/stargazers)
+### Watchers
+[ **19** watching](https://github.com/embeddings-benchmark/mteb/watchers)
+### Forks
+[ **356** forks](https://github.com/embeddings-benchmark/mteb/forks)
+[ Report repository ](https://github.com/contact/report-content?content_url=https%3A%2F%2Fgithub.com%2Fembeddings-benchmark%2Fmteb&report=embeddings-benchmark+%28user%29)
+##  [Releases 503](https://github.com/embeddings-benchmark/mteb/releases)
+[ 1.36.33 Latest  Mar 26, 2025 ](https://github.com/embeddings-benchmark/mteb/releases/tag/1.36.33)
+[+ 502 releases](https://github.com/embeddings-benchmark/mteb/releases)
+##  [Packages 0](https://github.com/orgs/embeddings-benchmark/packages?repo_name=mteb)
+No packages published 
+##  [Contributors 164](https://github.com/embeddings-benchmark/mteb/graphs/contributors)
+  * [ ![@github-actions\[bot\]](https://avatars.githubusercontent.com/in/15368?s=64&v=4) ](https://github.com/apps/github-actions)
+  * [ ![@KennethEnevoldsen](https://avatars.githubusercontent.com/u/23721977?s=64&v=4) ](https://github.com/KennethEnevoldsen)
+  * [ ![@Muennighoff](https://avatars.githubusercontent.com/u/62820084?s=64&v=4) ](https://github.com/Muennighoff)
+  * [ ![@NouamaneTazi](https://avatars.githubusercontent.com/u/29777165?s=64&v=4) ](https://github.com/NouamaneTazi)
+  * [ ![@isaac-chung](https://avatars.githubusercontent.com/u/48971969?s=64&v=4) ](https://github.com/isaac-chung)
+  * [ ![@Samoed](https://avatars.githubusercontent.com/u/36135455?s=64&v=4) ](https://github.com/Samoed)
+  * [ ![@x-tabdeveloping](https://avatars.githubusercontent.com/u/13087737?s=64&v=4) ](https://github.com/x-tabdeveloping)
+  * [ ![@loicmagne](https://avatars.githubusercontent.com/u/53355258?s=64&v=4) ](https://github.com/loicmagne)
+  * [ ![@imenelydiaker](https://avatars.githubusercontent.com/u/33312980?s=64&v=4) ](https://github.com/imenelydiaker)
+  * [ ![@awinml](https://avatars.githubusercontent.com/u/97467100?s=64&v=4) ](https://github.com/awinml)
+  * [ ![@dokato](https://avatars.githubusercontent.com/u/4547289?s=64&v=4) ](https://github.com/dokato)
+  * [ ![@orionw](https://avatars.githubusercontent.com/u/31665361?s=64&v=4) ](https://github.com/orionw)
+  * [ ![@MartinBernstorff](https://avatars.githubusercontent.com/u/8526086?s=64&v=4) ](https://github.com/MartinBernstorff)
+
+
+[+ 150 contributors](https://github.com/embeddings-benchmark/mteb/graphs/contributors)
+## Languages
+  * [ Jupyter Notebook 59.7% ](https://github.com/embeddings-benchmark/mteb/search?l=jupyter-notebook)
+  * [ Python 40.3% ](https://github.com/embeddings-benchmark/mteb/search?l=python)
+
+
+## Footer
+[ ](https://github.com "GitHub") © 2025 GitHub, Inc. 
+### Footer navigation
+  * [Terms](https://docs.github.com/site-policy/github-terms/github-terms-of-service)
+  * [Privacy](https://docs.github.com/site-policy/privacy-policies/github-privacy-statement)
+  * [Security](https://github.com/security)
+  * [Status](https://www.githubstatus.com/)
+  * [Docs](https://docs.github.com/)
+  * [Contact](https://support.github.com?tags=dotcom-footer)
+  * Manage cookies 
+  * Do not share my personal information 
+
+
+You can’t perform that action at this time. 

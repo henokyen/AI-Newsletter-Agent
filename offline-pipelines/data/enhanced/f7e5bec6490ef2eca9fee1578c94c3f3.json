@@ -1,0 +1,23 @@
+{
+    "id": "f7e5bec6490ef2eca9fee1578c94c3f3",
+    "metadata": {
+        "id": "f7e5bec6490ef2eca9fee1578c94c3f3",
+        "url": "https://www.notion.so/Infrastructure-f7e5bec6490ef2eca9fee1578c94c3f3",
+        "title": "Infrastructure",
+        "properties": {
+            "Type": "Leaf"
+        }
+    },
+    "parent_metadata": {
+        "id": "c79bf97350ede9b87169dcc00de97cbc",
+        "url": "",
+        "title": "",
+        "properties": {}
+    },
+    "content": "# Tools\n\n\t[Link Preview](https://github.com/skypilot-org/skypilot)",
+    "content_quality_score": 0.2,
+    "summary": null,
+    "child_urls": [
+        "https://github.com/skypilot-org/skypilot/"
+    ]
+}

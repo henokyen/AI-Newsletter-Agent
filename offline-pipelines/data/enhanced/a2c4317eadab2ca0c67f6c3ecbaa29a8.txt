@@ -1,0 +1,167 @@
+•
+NaN / NaN
+Back  [ ](https://www.youtube.com/ "YouTube Home")
+Skip navigation
+Search 
+Search with your voice 
+[ ](https://www.youtube.com/ "YouTube Home")
+tinyML Talks: A Practical Guide to Neural Network Quantization
+Search
+Watch later
+Share
+Copy link
+Info
+Shopping
+Tap to unmute
+2x
+If playback doesn't begin shortly, try restarting your device.
+•
+Up next
+LiveUpcoming
+CancelPlay Now
+You're signed out
+Videos you watch may be added to the TV's watch history and influence TV recommendations. To avoid this, cancel and sign in to YouTube on your computer.
+CancelConfirm
+Share
+Include playlist
+An error occurred while retrieving sharing information. Please try again later.
+0:00
+[](https://www.youtube.com/watch?v=qKAdujuHvuQ "Next \(SHIFT+n\)")
+0:00 / 1:01:19•Watch full videoLive
+•
+•
+Scroll for details
+#  tinyML Talks: A Practical Guide to Neural Network Quantization
+[![](https://yt3.ggpht.com/jPHHLx5pGwaHDmYBFPNVSU5nDq8weY_gpC33RNhpA_xWJR00A1FR-v7MDmnJvU4CiH4wjXN29A=s48-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/@edgeaifoundation)
+[EDGE AI FOUNDATION](https://www.youtube.com/@edgeaifoundation)
+EDGE AI FOUNDATION 
+15.7K subscribers
+<__slot-el>
+Subscribe
+<__slot-el>
+Subscribed
+578
+Share
+Download
+Download 
+Save
+27K views3 years ago[SILICON VALLEY](https://www.youtube.com/results?search_query=Silicon+Valley&sp=EiG4AQHCARtDaElKT2NmUDBJcTJqNEFSRHJYVWE3WldzMzQ%253D)
+27,227 views • Sep 29, 2021 • SILICON VALLEY 
+Show less 
+"A Practical Guide to Neural Network Quantization" Marios Fournarakis Deep Learning Researcher …...more 
+...more 
+## 
+Key moments
+View all
+#### [Practical Guide to Neural Network Quantization Practical Guide to Neural Network Quantization 4:29 ](https://www.youtube.com/watch?v=KASuxB3XoYQ&t=269s)
+#### [Practical Guide to Neural Network Quantization ](https://www.youtube.com/watch?v=KASuxB3XoYQ&t=269s)
+4:29
+#### [What Is Neural Network Quantization What Is Neural Network Quantization 8:12 ](https://www.youtube.com/watch?v=KASuxB3XoYQ&t=492s)
+#### [What Is Neural Network Quantization ](https://www.youtube.com/watch?v=KASuxB3XoYQ&t=492s)
+8:12
+#### [Activation Quantization Activation Quantization 14:20 ](https://www.youtube.com/watch?v=KASuxB3XoYQ&t=860s&pp=0gcJCcwCDuyUWbzu)
+#### [Activation Quantization ](https://www.youtube.com/watch?v=KASuxB3XoYQ&t=860s&pp=0gcJCcwCDuyUWbzu)
+14:20
+#### [Potential Quantization Potential Quantization 19:56 ](https://www.youtube.com/watch?v=KASuxB3XoYQ&t=1196s)
+#### [Potential Quantization ](https://www.youtube.com/watch?v=KASuxB3XoYQ&t=1196s)
+19:56
+Transcript
+Follow along using the transcript.
+Show transcript
+### [EDGE AI FOUNDATION 15.7K subscribers  ](https://www.youtube.com/@edgeaifoundation)
+[Videos](https://www.youtube.com/channel/UC9iWqvsWjhowkHWVJquHwkg/videos)
+[About](https://www.youtube.com/channel/UC9iWqvsWjhowkHWVJquHwkg/about)
+[Videos](https://www.youtube.com/channel/UC9iWqvsWjhowkHWVJquHwkg/videos)[About](https://www.youtube.com/channel/UC9iWqvsWjhowkHWVJquHwkg/about)[LINKEDIN](https://www.youtube.com/redirect?event=Watch_SD_EP&redir_token=QUFFLUhqa0c2UnhxVzlkVVJBTHNpX1JZQnVWd096MEdnQXxBQ3Jtc0tsLVc1ejdUUkVyYXliWk16OUsyczhYX3o1UVBEM1VaZEpXbHdfbGlmU2ZhbzJTWkZmb2YxVGx3bVhpamVjZ0NiZmxKeC1INDVkZWhSU2RwQnJDbUUwRWNQSG5fS25fTExqNERRVVdNd2RxNmlNby1nRQ&q=https%3A%2F%2Fwww.linkedin.com%2Fcompany%2Fedgeaifoundation)
+Show less 
+[](https://www.youtube.com/results?search_query=Silicon+Valley&sp=EiG4AQHCARtDaElKT2NmUDBJcTJqNEFSRHJYVWE3WldzMzQ%253D)[SILICON VALLEY](https://www.youtube.com/results?search_query=Silicon+Valley&sp=EiG4AQHCARtDaElKT2NmUDBJcTJqNEFSRHJYVWE3WldzMzQ%253D)
+# tinyML Talks: A Practical Guide to Neural Network Quantization
+27,227 views27K views
+Sep 29, 2021
+578
+Share
+Download
+Download 
+Save
+##  Comments 1
+Top comments  Newest first 
+##  Key moments
+#### [Practical Guide to Neural Network Quantization Practical Guide to Neural Network Quantization 4:29 ](https://www.youtube.com/watch?v=KASuxB3XoYQ&t=269s&pp=0gcJCcwCDuyUWbzu)
+#### [Practical Guide to Neural Network Quantization ](https://www.youtube.com/watch?v=KASuxB3XoYQ&t=269s&pp=0gcJCcwCDuyUWbzu)
+4:29
+#### [What Is Neural Network Quantization What Is Neural Network Quantization 8:12 ](https://www.youtube.com/watch?v=KASuxB3XoYQ&t=492s)
+#### [What Is Neural Network Quantization ](https://www.youtube.com/watch?v=KASuxB3XoYQ&t=492s)
+8:12
+#### [Activation Quantization Activation Quantization 14:20 ](https://www.youtube.com/watch?v=KASuxB3XoYQ&t=860s)
+#### [Activation Quantization ](https://www.youtube.com/watch?v=KASuxB3XoYQ&t=860s)
+14:20
+#### [Potential Quantization Potential Quantization 19:56 ](https://www.youtube.com/watch?v=KASuxB3XoYQ&t=1196s)
+#### [Potential Quantization ](https://www.youtube.com/watch?v=KASuxB3XoYQ&t=1196s)
+19:56
+#### [Why Is Isometric Quantization Recommended over Symmetric Quantization of the Activation Why Is Isometric Quantization Recommended over Symmetric Quantization of the Activation 23:53 ](https://www.youtube.com/watch?v=KASuxB3XoYQ&t=1433s)
+#### [Why Is Isometric Quantization Recommended over Symmetric Quantization of the Activation ](https://www.youtube.com/watch?v=KASuxB3XoYQ&t=1433s)
+23:53
+#### [The Source of Quantization Error The Source of Quantization Error 27:38 ](https://www.youtube.com/watch?v=KASuxB3XoYQ&t=1658s)
+#### [The Source of Quantization Error ](https://www.youtube.com/watch?v=KASuxB3XoYQ&t=1658s)
+27:38
+#### [What Algorithms Should I Choose To Improve My Accuracy What Algorithms Should I Choose To Improve My Accuracy 30:53 ](https://www.youtube.com/watch?v=KASuxB3XoYQ&t=1853s)
+#### [What Algorithms Should I Choose To Improve My Accuracy ](https://www.youtube.com/watch?v=KASuxB3XoYQ&t=1853s)
+30:53
+#### [Post Training Quantization Post Training Quantization 31:56 ](https://www.youtube.com/watch?v=KASuxB3XoYQ&t=1916s&pp=0gcJCcwCDuyUWbzu)
+#### [Post Training Quantization ](https://www.youtube.com/watch?v=KASuxB3XoYQ&t=1916s&pp=0gcJCcwCDuyUWbzu)
+31:56
+#### [Cross-Layer Equalization Cross-Layer Equalization 32:11 ](https://www.youtube.com/watch?v=KASuxB3XoYQ&t=1931s)
+#### [Cross-Layer Equalization ](https://www.youtube.com/watch?v=KASuxB3XoYQ&t=1931s)
+32:11
+#### [Bias Absorption Bias Absorption 34:23 ](https://www.youtube.com/watch?v=KASuxB3XoYQ&t=2063s)
+#### [Bias Absorption ](https://www.youtube.com/watch?v=KASuxB3XoYQ&t=2063s)
+34:23
+#### [Add the Quantizes Add the Quantizes 35:17 ](https://www.youtube.com/watch?v=KASuxB3XoYQ&t=2117s)
+#### [Add the Quantizes ](https://www.youtube.com/watch?v=KASuxB3XoYQ&t=2117s)
+35:17
+#### [Bias Correction Bias Correction 35:52 ](https://www.youtube.com/watch?v=KASuxB3XoYQ&t=2152s)
+#### [Bias Correction ](https://www.youtube.com/watch?v=KASuxB3XoYQ&t=2152s)
+35:52
+#### [Results Results 40:42 ](https://www.youtube.com/watch?v=KASuxB3XoYQ&t=2442s)
+#### [Results ](https://www.youtube.com/watch?v=KASuxB3XoYQ&t=2442s)
+40:42
+#### [Conversational Web Training Pipeline Conversational Web Training Pipeline 43:58 ](https://www.youtube.com/watch?v=KASuxB3XoYQ&t=2638s&pp=0gcJCcwCDuyUWbzu)
+#### [Conversational Web Training Pipeline ](https://www.youtube.com/watch?v=KASuxB3XoYQ&t=2638s&pp=0gcJCcwCDuyUWbzu)
+43:58
+#### [Quantizers and the Range Estimation Quantizers and the Range Estimation 44:32 ](https://www.youtube.com/watch?v=KASuxB3XoYQ&t=2672s)
+#### [Quantizers and the Range Estimation ](https://www.youtube.com/watch?v=KASuxB3XoYQ&t=2672s)
+44:32
+#### [What Techniques Would You Recommend To Recover Errors What Techniques Would You Recommend To Recover Errors 53:01 ](https://www.youtube.com/watch?v=KASuxB3XoYQ&t=3181s)
+#### [What Techniques Would You Recommend To Recover Errors ](https://www.youtube.com/watch?v=KASuxB3XoYQ&t=3181s)
+53:01
+#### [Finding the Aim Tool Finding the Aim Tool 54:19 ](https://www.youtube.com/watch?v=KASuxB3XoYQ&t=3259s)
+#### [Finding the Aim Tool ](https://www.youtube.com/watch?v=KASuxB3XoYQ&t=3259s)
+54:19
+#### [Sponsors Sponsors 58:29 ](https://www.youtube.com/watch?v=KASuxB3XoYQ&t=3509s)
+#### [Sponsors ](https://www.youtube.com/watch?v=KASuxB3XoYQ&t=3509s)
+58:29
+Sync to video time 
+Sync to video time
+##  Description
+tinyML Talks: A Practical Guide to Neural Network Quantization
+578Likes
+27,227Views
+2021Sep 29
+"A Practical Guide to Neural Network Quantization" Marios Fournarakis Deep Learning Researcher Qualcomm AI Research, Amsterdam Neural network quantization is an effective way of reducing the power requirements and latency of neural network inference while maintaining high accuracy. The success of quantization has led to a large volume of literature and competing methods in recent years, and Qualcomm has been at the forefront of this research. This talk aims to cut through the noise and introduce a practical guide for quantizing neural networks inspired by our research and expertise at Qualcomm. We will begin with an introduction to quantization and fixed-point accelerators for neural network inference. We will then consider implementation pipelines for quantizing neural networks with near floating-point accuracy for popular neural networks and benchmarks. Finally, you will leave this talk with a set of diagnostic and debugging tools to address common neural network quantization issues. You can find more information about the theory and algorithms we will discuss in this talk in our White Paper on Neural Network Quantization at the following arXiv link: [https://arxiv.org/abs/2106.08295](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbWExbURqbm9TQmxxZXVvMDdqMkg4SF9kTWhFZ3xBQ3Jtc0tsZUgzZE5sdXRWRHZ2MlFiaTZERkVIanZjZktXZ1dReWdLRk1nV1FGVlVzQkVQUVJLMVQ3dEc1RTZ1MTBHSlJlV1VYN201b0pBc1pJSVVTdTE1bGlvNjR1cFcxa0dCekV2T1NwT1dOaE9uWlY3b0liQQ&q=https%3A%2F%2Farxiv.org%2Fabs%2F2106.08295&v=KASuxB3XoYQ)…...more 
+...more Show less 
+## 
+Key moments
+View all
+Transcript
+Follow along using the transcript.
+Show transcript
+### [EDGE AI FOUNDATION 15.7K subscribers  ](https://www.youtube.com/@edgeaifoundation)
+[Videos](https://www.youtube.com/channel/UC9iWqvsWjhowkHWVJquHwkg/videos)
+[About](https://www.youtube.com/channel/UC9iWqvsWjhowkHWVJquHwkg/about)
+[Videos](https://www.youtube.com/channel/UC9iWqvsWjhowkHWVJquHwkg/videos)[About](https://www.youtube.com/channel/UC9iWqvsWjhowkHWVJquHwkg/about)[LINKEDIN](https://www.youtube.com/redirect?event=Watch_SD_EP&redir_token=QUFFLUhqa0c2UnhxVzlkVVJBTHNpX1JZQnVWd096MEdnQXxBQ3Jtc0tsLVc1ejdUUkVyYXliWk16OUsyczhYX3o1UVBEM1VaZEpXbHdfbGlmU2ZhbzJTWkZmb2YxVGx3bVhpamVjZ0NiZmxKeC1INDVkZWhSU2RwQnJDbUUwRWNQSG5fS25fTExqNERRVVdNd2RxNmlNby1nRQ&q=https%3A%2F%2Fwww.linkedin.com%2Fcompany%2Fedgeaifoundation)
+##  Transcript
+NaN / NaN
+![](https://lh3.googleusercontent.com/proxy/PmklFZt7YjMZF5cJbA-x_xGxDcRtHjvvzv7E6Fg9JY_F2-w7cn2vAct6lA2PlnMvZ-zxg1srfO64rYntFWB536VMsevHFL-BUFZf5CLYUd83ujY0mEx82lp9HBIBaJqkVg)
+[The knowledge u need to do ur best work](https://www.googleadservices.com/pagead/aclk?sa=L&ai=CzIYcA4PpZ5XFGunHrr4Pmruv6Aid663ifPXCwfmxE7GQHxABIABgybaGh8yjwBeCARdjYS1wdWItNjIxOTgxMTc0NzA0OTM3MaABrIPbxgOoAwTIAwqqBOUCT9AF1ztYCvtDo9Xtl02z9Ephwa05ESXtPZDEVypqLvq3XlrlkQnnTKnE9dcDgAO9xX_gRdNvTrsTGAcne3Qq6YUg5X0RqfiugRUpx8ISKQRRroX0ytGAL8bvrCEaOJyzPqG1juMbaaQrDmlRpPCZevKZ42wsOiTCeJNC1O8Lp-QSS2NsDfm6bf3NGjbR9PPdFnAHo7jez0et8l8Xb5QicMnNNOWNt5_hQ-y8NvDA5i6g7s5e4izfiBX-aPEUONicIzLa0oGeC5AhRISLViwTQiI18JHmkvP5bXU8E8VnJOnrjx8YtrX1_fJXfr2PlzcB0Janjz2KBAGKtgLD_C3u-eQD_lVOBStEU0mk3ELtFM-AVmz9gMtk7Y20RreDqMu0FmDMqyku0T49hNvFtebYCS869qUMfQmQgXeHW1wFGdsoav6fMYBGvBTbsQjH6AfkAA7aNpdsYOtA2JBZva4kz8Uipg2bkgUJCBNoAniszYY6oAZugAe8_KQ5kAcEqAf5sbECqAeAurECqAfywLECqAe4xLECqAelz7ECqAe9zbECqAfnnbECqAfonbECqAfvtbECqAfwtbECqAeCqrECqAeECKgHqNIbqAe2B6gHsdwbqAewm7ECqAeusbECqAfmvLECqAfKurECqAf8y7ECqAf9srECqAf3uLECqAf4uLECqAfNx7ECqAelzLECqAeBxhuoB_yvsQKoB6vFG6gHt6GxAqgH1amxAqgH3rWxAqgH6rGxAqgHvrexAqgHmbWxAqgHhcGxAqgH66WxAqgHyqmxAtIILgiIwYBAEAEYXjIDg4IBOg6A44CAQIDAgICAgICAAkjZoNI1UBRY4N7r2q2yjAPyCB9jYS15dC1ob3N0LXB1Yi04MzU0MTk1NjY5NDgwMTA4mgkXaHR0cHM6Ly93d3cuZ2V0Z3VydS5jb22xCdQpSww0nxWbyAkAyAmKApgLAaELfwN4BK8THQO6Cz0IARAFGAQgCCgBMBpAAUgAUAFYAWAAaABwAYgBAJgBAaIBDgoAGAFYAXABqAIB2AICqAEB2AEBgAIBiAIG0AsS2gwmCgsQ0Mi4o4fi6MHTARICAQMaDRif9oC3UiDE4NnehgVAAUoCEB-aDQESoA0Bqg0CVVPIDQHSDZgCaHR0cHM6Ly93d3cuZ2V0Z3VydS5jb20_c291cmNlPUdvb2dsZSZtZWRpdW09Y3BjJmNhbXBhaWduPURlbUdlbkNvbXBzJnV0bV90ZXJtPSZ1dG1fY2FtcGFpZ249JnV0bV9zb3VyY2U9YWR3b3JkcyZ1dG1fbWVkaXVtPXBwYyZoc2FfYWNjPTEyNDkwNTA4NzMmaHNhX2NhbT0yMjEyNzA2NTg4NyZoc2FfZ3JwPTE3MzYwNzkwNzM5NiZoc2FfYWQ9NzI5NDA0MzAzOTEyJmhzYV9zcmM9JmhzYV90Z3Q9JmhzYV9rdz0maHNhX210PSZoc2FfbmV0PWFkd29yZHMmaHNhX3Zlcj0zJmdhZF9zb3VyY2U9MrgT____________AYgUCrAUAcAVgYCAQNAVAdgVAeIWAggBgBcBihcWCAMYASABKAEwATgBQAFIAVABWAFgAqAXAakXYpLhKHYiKDG6FwYoADAAOAHQGAHwGAE&ase=2&gclid=EAIaIQobChMI1dLs2q2yjAMV6aPLAR2a3QuNEAEYASAAEgLZV_D_BwE&num=1&cid=CAASFeRo97pTjJsnnuYcmYBPNt6kO135iA&sig=AOD64_2UzjBbgRMj7K0gigwAXbEKJ30-AQ&ms=%5BCLICK_MS%5D&nb=0&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D)[Share and Find Knowledge: Guru's integrated intranet, wiki, enterprise search capabilities](https://www.googleadservices.com/pagead/aclk?sa=L&ai=CzIYcA4PpZ5XFGunHrr4Pmruv6Aid663ifPXCwfmxE7GQHxABIABgybaGh8yjwBeCARdjYS1wdWItNjIxOTgxMTc0NzA0OTM3MaABrIPbxgOoAwTIAwqqBOUCT9AF1ztYCvtDo9Xtl02z9Ephwa05ESXtPZDEVypqLvq3XlrlkQnnTKnE9dcDgAO9xX_gRdNvTrsTGAcne3Qq6YUg5X0RqfiugRUpx8ISKQRRroX0ytGAL8bvrCEaOJyzPqG1juMbaaQrDmlRpPCZevKZ42wsOiTCeJNC1O8Lp-QSS2NsDfm6bf3NGjbR9PPdFnAHo7jez0et8l8Xb5QicMnNNOWNt5_hQ-y8NvDA5i6g7s5e4izfiBX-aPEUONicIzLa0oGeC5AhRISLViwTQiI18JHmkvP5bXU8E8VnJOnrjx8YtrX1_fJXfr2PlzcB0Janjz2KBAGKtgLD_C3u-eQD_lVOBStEU0mk3ELtFM-AVmz9gMtk7Y20RreDqMu0FmDMqyku0T49hNvFtebYCS869qUMfQmQgXeHW1wFGdsoav6fMYBGvBTbsQjH6AfkAA7aNpdsYOtA2JBZva4kz8Uipg2bkgUJCBNoAniszYY6oAZugAe8_KQ5kAcEqAf5sbECqAeAurECqAfywLECqAe4xLECqAelz7ECqAe9zbECqAfnnbECqAfonbECqAfvtbECqAfwtbECqAeCqrECqAeECKgHqNIbqAe2B6gHsdwbqAewm7ECqAeusbECqAfmvLECqAfKurECqAf8y7ECqAf9srECqAf3uLECqAf4uLECqAfNx7ECqAelzLECqAeBxhuoB_yvsQKoB6vFG6gHt6GxAqgH1amxAqgH3rWxAqgH6rGxAqgHvrexAqgHmbWxAqgHhcGxAqgH66WxAqgHyqmxAtIILgiIwYBAEAEYXjIDg4IBOg6A44CAQIDAgICAgICAAkjZoNI1UBRY4N7r2q2yjAPyCB9jYS15dC1ob3N0LXB1Yi04MzU0MTk1NjY5NDgwMTA4mgkXaHR0cHM6Ly93d3cuZ2V0Z3VydS5jb22xCdQpSww0nxWbyAkAyAmKApgLAaELfwN4BK8THQO6Cz0IARAFGAQgCCgBMBpAAUgAUAFYAWAAaABwAYgBAJgBAaIBDgoAGAFYAXABqAIB2AICqAEB2AEBgAIBiAIG0AsS2gwmCgsQ0Mi4o4fi6MHTARICAQMaDRif9oC3UiDE4NnehgVAAUoCEB-aDQESoA0Bqg0CVVPIDQHSDZgCaHR0cHM6Ly93d3cuZ2V0Z3VydS5jb20_c291cmNlPUdvb2dsZSZtZWRpdW09Y3BjJmNhbXBhaWduPURlbUdlbkNvbXBzJnV0bV90ZXJtPSZ1dG1fY2FtcGFpZ249JnV0bV9zb3VyY2U9YWR3b3JkcyZ1dG1fbWVkaXVtPXBwYyZoc2FfYWNjPTEyNDkwNTA4NzMmaHNhX2NhbT0yMjEyNzA2NTg4NyZoc2FfZ3JwPTE3MzYwNzkwNzM5NiZoc2FfYWQ9NzI5NDA0MzAzOTEyJmhzYV9zcmM9JmhzYV90Z3Q9JmhzYV9rdz0maHNhX210PSZoc2FfbmV0PWFkd29yZHMmaHNhX3Zlcj0zJmdhZF9zb3VyY2U9MrgT____________AYgUCrAUAcAVgYCAQNAVAdgVAeIWAggBgBcBihcWCAMYASABKAEwATgBQAFIAVABWAFgAqAXAakXYpLhKHYiKDG6FwYoADAAOAHQGAHwGAE&ase=2&gclid=EAIaIQobChMI1dLs2q2yjAMV6aPLAR2a3QuNEAEYASAAEgLZV_D_BwE&num=1&cid=CAASFeRo97pTjJsnnuYcmYBPNt6kO135iA&sig=AOD64_2UzjBbgRMj7K0gigwAXbEKJ30-AQ&ms=%5BCLICK_MS%5D&nb=7&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D)
+Sponsored
+Guru
+[Visit site](https://www.googleadservices.com/pagead/aclk?sa=L&ai=CzIYcA4PpZ5XFGunHrr4Pmruv6Aid663ifPXCwfmxE7GQHxABIABgybaGh8yjwBeCARdjYS1wdWItNjIxOTgxMTc0NzA0OTM3MaABrIPbxgOoAwTIAwqqBOUCT9AF1ztYCvtDo9Xtl02z9Ephwa05ESXtPZDEVypqLvq3XlrlkQnnTKnE9dcDgAO9xX_gRdNvTrsTGAcne3Qq6YUg5X0RqfiugRUpx8ISKQRRroX0ytGAL8bvrCEaOJyzPqG1juMbaaQrDmlRpPCZevKZ42wsOiTCeJNC1O8Lp-QSS2NsDfm6bf3NGjbR9PPdFnAHo7jez0et8l8Xb5QicMnNNOWNt5_hQ-y8NvDA5i6g7s5e4izfiBX-aPEUONicIzLa0oGeC5AhRISLViwTQiI18JHmkvP5bXU8E8VnJOnrjx8YtrX1_fJXfr2PlzcB0Janjz2KBAGKtgLD_C3u-eQD_lVOBStEU0mk3ELtFM-AVmz9gMtk7Y20RreDqMu0FmDMqyku0T49hNvFtebYCS869qUMfQmQgXeHW1wFGdsoav6fMYBGvBTbsQjH6AfkAA7aNpdsYOtA2JBZva4kz8Uipg2bkgUJCBNoAniszYY6oAZugAe8_KQ5kAcEqAf5sbECqAeAurECqAfywLECqAe4xLECqAelz7ECqAe9zbECqAfnnbECqAfonbECqAfvtbECqAfwtbECqAeCqrECqAeECKgHqNIbqAe2B6gHsdwbqAewm7ECqAeusbECqAfmvLECqAfKurECqAf8y7ECqAf9srECqAf3uLECqAf4uLECqAfNx7ECqAelzLECqAeBxhuoB_yvsQKoB6vFG6gHt6GxAqgH1amxAqgH3rWxAqgH6rGxAqgHvrexAqgHmbWxAqgHhcGxAqgH66WxAqgHyqmxAtIILgiIwYBAEAEYXjIDg4IBOg6A44CAQIDAgICAgICAAkjZoNI1UBRY4N7r2q2yjAPyCB9jYS15dC1ob3N0LXB1Yi04MzU0MTk1NjY5NDgwMTA4mgkXaHR0cHM6Ly93d3cuZ2V0Z3VydS5jb22xCdQpSww0nxWbyAkAyAmKApgLAaELfwN4BK8THQO6Cz0IARAFGAQgCCgBMBpAAUgAUAFYAWAAaABwAYgBAJgBAaIBDgoAGAFYAXABqAIB2AICqAEB2AEBgAIBiAIG0AsS2gwmCgsQ0Mi4o4fi6MHTARICAQMaDRif9oC3UiDE4NnehgVAAUoCEB-aDQESoA0Bqg0CVVPIDQHSDZgCaHR0cHM6Ly93d3cuZ2V0Z3VydS5jb20_c291cmNlPUdvb2dsZSZtZWRpdW09Y3BjJmNhbXBhaWduPURlbUdlbkNvbXBzJnV0bV90ZXJtPSZ1dG1fY2FtcGFpZ249JnV0bV9zb3VyY2U9YWR3b3JkcyZ1dG1fbWVkaXVtPXBwYyZoc2FfYWNjPTEyNDkwNTA4NzMmaHNhX2NhbT0yMjEyNzA2NTg4NyZoc2FfZ3JwPTE3MzYwNzkwNzM5NiZoc2FfYWQ9NzI5NDA0MzAzOTEyJmhzYV9zcmM9JmhzYV90Z3Q9JmhzYV9rdz0maHNhX210PSZoc2FfbmV0PWFkd29yZHMmaHNhX3Zlcj0zJmdhZF9zb3VyY2U9MrgT____________AYgUCrAUAcAVgYCAQNAVAdgVAeIWAggBgBcBihcWCAMYASABKAEwATgBQAFIAVABWAFgAqAXAakXYpLhKHYiKDG6FwYoADAAOAHQGAHwGAE&ase=2&gclid=EAIaIQobChMI1dLs2q2yjAMV6aPLAR2a3QuNEAEYASAAEgLZV_D_BwE&num=1&cid=CAASFeRo97pTjJsnnuYcmYBPNt6kO135iA&sig=AOD64_2UzjBbgRMj7K0gigwAXbEKJ30-AQ&ms=%5BCLICK_MS%5D&nb=8&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D)

@@ -1,0 +1,25 @@
+{
+    "id": "e554e128abffde35afcbc87e1ee0a107",
+    "metadata": {
+        "id": "e554e128abffde35afcbc87e1ee0a107",
+        "url": "https://www.notion.so/Inference-Engines-e554e128abffde35afcbc87e1ee0a107",
+        "title": "Inference Engines",
+        "properties": {
+            "Type": "Leaf"
+        }
+    },
+    "parent_metadata": {
+        "id": "7e97033ef3e196acc1f2c0ef45ed64aa",
+        "url": "",
+        "title": "",
+        "properties": {}
+    },
+    "content": "# Resources [Community]\n\n# Resources [Science]\n\n# Tools\n\n\t[Link Preview](https://github.com/huggingface/text-generation-inference)\n\t[Link Preview](https://github.com/vllm-project/vllm)\n\t[Link Preview](https://github.com/NVIDIA/TensorRT-LLM)",
+    "content_quality_score": 0.2,
+    "summary": null,
+    "child_urls": [
+        "https://github.com/huggingface/text-generation-inference/",
+        "https://github.com/vllm-project/vllm/",
+        "https://github.com/NVIDIA/TensorRT-LLM/"
+    ]
+}

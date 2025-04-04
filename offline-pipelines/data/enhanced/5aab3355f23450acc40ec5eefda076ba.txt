@@ -1,0 +1,431 @@
+[Skip to content](https://towardsdatascience.com/advanced-retrieval-augmented-generation-from-theory-to-llamaindex-implementation-4de1464a9930/#wp--skip-link--target)
+[![Towards Data Science](https://towardsdatascience.com/wp-content/uploads/2025/02/TDS-Vector-Logo.svg)](https://towardsdatascience.com/)
+The world’s leading publication for data science, AI, and ML professionals.
+Sign in
+Sign out
+[Contributor Portal](https://contributor.insightmediagroup.io/)
+  * [Latest](https://towardsdatascience.com/latest/)
+  * [Editor’s Picks](https://towardsdatascience.com/tag/editors-pick/)
+  * [Deep Dives](https://towardsdatascience.com/tag/deep-dives/)
+  * [Contribute](https://towardsdatascience.com/questions-96667b06af5/)
+  * [Newsletter](https://newsletter.towardsdatascience.com/subscription-to-the-newsletter)
+[![Towards Data Science](https://towardsdatascience.com/wp-content/uploads/2025/02/TDS-Vector-Logo.svg)](https://towardsdatascience.com/)
+
+
+Toggle Mobile Navigation
+  * [LinkedIn](https://www.linkedin.com/company/towards-data-science/?originalSubdomain=ca)
+  * [X](https://x.com/TDataScience)
+
+
+Toggle Search
+Search
+[ Artificial Intelligence ](https://towardsdatascience.com/category/artificial-intelligence/)
+# Advanced Retrieval-Augmented Generation: From Theory to LlamaIndex Implementation
+How to address limitations of naive RAG pipelines by implementing targeted advanced RAG techniques in Python 
+[Leonie Monigatti](https://towardsdatascience.com/author/iamleonie/)
+Feb 19, 2024
+10 min read
+Share 
+![Difference between Naive and Advanced RAG \(Image by the author, inspired by \[1\]\)](https://towardsdatascience.com/wp-content/uploads/2024/02/18z-QRadKewNmos0J_4TNAQ.png)Difference between Naive and Advanced RAG (Image by the author, inspired by [1])
+A recent survey on [Retrieval-Augmented Generation (RAG)](https://medium.com/towards-data-science/retrieval-augmented-generation-rag-from-theory-to-langchain-implementation-4e9bd5f6a4f2) [1] summarized three recently evolved paradigms:
+  * Naive RAG,
+  * advanced RAG, and
+  * modular RAG.
+
+
+The advanced RAG paradigm comprises of a set of techniques targeted at addressing known limitations of naive RAG. This article first discusses these techniques, which can be categorized into _pre-retrieval, retrieval, and post-retrieval optimizations_.
+In the second half, you will learn how to implement a naive RAG pipeline using [Llamaindex](https://www.llamaindex.ai/) in Python, which will then be enhanced to an advanced RAG pipeline with a selection of the following advanced RAG techniques:
+  * [Pre-retrieval optimization: Sentence window retrieval](https://towardsdatascience.com/advanced-retrieval-augmented-generation-from-theory-to-llamaindex-implementation-4de1464a9930/#c968)
+  * [Retrieval optimization: Hybrid search](https://towardsdatascience.com/advanced-retrieval-augmented-generation-from-theory-to-llamaindex-implementation-4de1464a9930/#3275)
+  * [Post-retrieval optimization: Re-ranking](https://towardsdatascience.com/advanced-retrieval-augmented-generation-from-theory-to-llamaindex-implementation-4de1464a9930/#c1e2)
+
+
+This article focuses on the **advanced RAG paradigm** and its implementation. If you are unfamiliar with the fundamentals of RAG, you can catch up on it here:
+> [**Retrieval-Augmented Generation (RAG): From Theory to LangChain Implementation**](https://towardsdatascience.com/retrieval-augmented-generation-rag-from-theory-to-langchain-implementation-4e9bd5f6a4f2)
+## What is Advanced RAG
+With the recent advancements in the RAG domain, advanced RAG has evolved as a new paradigm with targeted enhancements to address some of the limitations of the naive RAG paradigm. As summarized in a recent survey [1], advanced RAG techniques can be categorized into pre-retrieval, retrieval, and post-retrieval optimizations.
+![Difference between Naive and Advanced RAG \(Image by the author, inspired by \[1\]\)](https://towardsdatascience.com/wp-content/uploads/2024/02/16bTQeYn9814yAgLor2EFrQ.png)Difference between Naive and Advanced RAG (Image by the author, inspired by [1])
+## Pre-retrieval optimization
+Pre-retrieval optimizations focus on data indexing optimizations as well as query optimizations. Data indexing optimization techniques aim to store the data in a way that helps you improve retrieval efficiency, such as [1]:
+  * **Sliding window** uses an overlap between chunks and is one of the simplest techniques.
+  * **Enhancing data granularity** applies data cleaning techniques, such as removing irrelevant information, confirming factual accuracy, updating outdated information, etc.
+  * **Adding metadata** , such as dates, purposes, or chapters, for filtering purposes.
+  * **Optimizing index structures** involves different strategies to index data, such as adjusting the chunk sizes or using multi-indexing strategies. One technique we will implement in this article is sentence window retrieval, which embeds single sentences for retrieval and replaces them with a larger text window at inference time.
+
+![Sentence window retrieval](https://towardsdatascience.com/wp-content/uploads/2024/02/1pbU5KBqYWhx0GOeNRMiPoA.png)Sentence window retrieval
+Additionally, pre-retrieval techniques aren’t limited to data indexing and can cover **techniques at inference time** , such as query routing, query rewriting, and query expansion.
+## Retrieval optimization
+The retrieval stage aims to identify the most relevant context. Usually, the retrieval is based on vector search, which calculates the semantic similarity between the query and the indexed data. Thus, the majority of retrieval optimization techniques revolve around the embedding models [1]:
+  * **Fine-tuning embedding models** customizes embedding models to domain-specific contexts, especially for domains with evolving or rare terms. For example, `BAAI/bge-small-en` is a high-performance embedding model that can be fine-tuned (see[ Fine-tuning guide](https://betterprogramming.pub/fine-tuning-your-embedding-model-to-maximize-relevance-retrieval-in-rag-pipeline-2ea3fa231149))
+  * **Dynamic Embedding** adapts to the context in which words are used, unlike static embedding, which uses a single vector for each word. For example, OpenAI’s `embeddings-ada-02` is a sophisticated dynamic embedding model that captures contextual understanding. [1]
+
+
+There are also other retrieval techniques besides vector search, such as hybrid search, which often refers to the concept of combining vector search with keyword-based search. This retrieval technique is beneficial if your retrieval requires exact keyword matches.
+> [**Improving Retrieval Performance in RAG Pipelines with Hybrid Search**](https://towardsdatascience.com/improving-retrieval-performance-in-rag-pipelines-with-hybrid-search-c75203c2f2f5)
+## Post-retrieval optimization
+Additional processing of the retrieved context can help address issues such as exceeding the context window limit or introducing noise, thus hindering the focus on crucial information. Post-retrieval optimization techniques summarized in the RAG survey [1] are:
+  * **Prompt compression** reduces the overall prompt length by removing irrelevant and highlighting important context.
+  * **Re-ranking** uses [Machine Learning](https://towardsdatascience.com/tag/machine-learning/ "Machine Learning") models to recalculate the relevance scores of the retrieved contexts.
+
+![Re-ranking](https://towardsdatascience.com/wp-content/uploads/2024/02/1owudWLuoXhqeLjStCsnDiw.png)Re-ranking
+For additional ideas on how to improve the performance of your RAG pipeline to make it production-ready, continue reading here:
+> [**A Guide on 12 Tuning Strategies for Production-Ready RAG Applications**](https://towardsdatascience.com/a-guide-on-12-tuning-strategies-for-production-ready-rag-applications-7ca646833439)
+## Prerequisites
+This section discusses the required packages and API keys to follow along in this article.
+### Required Packages
+This article will guide you through implementing a naive and an advanced RAG pipeline using [LlamaIndex](https://www.llamaindex.ai/) in Python.
+```
+pip install llama-index
+```
+
+In this article, we will be using LlamaIndex `v0.10`. If you are upgrading from an older LlamaIndex version, you need to run the following commands to install and run LlamaIndex properly:
+```
+pip uninstall llama-index
+pip install llama-index --upgrade --no-cache-dir --force-reinstall
+```
+
+LlamaIndex offers an option to store vector embeddings locally in JSON files for persistent storage, which is great for quickly prototyping an idea. However, we will use a vector database for persistent storage since advanced RAG techniques aim for production-ready applications.
+Since we will need metadata storage and hybrid search capabilities in addition to storing the vector embeddings, we will use the open source vector database [Weaviate](http://weaviate.io) (`v3.26.2`), which supports these features.
+```
+pip install weaviate-client llama-index-vector-stores-weaviate
+```
+
+### API Keys
+We will be using Weaviate embedded, which you can use for free without registering for an API key. However, this tutorial uses an embedding model and LLM from [OpenAI](https://openai.com/), for which you will need an OpenAI API key. To obtain one, you need an OpenAI account and then "Create new secret key" under [API keys](https://platform.openai.com/account/api-keys).
+Next, create a local `.env` file in your root directory and define your API keys in it:
+```
+OPENAI_API_KEY="<YOUR_OPENAI_API_KEY>"
+```
+
+Afterwards, you can load your API keys with the following code:
+```
+# !pip install python-dotenv
+import os
+from dotenv import load_dotenv,find_dotenv
+load_dotenv(find_dotenv())
+```
+
+## Implementing Naive RAG with LlamaIndex
+This section discusses how to implement a naive RAG pipeline using LlamaIndex. You can find the entire naive RAG pipeline in this [Jupyter Notebook](https://github.com/weaviate/recipes/blob/main/integrations/llamaindex/retrieval-augmented-generation/naive_rag.ipynb). For the implementation using LangChain, you can continue in [this article (naive RAG pipeline using LangChain](https://medium.com/towards-data-science/retrieval-augmented-generation-rag-from-theory-to-langchain-implementation-4e9bd5f6a4f2)).
+### Step 1: Define the embedding model and LLM
+First, you can define an embedding model and LLM in a global settings object. Doing this means you don’t have to specify the models explicitly in the code again.
+  * Embedding model: used to generate vector embeddings for the document chunks and the query.
+  * LLM: used to generate an answer based on the user query and the relevant context.
+
+```
+from llama_index.embeddings.openai import OpenAIEmbedding
+from llama_index.llms.openai import OpenAI
+from llama_index.core.settings import Settings
+Settings.llm = OpenAI(model="gpt-3.5-turbo", temperature=0.1)
+Settings.embed_model = OpenAIEmbedding()
+```
+
+### Step 2: Load data
+Next, you will create a local directory named `data` in your root directory and download some example data from the [LlamaIndex GitHub repository](https://github.com/run-llama/llama_index) (MIT license).
+```
+!mkdir -p 'data'
+!wget '<https://raw.githubusercontent.com/run-llama/llama_index/main/docs/examples/data/paul_graham/paul_graham_essay.txt>' -O 'data/paul_graham_essay.txt'
+```
+
+Afterward, you can load the data for further processing:
+```
+from llama_index.core import SimpleDirectoryReader
+# Load data
+documents = SimpleDirectoryReader(
+    input_files=["./data/paul_graham_essay.txt"]
+).load_data()
+```
+
+### Step 3: Chunk documents into nodes
+As the entire document is too large to fit into the context window of the LLM, you will need to partition it into smaller text chunks, which are called `Nodes` in LlamaIndex. You can parse the loaded documents into nodes using the `SimpleNodeParser` with a defined chunk size of 1024.
+```
+from llama_index.core.node_parser import SimpleNodeParser
+node_parser = SimpleNodeParser.from_defaults(chunk_size=1024)
+# Extract nodes from documents
+nodes = node_parser.get_nodes_from_documents(documents)
+```
+
+### Step 4: Build index
+Next, you will build the index that stores all the external knowledge in [Weaviate](https://weaviate.io/), an open source vector database.
+First, you will need to connect to a Weaviate instance. In this case, we’re using [Weaviate Embedded](https://weaviate.io/developers/weaviate/installation/embedded), which allows you to experiment in Notebooks for free without an API key. For a production-ready solution, deploying Weaviate yourself, e.g., [via Docker](https://weaviate.io/developers/weaviate/installation/docker-compose) or utilizing a [managed service](https://weaviate.io/developers/weaviate/installation/weaviate-cloud-services), is recommended.
+```
+import weaviate
+# Connect to your Weaviate instance
+client = weaviate.Client(
+  embedded_options=weaviate.embedded.EmbeddedOptions(), 
+)
+```
+
+Next, you will build a `VectorStoreIndex` from the Weaviate client to store your data in and interact with.
+```
+from llama_index.core import VectorStoreIndex, StorageContext
+from llama_index.vector_stores.weaviate import WeaviateVectorStore
+index_name = "MyExternalContext"
+# Construct vector store
+vector_store = WeaviateVectorStore(
+  weaviate_client = client, 
+  index_name = index_name
+)
+# Set up the storage for the embeddings
+storage_context = StorageContext.from_defaults(vector_store=vector_store)
+# Setup the index
+# build VectorStoreIndex that takes care of chunking documents
+# and encoding chunks to embeddings for future retrieval
+index = VectorStoreIndex(
+  nodes,
+  storage_context = storage_context,
+)
+```
+
+### Step 5: Setup query engine
+Lastly, you will set up the index as the query engine.
+```
+# The QueryEngine class is equipped with the generator
+# and facilitates the retrieval and generation steps
+query_engine = index.as_query_engine()
+```
+
+### Step 6: Run a naive RAG query on your data
+Now, you can run a naive RAG query on your data, as shown below:
+```
+# Run your naive RAG query
+response = query_engine.query(
+  "What happened at Interleaf?"
+)
+```
+
+## Implementing Advanced RAG with LlamaIndex
+In this section, we will cover some simple adjustments you can make to turn the above naive RAG pipeline into an advanced one. This walkthrough will cover the following selection of advanced RAG techniques:
+  * [Pre-retrieval optimization: Sentence window retrieval](https://towardsdatascience.com/advanced-retrieval-augmented-generation-from-theory-to-llamaindex-implementation-4de1464a9930/#c968)
+  * [Retrieval optimization: Hybrid search](https://towardsdatascience.com/advanced-retrieval-augmented-generation-from-theory-to-llamaindex-implementation-4de1464a9930/#3275)
+  * [Post-retrieval optimization: Re-ranking](https://towardsdatascience.com/advanced-retrieval-augmented-generation-from-theory-to-llamaindex-implementation-4de1464a9930/#c1e2)
+
+
+As we will only cover the modifications here, you can find the [full end-to-end advanced RAG pipeline in this Jupyter Notebook](https://github.com/weaviate/recipes/blob/main/integrations/llamaindex/retrieval-augmented-generation/advanced_rag.ipynb).
+## Indexing optimization example: Sentence window retrieval
+For the [sentence window retrieval technique](https://docs.llamaindex.ai/en/stable/examples/node_postprocessor/MetadataReplacementDemo.html), you need to make two adjustments: First, you must adjust how you store and post-process your data. Instead of the `SimpleNodeParser`, we will use the `SentenceWindowNodeParser`.
+```
+from llama_index.core.node_parser import SentenceWindowNodeParser
+# create the sentence window node parser w/ default settings
+node_parser = SentenceWindowNodeParser.from_defaults(
+  window_size=3,
+  window_metadata_key="window",
+  original_text_metadata_key="original_text",
+)
+```
+
+The `SentenceWindowNodeParser` does two things:
+  1. It separates the document into single sentences, which will be embedded.
+  2. For each sentence, it creates a context window. If you specify a `window_size = 3`, the resulting window will be three sentences long, starting at the previous sentence of the embedded sentence and spanning the sentence after. The window will be stored as metadata.
+
+
+During retrieval, the sentence that most closely matches the query is returned. After retrieval, you need to replace the sentence with the entire window from the metadata by defining a `MetadataReplacementPostProcessor` and using it in the list of `node_postprocessors`.
+```
+from llama_index.core.postprocessor import MetadataReplacementPostProcessor
+# The target key defaults to `window` to match the node_parser's default
+postproc = MetadataReplacementPostProcessor(
+  target_metadata_key="window"
+)
+...
+query_engine = index.as_query_engine( 
+  node_postprocessors = [postproc],
+)
+```
+
+## Retrieval optimization example: Hybrid search
+Implementing a hybrid search in LlamaIndex is as easy as two parameter changes to the `query_engine` if the underlying vector database supports hybrid search queries. The `alpha` parameter specifies the weighting between vector search and keyword-based search, where `alpha=0` means keyword-based search and `alpha=1` means pure vector search.
+```
+query_engine = index.as_query_engine(
+  ...,
+  vector_store_query_mode="hybrid", 
+  alpha=0.5,
+  ...
+)
+```
+
+## Post-retrieval optimization example: Re-ranking
+Adding a reranker to your advanced RAG pipeline only takes three simple steps:
+  1. First, define a reranker model. Here, we are using the `BAAI/bge-reranker-base`from Hugging Face.
+  2. In the query engine, add the reranker model to the list of `node_postprocessors`.
+  3. Increase the `similarity_top_k` in the query engine to retrieve more context passages, which can be reduced to `top_n` after reranking.
+
+```
+# !pip install torch sentence-transformers
+from llama_index.core.postprocessor import SentenceTransformerRerank
+# Define reranker model
+rerank = SentenceTransformerRerank(
+  top_n = 2, 
+  model = "BAAI/bge-reranker-base"
+)
+...
+# Add reranker to query engine
+query_engine = index.as_query_engine(
+    similarity_top_k = 6,
+    ...,
+        node_postprocessors = [rerank],
+    ...,
+)
+```
+
+There are many more different techniques within the advanced RAG paradigm. If you are interested in further implementations, I recommend the following two resources:
+> [**Building and Evaluating Advanced RAG Applications**](https://www.deeplearning.ai/short-courses/building-evaluating-advanced-rag/)
+> [**Advanced RAG 01: Small-to-Big Retrieval**](https://towardsdatascience.com/advanced-rag-01-small-to-big-retrieval-172181b396d4)
+## Summary
+This article covered the concept of advanced RAG, which covers a set of techniques to address the limitations of the naive RAG paradigm. After an overview of advanced RAG techniques, which can be categorized into pre-retrieval, retrieval, and post-retrieval techniques, this article implemented a naive and advanced RAG pipeline using LlamaIndex for orchestration.
+The RAG pipeline components were language models from [OpenAI](https://openai.com/), a reranker model from [BAAI](https://www.baai.ac.cn/english.html) hosted on [Hugging Face](https://huggingface.co/), and a [Weaviate](https://weaviate.io/) vector database.
+We implemented the following selection of techniques using LlamaIndex in Python:
+  * [Pre-retrieval optimization: Sentence window retrieval](https://towardsdatascience.com/advanced-retrieval-augmented-generation-from-theory-to-llamaindex-implementation-4de1464a9930/#c968)
+  * [Retrieval optimization: Hybrid search](https://towardsdatascience.com/advanced-retrieval-augmented-generation-from-theory-to-llamaindex-implementation-4de1464a9930/#3275)
+  * [Post-retrieval optimization: Re-ranking](https://towardsdatascience.com/advanced-retrieval-augmented-generation-from-theory-to-llamaindex-implementation-4de1464a9930/#c1e2)
+
+
+You can find the Jupyter Notebooks containing the full end-to-end pipelines here:
+  * [Naive RAG in LlamaIndex](https://github.com/weaviate/recipes/blob/main/integrations/llamaindex/retrieval-augmented-generation/naive_rag.ipynb)
+  * [Advanced RAG in LlamaIndex](https://github.com/weaviate/recipes/blob/main/integrations/llamaindex/retrieval-augmented-generation/advanced_rag.ipynb)
+
+
+## Enjoyed This Story?
+_[Subscribe for free](https://medium.com/subscribe/@iamleonie) to get notified when I publish a new story._
+> [**Get an email whenever Leonie Monigatti publishes.**](https://medium.com/@iamleonie/subscribe)
+_Find me on[LinkedIn](https://www.linkedin.com/in/804250ab/)_, _[Twitter](https://twitter.com/helloiamleonie), and [Kaggle](https://www.kaggle.com/iamleonie)!_
+## Disclaimer
+I am a Developer Advocate at Weaviate at the time of this writing.
+## References
+### Literature
+[1] Gao, Y., Xiong, Y., Gao, X., Jia, K., Pan, J., Bi, Y., … & Wang, H. (2023). Retrieval-augmented generation for large language models: A survey. _[arXiv preprint arXiv:2312.10997](https://arxiv.org/pdf/2312.10997.pdf)_.
+### Images
+If not otherwise stated, all images are created by the author.
+Written By
+Leonie Monigatti
+[See all from Leonie Monigatti](https://towardsdatascience.com/author/iamleonie/)
+Topics:
+[Artificial Intelligence](https://towardsdatascience.com/tag/artificial-intelligence/), [Data Science](https://towardsdatascience.com/tag/data-science/), [Editors Pick](https://towardsdatascience.com/tag/editors-pick/), [Machine Learning](https://towardsdatascience.com/tag/machine-learning/), [Programming](https://towardsdatascience.com/tag/programming/)
+Share this article:
+  * [ Share on Facebook  ](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Ftowardsdatascience.com%2Fadvanced-retrieval-augmented-generation-from-theory-to-llamaindex-implementation-4de1464a9930%2F&title=Advanced%20Retrieval-Augmented%20Generation%3A%20From%20Theory%20to%20LlamaIndex%20Implementation)
+  * [ Share on LinkedIn  ](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Ftowardsdatascience.com%2Fadvanced-retrieval-augmented-generation-from-theory-to-llamaindex-implementation-4de1464a9930%2F&title=Advanced%20Retrieval-Augmented%20Generation%3A%20From%20Theory%20to%20LlamaIndex%20Implementation)
+  * [ Share on X  ](https://x.com/share?url=https%3A%2F%2Ftowardsdatascience.com%2Fadvanced-retrieval-augmented-generation-from-theory-to-llamaindex-implementation-4de1464a9930%2F&text=Advanced%20Retrieval-Augmented%20Generation%3A%20From%20Theory%20to%20LlamaIndex%20Implementation)
+
+
+## Related Articles
+  * ![](https://towardsdatascience.com/wp-content/uploads/2024/08/0c09RmbCCpfjAbSMq.png)
+## [Implementing Convolutional Neural Networks in TensorFlow](https://towardsdatascience.com/implementing-convolutional-neural-networks-in-tensorflow-bc1c4f00bd34/)
+[ Artificial Intelligence ](https://towardsdatascience.com/category/artificial-intelligence/)
+Step-by-step code guide to building a Convolutional Neural Network 
+[Shreya Rao](https://towardsdatascience.com/author/shreya-rao/)
+August 20, 2024
+6 min read
+  * ## [What Do Large Language Models “Understand”?](https://towardsdatascience.com/what-do-large-language-models-understand-befdb4411b77/)
+[ Artificial Intelligence ](https://towardsdatascience.com/category/artificial-intelligence/)
+A deep dive on the meaning of understanding and how it applies to LLMs 
+[Tarik Dzekman](https://towardsdatascience.com/author/tarikdzekman/)
+August 21, 2024
+31 min read
+  * ![Photo by Krista Mangulsone on Unsplash](https://towardsdatascience.com/wp-content/uploads/2024/08/0GyVVTbgotH-DhGPH-scaled.jpg)
+## [How to Forecast Hierarchical Time Series](https://towardsdatascience.com/how-to-forecast-hierarchical-time-series-75f223f79793/)
+[ Artificial Intelligence ](https://towardsdatascience.com/category/artificial-intelligence/)
+A beginner’s guide to forecast reconciliation 
+[Dr. Robert Kübler](https://towardsdatascience.com/author/dr-robert-kuebler/)
+August 20, 2024
+13 min read
+  * ![Photo by davisuko on Unsplash](https://towardsdatascience.com/wp-content/uploads/2024/08/1bAABgtZtAIG5YW1oEjW3pA-scaled.jpeg)
+## [Hands-on Time Series Anomaly Detection using Autoencoders, with Python](https://towardsdatascience.com/hands-on-time-series-anomaly-detection-using-autoencoders-with-python-7cd893bbc122/)
+[ Data Science ](https://towardsdatascience.com/category/data-science/)
+Here’s how to use Autoencoders to detect signals with anomalies in a few lines of… 
+[Piero Paialunga](https://towardsdatascience.com/author/piero-paialunga/)
+August 21, 2024
+12 min read
+  * ![Image from Canva.](https://towardsdatascience.com/wp-content/uploads/2024/08/1UAA9jQVdqMXnwzYiz8Q53Q.png)
+## [3 AI Use Cases (That Are Not a Chatbot)](https://towardsdatascience.com/3-ai-use-cases-that-are-not-a-chatbot-f4f328a2707a/)
+[ Machine Learning ](https://towardsdatascience.com/category/artificial-intelligence/machine-learning/)
+Feature engineering, structuring unstructured data, and lead scoring 
+[Shaw Talebi](https://towardsdatascience.com/author/shawhin/)
+August 21, 2024
+7 min read
+  * ## [Solving a Constrained Project Scheduling Problem with Quantum Annealing](https://towardsdatascience.com/solving-a-constrained-project-scheduling-problem-with-quantum-annealing-d0640e657a3b/)
+[ Data Science ](https://towardsdatascience.com/category/data-science/)
+Solving the resource constrained project scheduling problem (RCPSP) with D-Wave’s hybrid constrained quadratic model (CQM) 
+[Luis Fernando PÉREZ ARMAS, Ph.D.](https://towardsdatascience.com/author/luisfernandopa1212/)
+August 20, 2024
+29 min read
+  * ![](https://towardsdatascience.com/wp-content/uploads/2023/02/1VEUgT5T4absnTqBMOEuNig.png)
+## [Back To Basics, Part Uno: Linear Regression and Cost Function](https://towardsdatascience.com/back-to-basics-part-uno-linear-regression-cost-function-and-gradient-descent-590dcb3eee46/)
+[ Data Science ](https://towardsdatascience.com/category/data-science/)
+An illustrated guide on essential machine learning concepts 
+[Shreya Rao](https://towardsdatascience.com/author/shreya-rao/)
+February 3, 2023
+6 min read
+  * ![](https://towardsdatascience.com/wp-content/uploads/2024/08/1kM8tfYcdaoccB1HX71YDig.png)
+## [Must-Know in Statistics: The Bivariate Normal Projection Explained](https://towardsdatascience.com/must-know-in-statistics-the-bivariate-normal-projection-explained-ace7b2f70b5b/)
+[ Data Science ](https://towardsdatascience.com/category/data-science/)
+Derivation and practical examples of this powerful concept 
+[Luigi Battistoni](https://towardsdatascience.com/author/lu-battistoni/)
+August 14, 2024
+7 min read
+  * ![Photo by Jess Bailey on Unsplash](https://towardsdatascience.com/wp-content/uploads/2022/09/11tHmNYFaWWtWG5I7bNeN6g-scaled.jpeg)
+## [How to Make the Most of Your Experience as a TDS Author](https://towardsdatascience.com/how-to-make-the-most-of-your-experience-as-a-tds-author-b1e056be63f1/)
+[ Data Science ](https://towardsdatascience.com/category/data-science/)
+A quick guide to our resources and FAQ 
+[TDS Editors](https://towardsdatascience.com/author/towardsdatascience/)
+September 13, 2022
+4 min read
+
+
+  * [YouTube](https://www.youtube.com/c/TowardsDataScience)
+  * [X](https://x.com/TDataScience)
+  * [LinkedIn](https://www.linkedin.com/company/towards-data-science/?originalSubdomain=ca)
+  * [Threads](https://www.threads.net/@towardsdatascience)
+  * [Bluesky](https://bsky.app/profile/towardsdatascience.com)
+
+
+[![Towards Data Science](https://towardsdatascience.com/wp-content/uploads/2025/02/TDS-Vector-Logo.svg)](https://towardsdatascience.com/)
+Your home for data science and Al. The world’s leading publication for data science, data analytics, data engineering, machine learning, and artificial intelligence professionals.
+©  Insight Media Group, LLC 2025 
+  * [About](https://towardsdatascience.com/about-towards-data-science-d691af11cc2f/)
+  * [Privacy Policy](https://towardsdatascience.com/privacy-policy/)
+  * [Terms of Use](https://towardsdatascience.com/website-terms-of-use/)
+
+
+[Towards Data Science is now independent!](https://towardsdatascience.com/towards-data-science-is-launching-as-an-independent-publication/)
+Cookies Settings
+## Sign up to our newsletter
+Email address*
+First name*
+Last name*
+Job title*
+Job level*
+Please SelectC-LevelVP/DirectorManager/SupervisorMid Level or Senior Non-Managerial StaffEntry Level/Junior StaffFreelancer/ContractorStudent/InternOther
+Company name*
+  * I consent to receive newsletters and other communications from Towards Data Science publications.*
+
+
+![Company Logo](https://cdn.cookielaw.org/logos/static/ot_company_logo.png)
+## Privacy Preference Center
+When you visit any website, it may store or retrieve information on your browser, mostly in the form of cookies. This information might be about you, your preferences or your device and is mostly used to make the site work as you expect it to. The information does not usually directly identify you, but it can give you a more personalized web experience. Because we respect your right to privacy, you can choose not to allow some types of cookies. Click on the different category headings to find out more and change our default settings. However, blocking some types of cookies may impact your experience of the site and the services we are able to offer. [More information](https://cookiepedia.co.uk/giving-consent-to-cookies)
+Allow All
+###  Manage Consent Preferences
+#### Functional Cookies
+Functional Cookies Active
+These cookies enable the website to provide enhanced functionality and personalisation. They may be set by us or by third party providers whose services we have added to our pages. If you do not allow these cookies then some or all of these services may not function properly.
+#### Strictly Necessary Cookies
+Always Active
+These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the site will not then work. These cookies do not store any personally identifiable information.
+#### Performance Cookies
+Performance Cookies Active
+These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site. All information these cookies collect is aggregated and therefore anonymous. If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance.
+#### Targeting Cookies
+Targeting Cookies Active
+These cookies may be set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites. They do not store directly personal information, but are based on uniquely identifying your browser and internet device. If you do not allow these cookies, you will experience less targeted advertising.
+Back Button
+### Cookie List
+Search Icon
+Filter Icon
+Clear
+checkbox label label
+Apply Cancel
+Consent Leg.Interest
+checkbox label label
+checkbox label label
+checkbox label label
+Reject All Confirm My Choices
+[![Powered by Onetrust](https://cdn.cookielaw.org/logos/static/powered_by_logo.svg)](https://www.onetrust.com/products/cookie-consent/)
+Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order.

@@ -1,0 +1,164 @@
+•
+NaN / NaN
+Back  [ ](https://www.youtube.com/ "YouTube Home")
+Skip navigation
+Search 
+Search with your voice 
+[ ](https://www.youtube.com/ "YouTube Home")
+Decoder-Only Transformers, ChatGPTs specific Transformer, Clearly Explained!!!
+Search
+Watch later
+Share
+Copy link
+Info
+Shopping
+Tap to unmute
+2x
+If playback doesn't begin shortly, try restarting your device.
+•
+Up next
+LiveUpcoming
+CancelPlay Now
+You're signed out
+Videos you watch may be added to the TV's watch history and influence TV recommendations. To avoid this, cancel and sign in to YouTube on your computer.
+CancelConfirm
+[StatQuest with Josh Starmer](https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tAhLbw)
+Subscribe
+Subscribed
+Statistics, Machine Learning and Data Science can sometimes seem like very scary topics, but since each technique is really just a combination of small and simple steps, they are actually quite simple. My goal with StatQuest is to break down the major methodologies into easy to understand pieces. That said, I don't dumb down the material. Instead, I build up your understanding so that you are smarter. Contact, Video Index, Etc: https://statquest.org
+[StatQuest with Josh Starmer is live!59:55](https://www.youtube.com/watch?v=fivdgj5w0K0)
+The StatQuest Store!!!
+statquest.org
+[Support](https://www.youtube.com/redirect?event=endscreen&redir_token=QUFFLUhqa1pPMUdwa1J1REtCYmd2NUtCNGUteGJvMXp5QXxBQ3Jtc0tsVk9iOE9Gc0pBYk1DTVR5dTE1ZlJ5UVZRWTdESHR3U1NUM2Rha0ZOcThOclg0aWdFU2paZ01fOThCZjNEY1hXZW0xNGo4SnM3YW1zQ0poWVBZMllaRjQ0M3ZucXdfQmNOS1ptTWNEeGpHM3VVSVo1cw&q=https%3A%2F%2Fstatquest.org%2Fstatquest-store%2F)
+Share
+Include playlist
+An error occurred while retrieving sharing information. Please try again later.
+0:00
+[](https://www.youtube.com/watch?v=GDN649X_acE "Next \(SHIFT+n\)")
+0:00 / 36:44•Watch full videoLive
+•
+Awesome song and introduction
+•
+Scroll for details
+#  Decoder-Only Transformers, ChatGPTs specific Transformer, Clearly Explained!!!
+[![](https://yt3.ggpht.com/Lzc9YzCKTkcA1My5A5pbsqaEtOoGc0ncWpCJiOQs2-0win3Tjf5XxmDFEYUiVM9jOTuhMjGs=s48-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/@statquest)
+[StatQuest with Josh Starmer](https://www.youtube.com/@statquest)
+StatQuest with Josh Starmer 
+1.38M subscribers
+Join
+<__slot-el>
+Subscribe
+<__slot-el>
+Subscribed
+3.9K
+Share
+Download
+Download 
+Save
+160K views1 year ago[#StatQuest](https://www.youtube.com/hashtag/statquest)
+160,846 views • Aug 27, 2023 • #StatQuest 
+Show less 
+Transformers are taking over AI right now, and quite possibly their most famous use is in ChatGPT. ChatGPT uses a specific type of Transformer called a Decoder-Only Transformer, and this StatQuest shows you how they work, one step at a time. And at the end (at [32:14](https://www.youtube.com/watch?v=bQ5BoolX9Ag&t=1934s)), we talk a…...more 
+...more 
+## 
+Chapters
+View all
+#### [Awesome song and introduction Awesome song and introduction 0:00 ](https://www.youtube.com/watch?v=bQ5BoolX9Ag)
+#### [Awesome song and introduction ](https://www.youtube.com/watch?v=bQ5BoolX9Ag)
+0:00
+#### [Word Embedding Word Embedding 1:34 ](https://www.youtube.com/watch?v=bQ5BoolX9Ag&t=94s)
+#### [Word Embedding ](https://www.youtube.com/watch?v=bQ5BoolX9Ag&t=94s)
+1:34
+#### [Position Encoding Position Encoding 7:26 ](https://www.youtube.com/watch?v=bQ5BoolX9Ag&t=446s)
+#### [Position Encoding ](https://www.youtube.com/watch?v=bQ5BoolX9Ag&t=446s)
+7:26
+#### [Masked Self-Attention, an Autoregressive method Masked Self-Attention, an Autoregressive method 10:10 ](https://www.youtube.com/watch?v=bQ5BoolX9Ag&t=610s)
+#### [Masked Self-Attention, an Autoregressive method ](https://www.youtube.com/watch?v=bQ5BoolX9Ag&t=610s)
+10:10
+Transcript
+Follow along using the transcript.
+Show transcript
+### [StatQuest with Josh Starmer 1.38M subscribers  ](https://www.youtube.com/@statquest)
+[Videos](https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tAhLbw/videos)
+[About](https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tAhLbw/about)
+[Videos](https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tAhLbw/videos)[About](https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tAhLbw/about)[Patreon](https://www.youtube.com/redirect?event=Watch_SD_EP&redir_token=QUFFLUhqbFh6NUc2blFOZW8yQ1pEUGRYVWNuN1gzRnR4QXxBQ3Jtc0ttRzhKcEl4WUs0YWdSdXo4OThTU3FacklVUXg0c2pRNGdaMXZRSEV1UTlOZDZGdUhvLUY2dHdiOEdKZlVlSkJpWW9NYzhXSUN3M3hkdDFSbEpybVRLeGRGRWFlYkstb2k3aS03eUpOWEJqczhUOU1RUQ&q=https%3A%2F%2Fwww.patreon.com%2Fstatquest)
+Show less 
+[](https://www.youtube.com/hashtag/statquest)[#StatQuest](https://www.youtube.com/hashtag/statquest)
+# Decoder-Only Transformers, ChatGPTs specific Transformer, Clearly Explained!!!
+160,846 views160K views
+Aug 27, 2023
+3.9K
+Share
+Download
+Download 
+Save
+Shop the StatQuest with Josh Starmer store
+##  Comments 402
+Top comments  Newest first 
+##  Chapters
+#### [Awesome song and introduction Awesome song and introduction 0:00 ](https://www.youtube.com/watch?v=bQ5BoolX9Ag)
+#### [Awesome song and introduction ](https://www.youtube.com/watch?v=bQ5BoolX9Ag)
+0:00
+#### [Word Embedding Word Embedding 1:34 ](https://www.youtube.com/watch?v=bQ5BoolX9Ag&t=94s)
+#### [Word Embedding ](https://www.youtube.com/watch?v=bQ5BoolX9Ag&t=94s)
+1:34
+#### [Position Encoding Position Encoding 7:26 ](https://www.youtube.com/watch?v=bQ5BoolX9Ag&t=446s&pp=0gcJCcwCDuyUWbzu)
+#### [Position Encoding ](https://www.youtube.com/watch?v=bQ5BoolX9Ag&t=446s&pp=0gcJCcwCDuyUWbzu)
+7:26
+#### [Masked Self-Attention, an Autoregressive method Masked Self-Attention, an Autoregressive method 10:10 ](https://www.youtube.com/watch?v=bQ5BoolX9Ag&t=610s)
+#### [Masked Self-Attention, an Autoregressive method ](https://www.youtube.com/watch?v=bQ5BoolX9Ag&t=610s)
+10:10
+#### [Residual Connections Residual Connections 22:35 ](https://www.youtube.com/watch?v=bQ5BoolX9Ag&t=1355s)
+#### [Residual Connections ](https://www.youtube.com/watch?v=bQ5BoolX9Ag&t=1355s)
+22:35
+#### [Generating the next word in the prompt Generating the next word in the prompt 23:00 ](https://www.youtube.com/watch?v=bQ5BoolX9Ag&t=1380s)
+#### [Generating the next word in the prompt ](https://www.youtube.com/watch?v=bQ5BoolX9Ag&t=1380s)
+23:00
+#### [Review of encoding and generating the prompt Review of encoding and generating the prompt 26:23 ](https://www.youtube.com/watch?v=bQ5BoolX9Ag&t=1583s)
+#### [Review of encoding and generating the prompt ](https://www.youtube.com/watch?v=bQ5BoolX9Ag&t=1583s)
+26:23
+#### [Generating the output, Part 1 Generating the output, Part 1 27:20 ](https://www.youtube.com/watch?v=bQ5BoolX9Ag&t=1640s)
+#### [Generating the output, Part 1 ](https://www.youtube.com/watch?v=bQ5BoolX9Ag&t=1640s)
+27:20
+#### [Masked Self-Attention while generating the output Masked Self-Attention while generating the output 28:46 ](https://www.youtube.com/watch?v=bQ5BoolX9Ag&t=1726s)
+#### [Masked Self-Attention while generating the output ](https://www.youtube.com/watch?v=bQ5BoolX9Ag&t=1726s)
+28:46
+#### [Generating the output, Part 2 Generating the output, Part 2 30:40 ](https://www.youtube.com/watch?v=bQ5BoolX9Ag&t=1840s)
+#### [Generating the output, Part 2 ](https://www.youtube.com/watch?v=bQ5BoolX9Ag&t=1840s)
+30:40
+#### [Normal Transformers vs Decoder-Only Transformers Normal Transformers vs Decoder-Only Transformers 32:14 ](https://www.youtube.com/watch?v=bQ5BoolX9Ag&t=1934s)
+#### [Normal Transformers vs Decoder-Only Transformers ](https://www.youtube.com/watch?v=bQ5BoolX9Ag&t=1934s)
+32:14
+Sync to video time 
+Sync to video time
+##  Products
+StatQuest with Josh Starmer tagged products below.Learn more
+StatQuest Triple BAM Logo - Men's Premium T-ShirtSpreadshop$26.99View
+Statquest logo color - Coffee/Tea MugSpreadshop$16.99View
+Norm N 'Squatch!!! - Men's Premium T-ShirtSpreadshop$26.99View
+StatQuest Triple BAM Logo - Women's Premium T-ShirtSpreadshop$26.99View
+Bayes Has a Posse - Tote BagSpreadshop$16.99View
+##  Description
+Decoder-Only Transformers, ChatGPTs specific Transformer, Clearly Explained!!!
+3.9KLikes
+160,846Views
+2023Aug 27
+Transformers are taking over AI right now, and quite possibly their most famous use is in ChatGPT. ChatGPT uses a specific type of Transformer called a Decoder-Only Transformer, and this StatQuest shows you how they work, one step at a time. And at the end (at [32:14](https://www.youtube.com/watch?v=bQ5BoolX9Ag&t=1934s)), we talk about the differences between a Normal Transformer and a Decoder-Only Transformer. BAM! NOTE: If you're interested in learning more about Backpropagation, check out these 'Quests: The Chain Rule: [ • The Chain Rule ](https://www.youtube.com/watch?v=wl1myxrtQHQ) Gradient Descent: [ • Gradient Descent, Step-by-Step ](https://www.youtube.com/watch?v=sDv4f4s2SB8) Backpropagation Main Ideas: [ • Neural Networks Pt. 2: Backpropagatio... ](https://www.youtube.com/watch?v=IN2XmBhILt4) Backpropagation Details Part 1: [ • Backpropagation Details Pt. 1: Optimi... ](https://www.youtube.com/watch?v=iyn2zdALii8) Backpropagation Details Part 2: [ • Backpropagation Details Pt. 2: Going ... ](https://www.youtube.com/watch?v=GKZoOHXGcLo) If you're interested in learning more about the SoftMax function, check out: [ • Neural Networks Part 5: ArgMax and So... ](https://www.youtube.com/watch?v=KpKog-L9veg) If you're interested in learning more about Word Embedding, check out: [ • Word Embedding and Word2Vec, Clearly ... ](https://www.youtube.com/watch?v=viZrOnJclY0) If you'd like to learn more about calculating similarities in the context of neural networks and the Dot Product, check out: Cosine Similarity: [ • Cosine Similarity, Clearly Explained!!! ](https://www.youtube.com/watch?v=e9U0QAFbfLI) Attention: [ • Attention for Neural Networks, Clearl... ](https://www.youtube.com/watch?v=PSs6nxngL6k) If you'd like to learn more about Normal Transformers, see: [ • Transformer Neural Networks, ChatGPT'... ](https://www.youtube.com/watch?v=zxQyTK8quyY) For a complete index of all the StatQuest videos, check out: [https://statquest.org/video-index/](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbjRZOTZuZ2tzME10T3FnbW83ejdJY0pkVnJzd3xBQ3Jtc0tsNEgyMVNFeXQwRG5helhfdjVnV2lvSGJSXzQyQ1N4dThSS0xQX0llUWIyclVGZG5ocUQxMDNTbEZhbnRtaUNiZGQtRUd6dmxCVDNFeGxOMC1MV1ZGQzRCcThydl92TzZXNGpLNlo4R0UzcUlxcG1FSQ&q=https%3A%2F%2Fstatquest.org%2Fvideo-index%2F&v=bQ5BoolX9Ag) If you'd like to support StatQuest, please consider... Patreon: [ / statquest ](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa2VoSUEtRjdRM19VMnNJZTRRb2lhWFdHcXRYZ3xBQ3Jtc0tsNmEyQ1p2QURTQkE1T054NWlwSUoydGQ2M2pzeGQwQU9JLS1XdDZHRDlKNTJGM3Robk5ublc1bHBDcDlCVXZ0S0lZUUZFbnpfQnJ0cG10UGtDdDQ3V3NTLXQyb0xjX0NuVHN1cmlFSlNiUzZ3RHI1Zw&q=https%3A%2F%2Fwww.patreon.com%2Fstatquest&v=bQ5BoolX9Ag) ...or... YouTube Membership: [ / @statquest ](https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tAhLbw/join) ...buying one of my books, a study guide, a t-shirt or hoodie, or a song from the StatQuest store... [https://statquest.org/statquest-store/](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbU5FckhnVm5xWFFZQnZ2ZVRuUFJCVWpoUDlOd3xBQ3Jtc0tsNHFjYTlWTll2Snl5Y2Y4N1hMRVZpTHRaLTlXUm9MdUREcUVkYTM2dmNmVTFnbmxuM2t5UDgta2dWM1Bxc2QwaTBnMUx1d3l0bzY0S0hpY0JPZ0djZDdHTlVNdkh5NXV4WGQyQ1dQQzBESHlxWm1ROA&q=https%3A%2F%2Fstatquest.org%2Fstatquest-store%2F&v=bQ5BoolX9Ag) ...or just donating to StatQuest! [https://www.paypal.me/statquest](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqazNZbUlfZUhmWVg0VEtLQ0s3bEtRaUZJVkEwUXxBQ3Jtc0tualhVSnZrLU90X1NwdTd2aXUySElWT2h5NWE2ZnZxbmt4eFE2UnRFZUVHTEhDWGozbndnbXYyVXBPOGdEQUduenB4d2FYUWlVcU1CTjhidXNTNFJSZjYwLTZ4cUtBbVA4dTZUdkFVV3ZTM3pyQ3JLVQ&q=https%3A%2F%2Fwww.paypal.me%2Fstatquest&v=bQ5BoolX9Ag) Lastly, if you want to keep up with me as I research and create new StatQuests, follow me on twitter: [ / joshuastarmer ](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbDAySURlaFFpT0J1M2F6Z3VBRW5nSmVqUjNfUXxBQ3Jtc0ttRkVIb0ktZWI1WlNEZlhZZWlZYktRbG9WZ2tPelJreFpSalJpY0ROQXI3YTZReGpGM0twMW5ZT3JTRkJJaGowMVZ0MFlqZUhGMVl6UC1sQlk1WEZmTEZkaFVUOW5uakJvQ0NhOXJvT04weEFMQ3RBOA&q=https%3A%2F%2Ftwitter.com%2Fjoshuastarmer&v=bQ5BoolX9Ag)[0:00](https://www.youtube.com/watch?v=bQ5BoolX9Ag) Awesome song and introduction [1:34](https://www.youtube.com/watch?v=bQ5BoolX9Ag&t=94s) Word Embedding [7:26](https://www.youtube.com/watch?v=bQ5BoolX9Ag&t=446s) Position Encoding [10:10](https://www.youtube.com/watch?v=bQ5BoolX9Ag&t=610s) Masked Self-Attention, an Autoregressive method [22:35](https://www.youtube.com/watch?v=bQ5BoolX9Ag&t=1355s) Residual Connections [23:00](https://www.youtube.com/watch?v=bQ5BoolX9Ag&t=1380s) Generating the next word in the prompt [26:23](https://www.youtube.com/watch?v=bQ5BoolX9Ag&t=1583s) Review of encoding and generating the prompt [27:20](https://www.youtube.com/watch?v=bQ5BoolX9Ag&t=1640s) Generating the output, Part 1 [28:46](https://www.youtube.com/watch?v=bQ5BoolX9Ag&t=1726s) Masked Self-Attention while generating the output [30:40](https://www.youtube.com/watch?v=bQ5BoolX9Ag&t=1840s) Generating the output, Part 2 [32:14](https://www.youtube.com/watch?v=bQ5BoolX9Ag&t=1934s) Normal Transformers vs Decoder-Only Transformers [#StatQuest](https://www.youtube.com/hashtag/statquest)…...more 
+...more Show less 
+## 
+Chapters
+View all
+Transcript
+Follow along using the transcript.
+Show transcript
+### [StatQuest with Josh Starmer 1.38M subscribers  ](https://www.youtube.com/@statquest)
+[Videos](https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tAhLbw/videos)
+[About](https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tAhLbw/about)
+[Videos](https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tAhLbw/videos)[About](https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tAhLbw/about)[Patreon](https://www.youtube.com/redirect?event=Watch_SD_EP&redir_token=QUFFLUhqbFh6NUc2blFOZW8yQ1pEUGRYVWNuN1gzRnR4QXxBQ3Jtc0ttRzhKcEl4WUs0YWdSdXo4OThTU3FacklVUXg0c2pRNGdaMXZRSEV1UTlOZDZGdUhvLUY2dHdiOEdKZlVlSkJpWW9NYzhXSUN3M3hkdDFSbEpybVRLeGRGRWFlYkstb2k3aS03eUpOWEJqczhUOU1RUQ&q=https%3A%2F%2Fwww.patreon.com%2Fstatquest)
+##  Transcript
+NaN / NaN
+![](https://lh5.googleusercontent.com/proxy/GkdClTyKlKNp15Cr-A8tAqHo4v6Vq4qyWOpvmJh2K7s4B2Lk4pUjD-12iF3WOKdxXqkIU-tpBll5Xi5sgnWr0VDKkPHpgVZddQHlV3tsKBcXbnhsxDAo_NuvkIq_RWNr1bE)
+[Create Your LLC for $0 + State Fees](https://www.googleadservices.com/pagead/aclk?sa=L&ai=CDVkS1IPpZ_vbN72Ri9YP2bXTqASSnOCGfp6139zIE2QQASAAYMm2hofMo8AXggEXY2EtcHViLTYyMTk4MTE3NDcwNDkzNzGgAbmFy5IDqAMEyAMKqgTVAk_QxmHNl8Lnxw_he0CC6011BHBAul0JjOXs3jFviscoaiBHS3ENPw3IkRpHyN886MzE_0a6IxAL_GVqFQoktqgEQ9GbWEYy6SWdAMZcHR88zFpZnnJ2zV8cFDe_bcwVGU7dWcwVYhqLSSoDezq-s_s9j6eT9tQqjcUjeZRzMh0R3rPnA2KGYcnA71dd9g8bjx8nJa6JwcuoEEO-TBOmhX8M6UwyQL2jPFf2IHJjSJv3zoWhfJlduGeK5x-_rBxA-fjyEHflUQE2564U_LaV5wR3Q75Esjotn1GI45LLlqh_RHmURUwo_ZyS_hJtLH36u2rwNnXWLeUdX9qoVcv7ewx5Bda_cIn-9PvYTG-RUr4UBLdYEFdt0rUaM1kyxmKAUw88oWx_-LG25fpL4MIaRdpWcSnt_UTRextiYr72zxGOLA4ZBwGkUyIAvmqLLKmPkr-9dilgkgUJCBNoAnjZ8tNtoAZugAev-rRtkAcEqAf5sbECqAeAurECqAfywLECqAe4xLECqAelz7ECqAe9zbECqAfnnbECqAfonbECqAfvtbECqAfwtbECqAeCqrECqAeECKgHqNIbqAe2B6gHsdwbqAewm7ECqAeusbECqAfmvLECqAfKurECqAf8y7ECqAf9srECqAf3uLECqAf4uLECqAfNx7ECqAelzLECqAeBxhuoB_yvsQKoB6vFG6gHt6GxAqgH1amxAqgH3rWxAqgH6rGxAqgHvrexAqgHmbWxAqgHhcGxAqgH66WxAqgHyqmxAtIIKAiAQRABGF4yAoICOguAY4DAgICAgICAAkjZoNI1UBRYkOPcvq6yjAPyCB9jYS15dC1ob3N0LXB1Yi05MjQ5ODU4Mzg4NzEwMzU4mgkvaHR0cHM6Ly93d3cuemVuYnVzaW5lc3MuY29tL2ZpbGUvbGxjLWRlbWFuZGdlbi-xCUmjLPpuNVRRyAkAyAmKApgLAaEL081_gsBOWBi6CzkIARAFGAQgCCgBMBpAAUgAWAFgAGgAcAGIAQCYAQGiAQwKAFgBcAGoAgHYAgKoAQHYAQGAAgGIAgbQCxLaDCUKChDg__-gjZSUzQISAgEDGg0Y-9GQqE4g2Nj4seUEQAFKAhAfmg0BEqANAaoNAlVTyA0B0g3kAWh0dHBzOi8vd3d3LnplbmJ1c2luZXNzLmNvbS9maWxlL2xsYy1kZW1hbmRnZW4vP3V0bV9zb3VyY2U9Z29vZ2xlJnV0bV9tZWRpdW09Y3BjJnV0bV9jYW1wYWlnbj0yMTAyMjEyNDI4MyZhZGdyb3VwaWQ9MTY0NjU1NjcyNDA4JmNyZWF0aXZlPTczOTc0OTMxNTU0MSZtYXRjaHR5cGU9JnV0bV90ZXJtPSZkZXZpY2U9YyZDVD1kc2MtcHJvc3BlY3RpbmcmU1Q9WmVuQnVzaW5lc3NfJmdhZF9zb3VyY2U9MrgT____________AbAUAcAVgYCAQNAVAdgVAeIWAggBgBcBihcWCAMYASABKAEwATgBQAFIAVABWAFgAqAXAakXwW9aBPCvkqO6FwYoADAAOAHQGAHwGAE&ase=2&gclid=EAIaIQobChMI-5Xevq6yjAMVvcjCBB3Z2hRFEAEYASAAEgIPTfD_BwE&num=1&cid=CAASFeRo_ZR6hEwUhk9hs0WmHPZ4S5trsA&sig=AOD64_3vhM_iMTI-aW6L8YkfP8TdDcyU7A&ms=%5BCLICK_MS%5D&nb=0&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D)[Confidently Start An LLC & Stay Protected As It Grows For $0 + State Fees](https://www.googleadservices.com/pagead/aclk?sa=L&ai=CDVkS1IPpZ_vbN72Ri9YP2bXTqASSnOCGfp6139zIE2QQASAAYMm2hofMo8AXggEXY2EtcHViLTYyMTk4MTE3NDcwNDkzNzGgAbmFy5IDqAMEyAMKqgTVAk_QxmHNl8Lnxw_he0CC6011BHBAul0JjOXs3jFviscoaiBHS3ENPw3IkRpHyN886MzE_0a6IxAL_GVqFQoktqgEQ9GbWEYy6SWdAMZcHR88zFpZnnJ2zV8cFDe_bcwVGU7dWcwVYhqLSSoDezq-s_s9j6eT9tQqjcUjeZRzMh0R3rPnA2KGYcnA71dd9g8bjx8nJa6JwcuoEEO-TBOmhX8M6UwyQL2jPFf2IHJjSJv3zoWhfJlduGeK5x-_rBxA-fjyEHflUQE2564U_LaV5wR3Q75Esjotn1GI45LLlqh_RHmURUwo_ZyS_hJtLH36u2rwNnXWLeUdX9qoVcv7ewx5Bda_cIn-9PvYTG-RUr4UBLdYEFdt0rUaM1kyxmKAUw88oWx_-LG25fpL4MIaRdpWcSnt_UTRextiYr72zxGOLA4ZBwGkUyIAvmqLLKmPkr-9dilgkgUJCBNoAnjZ8tNtoAZugAev-rRtkAcEqAf5sbECqAeAurECqAfywLECqAe4xLECqAelz7ECqAe9zbECqAfnnbECqAfonbECqAfvtbECqAfwtbECqAeCqrECqAeECKgHqNIbqAe2B6gHsdwbqAewm7ECqAeusbECqAfmvLECqAfKurECqAf8y7ECqAf9srECqAf3uLECqAf4uLECqAfNx7ECqAelzLECqAeBxhuoB_yvsQKoB6vFG6gHt6GxAqgH1amxAqgH3rWxAqgH6rGxAqgHvrexAqgHmbWxAqgHhcGxAqgH66WxAqgHyqmxAtIIKAiAQRABGF4yAoICOguAY4DAgICAgICAAkjZoNI1UBRYkOPcvq6yjAPyCB9jYS15dC1ob3N0LXB1Yi05MjQ5ODU4Mzg4NzEwMzU4mgkvaHR0cHM6Ly93d3cuemVuYnVzaW5lc3MuY29tL2ZpbGUvbGxjLWRlbWFuZGdlbi-xCUmjLPpuNVRRyAkAyAmKApgLAaEL081_gsBOWBi6CzkIARAFGAQgCCgBMBpAAUgAWAFgAGgAcAGIAQCYAQGiAQwKAFgBcAGoAgHYAgKoAQHYAQGAAgGIAgbQCxLaDCUKChDg__-gjZSUzQISAgEDGg0Y-9GQqE4g2Nj4seUEQAFKAhAfmg0BEqANAaoNAlVTyA0B0g3kAWh0dHBzOi8vd3d3LnplbmJ1c2luZXNzLmNvbS9maWxlL2xsYy1kZW1hbmRnZW4vP3V0bV9zb3VyY2U9Z29vZ2xlJnV0bV9tZWRpdW09Y3BjJnV0bV9jYW1wYWlnbj0yMTAyMjEyNDI4MyZhZGdyb3VwaWQ9MTY0NjU1NjcyNDA4JmNyZWF0aXZlPTczOTc0OTMxNTU0MSZtYXRjaHR5cGU9JnV0bV90ZXJtPSZkZXZpY2U9YyZDVD1kc2MtcHJvc3BlY3RpbmcmU1Q9WmVuQnVzaW5lc3NfJmdhZF9zb3VyY2U9MrgT____________AbAUAcAVgYCAQNAVAdgVAeIWAggBgBcBihcWCAMYASABKAEwATgBQAFIAVABWAFgAqAXAakXwW9aBPCvkqO6FwYoADAAOAHQGAHwGAE&ase=2&gclid=EAIaIQobChMI-5Xevq6yjAMVvcjCBB3Z2hRFEAEYASAAEgIPTfD_BwE&num=1&cid=CAASFeRo_ZR6hEwUhk9hs0WmHPZ4S5trsA&sig=AOD64_3vhM_iMTI-aW6L8YkfP8TdDcyU7A&ms=%5BCLICK_MS%5D&nb=7&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D)
+Sponsored
+ZenBusiness
+[Visit site](https://www.googleadservices.com/pagead/aclk?sa=L&ai=CDVkS1IPpZ_vbN72Ri9YP2bXTqASSnOCGfp6139zIE2QQASAAYMm2hofMo8AXggEXY2EtcHViLTYyMTk4MTE3NDcwNDkzNzGgAbmFy5IDqAMEyAMKqgTVAk_QxmHNl8Lnxw_he0CC6011BHBAul0JjOXs3jFviscoaiBHS3ENPw3IkRpHyN886MzE_0a6IxAL_GVqFQoktqgEQ9GbWEYy6SWdAMZcHR88zFpZnnJ2zV8cFDe_bcwVGU7dWcwVYhqLSSoDezq-s_s9j6eT9tQqjcUjeZRzMh0R3rPnA2KGYcnA71dd9g8bjx8nJa6JwcuoEEO-TBOmhX8M6UwyQL2jPFf2IHJjSJv3zoWhfJlduGeK5x-_rBxA-fjyEHflUQE2564U_LaV5wR3Q75Esjotn1GI45LLlqh_RHmURUwo_ZyS_hJtLH36u2rwNnXWLeUdX9qoVcv7ewx5Bda_cIn-9PvYTG-RUr4UBLdYEFdt0rUaM1kyxmKAUw88oWx_-LG25fpL4MIaRdpWcSnt_UTRextiYr72zxGOLA4ZBwGkUyIAvmqLLKmPkr-9dilgkgUJCBNoAnjZ8tNtoAZugAev-rRtkAcEqAf5sbECqAeAurECqAfywLECqAe4xLECqAelz7ECqAe9zbECqAfnnbECqAfonbECqAfvtbECqAfwtbECqAeCqrECqAeECKgHqNIbqAe2B6gHsdwbqAewm7ECqAeusbECqAfmvLECqAfKurECqAf8y7ECqAf9srECqAf3uLECqAf4uLECqAfNx7ECqAelzLECqAeBxhuoB_yvsQKoB6vFG6gHt6GxAqgH1amxAqgH3rWxAqgH6rGxAqgHvrexAqgHmbWxAqgHhcGxAqgH66WxAqgHyqmxAtIIKAiAQRABGF4yAoICOguAY4DAgICAgICAAkjZoNI1UBRYkOPcvq6yjAPyCB9jYS15dC1ob3N0LXB1Yi05MjQ5ODU4Mzg4NzEwMzU4mgkvaHR0cHM6Ly93d3cuemVuYnVzaW5lc3MuY29tL2ZpbGUvbGxjLWRlbWFuZGdlbi-xCUmjLPpuNVRRyAkAyAmKApgLAaEL081_gsBOWBi6CzkIARAFGAQgCCgBMBpAAUgAWAFgAGgAcAGIAQCYAQGiAQwKAFgBcAGoAgHYAgKoAQHYAQGAAgGIAgbQCxLaDCUKChDg__-gjZSUzQISAgEDGg0Y-9GQqE4g2Nj4seUEQAFKAhAfmg0BEqANAaoNAlVTyA0B0g3kAWh0dHBzOi8vd3d3LnplbmJ1c2luZXNzLmNvbS9maWxlL2xsYy1kZW1hbmRnZW4vP3V0bV9zb3VyY2U9Z29vZ2xlJnV0bV9tZWRpdW09Y3BjJnV0bV9jYW1wYWlnbj0yMTAyMjEyNDI4MyZhZGdyb3VwaWQ9MTY0NjU1NjcyNDA4JmNyZWF0aXZlPTczOTc0OTMxNTU0MSZtYXRjaHR5cGU9JnV0bV90ZXJtPSZkZXZpY2U9YyZDVD1kc2MtcHJvc3BlY3RpbmcmU1Q9WmVuQnVzaW5lc3NfJmdhZF9zb3VyY2U9MrgT____________AbAUAcAVgYCAQNAVAdgVAeIWAggBgBcBihcWCAMYASABKAEwATgBQAFIAVABWAFgAqAXAakXwW9aBPCvkqO6FwYoADAAOAHQGAHwGAE&ase=2&gclid=EAIaIQobChMI-5Xevq6yjAMVvcjCBB3Z2hRFEAEYASAAEgIPTfD_BwE&num=1&cid=CAASFeRo_ZR6hEwUhk9hs0WmHPZ4S5trsA&sig=AOD64_3vhM_iMTI-aW6L8YkfP8TdDcyU7A&ms=%5BCLICK_MS%5D&nb=8&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D)

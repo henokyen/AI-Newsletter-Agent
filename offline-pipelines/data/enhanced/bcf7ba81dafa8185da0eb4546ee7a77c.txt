@@ -1,0 +1,196 @@
+[Open in app](https://rsci.app.link/?%24canonical_url=https%3A%2F%2Fmedium.com%2Fp%2F9b8931845c20&%7Efeature=LoOpenInAppButton&%7Echannel=ShowPostUnderCollection&source=post_page---top_nav_layout_nav-----------------------------------------)
+[Sign up](https://medium.com/m/signin?operation=register&redirect=https%3A%2F%2Fai.gopubby.com%2Fhow-document-chunk-overlap-affects-a-rag-pipeline-9b8931845c20&source=post_page---top_nav_layout_nav-----------------------global_nav------------------)
+[Sign in](https://medium.com/m/signin?operation=login&redirect=https%3A%2F%2Fai.gopubby.com%2Fhow-document-chunk-overlap-affects-a-rag-pipeline-9b8931845c20&source=post_page---top_nav_layout_nav-----------------------global_nav------------------)
+[](https://medium.com/?source=post_page---top_nav_layout_nav-----------------------------------------)
+[Write](https://medium.com/m/signin?operation=register&redirect=https%3A%2F%2Fmedium.com%2Fnew-story&source=---top_nav_layout_nav-----------------------new_post_topnav------------------)
+[](https://medium.com/search?source=post_page---top_nav_layout_nav-----------------------------------------)
+[Sign up](https://medium.com/m/signin?operation=register&redirect=https%3A%2F%2Fai.gopubby.com%2Fhow-document-chunk-overlap-affects-a-rag-pipeline-9b8931845c20&source=post_page---top_nav_layout_nav-----------------------global_nav------------------)
+[Sign in](https://medium.com/m/signin?operation=login&redirect=https%3A%2F%2Fai.gopubby.com%2Fhow-document-chunk-overlap-affects-a-rag-pipeline-9b8931845c20&source=post_page---top_nav_layout_nav-----------------------global_nav------------------)
+![](https://miro.medium.com/v2/resize:fill:64:64/1*dmbNkD5D-u45r44go_cf0g.png)
+[Home](https://medium.com/?source=post_page--------------------------------------------)
+Following
+Library
+[Your lists](https://medium.com/me/lists?source=post_page--------------------------------------------)[Saved lists](https://medium.com/me/lists/saved?source=post_page--------------------------------------------)[Highlights](https://medium.com/me/list/highlights?source=post_page--------------------------------------------)[Reading history](https://medium.com/me/lists/reading-history?source=post_page--------------------------------------------)
+[Stories](https://medium.com/me/stories/drafts?source=post_page--------------------------------------------)[Stats](https://medium.com/me/stats?source=post_page--------------------------------------------)
+## [AI Advances](https://ai.gopubby.com/?source=post_page---publication_nav-3fe99b2acc4-9b8931845c20---------------------------------------)
+[Home](https://ai.gopubby.com/?source=post_page---publication_nav-3fe99b2acc4-9b8931845c20---------------------------------------)[Newsletter](https://ai.gopubby.com/newsletter?source=post_page---publication_nav-3fe99b2acc4-9b8931845c20---------------------------------------)[About](https://ai.gopubby.com/about?source=post_page---publication_nav-3fe99b2acc4-9b8931845c20---------------------------------------)
+·
+[Follow publication](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fsubscribe%2Fcollection%2Fai-advances&operation=register&redirect=https%3A%2F%2Fai.gopubby.com%2Fhow-document-chunk-overlap-affects-a-rag-pipeline-9b8931845c20&collection=AI+Advances&collectionId=3fe99b2acc4&source=post_page---publication_nav-3fe99b2acc4-9b8931845c20---------------------publication_nav------------------)
+[![AI Advances](https://miro.medium.com/v2/resize:fill:76:76/1*R8zEd59FDf0l8Re94ImV0Q.png)](https://ai.gopubby.com/?source=post_page---post_publication_sidebar-3fe99b2acc4-9b8931845c20---------------------------------------)
+Democratizing access to artificial intelligence
+[Follow publication](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fsubscribe%2Fcollection%2Fai-advances&operation=register&redirect=https%3A%2F%2Fai.gopubby.com%2Fhow-document-chunk-overlap-affects-a-rag-pipeline-9b8931845c20&collection=AI+Advances&collectionId=3fe99b2acc4&source=post_page---post_publication_sidebar-3fe99b2acc4-9b8931845c20---------------------post_publication_sidebar------------------)
+Member-only story
+# **How Document Chunk Overlap Affects a RAG Pipeline**
+## Enhancing RAG performance through optimal chunking strategies
+[![Ashish Abraham](https://miro.medium.com/v2/resize:fill:88:88/1*8PWx1xvLzUgUu-Wqv493Zw.jpeg)](https://medium.com/@ashishabraham02?source=post_page---byline--9b8931845c20---------------------------------------)
+[![AI Advances](https://miro.medium.com/v2/resize:fill:48:48/1*R8zEd59FDf0l8Re94ImV0Q.png)](https://ai.gopubby.com/?source=post_page---byline--9b8931845c20---------------------------------------)
+[Ashish Abraham](https://medium.com/@ashishabraham02?source=post_page---byline--9b8931845c20---------------------------------------)
+·
+[Follow](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fsubscribe%2Fuser%2F2c5db007ebb8&operation=register&redirect=https%3A%2F%2Fai.gopubby.com%2Fhow-document-chunk-overlap-affects-a-rag-pipeline-9b8931845c20&user=Ashish+Abraham&userId=2c5db007ebb8&source=post_page-2c5db007ebb8--byline--9b8931845c20---------------------post_header------------------)
+Published in
+[AI Advances](https://ai.gopubby.com/?source=post_page---byline--9b8931845c20---------------------------------------)
+·
+19 min read
+·
+Jul 23, 2024
+[](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fvote%2Fai-advances%2F9b8931845c20&operation=register&redirect=https%3A%2F%2Fai.gopubby.com%2Fhow-document-chunk-overlap-affects-a-rag-pipeline-9b8931845c20&user=Ashish+Abraham&userId=2c5db007ebb8&source=---header_actions--9b8931845c20---------------------clap_footer------------------)
+515
+6
+[](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F9b8931845c20&operation=register&redirect=https%3A%2F%2Fai.gopubby.com%2Fhow-document-chunk-overlap-affects-a-rag-pipeline-9b8931845c20&source=---header_actions--9b8931845c20---------------------bookmark_footer------------------)
+[Listen](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2Fplans%3Fdimension%3Dpost_audio_button%26postId%3D9b8931845c20&operation=register&redirect=https%3A%2F%2Fai.gopubby.com%2Fhow-document-chunk-overlap-affects-a-rag-pipeline-9b8931845c20&source=---header_actions--9b8931845c20---------------------post_audio_button------------------)
+Share
+![](https://miro.medium.com/v2/resize:fit:700/1*yfeUrFCr9oEVZofS8TvDEg.png)
+Image By Author
+Retrieval Augmented Generation (RAG) has been around for a while, taking many forms lately. Today, it incorporates advanced search strategies, multi-agent approaches, and semantic caches. RAG prototypes are relatively easy to build, but implementing them in a production environment is more challenging. Focusing on the specific business use case is crucial when developing RAG systems for production. Continuous evaluation should be integrated into the pipeline to ensure performance metrics such as latency, scalability, fault tolerance, and response quality are met.
+Numerous frameworks and techniques have emerged to evaluate the performance of RAG systems based on qualitative and quantitative experiments on both retriever and generator components. Some of them include [BLEU](https://dl.acm.org/doi/10.3115/1073083.1073135), [ROUGE](https://aclanthology.org/W04-1013/), [ARES](https://arxiv.org/abs/2311.09476) and [RAGAs](https://docs.ragas.io/en/stable/).
+# Table Of Contents
+· [RAGAs](https://ai.gopubby.com/how-document-chunk-overlap-affects-a-rag-pipeline-9b8931845c20/#e2cd)· [The Concept of Chunk Size & Chunk Overlap](https://ai.gopubby.com/how-document-chunk-overlap-affects-a-rag-pipeline-9b8931845c20/#4ca7)· [RAG Pipeline](https://ai.gopubby.com/how-document-chunk-overlap-affects-a-rag-pipeline-9b8931845c20/#d71e) ∘ [Prerequisites](https://ai.gopubby.com/how-document-chunk-overlap-affects-a-rag-pipeline-9b8931845c20/#3068) ∘ [Setting Up Qdrant](https://ai.gopubby.com/how-document-chunk-overlap-affects-a-rag-pipeline-9b8931845c20/#cca4) ∘ [Embeddings & Database](https://ai.gopubby.com/how-document-chunk-overlap-affects-a-rag-pipeline-9b8931845c20/#2d4c) ∘ [Configuring the Chain](https://ai.gopubby.com/how-document-chunk-overlap-affects-a-rag-pipeline-9b8931845c20/#6826)· [RAG Evaluation Using RAGAs](https://ai.gopubby.com/how-document-chunk-overlap-affects-a-rag-pipeline-9b8931845c20/#9056)· [Semantic Chunking ✨](https://ai.gopubby.com/how-document-chunk-overlap-affects-a-rag-pipeline-9b8931845c20/#45c6)· [Conclusion](https://ai.gopubby.com/how-document-chunk-overlap-affects-a-rag-pipeline-9b8931845c20/#84c0)· [References](https://ai.gopubby.com/how-document-chunk-overlap-affects-a-rag-pipeline-9b8931845c20/#c300)
+# RAGAs
+The [RAGAs](https://docs.ragas.io/en/stable/) framework is a tool specifically crafted to evaluate Retrieval Augmented Generation pipelines. Although there are numerous tools and frameworks available to construct RAG pipelines, their evaluation and performance measurement can be quite daunting. This is where RAGAs comes into play. It equips you with state-of-the-art tools for assessing LLM-generated text, offering valuable insights into your RAG pipeline. It can be seamlessly incorporated into your CI/CD pipeline to facilitate continuous performance checks. It evaluates performance on various parameters such as accuracy, tone, hallucination, and fluency, among others.
+It is well integrated with leading frameworks like [LangChain](https://docs.ragas.io/en/latest/howtos/integrations/langchain.html) and [LlamaIndex](https://docs.ragas.io/en/latest/howtos/integrations/llamaindex.html) to implement evaluation processes in the workflow.
+## 
+Create an account to read the full story.
+The author made this story available to Medium members only.If you’re new to Medium, create a new account to read this story on us.
+[Continue in app](https://rsci.app.link/?%24canonical_url=https%3A%2F%2Fmedium.com%2Fp%2F9b8931845c20&%7Efeature=LoOpenInAppButton&%7Echannel=ShowPostUnderCollection&%7Estage=regwall&source=-----9b8931845c20---------------------post_regwall------------------)
+Or, continue in mobile web
+[Sign up with Google](https://medium.com/m/connect/google?state=google-%7Chttps%3A%2F%2Fai.gopubby.com%2Fhow-document-chunk-overlap-affects-a-rag-pipeline-9b8931845c20%3Fsource%3D-----9b8931845c20---------------------post_regwall------------------%26skipOnboarding%3D1%7Cregister&source=-----9b8931845c20---------------------post_regwall------------------)
+[Sign up with Facebook](https://medium.com/m/connect/facebook?state=facebook-%7Chttps%3A%2F%2Fai.gopubby.com%2Fhow-document-chunk-overlap-affects-a-rag-pipeline-9b8931845c20%3Fsource%3D-----9b8931845c20---------------------post_regwall------------------%26skipOnboarding%3D1%7Cregister&source=-----9b8931845c20---------------------post_regwall------------------)
+[Sign up with email](https://medium.com/m/signin?redirect=https%3A%2F%2Fai.gopubby.com%2Fhow-document-chunk-overlap-affects-a-rag-pipeline-9b8931845c20%3Fsource%3D-----9b8931845c20---------------------post_regwall------------------%26skipOnboarding%3D1&operation=register&stepOverride=ENTER_EMAIL&source=-----9b8931845c20---------------------post_regwall------------------)
+Already have an account? [Sign in](https://medium.com/m/signin?operation=login&redirect=https%3A%2F%2Fai.gopubby.com%2Fhow-document-chunk-overlap-affects-a-rag-pipeline-9b8931845c20&source=-----9b8931845c20---------------------post_regwall------------------)
+[](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fvote%2Fai-advances%2F9b8931845c20&operation=register&redirect=https%3A%2F%2Fai.gopubby.com%2Fhow-document-chunk-overlap-affects-a-rag-pipeline-9b8931845c20&user=Ashish+Abraham&userId=2c5db007ebb8&source=---footer_actions--9b8931845c20---------------------clap_footer------------------)
+515
+[](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fvote%2Fai-advances%2F9b8931845c20&operation=register&redirect=https%3A%2F%2Fai.gopubby.com%2Fhow-document-chunk-overlap-affects-a-rag-pipeline-9b8931845c20&user=Ashish+Abraham&userId=2c5db007ebb8&source=---footer_actions--9b8931845c20---------------------clap_footer------------------)
+515
+6
+[](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F9b8931845c20&operation=register&redirect=https%3A%2F%2Fai.gopubby.com%2Fhow-document-chunk-overlap-affects-a-rag-pipeline-9b8931845c20&source=---footer_actions--9b8931845c20---------------------bookmark_footer------------------)
+[![AI Advances](https://miro.medium.com/v2/resize:fill:96:96/1*R8zEd59FDf0l8Re94ImV0Q.png)](https://ai.gopubby.com/?source=post_page---post_publication_info--9b8931845c20---------------------------------------)
+[![AI Advances](https://miro.medium.com/v2/resize:fill:128:128/1*R8zEd59FDf0l8Re94ImV0Q.png)](https://ai.gopubby.com/?source=post_page---post_publication_info--9b8931845c20---------------------------------------)
+[Follow](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fsubscribe%2Fcollection%2Fai-advances&operation=register&redirect=https%3A%2F%2Fai.gopubby.com%2Fhow-document-chunk-overlap-affects-a-rag-pipeline-9b8931845c20&collection=AI+Advances&collectionId=3fe99b2acc4&source=post_page---post_publication_info--9b8931845c20---------------------follow_post_publication_info------------------)
+## [Published in AI Advances](https://ai.gopubby.com/?source=post_page---post_publication_info--9b8931845c20---------------------------------------)
+[26K Followers](https://ai.gopubby.com/followers?source=post_page---post_publication_info--9b8931845c20---------------------------------------)
+·[Last published 9 hours ago](https://ai.gopubby.com/mcp-installer-discover-effortless-mcp-server-setup-using-simple-text-prompts-07dc6729fdd3?source=post_page---post_publication_info--9b8931845c20---------------------------------------)
+Democratizing access to artificial intelligence
+[Follow](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fsubscribe%2Fcollection%2Fai-advances&operation=register&redirect=https%3A%2F%2Fai.gopubby.com%2Fhow-document-chunk-overlap-affects-a-rag-pipeline-9b8931845c20&collection=AI+Advances&collectionId=3fe99b2acc4&source=post_page---post_publication_info--9b8931845c20---------------------follow_post_publication_info------------------)
+[![Ashish Abraham](https://miro.medium.com/v2/resize:fill:96:96/1*8PWx1xvLzUgUu-Wqv493Zw.jpeg)](https://medium.com/@ashishabraham02?source=post_page---post_author_info--9b8931845c20---------------------------------------)
+[![Ashish Abraham](https://miro.medium.com/v2/resize:fill:128:128/1*8PWx1xvLzUgUu-Wqv493Zw.jpeg)](https://medium.com/@ashishabraham02?source=post_page---post_author_info--9b8931845c20---------------------------------------)
+[Follow](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fsubscribe%2Fuser%2F2c5db007ebb8&operation=register&redirect=https%3A%2F%2Fai.gopubby.com%2Fhow-document-chunk-overlap-affects-a-rag-pipeline-9b8931845c20&user=Ashish+Abraham&userId=2c5db007ebb8&source=post_page-2c5db007ebb8--post_author_info--9b8931845c20---------------------follow_post_author_info------------------)
+## [Written by Ashish Abraham](https://medium.com/@ashishabraham02?source=post_page---post_author_info--9b8931845c20---------------------------------------)
+[257 Followers](https://medium.com/@ashishabraham02/followers?source=post_page---post_author_info--9b8931845c20---------------------------------------)
+·[21 Following](https://medium.com/@ashishabraham02/following?source=post_page---post_author_info--9b8931845c20---------------------------------------)
+@SnapAR | ML Developer & StoryTeller✨| Software Engineer
+[Follow](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fsubscribe%2Fuser%2F2c5db007ebb8&operation=register&redirect=https%3A%2F%2Fai.gopubby.com%2Fhow-document-chunk-overlap-affects-a-rag-pipeline-9b8931845c20&user=Ashish+Abraham&userId=2c5db007ebb8&source=post_page-2c5db007ebb8--post_author_info--9b8931845c20---------------------follow_post_author_info------------------)
+## Responses (6)
+[](https://policy.medium.com/medium-rules-30e5502c4eb4?source=post_page---post_responses--9b8931845c20---------------------------------------)
+![](https://miro.medium.com/v2/resize:fill:32:32/1*dmbNkD5D-u45r44go_cf0g.png)
+Write a response
+[What are your thoughts?](https://medium.com/m/signin?operation=register&redirect=https%3A%2F%2Fai.gopubby.com%2Fhow-document-chunk-overlap-affects-a-rag-pipeline-9b8931845c20&source=---post_responses--9b8931845c20---------------------respond_sidebar------------------)
+Cancel
+Respond
+Also publish to my profile
+See all responses
+## More from Ashish Abraham and AI Advances
+![Everything You Need To Know on LLMs : Brick by Brick](https://miro.medium.com/v2/resize:fit:679/1*Cg27e-QXRd-MR3Ai1PKIxw.png)
+[![Data Science Collective](https://miro.medium.com/v2/resize:fill:20:20/1*0nV0Q-FBHj94Kggq00pG2Q.jpeg)](https://medium.com/data-science-collective?source=post_page---author_recirc--9b8931845c20----0---------------------61aa01d3_3e5e_45e1_b9f7_e758a9072fbf--------------)
+In
+[Data Science Collective](https://medium.com/data-science-collective?source=post_page---author_recirc--9b8931845c20----0---------------------61aa01d3_3e5e_45e1_b9f7_e758a9072fbf--------------)
+by
+[Ashish Abraham](https://medium.com/@ashishabraham02?source=post_page---author_recirc--9b8931845c20----0---------------------61aa01d3_3e5e_45e1_b9f7_e758a9072fbf--------------)
+## [Everything You Need To Know on LLMs : Brick by BrickA comprehensive study on LLMs , explored layer-by-layer](https://medium.com/data-science-collective/everything-you-need-to-know-on-llms-brick-by-brick-da3aede38705?source=post_page---author_recirc--9b8931845c20----0---------------------61aa01d3_3e5e_45e1_b9f7_e758a9072fbf--------------)
+2d ago
+[2](https://medium.com/data-science-collective/everything-you-need-to-know-on-llms-brick-by-brick-da3aede38705?source=post_page---author_recirc--9b8931845c20----0---------------------61aa01d3_3e5e_45e1_b9f7_e758a9072fbf--------------)
+[](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fda3aede38705&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fdata-science-collective%2Feverything-you-need-to-know-on-llms-brick-by-brick-da3aede38705&source=---author_recirc--9b8931845c20----0-----------------bookmark_preview----61aa01d3_3e5e_45e1_b9f7_e758a9072fbf--------------)
+![Agentic AI for Data Engineering](https://miro.medium.com/v2/resize:fit:679/1*Jwnv2prBBHCvDDi_Kik9fQ.png)
+[![AI Advances](https://miro.medium.com/v2/resize:fill:20:20/1*R8zEd59FDf0l8Re94ImV0Q.png)](https://ai.gopubby.com/?source=post_page---author_recirc--9b8931845c20----1---------------------61aa01d3_3e5e_45e1_b9f7_e758a9072fbf--------------)
+In
+[AI Advances](https://ai.gopubby.com/?source=post_page---author_recirc--9b8931845c20----1---------------------61aa01d3_3e5e_45e1_b9f7_e758a9072fbf--------------)
+by
+[Debmalya Biswas](https://debmalyabiswas.medium.com/?source=post_page---author_recirc--9b8931845c20----1---------------------61aa01d3_3e5e_45e1_b9f7_e758a9072fbf--------------)
+## [Agentic AI for Data EngineeringReimagining Enterprise Data Management leveraging AI Agents](https://ai.gopubby.com/agentic-ai-for-data-engineering-4412d5e70189?source=post_page---author_recirc--9b8931845c20----1---------------------61aa01d3_3e5e_45e1_b9f7_e758a9072fbf--------------)
+6d ago
+[11](https://ai.gopubby.com/agentic-ai-for-data-engineering-4412d5e70189?source=post_page---author_recirc--9b8931845c20----1---------------------61aa01d3_3e5e_45e1_b9f7_e758a9072fbf--------------)
+[](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F4412d5e70189&operation=register&redirect=https%3A%2F%2Fai.gopubby.com%2Fagentic-ai-for-data-engineering-4412d5e70189&source=---author_recirc--9b8931845c20----1-----------------bookmark_preview----61aa01d3_3e5e_45e1_b9f7_e758a9072fbf--------------)
+![How to make your own AI software engineer \(like Devin\)](https://miro.medium.com/v2/resize:fit:679/0*wxHG3WMeszpDsiJw)
+[![AI Advances](https://miro.medium.com/v2/resize:fill:20:20/1*R8zEd59FDf0l8Re94ImV0Q.png)](https://ai.gopubby.com/?source=post_page---author_recirc--9b8931845c20----2---------------------61aa01d3_3e5e_45e1_b9f7_e758a9072fbf--------------)
+In
+[AI Advances](https://ai.gopubby.com/?source=post_page---author_recirc--9b8931845c20----2---------------------61aa01d3_3e5e_45e1_b9f7_e758a9072fbf--------------)
+by
+[Nikhil Anand](https://medium.com/@nikhilanandnj?source=post_page---author_recirc--9b8931845c20----2---------------------61aa01d3_3e5e_45e1_b9f7_e758a9072fbf--------------)
+## [How to make your own AI software engineer (like Devin)…using DeepSeek’s RL blueprint for everything AI.](https://ai.gopubby.com/how-to-make-your-own-ai-software-engineer-like-devin-67ffc7153040?source=post_page---author_recirc--9b8931845c20----2---------------------61aa01d3_3e5e_45e1_b9f7_e758a9072fbf--------------)
+Mar 18
+[17](https://ai.gopubby.com/how-to-make-your-own-ai-software-engineer-like-devin-67ffc7153040?source=post_page---author_recirc--9b8931845c20----2---------------------61aa01d3_3e5e_45e1_b9f7_e758a9072fbf--------------)
+[](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F67ffc7153040&operation=register&redirect=https%3A%2F%2Fai.gopubby.com%2Fhow-to-make-your-own-ai-software-engineer-like-devin-67ffc7153040&source=---author_recirc--9b8931845c20----2-----------------bookmark_preview----61aa01d3_3e5e_45e1_b9f7_e758a9072fbf--------------)
+![Exploring Vector Search for SQL Databases](https://miro.medium.com/v2/resize:fit:679/0*hBO7j9Gr_H64gWZi)
+[![Ashish Abraham](https://miro.medium.com/v2/resize:fill:20:20/1*8PWx1xvLzUgUu-Wqv493Zw.jpeg)](https://medium.com/@ashishabraham02?source=post_page---author_recirc--9b8931845c20----3---------------------61aa01d3_3e5e_45e1_b9f7_e758a9072fbf--------------)
+[Ashish Abraham](https://medium.com/@ashishabraham02?source=post_page---author_recirc--9b8931845c20----3---------------------61aa01d3_3e5e_45e1_b9f7_e758a9072fbf--------------)
+## [Exploring Vector Search for SQL DatabasesFrom natural language to powerful SQL queries and results with LLMs & vector databases](https://medium.com/@ashishabraham02/exploring-vector-search-for-sql-databases-0f5be67aff57?source=post_page---author_recirc--9b8931845c20----3---------------------61aa01d3_3e5e_45e1_b9f7_e758a9072fbf--------------)
+Apr 30, 2024
+[](https://medium.com/@ashishabraham02/exploring-vector-search-for-sql-databases-0f5be67aff57?source=post_page---author_recirc--9b8931845c20----3---------------------61aa01d3_3e5e_45e1_b9f7_e758a9072fbf--------------)
+[](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F0f5be67aff57&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40ashishabraham02%2Fexploring-vector-search-for-sql-databases-0f5be67aff57&source=---author_recirc--9b8931845c20----3-----------------bookmark_preview----61aa01d3_3e5e_45e1_b9f7_e758a9072fbf--------------)
+[See all from Ashish Abraham](https://medium.com/@ashishabraham02?source=post_page---author_recirc--9b8931845c20---------------------------------------)
+[See all from AI Advances](https://ai.gopubby.com/?source=post_page---author_recirc--9b8931845c20---------------------------------------)
+## Recommended from Medium
+![Advanced RAG 06: Exploring Query Rewriting](https://miro.medium.com/v2/resize:fit:679/1*bwC_8_SlzuKF158CjC3nBg.png)
+[![Florian June](https://miro.medium.com/v2/resize:fill:20:20/1*DmQ3DH2JeAJquvhT_tjVCw.jpeg)](https://medium.com/@florian_algo?source=post_page---read_next_recirc--9b8931845c20----0---------------------3dd89819_c284_4762_9158_ca74aac14ee6--------------)
+[Florian June](https://medium.com/@florian_algo?source=post_page---read_next_recirc--9b8931845c20----0---------------------3dd89819_c284_4762_9158_ca74aac14ee6--------------)
+## [Advanced RAG 06: Exploring Query RewritingA key technique for aligning the semantics of queries and documents](https://medium.com/@florian_algo/advanced-rag-06-exploring-query-rewriting-23997297f2d1?source=post_page---read_next_recirc--9b8931845c20----0---------------------3dd89819_c284_4762_9158_ca74aac14ee6--------------)
+Mar 4, 2024
+[6](https://medium.com/@florian_algo/advanced-rag-06-exploring-query-rewriting-23997297f2d1?source=post_page---read_next_recirc--9b8931845c20----0---------------------3dd89819_c284_4762_9158_ca74aac14ee6--------------)
+[](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F23997297f2d1&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40florian_algo%2Fadvanced-rag-06-exploring-query-rewriting-23997297f2d1&source=---read_next_recirc--9b8931845c20----0-----------------bookmark_preview----3dd89819_c284_4762_9158_ca74aac14ee6--------------)
+![RAG Evaluation with LLM-as-a-Judge + Synthetic Dataset Creation](https://miro.medium.com/v2/resize:fit:679/0*qK3uHLOzxzu_ZgNl.png)
+[![Generative AI](https://miro.medium.com/v2/resize:fill:20:20/1*M4RBhIRaSSZB7lXfrGlatA.png)](https://generativeai.pub/?source=post_page---read_next_recirc--9b8931845c20----1---------------------3dd89819_c284_4762_9158_ca74aac14ee6--------------)
+In
+[Generative AI](https://generativeai.pub/?source=post_page---read_next_recirc--9b8931845c20----1---------------------3dd89819_c284_4762_9158_ca74aac14ee6--------------)
+by
+[Tim Cvetko](https://timc102.medium.com/?source=post_page---read_next_recirc--9b8931845c20----1---------------------3dd89819_c284_4762_9158_ca74aac14ee6--------------)
+## [RAG Evaluation with LLM-as-a-Judge + Synthetic Dataset CreationForget Custom Human QA Pairs](https://generativeai.pub/rag-evaluation-with-llm-as-a-judge-synthetic-dataset-creation-7fce566310f5?source=post_page---read_next_recirc--9b8931845c20----1---------------------3dd89819_c284_4762_9158_ca74aac14ee6--------------)
+Mar 11, 2024
+[2](https://generativeai.pub/rag-evaluation-with-llm-as-a-judge-synthetic-dataset-creation-7fce566310f5?source=post_page---read_next_recirc--9b8931845c20----1---------------------3dd89819_c284_4762_9158_ca74aac14ee6--------------)
+[](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F7fce566310f5&operation=register&redirect=https%3A%2F%2Fgenerativeai.pub%2Frag-evaluation-with-llm-as-a-judge-synthetic-dataset-creation-7fce566310f5&source=---read_next_recirc--9b8931845c20----1-----------------bookmark_preview----3dd89819_c284_4762_9158_ca74aac14ee6--------------)
+![SQL Linear Recursion to Find Cheapest Airline Connections](https://miro.medium.com/v2/resize:fit:679/1*zgnQRSWhnG6n1j3k2qMThA.png)
+[![Towards AI](https://miro.medium.com/v2/resize:fill:20:20/1*JyIThO-cLjlChQLb6kSlVQ.png)](https://pub.towardsai.net/?source=post_page---read_next_recirc--9b8931845c20----0---------------------3dd89819_c284_4762_9158_ca74aac14ee6--------------)
+In
+[Towards AI](https://pub.towardsai.net/?source=post_page---read_next_recirc--9b8931845c20----0---------------------3dd89819_c284_4762_9158_ca74aac14ee6--------------)
+by
+[Ashutosh Malgaonkar](https://medium.com/@ashu.malgaonkar?source=post_page---read_next_recirc--9b8931845c20----0---------------------3dd89819_c284_4762_9158_ca74aac14ee6--------------)
+## [SQL Linear Recursion to Find Cheapest Airline ConnectionsTable of Contents:](https://pub.towardsai.net/sql-linear-recursion-to-find-cheapest-airline-connections-0673f5b0aadc?source=post_page---read_next_recirc--9b8931845c20----0---------------------3dd89819_c284_4762_9158_ca74aac14ee6--------------)
+6d ago
+[1](https://pub.towardsai.net/sql-linear-recursion-to-find-cheapest-airline-connections-0673f5b0aadc?source=post_page---read_next_recirc--9b8931845c20----0---------------------3dd89819_c284_4762_9158_ca74aac14ee6--------------)
+[](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F0673f5b0aadc&operation=register&redirect=https%3A%2F%2Fpub.towardsai.net%2Fsql-linear-recursion-to-find-cheapest-airline-connections-0673f5b0aadc&source=---read_next_recirc--9b8931845c20----0-----------------bookmark_preview----3dd89819_c284_4762_9158_ca74aac14ee6--------------)
+![Why BM25 Algorithm Over Tf-Idf?](https://miro.medium.com/v2/resize:fit:679/0*nWMZugVT9BVAr1hO)
+[![MLWorks](https://miro.medium.com/v2/resize:fill:20:20/1*W-H5RJjvHzn3AGGPbYhjrA.png)](https://medium.com/mlworks?source=post_page---read_next_recirc--9b8931845c20----1---------------------3dd89819_c284_4762_9158_ca74aac14ee6--------------)
+In
+[MLWorks](https://medium.com/mlworks?source=post_page---read_next_recirc--9b8931845c20----1---------------------3dd89819_c284_4762_9158_ca74aac14ee6--------------)
+by
+[Mayur Jain](https://mayur-ds.medium.com/?source=post_page---read_next_recirc--9b8931845c20----1---------------------3dd89819_c284_4762_9158_ca74aac14ee6--------------)
+## [Why BM25 Algorithm Over Tf-Idf?The backbone of the search and information retrieval system](https://medium.com/mlworks/why-bm25-algorithm-over-tf-idf-67bc009d20de?source=post_page---read_next_recirc--9b8931845c20----1---------------------3dd89819_c284_4762_9158_ca74aac14ee6--------------)
+Jan 16
+[](https://medium.com/mlworks/why-bm25-algorithm-over-tf-idf-67bc009d20de?source=post_page---read_next_recirc--9b8931845c20----1---------------------3dd89819_c284_4762_9158_ca74aac14ee6--------------)
+[](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F67bc009d20de&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fmlworks%2Fwhy-bm25-algorithm-over-tf-idf-67bc009d20de&source=---read_next_recirc--9b8931845c20----1-----------------bookmark_preview----3dd89819_c284_4762_9158_ca74aac14ee6--------------)
+![All about Chunking](https://miro.medium.com/v2/resize:fit:679/1*PeMYaHPbUT3oO4yzFSYMmQ.png)
+[![Suvasis Mukherjee](https://miro.medium.com/v2/resize:fill:20:20/0*txHtGctIRnKxXzOL)](https://medium.com/@suvasism?source=post_page---read_next_recirc--9b8931845c20----2---------------------3dd89819_c284_4762_9158_ca74aac14ee6--------------)
+[Suvasis Mukherjee](https://medium.com/@suvasism?source=post_page---read_next_recirc--9b8931845c20----2---------------------3dd89819_c284_4762_9158_ca74aac14ee6--------------)
+## [All about ChunkingBefore uploading unstructured data to vector database:](https://medium.com/@suvasism/all-about-chunking-29643680c90a?source=post_page---read_next_recirc--9b8931845c20----2---------------------3dd89819_c284_4762_9158_ca74aac14ee6--------------)
+Mar 20
+[](https://medium.com/@suvasism/all-about-chunking-29643680c90a?source=post_page---read_next_recirc--9b8931845c20----2---------------------3dd89819_c284_4762_9158_ca74aac14ee6--------------)
+[](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F29643680c90a&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40suvasism%2Fall-about-chunking-29643680c90a&source=---read_next_recirc--9b8931845c20----2-----------------bookmark_preview----3dd89819_c284_4762_9158_ca74aac14ee6--------------)
+![SmolDocling: A New Era in Document Processing — OCR](https://miro.medium.com/v2/resize:fit:679/0*n5j-jbfnJlGv_HXj.png)
+[![Data Science Collective](https://miro.medium.com/v2/resize:fill:20:20/1*0nV0Q-FBHj94Kggq00pG2Q.jpeg)](https://medium.com/data-science-collective?source=post_page---read_next_recirc--9b8931845c20----3---------------------3dd89819_c284_4762_9158_ca74aac14ee6--------------)
+In
+[Data Science Collective](https://medium.com/data-science-collective?source=post_page---read_next_recirc--9b8931845c20----3---------------------3dd89819_c284_4762_9158_ca74aac14ee6--------------)
+by
+[Buse Şenol](https://busekoseoglu.medium.com/?source=post_page---read_next_recirc--9b8931845c20----3---------------------3dd89819_c284_4762_9158_ca74aac14ee6--------------)
+## [SmolDocling: A New Era in Document Processing — OCRA model that outperforms its competitors 27 times its size with the DocTags format](https://medium.com/data-science-collective/smoldocling-a-new-era-in-document-processing-3e9b044eeb4a?source=post_page---read_next_recirc--9b8931845c20----3---------------------3dd89819_c284_4762_9158_ca74aac14ee6--------------)
+5d ago
+[2](https://medium.com/data-science-collective/smoldocling-a-new-era-in-document-processing-3e9b044eeb4a?source=post_page---read_next_recirc--9b8931845c20----3---------------------3dd89819_c284_4762_9158_ca74aac14ee6--------------)
+[](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F3e9b044eeb4a&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fdata-science-collective%2Fsmoldocling-a-new-era-in-document-processing-3e9b044eeb4a&source=---read_next_recirc--9b8931845c20----3-----------------bookmark_preview----3dd89819_c284_4762_9158_ca74aac14ee6--------------)
+[See more recommendations](https://medium.com/?source=post_page---read_next_recirc--9b8931845c20---------------------------------------)
+[Help](https://help.medium.com/hc/en-us?source=post_page-----9b8931845c20---------------------------------------)
+[Status](https://medium.statuspage.io/?source=post_page-----9b8931845c20---------------------------------------)
+[About](https://medium.com/about?autoplay=1&source=post_page-----9b8931845c20---------------------------------------)
+[Careers](https://medium.com/jobs-at-medium/work-at-medium-959d1a85284e?source=post_page-----9b8931845c20---------------------------------------)
+Press
+[Blog](https://blog.medium.com/?source=post_page-----9b8931845c20---------------------------------------)
+[Privacy](https://policy.medium.com/medium-privacy-policy-f03bf92035c9?source=post_page-----9b8931845c20---------------------------------------)
+[Rules](https://policy.medium.com/medium-rules-30e5502c4eb4?source=post_page-----9b8931845c20---------------------------------------)
+[Terms](https://policy.medium.com/medium-terms-of-service-9db0094a1e0f?source=post_page-----9b8931845c20---------------------------------------)
+[Text to speech](https://speechify.com/medium?source=post_page-----9b8931845c20---------------------------------------)

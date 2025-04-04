@@ -1,0 +1,27 @@
+{
+    "id": "f599b9109ad9bda6677ce0de885fccd8",
+    "metadata": {
+        "id": "f599b9109ad9bda6677ce0de885fccd8",
+        "url": "https://huggingface.co/docs/transformers/en/(https://arxiv.org/abs/2305.13245)/",
+        "title": "",
+        "properties": {
+            "description": null,
+            "keywords": null,
+            "author": null
+        }
+    },
+    "parent_metadata": {
+        "id": "8f841bcabc2fef9c5b005cac5feb0ffa",
+        "url": "https://www.notion.so/LLM-Inference-Optimization-Other-Techniques-8f841bcabc2fef9c5b005cac5feb0ffa",
+        "title": "LLM Inference Optimization & Other Techniques",
+        "properties": {
+            "Type": "Leaf"
+        }
+    },
+    "content": "The documentation page (HTTPS://ARXIV.ORG/ABS/2305.13245) doesn’t exist in v4.50.0, but exists on the main version. Click [here](https://huggingface.co/docs/transformers/main/en/\\(https://arxiv.org/abs/2305.13245\\)) to redirect to the main version of the documentation.\n",
+    "content_quality_score": 0.1,
+    "summary": null,
+    "child_urls": [
+        "https://huggingface.co/docs/transformers/main/en/(https://arxiv.org/abs/2305.13245)"
+    ]
+}

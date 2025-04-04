@@ -1,0 +1,131 @@
+•
+NaN / NaN
+Back  [ ](https://www.youtube.com/ "YouTube Home")
+Skip navigation
+Search 
+Search with your voice 
+[ ](https://www.youtube.com/ "YouTube Home")
+Building a Data and ML Platform at BENlabs
+Search
+Watch later
+Share
+Copy link
+Info
+Shopping
+Tap to unmute
+2x
+If playback doesn't begin shortly, try restarting your device.
+•
+Share
+Include playlist
+An error occurred while retrieving sharing information. Please try again later.
+0:00
+[](https://www.youtube.com/watch?v=9fSGYcv8ayg "Next \(SHIFT+n\)")
+0:00 / 21:37•Watch full videoLive
+•
+Intro
+•
+Scroll for details
+#  Building a Data and ML Platform at BENlabs
+[![](https://yt3.ggpht.com/Z1cdX0aJfs6HKZxQaTAuxT0UieVJpGiJop5HpRzLQbBQc2-rkqTYrgki0eE-HncCo7wSmOBoD7Y=s48-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/@outerbounds)
+[Outerbounds](https://www.youtube.com/@outerbounds)
+Outerbounds 
+2.17K subscribers
+<__slot-el>
+Subscribe
+<__slot-el>
+Subscribed
+57
+Share
+Download
+Download 
+Save
+1.8K views11 months ago
+1,841 views • Apr 4, 2024 
+Show less 
+This spring at Netflix HQ in Los Gatos, we hosted an ML and AI mixer that brought together talks, food, drinks, and engaging discussions on the latest in machine learning, infrastructure, LLMs, and foundation models.…...more 
+...more 
+## 
+Chapters
+View all
+#### [Intro Intro 0:00 ](https://www.youtube.com/watch?v=gxw1gMYP0WM)
+#### [Intro ](https://www.youtube.com/watch?v=gxw1gMYP0WM)
+0:00
+#### [About BENlabs About BENlabs 1:46 ](https://www.youtube.com/watch?v=gxw1gMYP0WM&t=106s)
+#### [About BENlabs ](https://www.youtube.com/watch?v=gxw1gMYP0WM&t=106s)
+1:46
+#### [Building a Data Platform Building a Data Platform 2:57 ](https://www.youtube.com/watch?v=gxw1gMYP0WM&t=177s)
+#### [Building a Data Platform ](https://www.youtube.com/watch?v=gxw1gMYP0WM&t=177s)
+2:57
+#### [Data Platform Principles Data Platform Principles 7:12 ](https://www.youtube.com/watch?v=gxw1gMYP0WM&t=432s)
+#### [Data Platform Principles ](https://www.youtube.com/watch?v=gxw1gMYP0WM&t=432s)
+7:12
+Transcript
+Follow along using the transcript.
+Show transcript
+### [Outerbounds 2.17K subscribers  ](https://www.youtube.com/@outerbounds)
+[Videos](https://www.youtube.com/channel/UC5h8Ji6Lm1RyAZopnCpDq7Q/videos)
+[About](https://www.youtube.com/channel/UC5h8Ji6Lm1RyAZopnCpDq7Q/about)
+[Videos](https://www.youtube.com/channel/UC5h8Ji6Lm1RyAZopnCpDq7Q/videos)[About](https://www.youtube.com/channel/UC5h8Ji6Lm1RyAZopnCpDq7Q/about)
+Show less 
+# Building a Data and ML Platform at BENlabs
+1,841 views1.8K views
+Apr 4, 2024
+57
+Share
+Download
+Download 
+Save
+##  Comments 2
+Top comments  Newest first 
+##  Chapters
+These chapters are auto-generated #### [Intro Intro 0:00 ](https://www.youtube.com/watch?v=gxw1gMYP0WM)
+#### [Intro ](https://www.youtube.com/watch?v=gxw1gMYP0WM)
+0:00
+#### [About BENlabs About BENlabs 1:46 ](https://www.youtube.com/watch?v=gxw1gMYP0WM&t=106s)
+#### [About BENlabs ](https://www.youtube.com/watch?v=gxw1gMYP0WM&t=106s)
+1:46
+#### [Building a Data Platform Building a Data Platform 2:57 ](https://www.youtube.com/watch?v=gxw1gMYP0WM&t=177s)
+#### [Building a Data Platform ](https://www.youtube.com/watch?v=gxw1gMYP0WM&t=177s)
+2:57
+#### [Data Platform Principles Data Platform Principles 7:12 ](https://www.youtube.com/watch?v=gxw1gMYP0WM&t=432s)
+#### [Data Platform Principles ](https://www.youtube.com/watch?v=gxw1gMYP0WM&t=432s)
+7:12
+#### [Summary Summary 11:30 ](https://www.youtube.com/watch?v=gxw1gMYP0WM&t=690s)
+#### [Summary ](https://www.youtube.com/watch?v=gxw1gMYP0WM&t=690s)
+11:30
+#### [How did we get here How did we get here 12:44 ](https://www.youtube.com/watch?v=gxw1gMYP0WM&t=764s)
+#### [How did we get here ](https://www.youtube.com/watch?v=gxw1gMYP0WM&t=764s)
+12:44
+#### [How do we use it How do we use it 15:40 ](https://www.youtube.com/watch?v=gxw1gMYP0WM&t=940s)
+#### [How do we use it ](https://www.youtube.com/watch?v=gxw1gMYP0WM&t=940s)
+15:40
+#### [Conclusion Conclusion 20:04 ](https://www.youtube.com/watch?v=gxw1gMYP0WM&t=1204s)
+#### [Conclusion ](https://www.youtube.com/watch?v=gxw1gMYP0WM&t=1204s)
+20:04
+Sync to video time 
+Sync to video time
+##  Description
+Building a Data and ML Platform at BENlabs
+57Likes
+1,841Views
+Apr 42024
+This spring at Netflix HQ in Los Gatos, we hosted an ML and AI mixer that brought together talks, food, drinks, and engaging discussions on the latest in machine learning, infrastructure, LLMs, and foundation models. This talk was by by Jon Daniels and Eric Riddoch, BENlabs.…...more 
+...more Show less 
+## 
+Chapters
+View all
+Transcript
+Follow along using the transcript.
+Show transcript
+### [Outerbounds 2.17K subscribers  ](https://www.youtube.com/@outerbounds)
+[Videos](https://www.youtube.com/channel/UC5h8Ji6Lm1RyAZopnCpDq7Q/videos)
+[About](https://www.youtube.com/channel/UC5h8Ji6Lm1RyAZopnCpDq7Q/about)
+[Videos](https://www.youtube.com/channel/UC5h8Ji6Lm1RyAZopnCpDq7Q/videos)[About](https://www.youtube.com/channel/UC5h8Ji6Lm1RyAZopnCpDq7Q/about)
+##  Transcript
+NaN / NaN
+![](https://lh5.googleusercontent.com/proxy/H9Rbu6fOIhCqrPru8087vCnE3YZBYZaeRr1Dy9TMz488WAi2eqlDnMVrcdwEAwets9WG0XsE5XyheF78j281WqWYgzB1qJ39m5VNoAqFXbJe7_o_Wx7Bz1xHHb-SUbKVyQ)
+[Certificate Program in Generative AI](https://www.googleadservices.com/pagead/aclk?sa=L&ai=C5NAmtYLpZ-2nLu7Mrr4PkLbc2AvSuYSNfu_Uy9H9E7CQHxABIABgybaGh8yjwBeCARdjYS1wdWItNjIxOTgxMTc0NzA0OTM3MaABusCI0QKoAwTIAwqqBIUDT9Al1FNHGixi3OPm6W8m6Pj61c2RFRvt5p17_IBbLUEeXPknHsKX3s7eD0QX6URO5g3qr2V-7FmgKKqSj3GVql136BqCheDLp1aL1rmnA-1wufKpaozV56ye8-A1UyVjg_jGr3GNog-K0-uwpZ37KxGP1eww9JbNxjwSQinczgpRbUH0rLFrcfhAxcFjKcELbDvGV8XrLGK9AjnVyni-WBapbCOKGbAxO0h_7LQi1rXk387eR--iVaba9hY1Sc0tUv6BNBp9DnVPpcixy3Jj3P2LoOHq_kSIwjdLP8BOb40IpWC06rxpMl5zVSxx5Cx_DfuSkF6DZRadeOs0FsphCvPrGxjIT9TlUSncWZmeg3E_UGDwT0zJXUKd00YkXKAM51cD-kTovrc3SxwuSmpl6xHxvffQZZGrsBIFXQSXHLaW3Yf6MlH-OsMgHxRjrZmo35wwVFigHgo6yfm6w_ycAMCtTCXV1Sezh1o6VDWCBLXn1U2wyhW5gjR1UQ_bJoQDxx8yr7SSBQoIE2gCeJexq6gZoAZugAeTzbaZGZAHBKgH-bGxAqgHgLqxAqgH8sCxAqgHuMSxAqgHpc-xAqgHvc2xAqgH552xAqgH6J2xAqgH77WxAqgH8LWxAqgHgqqxAqgHhAioB6jSG6gHtgeoB7HcG6gHsJuxAqgHrrGxAqgH5ryxAqgHyrqxAqgH_MuxAqgH_bKxAqgH97ixAqgH-LixAqgHzcexAqgHpcyxAqgHgcYbqAf8r7ECqAerxRuoB7ehsQKoB9WpsQKoB961sQKoB-qxsQKoB763sQKoB5m1sQKoB4XBsQKoB-ulsQKoB8qpsQLSCCgIgEEQARheMgKCAjoLgGOAwICAgICAgAJI2aDSNVAUWIDj5rWtsowD8ggfY2EteXQtaG9zdC1wdWItMTQ0Mzk5MzMzODczOTkyN5oJXGh0dHBzOi8vb25saW5lLmxpZmVsb25nbGVhcm5pbmcuamh1LmVkdS9qaHUtb25saW5lLWNlcnRpZmljYXRlLXByb2dyYW0tYXBwbGllZC1nZW5lcmF0aXZlLWFpsQnp3Ori2FZXYsgJAMgJigKYCwGhC5ewLbsOZVc9ugs5CAEQBRgEIAgoATAaQAFIAFgBYABoAHABiAEAmAEBogEMCgBYAXABqAIB2AICqAEB2AEBgAIBiAIF0AsS2gwlCgoQkMm875CB6-d8EgIBAxoNGKGiuppSIIzJsrSJBUABSgIQH5oNARKqDQJVU8gNAdINqgJodHRwczovL29ubGluZS5saWZlbG9uZ2xlYXJuaW5nLmpodS5lZHUvamh1LW9ubGluZS1jZXJ0aWZpY2F0ZS1wcm9ncmFtLWFwcGxpZWQtZ2VuZXJhdGl2ZS1haT8mdXRtX3NvdXJjZT1nb29nbGUmdXRtX21lZGl1bT1kaXNjb3ZlcnkmdXRtX2NhbXBhaWduPUpIVV9JbnRfRGlzY292ZXJ5X0luTWFya2V0X0NJX1VTX0Rlc2t0b3AmY2FtcGFpZ25faWQ9MjIwNjcxODgwMDEmYWRncm91cF9pZD0xNzQzMjQ0OTE0MDQmYWRfaWQ9NzI2OTQxNzg3NzgzJnV0bV90YXJnZXQ9JktleXdvcmQ9JnBsYWNlbWVudD0mZ2FkX3NvdXJjZT0yuBP___________8BsBQBwBWBgIBA0BUB2BUBmBYB4hYCCAGAFwGKFxYIAxgBIAEoATABOAFAAUgBUAFYAWACoBcBqRduOZ1wxxlyRboXBigAMAA4AdAYAfAYAQ&ase=2&gclid=EAIaIQobChMIrdbnta2yjAMVbqbLAR0QGxe7EAEYASAAEgIo4PD_BwE&num=1&cid=CAASFeRo5ajfd3vHo2AMMQsBG3YogXwh5Q&sig=AOD64_3CxsHyajtI9wIkBxMvWGlVEuuUjQ&ms=%5BCLICK_MS%5D&nb=0&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D)[Earn a JHU Certificate in Generative AI and and elevate your career in AI landscape.](https://www.googleadservices.com/pagead/aclk?sa=L&ai=C5NAmtYLpZ-2nLu7Mrr4PkLbc2AvSuYSNfu_Uy9H9E7CQHxABIABgybaGh8yjwBeCARdjYS1wdWItNjIxOTgxMTc0NzA0OTM3MaABusCI0QKoAwTIAwqqBIUDT9Al1FNHGixi3OPm6W8m6Pj61c2RFRvt5p17_IBbLUEeXPknHsKX3s7eD0QX6URO5g3qr2V-7FmgKKqSj3GVql136BqCheDLp1aL1rmnA-1wufKpaozV56ye8-A1UyVjg_jGr3GNog-K0-uwpZ37KxGP1eww9JbNxjwSQinczgpRbUH0rLFrcfhAxcFjKcELbDvGV8XrLGK9AjnVyni-WBapbCOKGbAxO0h_7LQi1rXk387eR--iVaba9hY1Sc0tUv6BNBp9DnVPpcixy3Jj3P2LoOHq_kSIwjdLP8BOb40IpWC06rxpMl5zVSxx5Cx_DfuSkF6DZRadeOs0FsphCvPrGxjIT9TlUSncWZmeg3E_UGDwT0zJXUKd00YkXKAM51cD-kTovrc3SxwuSmpl6xHxvffQZZGrsBIFXQSXHLaW3Yf6MlH-OsMgHxRjrZmo35wwVFigHgo6yfm6w_ycAMCtTCXV1Sezh1o6VDWCBLXn1U2wyhW5gjR1UQ_bJoQDxx8yr7SSBQoIE2gCeJexq6gZoAZugAeTzbaZGZAHBKgH-bGxAqgHgLqxAqgH8sCxAqgHuMSxAqgHpc-xAqgHvc2xAqgH552xAqgH6J2xAqgH77WxAqgH8LWxAqgHgqqxAqgHhAioB6jSG6gHtgeoB7HcG6gHsJuxAqgHrrGxAqgH5ryxAqgHyrqxAqgH_MuxAqgH_bKxAqgH97ixAqgH-LixAqgHzcexAqgHpcyxAqgHgcYbqAf8r7ECqAerxRuoB7ehsQKoB9WpsQKoB961sQKoB-qxsQKoB763sQKoB5m1sQKoB4XBsQKoB-ulsQKoB8qpsQLSCCgIgEEQARheMgKCAjoLgGOAwICAgICAgAJI2aDSNVAUWIDj5rWtsowD8ggfY2EteXQtaG9zdC1wdWItMTQ0Mzk5MzMzODczOTkyN5oJXGh0dHBzOi8vb25saW5lLmxpZmVsb25nbGVhcm5pbmcuamh1LmVkdS9qaHUtb25saW5lLWNlcnRpZmljYXRlLXByb2dyYW0tYXBwbGllZC1nZW5lcmF0aXZlLWFpsQnp3Ori2FZXYsgJAMgJigKYCwGhC5ewLbsOZVc9ugs5CAEQBRgEIAgoATAaQAFIAFgBYABoAHABiAEAmAEBogEMCgBYAXABqAIB2AICqAEB2AEBgAIBiAIF0AsS2gwlCgoQkMm875CB6-d8EgIBAxoNGKGiuppSIIzJsrSJBUABSgIQH5oNARKqDQJVU8gNAdINqgJodHRwczovL29ubGluZS5saWZlbG9uZ2xlYXJuaW5nLmpodS5lZHUvamh1LW9ubGluZS1jZXJ0aWZpY2F0ZS1wcm9ncmFtLWFwcGxpZWQtZ2VuZXJhdGl2ZS1haT8mdXRtX3NvdXJjZT1nb29nbGUmdXRtX21lZGl1bT1kaXNjb3ZlcnkmdXRtX2NhbXBhaWduPUpIVV9JbnRfRGlzY292ZXJ5X0luTWFya2V0X0NJX1VTX0Rlc2t0b3AmY2FtcGFpZ25faWQ9MjIwNjcxODgwMDEmYWRncm91cF9pZD0xNzQzMjQ0OTE0MDQmYWRfaWQ9NzI2OTQxNzg3NzgzJnV0bV90YXJnZXQ9JktleXdvcmQ9JnBsYWNlbWVudD0mZ2FkX3NvdXJjZT0yuBP___________8BsBQBwBWBgIBA0BUB2BUBmBYB4hYCCAGAFwGKFxYIAxgBIAEoATABOAFAAUgBUAFYAWACoBcBqRduOZ1wxxlyRboXBigAMAA4AdAYAfAYAQ&ase=2&gclid=EAIaIQobChMIrdbnta2yjAMVbqbLAR0QGxe7EAEYASAAEgIo4PD_BwE&num=1&cid=CAASFeRo5ajfd3vHo2AMMQsBG3YogXwh5Q&sig=AOD64_3CxsHyajtI9wIkBxMvWGlVEuuUjQ&ms=%5BCLICK_MS%5D&nb=7&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D)
+Sponsored
+Great Learning
+[Visit site](https://www.googleadservices.com/pagead/aclk?sa=L&ai=C5NAmtYLpZ-2nLu7Mrr4PkLbc2AvSuYSNfu_Uy9H9E7CQHxABIABgybaGh8yjwBeCARdjYS1wdWItNjIxOTgxMTc0NzA0OTM3MaABusCI0QKoAwTIAwqqBIUDT9Al1FNHGixi3OPm6W8m6Pj61c2RFRvt5p17_IBbLUEeXPknHsKX3s7eD0QX6URO5g3qr2V-7FmgKKqSj3GVql136BqCheDLp1aL1rmnA-1wufKpaozV56ye8-A1UyVjg_jGr3GNog-K0-uwpZ37KxGP1eww9JbNxjwSQinczgpRbUH0rLFrcfhAxcFjKcELbDvGV8XrLGK9AjnVyni-WBapbCOKGbAxO0h_7LQi1rXk387eR--iVaba9hY1Sc0tUv6BNBp9DnVPpcixy3Jj3P2LoOHq_kSIwjdLP8BOb40IpWC06rxpMl5zVSxx5Cx_DfuSkF6DZRadeOs0FsphCvPrGxjIT9TlUSncWZmeg3E_UGDwT0zJXUKd00YkXKAM51cD-kTovrc3SxwuSmpl6xHxvffQZZGrsBIFXQSXHLaW3Yf6MlH-OsMgHxRjrZmo35wwVFigHgo6yfm6w_ycAMCtTCXV1Sezh1o6VDWCBLXn1U2wyhW5gjR1UQ_bJoQDxx8yr7SSBQoIE2gCeJexq6gZoAZugAeTzbaZGZAHBKgH-bGxAqgHgLqxAqgH8sCxAqgHuMSxAqgHpc-xAqgHvc2xAqgH552xAqgH6J2xAqgH77WxAqgH8LWxAqgHgqqxAqgHhAioB6jSG6gHtgeoB7HcG6gHsJuxAqgHrrGxAqgH5ryxAqgHyrqxAqgH_MuxAqgH_bKxAqgH97ixAqgH-LixAqgHzcexAqgHpcyxAqgHgcYbqAf8r7ECqAerxRuoB7ehsQKoB9WpsQKoB961sQKoB-qxsQKoB763sQKoB5m1sQKoB4XBsQKoB-ulsQKoB8qpsQLSCCgIgEEQARheMgKCAjoLgGOAwICAgICAgAJI2aDSNVAUWIDj5rWtsowD8ggfY2EteXQtaG9zdC1wdWItMTQ0Mzk5MzMzODczOTkyN5oJXGh0dHBzOi8vb25saW5lLmxpZmVsb25nbGVhcm5pbmcuamh1LmVkdS9qaHUtb25saW5lLWNlcnRpZmljYXRlLXByb2dyYW0tYXBwbGllZC1nZW5lcmF0aXZlLWFpsQnp3Ori2FZXYsgJAMgJigKYCwGhC5ewLbsOZVc9ugs5CAEQBRgEIAgoATAaQAFIAFgBYABoAHABiAEAmAEBogEMCgBYAXABqAIB2AICqAEB2AEBgAIBiAIF0AsS2gwlCgoQkMm875CB6-d8EgIBAxoNGKGiuppSIIzJsrSJBUABSgIQH5oNARKqDQJVU8gNAdINqgJodHRwczovL29ubGluZS5saWZlbG9uZ2xlYXJuaW5nLmpodS5lZHUvamh1LW9ubGluZS1jZXJ0aWZpY2F0ZS1wcm9ncmFtLWFwcGxpZWQtZ2VuZXJhdGl2ZS1haT8mdXRtX3NvdXJjZT1nb29nbGUmdXRtX21lZGl1bT1kaXNjb3ZlcnkmdXRtX2NhbXBhaWduPUpIVV9JbnRfRGlzY292ZXJ5X0luTWFya2V0X0NJX1VTX0Rlc2t0b3AmY2FtcGFpZ25faWQ9MjIwNjcxODgwMDEmYWRncm91cF9pZD0xNzQzMjQ0OTE0MDQmYWRfaWQ9NzI2OTQxNzg3NzgzJnV0bV90YXJnZXQ9JktleXdvcmQ9JnBsYWNlbWVudD0mZ2FkX3NvdXJjZT0yuBP___________8BsBQBwBWBgIBA0BUB2BUBmBYB4hYCCAGAFwGKFxYIAxgBIAEoATABOAFAAUgBUAFYAWACoBcBqRduOZ1wxxlyRboXBigAMAA4AdAYAfAYAQ&ase=2&gclid=EAIaIQobChMIrdbnta2yjAMVbqbLAR0QGxe7EAEYASAAEgIo4PD_BwE&num=1&cid=CAASFeRo5ajfd3vHo2AMMQsBG3YogXwh5Q&sig=AOD64_3CxsHyajtI9wIkBxMvWGlVEuuUjQ&ms=%5BCLICK_MS%5D&nb=8&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D)

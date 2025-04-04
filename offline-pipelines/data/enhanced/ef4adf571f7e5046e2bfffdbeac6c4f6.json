@@ -1,0 +1,29 @@
+{
+    "id": "ef4adf571f7e5046e2bfffdbeac6c4f6",
+    "metadata": {
+        "id": "ef4adf571f7e5046e2bfffdbeac6c4f6",
+        "url": "https://lightning.ai/pages/llm-learning-lab/",
+        "title": "",
+        "properties": {}
+    },
+    "parent_metadata": {
+        "id": "adee93e1cb8e1aa2a29980a7ee1cffdb",
+        "url": "https://www.notion.so/Sources-adee93e1cb8e1aa2a29980a7ee1cffdb",
+        "title": "Sources",
+        "properties": {
+            "Type": "Node"
+        }
+    },
+    "content": "LLM Learning Lab - Lightning AI\n[Lightning AI Studios: Never set up a local environment again →](https://lightning.ai)\n# LLM Learning Lab\nImmerse yourself in a curated collection of blogs, tutorials, and how-to videos to help you unlock the transformative potential of large language models.\nPrevious\n[](https://lightning.ai/pages/blog/scaling-large-language-models-with-pytorch-lightning/)\n![](https://lightningaidev.wpengine.com/wp-content/uploads/2023/10/fsdp-blog-300x178.png)\n###  Scaling Large (Language) Models with PyTorch Lightning\n[Read more](https://lightning.ai/pages/blog/scaling-large-language-models-with-pytorch-lightning/)\n[](https://lightning.ai/pages/community/tutorial/how-to-build-a-chatbot-using-open-source-llms-like-llama-2-and-falcon/)\n###  How to build a chatbot using open-source LLMs like Llama 2 and Falcon\n[Read more](https://lightning.ai/pages/community/tutorial/how-to-build-a-chatbot-using-open-source-llms-like-llama-2-and-falcon/)\n[](https://lightning.ai/pages/community/finetuning-falcon-efficiently/)\n![](https://lightningaidev.wpengine.com/wp-content/uploads/2023/06/Screenshot-2023-06-14-at-9.09.01-PM-300x226.png)\n###  Finetuning Falcon LLMs More Efficiently With LoRA and Adapters\n[Read more](https://lightning.ai/pages/community/finetuning-falcon-efficiently/)\n[](https://lightning.ai/pages/blog/falcon-a-guide-to-finetune-and-inference/)\n![](https://lightningaidev.wpengine.com/wp-content/uploads/2023/06/Untitled-5-300x135.png)\n###  Falcon – A guide to finetune and inference\n[Read more](https://lightning.ai/pages/blog/falcon-a-guide-to-finetune-and-inference/)\nNext\n  * 1\n  * 2\n  * 3\n  * 4\n\n\n## What do you want to learn about today?\nAdapterApple SiliconAutoscalingDeepSpeedDiffusion ModelsDistributed TrainingFalconGPT-NeoXGPTQHyperparameter TuningInferenceInstruction TuningLLaMALLMsLong Short-Term MemoryLoRAModel OptimizationModel PerformanceNeutral NetworksNLPObject DetectionPretrainingPrompt TuningQLoRAQuantizationScalingScikit-learnShardingStable DiffusionStableLMSynthetic Data GenerationTranscriptionTransfer LearningTransformer\n## Check out the LLM Glossary\nWe have broken down complex jargon into simple definitions to give you a deeper understanding of the evolving field of LLMs.\n[Go to Glossary](https://lightning.ai/pages/glossary/)\n## Join the biggest online community for open source AI!\nLightning's Discord server is where thousands of AI researchers, ML engineers, and PyTorch Lightning enthusiasts are collaborating on a daily basis! Members get to enjoy:\n  * Exclusive live events: Tune into regular live-streamed discussions, thought-provoking debates, and demos of valuable resources.\n  * Support from experts: Receive guidance, mentorship, and support at every step of your AI journey.\n  * Networking opportunities: Connect with like-minded individuals, forge valuable connections with experts and build your professional network.\n\n[Join today!](https://discord.gg/XncpTy7DSt)\n![](https://lightningaidev.wpengine.com/wp-content/uploads/2023/03/discord-icon-1.svg)\n",
+    "content_quality_score": 0.5,
+    "summary": null,
+    "child_urls": [
+        "https://lightning.ai",
+        "https://lightning.ai/pages/blog/scaling-large-language-models-with-pytorch-lightning/",
+        "https://lightning.ai/pages/community/tutorial/how-to-build-a-chatbot-using-open-source-llms-like-llama-2-and-falcon/",
+        "https://lightning.ai/pages/community/finetuning-falcon-efficiently/",
+        "https://lightning.ai/pages/blog/falcon-a-guide-to-finetune-and-inference/",
+        "https://lightning.ai/pages/glossary/",
+        "https://discord.gg/XncpTy7DSt"
+    ]
+}

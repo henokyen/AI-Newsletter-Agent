@@ -1,0 +1,163 @@
+[Skip to Content](https://incidentdatabase.ai/#content)[![logo](https://incidentdatabase.ai/logos/White_Transparent_AIID_short.png)![logo](https://incidentdatabase.ai/White_Transparent_AIID.png) AI Incident Database](https://incidentdatabase.ai/)
+[Open Twitter](https://twitter.com/IncidentsDB)[Open RSS Feed](https://incidentdatabase.ai/rss.xml)[Open Facebook](https://www.facebook.com/IncidentsDB)[Open LinkedIn](https://www.linkedin.com/company/responsible-ai-collaborative)[Open GitHub](https://github.com/responsible-ai-collaborative/aiid)
+Open Menu
+Search
+[Discover](https://incidentdatabase.ai/apps/discover/)[Submit](https://incidentdatabase.ai/apps/submit/)
+  * [Welcome to the AIID](https://incidentdatabase.ai/ "Welcome to the AIID")
+  * [Discover Incidents](https://incidentdatabase.ai/apps/discover/ "Discover Incidents")
+  * [Spatial View](https://incidentdatabase.ai/summaries/spatial/ "Spatial View")
+  * [Table View](https://incidentdatabase.ai/apps/incidents/ "Table View")
+  * [List view](https://incidentdatabase.ai/summaries/incidents/ "List view")
+  * [Entities](https://incidentdatabase.ai/entities/ "Entities")
+  * [Taxonomies](https://incidentdatabase.ai/taxonomies/ "Taxonomies")
+  * [Submit Incident Reports](https://incidentdatabase.ai/apps/submit/ "Submit Incident Reports")
+  * [Submission Leaderboard](https://incidentdatabase.ai/summaries/leaderboard/ "Submission Leaderboard")
+  * [Blog](https://incidentdatabase.ai/blog/ "Blog")
+  * [AI News Digest](https://incidentdatabase.ai/apps/newsdigest/ "AI News Digest")
+  * [Risk Checklists](https://incidentdatabase.ai/apps/checklists/ "Risk Checklists")
+  * [Random Incident](https://incidentdatabase.ai/random/ "Random Incident")
+  * [Sign Up](https://incidentdatabase.ai/signup/?redirectTo=/ "Sign Up")
+
+
+Collapse
+[Discover](https://incidentdatabase.ai/apps/discover/)[Submit](https://incidentdatabase.ai/apps/submit/)
+  * [Welcome to the AIID](https://incidentdatabase.ai/ "Welcome to the AIID")
+  * [Discover Incidents](https://incidentdatabase.ai/apps/discover/ "Discover Incidents")
+  * [Spatial View](https://incidentdatabase.ai/summaries/spatial/ "Spatial View")
+  * [Table View](https://incidentdatabase.ai/apps/incidents/ "Table View")
+  * [List view](https://incidentdatabase.ai/summaries/incidents/ "List view")
+  * [Entities](https://incidentdatabase.ai/entities/ "Entities")
+  * [Taxonomies](https://incidentdatabase.ai/taxonomies/ "Taxonomies")
+  * [Submit Incident Reports](https://incidentdatabase.ai/apps/submit/ "Submit Incident Reports")
+  * [Submission Leaderboard](https://incidentdatabase.ai/summaries/leaderboard/ "Submission Leaderboard")
+  * [Blog](https://incidentdatabase.ai/blog/ "Blog")
+  * [AI News Digest](https://incidentdatabase.ai/apps/newsdigest/ "AI News Digest")
+  * [Risk Checklists](https://incidentdatabase.ai/apps/checklists/ "Risk Checklists")
+  * [Random Incident](https://incidentdatabase.ai/random/ "Random Incident")
+  * [Sign Up](https://incidentdatabase.ai/signup/?redirectTo=/ "Sign Up")
+
+
+Collapse
+# 
+Welcome to the
+AI Incident Database
+SearchDiscover
+[![Video doesn’t show anchor confronting PM Shehbaz about funding Umrah for 30-member delegation, is dubbed over](https://res.cloudinary.com/pai/image/upload/f_auto/q_auto/v1/legacy/d41d8cd98f00b204e9800998ecf8427e)](https://incidentdatabase.ai/cite/1002/#r5009)
+#### [Incident 1002: Manipulated Video Using AI-Generated Audio Targets Pakistan's Prime Minister Shehbaz Sharif with Fabricated Interview](https://incidentdatabase.ai/cite/1002/)
+##### [“Video doesn’t show anchor confronting PM Shehbaz about funding Umrah for 30-member delegation, is dubbed over”Latest Incident Report](https://incidentdatabase.ai/cite/1002/#r5009)
+[iverifypakistan.com](https://iverifypakistan.com/video-doesnt-show-anchor-confronting-pm-shehbaz-about-funding-umrah-for-30-member-delegation-is-dubbed-over/)2025-03-26
+**Posts from multiple users on different social media platforms since March 23, 2025, shared a video of an interviewer, claiming that it allegedly showed her confronting Prime Minister Shehbaz Sharif and highlighting the contradiction between…**
+[Read More](https://incidentdatabase.ai/cite/1002/#r5009)
+[![Hacker Exploits AI Crypto Bot AIXBT, Steals 55 ETH](https://res.cloudinary.com/pai/image/upload/f_auto/q_auto/v1/reports/cimg.co/wp-content/uploads/2025/03/19122532/1742387132-image-1742387107925_optimized.jpg)](https://incidentdatabase.ai/cite/1003/#r5012)
+#### [Incident 1003: Fraudulent Prompts via AIXBT Dashboard Led AI Trading Agent to Transfer 55.5 ETH from Simulacrum Wallet](https://incidentdatabase.ai/cite/1003/)
+##### [“Hacker Exploits AI Crypto Bot AIXBT, Steals 55 ETH”](https://incidentdatabase.ai/cite/1003/#r5012)
+[cryptonews.com](https://cryptonews.com/news/hacker-exploits-ai-crypto-bot-aixbt-steals-55-eth/)2025-03-26
+A sophisticated hacker attack has compromised the autonomous AI crypto bot AIXBT, resulting in the theft of 55.5 ETH (approximately $106,200).
+The incident occurred in the early hours of March 18. According to the [official report](https://x.com/0rxbt/status/1901992776436441176) from the b…
+[Read More](https://incidentdatabase.ai/cite/1003/#r5012)
+[![FOSS infrastructure is under attack by AI companies](https://res.cloudinary.com/pai/image/upload/f_auto/q_auto/v1/legacy/d41d8cd98f00b204e9800998ecf8427e)](https://incidentdatabase.ai/cite/1001/#r5008)
+#### [Incident 1001: LLM Scrapers Allegedly Target Multiple Open Source Projects Disrupting the FOSS Ecosystem](https://incidentdatabase.ai/cite/1001/)
+##### [“FOSS infrastructure is under attack by AI companies”](https://incidentdatabase.ai/cite/1001/#r5008)
+[thelibre.news](https://thelibre.news/foss-infrastructure-is-under-attack-by-ai-companies/)2025-03-25
+Three days ago, Drew DeVault - founder and CEO of SourceHut - published a blogpost called, "Please stop externalizing your costs directly into my face", where he complained that LLM companies were crawling data without respecting robosts.tx…
+[Read More](https://incidentdatabase.ai/cite/1001/#r5008)
+[![Clickbait to Catastrophe: How a Fake Meta Email Leads to Password Plunder](https://res.cloudinary.com/pai/image/upload/f_auto/q_auto/v1/legacy/d41d8cd98f00b204e9800998ecf8427e)](https://incidentdatabase.ai/cite/999/#r5005)
+#### [Incident 999: Attackers Reportedly Deployed Simulated AI Support Chatbot to Trick Instagram Business Users into Adding Malicious 2FA Login](https://incidentdatabase.ai/cite/999/)
+##### [“Clickbait to Catastrophe: How a Fake Meta Email Leads to Password Plunder”](https://incidentdatabase.ai/cite/999/#r5005)
+[cofense.com](https://cofense.com/blog/clickbait-to-catastrophe-how-a-fake-meta-email-leads-to-password-plunder)2025-03-23
+Social media is widely used in marketing, helping businesses to generate ads that attract potential customers. But what if you received an email stating, "YOUR ADS ARE TEMPORARILY SUSPENDED"? What steps would you take? The urgency of the em…
+[Read More](https://incidentdatabase.ai/cite/999/#r5005)
+[![OpenAI’s Sora Is Plagued by Sexist, Racist, and Ableist Biases](https://res.cloudinary.com/pai/image/upload/f_auto/q_auto/v1/reports/media.wired.com/photos/67d358f957cabad414bdd885/191:100/w_1280%2Cc_limit/Sora-AI-Racist-Sexist-Ableist-Biases-Business.jpg)](https://incidentdatabase.ai/cite/1000/#r5007)
+#### [Incident 1000: Sora Video Generator Has Reportedly Been Creating Biased Human Representations Across Race, Gender, and Disability](https://incidentdatabase.ai/cite/1000/)
+##### [“OpenAI’s Sora Is Plagued by Sexist, Racist, and Ableist Biases”](https://incidentdatabase.ai/cite/1000/#r5007)
+[wired.com](https://www.wired.com/story/openai-sora-video-generator-bias/)2025-03-23
+Despite recent leaps forward in image quality, the biases found in videos generated by AI tools, like OpenAI’s Sora, are as conspicuous as ever. A WIRED investigation, which included a review of hundreds of AI-generated videos, has found th…
+[Read More](https://incidentdatabase.ai/cite/1000/#r5007)
+##### Quick Add New Report URL
+Submit
+Submitted links are added to a [review queue ](https://incidentdatabase.ai/apps/submitted/)to be resolved to a new or existing incident record. Incidents submitted with [ full details ](https://incidentdatabase.ai/apps/submit/) are processed before URLs not possessing the full details.
+##### About the Database
+The AI Incident Database is dedicated to indexing the collective history of harms or near harms realized in the real world by the deployment of artificial intelligence systems. Like similar databases in aviation and computer security, the AI Incident Database aims to learn from experience so we can prevent or mitigate bad outcomes.
+You are invited to [submit](https://incidentdatabase.ai/apps/submit/) incident reports, whereupon submissions will be indexed and made [discoverable](https://incidentdatabase.ai/apps/discover/) to the world. Artificial intelligence will only be a benefit to people and society if we collectively record and learn from its failings. [(Learn More)](https://incidentdatabase.ai/about/)
+[![](data:image/svg+xml;charset=utf-8,%3Csvg%20height='2909'%20width='4289'%20xmlns='http://www.w3.org/2000/svg'%20version='1.1'%3E%3C/svg%3E)![post-image](https://images.prismic.io/aiidprod/Z6FZSpbqstJ9-MMK_Claude_Monet_-_The_Magpie_-_Google_Art_Project.jpg?auto=format%2Ccompress&fit=max&w=4289&h=2909)](https://incidentdatabase.ai/blog/incident-report-2024-december-2025-january/)
+##### [AI Incident Roundup – December 2024 and January 2025](https://incidentdatabase.ai/blog/incident-report-2024-december-2025-january/)
+By Daniel Atherton
+2025-02-03
+Our review newsletter recapping new incident IDs in the AI Incident Database and looking at the trends. 🗄 Trending in the AIID Around Novemb... 
+[Read More](https://incidentdatabase.ai/blog/incident-report-2024-december-2025-january)
+##### The Database in Print
+Read about the database on the [PAI Blog](https://www.partnershiponai.org/aiincidentdatabase/), [Vice News](https://www.vice.com/en/article/m7agjq/this-database-is-finally-holding-ai-accountable), [Venture Beat](https://venturebeat.com/2021/01/15/the-ai-incident-database-wants-to-improve-the-safety-of-machine-learning/), [Wired](https://www.wired.com/story/artificial-intelligence-hall-shame/), [arXiv](https://arxiv.org/abs/2011.08512) , and [Newsweek](https://www.newsweek.com/ai-accidents-set-skyrocket-this-year-1795928) among other outlets.
+[![Arxiv Logo](https://incidentdatabase.ai/images/news/arxiv.png)](https://arxiv.org/abs/2011.08512)[![Venture Beat Logo](https://incidentdatabase.ai/images/news/VentureBeat.png)](https://venturebeat.com/2021/01/15/the-ai-incident-database-wants-to-improve-the-safety-of-machine-learning/)[![Wired Logo](https://incidentdatabase.ai/images/news/Wired_logo.svg)](https://www.wired.com/story/artificial-intelligence-hall-shame/)[![Vice logo](https://incidentdatabase.ai/images/news/vice.png)](https://www.vice.com/en/article/m7agjq/this-database-is-finally-holding-ai-accountable)[![Vice logo](https://incidentdatabase.ai/images/news/newsweek.svg)](https://www.newsweek.com/ai-accidents-set-skyrocket-this-year-1795928)
+##### Incident Report Submission Leaderboards
+These are the persons and entities credited with creating and submitted incident reports. More details are available on the [leaderboard page.](https://incidentdatabase.ai/summaries/leaderboard/)
+##### [New Incidents Contributed](https://incidentdatabase.ai/summaries/leaderboard/)
+  * [🥇Daniel Atherton410](https://incidentdatabase.ai/apps/discover/?submitters=Daniel Atherton)
+  * [🥈Anonymous136](https://incidentdatabase.ai/apps/discover/?submitters=Anonymous)
+  * [🥉Khoa Lam93](https://incidentdatabase.ai/apps/discover/?submitters=Khoa Lam)
+
+
+##### [Reports added to Existing Incidents](https://incidentdatabase.ai/summaries/leaderboard/)
+  * [🥇Daniel Atherton486](https://incidentdatabase.ai/apps/discover/?submitters=Daniel Atherton)
+  * [🥈Khoa Lam230](https://incidentdatabase.ai/apps/discover/?submitters=Khoa Lam)
+  * [🥉Anonymous193](https://incidentdatabase.ai/apps/discover/?submitters=Anonymous)
+
+
+##### [Total Report Contributions](https://incidentdatabase.ai/summaries/leaderboard/)
+  * [🥇Daniel Atherton2143](https://incidentdatabase.ai/apps/discover/?submitters=Daniel Atherton)
+  * [🥈Anonymous906](https://incidentdatabase.ai/apps/discover/?submitters=Anonymous)
+  * [🥉Khoa Lam456](https://incidentdatabase.ai/apps/discover/?submitters=Khoa Lam)
+
+
+##### The AI Incident Briefing
+[![An envelope with a neural net diagram on its left](https://incidentdatabase.ai/static/neural-net-envelope-1ada158b9c7190aef67f2f760f5bb751.png)](https://incidentdatabase.ai/signup/)
+[Create an account](https://incidentdatabase.ai/signup/) to subscribe to new incident notifications and other updates.
+##### Random Incidents
+[![Predictive Policing Biases of PredPol](https://res.cloudinary.com/pai/image/upload/f_auto/q_auto/c_fill,h_800,w_1000/v1/reports/i.kinja-img.com/gawker-media/image/upload/c_fill%2Cf_auto%2Cfl_progressive%2Cg_center%2Ch_675%2Cpg_1%2Cq_80%2Cw_1200/d19e336ba03b2ac9a7753709d5b1de0f.png)Predictive Policing Biases of PredPol](https://incidentdatabase.ai/cite/54/)
+[![Aledo High School Student Allegedly Generates and Distributes Deepfake Nudes of Seven Female Classmates](https://res.cloudinary.com/pai/image/upload/f_auto/q_auto/c_fill,h_800,w_1000/v1/legacy/d41d8cd98f00b204e9800998ecf8427e)Aledo High School Student Allegedly Generates and Distributes Deepfake Nudes of Seven Female Classmates](https://incidentdatabase.ai/cite/799/)
+[![ChatGPT Introduces Errors in Critical Child Protection Court Report](https://res.cloudinary.com/pai/image/upload/f_auto/q_auto/c_fill,h_800,w_1000/v1/legacy/d41d8cd98f00b204e9800998ecf8427e)ChatGPT Introduces Errors in Critical Child Protection Court Report](https://incidentdatabase.ai/cite/807/)
+[![Child Sexual Abuse Material Taints Image Generators](https://res.cloudinary.com/pai/image/upload/f_auto/q_auto/c_fill,h_800,w_1000/v1/legacy/d41d8cd98f00b204e9800998ecf8427e)Child Sexual Abuse Material Taints Image Generators](https://incidentdatabase.ai/cite/624/)
+[![ChatGPT Reportedly Produced False Court Case Law Presented by Legal Counsel in Court](https://res.cloudinary.com/pai/image/upload/f_auto/q_auto/c_fill,h_800,w_1000/v1/reports/abovethelaw.com/uploads/2020/08/GettyImages-499689350.jpg)ChatGPT Reportedly Produced False Court Case Law Presented by Legal Counsel in Court](https://incidentdatabase.ai/cite/541/)
+##### The Responsible AI Collaborative
+The AI Incident Database is a project of the Responsible AI Collaborative, an organization chartered to advance the AI Incident Database. The governance of the Collaborative is architected around the participation in its impact programming. For more details, we invite you to read the [founding report](https://asset.cloudinary.com/pai/cf01cce1af65f5fbb3d71fa092d001db) and learn more on our [board and contributors](https://incidentdatabase.ai/about/?lang=en#boardofdirectors).
+[![](https://incidentdatabase.ai/images/reportcover.png)](https://asset.cloudinary.com/pai/cf01cce1af65f5fbb3d71fa092d001db)
+View the Responsible AI Collaborative's [Form 990](https://asset.cloudinary.com/pai/89921e521c5bed68c04cf15f2c78b65a) and [tax-exempt application.](https://res.cloudinary.com/pai/image/upload/v1694177781/Form_1023_-_Application_-_Responsible_AI_Collaborative_-_EIN_88-1046583_qnfgfb.pdf)
+###### Organization Founding Sponsor
+![](https://aiidprod.cdn.prismic.io/aiidprod/82a577c9-ef52-4b64-9b93-eda165ede3e0_wu-foundation-blue-logo.svg?fit=max)
+###### Database Founding Sponsor
+![](https://images.prismic.io/aiidprod/e101fd6c-cb45-4c2a-bfc2-485d6f5b5921_partership-on-ai-logo.png?auto=compress%2Cformat&fit=max)
+###### Sponsors and Grants
+![](https://aiidprod.cdn.prismic.io/aiidprod/942cdcc9-2603-4584-b1b8-cc97120aa1c7_mtf-grand.svg?fit=max)
+###### In-Kind Sponsors
+![](https://aiidprod.cdn.prismic.io/aiidprod/86f412c3-3f3d-45a8-afbf-49408598d3e1_netlify-dark.svg?fit=max)
+![](https://aiidprod.cdn.prismic.io/aiidprod/533e8e00-4c4b-49f9-b2bf-84ac4718e812_cloudinary_cloud_glyph_regular.svg?fit=max)
+![](https://aiidprod.cdn.prismic.io/aiidprod/1c7c48e4-705b-4204-b6c1-9b36d6e0e893_Algolia-nebula.svg?fit=max)
+### Research
+  * [Defining an “AI Incident”](https://incidentdatabase.ai/research/1-criteria/)
+  * [Defining an “AI Incident Response”](https://incidentdatabase.ai/research/5-response/)
+  * [Database Roadmap](https://incidentdatabase.ai/research/2-roadmap/)
+  * [Related Work](https://incidentdatabase.ai/research/4-related-work/)
+  * [Download Complete Database](https://incidentdatabase.ai/research/snapshots/)
+
+
+### Project and Community
+  * [About](https://incidentdatabase.ai/about/)
+  * [Contact and Follow](https://incidentdatabase.ai/contact/)
+  * [Apps and Summaries](https://incidentdatabase.ai/about_apps/)
+  * [Editor’s Guide](https://incidentdatabase.ai/editors-guide/)
+
+
+### Incidents
+  * [All Incidents in List Form](https://incidentdatabase.ai/summaries/incidents/)
+  * [Flagged Incidents](https://incidentdatabase.ai/summaries/flagged/)
+  * [Submission Queue](https://incidentdatabase.ai/apps/submitted/)
+  * [Classifications View](https://incidentdatabase.ai/apps/classifications/)
+  * [Taxonomies](https://incidentdatabase.ai/taxonomies/)
+
+
+### 2024 - AI Incident Database
+  * [Terms of use](https://incidentdatabase.ai/terms-of-use/)
+  * [Privacy Policy](https://incidentdatabase.ai/privacy-policy/)
+[Open twitter](https://twitter.com/IncidentsDB)[Open github](https://github.com/responsible-ai-collaborative/aiid)[Open rss](https://incidentdatabase.ai/rss.xml)[Open facebook](https://www.facebook.com/IncidentsDB)[Open linkedin](https://www.linkedin.com/company/responsible-ai-collaborative)
+  * 81f261f
+
+

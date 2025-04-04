@@ -1,0 +1,123 @@
+The wait is over! [Order your NVIDIA Blackwell GPU cluster today](https://lambdalabs.com/talk-to-an-engineer?primary_product_interest=Blackwell)
+[ ](https://lambdalabs.com/)
+  * Cloud
+    * [ ![](https://lambda.ai/hubfs/raw_assets/public/ll15-theme/assets/static/img/icons/icons-colored/1-click_cluster_icon.svg) 1-Click Clusters On-demand GPU clusters for multi-node training & fine-tuning ](https://lambdalabs.com/service/gpu-cloud/1-click-clusters)
+    * [ ![](https://lambda.ai/hubfs/raw_assets/public/ll15-theme/assets/static/img/icons/icons-colored/on-demand_cloud_icon.svg) On-Demand Cloud GPU instances billed by the minute ](https://lambdalabs.com/service/gpu-cloud)
+    * [ ![](https://lambda.ai/hubfs/raw_assets/public/ll15-theme/assets/static/img/icons/icons-colored/private_cloud_icon.svg) Private Cloud Private large-scale GPU clusters ](https://lambdalabs.com/service/gpu-cloud/private-cloud)
+    * [ ![](https://lambda.ai/hubfs/raw_assets/public/ll15-theme/assets/static/img/icons/icons-colored/kubernetes_icon.svg) Managed Kubernetes Accelerate your AI initiatives with our fully managed service ](https://lambdalabs.com/kubernetes)
+    * [ ![](https://lambda.ai/hubfs/raw_assets/public/ll15-theme/assets/static/img/icons/icons-colored/inference_icon.svg) Lambda Inference Inference endpoints & API ](https://lambdalabs.com/inference)
+    * [ ![](https://lambda.ai/hubfs/raw_assets/public/ll15-theme/assets/static/img/icons/icons-colored/Layer_1.svg) Lambda Chat Free inference playground ](https://lambda.chat/)
+    * [Lambda GPU Cloud](https://cloud.lambda.ai/)
+  * Data Center
+    * [ ![](https://lambda.ai/hubfs/raw_assets/public/ll15-theme/assets/static/img/icons/icons-colored/DGX_icon.svg) NVIDIA DGX Systems NVIDIA's latest generation of infrastructure for enterprise AI. ](https://lambdalabs.com/nvidia/dgx-systems)
+    * [ ![](https://lambda.ai/hubfs/raw_assets/public/ll15-theme/assets/static/img/icons/icons-colored/scalar_icon.svg) Scalar Server PCIe server with up to 8x customizable NVIDIA Tensor Core GPUs and dual Xeon or AMD EPYC processors. ](https://lambdalabs.com/products/scalar)
+  * Desktops
+    * [ ![](https://lambda.ai/hubfs/raw_assets/public/ll15-theme/assets/static/img/icons/icons-colored/gpu_icon.svg) NVIDIA GeForce RTX 5090 Coming soon to Vector and Vector One desktops. ](https://lambdalabs.com/nvidia-rtx-5090-interest)
+    * [ ![](https://lambda.ai/hubfs/raw_assets/public/ll15-theme/assets/static/img/icons/icons-colored/vector_pro_icon.svg) Vector Pro GPU Workstation Lambda's GPU workstation designer for AI. Up to four fully customizable NVIDIA GPUs. ](https://lambdalabs.com/gpu-workstations/vector-pro)
+    * [ ![](https://lambda.ai/hubfs/raw_assets/public/ll15-theme/assets/static/img/icons/icons-colored/vector_icon.svg) Vector GPU Desktop Lambda's GPU desktop for deep learning. Configured with two NVIDIA RTX 4500 Ada or RTX 5000 Ada. ](https://lambdalabs.com/gpu-workstations/vector)
+    * [ ![](https://lambda.ai/hubfs/raw_assets/public/ll15-theme/assets/static/img/icons/icons-colored/vector_one_icon.svg) Vector One GPU Desktop Lambda's single GPU desktop. Configured with a single NVIDIA RTX 4000 Ada. ](https://lambdalabs.com/gpu-workstations/vector-one)
+  * Company
+    * [ ![](https://lambda.ai/hubfs/raw_assets/public/ll15-theme/assets/static/img/icons/icons-colored/about_icon.svg) About ](https://lambdalabs.com/about)
+    * [ ![](https://lambda.ai/hubfs/raw_assets/public/ll15-theme/assets/static/img/icons/icons-colored/careers_icon.svg) Careers ](https://lambdalabs.com/careers)
+    * [ ![](https://lambda.ai/hubfs/raw_assets/public/ll15-theme/assets/static/img/icons/icons-colored/shield_keyhole_icon.svg) Security ](https://lambdalabs.com/soc2-type-ii-report)
+    * [ ![](https://lambda.ai/hubfs/raw_assets/public/ll15-theme/assets/static/img/icons/icons-colored/professional_services_icon.svg) Professional Services ](https://lambdalabs.com/professional-services)
+    * [ ![](https://lambda.ai/hubfs/raw_assets/public/ll15-theme/assets/static/img/icons/icons-colored/partnership_icon.svg) Partners ](https://lambdalabs.com/partners)
+  * Resources
+    * [ ![](https://lambda.ai/hubfs/raw_assets/public/ll15-theme/assets/static/img/icons/icons-colored/benchmarks_icon.svg) GPU Benchmarks ](https://lambdalabs.com/gpu-benchmarks)
+    * [ ![](https://lambda.ai/hubfs/raw_assets/public/ll15-theme/assets/static/img/icons/icons-colored/blog_icon.svg) Blog ](https://lambdalabs.com/blog)
+    * [ ![](https://lambda.ai/hubfs/raw_assets/public/ll15-theme/assets/static/img/icons/icons-colored/ML_times_icon.svg) ML Times ](https://news.lambda.ai/)
+    * [ ![](https://lambda.ai/hubfs/raw_assets/public/ll15-theme/assets/static/img/icons/icons-colored/lambda_stack_icon.svg) Lambda Stack ](https://lambdalabs.com/lambda-stack-deep-learning-software)
+    * [ ![](https://lambda.ai/hubfs/raw_assets/public/ll15-theme/assets/static/img/icons/icons-colored/documentation_icon.svg) Documentation ](https://docs.lambda.ai/)
+    * [ ![](https://lambda.ai/hubfs/raw_assets/public/ll15-theme/assets/static/img/icons/icons-colored/forum_icon.svg) Forum ](https://deeptalk.lambda.ai/)
+    * [ ![](https://lambda.ai/hubfs/raw_assets/public/ll15-theme/assets/static/img/icons/icons-colored/research_icon.svg) Research ](https://lambdalabs.com/research)
+    * [ ![](https://lambda.ai/hubfs/raw_assets/public/ll15-theme/assets/static/img/icons/icons-colored/support_icon.svg) Technical Support ](https://lambdalabs.com/support)
+
+
+[Create account](https://cloud.lambda.ai/sign-up) [Login](https://cloud.lambda.ai/login)
+  * Cloud
+    * [ ![](https://lambda.ai/hubfs/raw_assets/public/ll15-theme/assets/static/img/icons/icons-colored/1-click_cluster_icon.svg) 1-Click Clusters On-demand GPU clusters for multi-node training & fine-tuning ](https://lambdalabs.com/service/gpu-cloud/1-click-clusters)
+    * [ ![](https://lambda.ai/hubfs/raw_assets/public/ll15-theme/assets/static/img/icons/icons-colored/on-demand_cloud_icon.svg) On-Demand Cloud GPU instances billed by the minute ](https://lambdalabs.com/service/gpu-cloud)
+    * [ ![](https://lambda.ai/hubfs/raw_assets/public/ll15-theme/assets/static/img/icons/icons-colored/private_cloud_icon.svg) Private Cloud Private large-scale GPU clusters ](https://lambdalabs.com/service/gpu-cloud/private-cloud)
+    * [ ![](https://lambda.ai/hubfs/raw_assets/public/ll15-theme/assets/static/img/icons/icons-colored/kubernetes_icon.svg) Managed Kubernetes Accelerate your AI initiatives with our fully managed service ](https://lambdalabs.com/kubernetes)
+    * [ ![](https://lambda.ai/hubfs/raw_assets/public/ll15-theme/assets/static/img/icons/icons-colored/inference_icon.svg) Lambda Inference Inference endpoints & API ](https://lambdalabs.com/inference)
+    * [ ![](https://lambda.ai/hubfs/raw_assets/public/ll15-theme/assets/static/img/icons/icons-colored/Layer_1.svg) Lambda Chat Free inference playground ](https://lambda.chat/)
+    * [Lambda GPU Cloud](https://cloud.lambda.ai/)
+  * Data Center
+    * [ ![](https://lambda.ai/hubfs/raw_assets/public/ll15-theme/assets/static/img/icons/icons-colored/DGX_icon.svg) NVIDIA DGX Systems NVIDIA's latest generation of infrastructure for enterprise AI. ](https://lambdalabs.com/nvidia/dgx-systems)
+    * [ ![](https://lambda.ai/hubfs/raw_assets/public/ll15-theme/assets/static/img/icons/icons-colored/scalar_icon.svg) Scalar Server PCIe server with up to 8x customizable NVIDIA Tensor Core GPUs and dual Xeon or AMD EPYC processors. ](https://lambdalabs.com/products/scalar)
+  * Desktops
+    * [ ![](https://lambda.ai/hubfs/raw_assets/public/ll15-theme/assets/static/img/icons/icons-colored/gpu_icon.svg) NVIDIA GeForce RTX 5090 Coming soon to Vector and Vector One desktops. ](https://lambdalabs.com/nvidia-rtx-5090-interest)
+    * [ ![](https://lambda.ai/hubfs/raw_assets/public/ll15-theme/assets/static/img/icons/icons-colored/vector_pro_icon.svg) Vector Pro GPU Workstation Lambda's GPU workstation designer for AI. Up to four fully customizable NVIDIA GPUs. ](https://lambdalabs.com/gpu-workstations/vector-pro)
+    * [ ![](https://lambda.ai/hubfs/raw_assets/public/ll15-theme/assets/static/img/icons/icons-colored/vector_icon.svg) Vector GPU Desktop Lambda's GPU desktop for deep learning. Configured with two NVIDIA RTX 4500 Ada or RTX 5000 Ada. ](https://lambdalabs.com/gpu-workstations/vector)
+    * [ ![](https://lambda.ai/hubfs/raw_assets/public/ll15-theme/assets/static/img/icons/icons-colored/vector_one_icon.svg) Vector One GPU Desktop Lambda's single GPU desktop. Configured with a single NVIDIA RTX 4000 Ada. ](https://lambdalabs.com/gpu-workstations/vector-one)
+  * Company
+    * [ ![](https://lambda.ai/hubfs/raw_assets/public/ll15-theme/assets/static/img/icons/icons-colored/about_icon.svg) About ](https://lambdalabs.com/about)
+    * [ ![](https://lambda.ai/hubfs/raw_assets/public/ll15-theme/assets/static/img/icons/icons-colored/careers_icon.svg) Careers ](https://lambdalabs.com/careers)
+    * [ ![](https://lambda.ai/hubfs/raw_assets/public/ll15-theme/assets/static/img/icons/icons-colored/shield_keyhole_icon.svg) Security ](https://lambdalabs.com/soc2-type-ii-report)
+    * [ ![](https://lambda.ai/hubfs/raw_assets/public/ll15-theme/assets/static/img/icons/icons-colored/professional_services_icon.svg) Professional Services ](https://lambdalabs.com/professional-services)
+    * [ ![](https://lambda.ai/hubfs/raw_assets/public/ll15-theme/assets/static/img/icons/icons-colored/partnership_icon.svg) Partners ](https://lambdalabs.com/partners)
+  * Resources
+    * [ ![](https://lambda.ai/hubfs/raw_assets/public/ll15-theme/assets/static/img/icons/icons-colored/benchmarks_icon.svg) GPU Benchmarks ](https://lambdalabs.com/gpu-benchmarks)
+    * [ ![](https://lambda.ai/hubfs/raw_assets/public/ll15-theme/assets/static/img/icons/icons-colored/blog_icon.svg) Blog ](https://lambdalabs.com/blog)
+    * [ ![](https://lambda.ai/hubfs/raw_assets/public/ll15-theme/assets/static/img/icons/icons-colored/ML_times_icon.svg) ML Times ](https://news.lambda.ai/)
+    * [ ![](https://lambda.ai/hubfs/raw_assets/public/ll15-theme/assets/static/img/icons/icons-colored/lambda_stack_icon.svg) Lambda Stack ](https://lambdalabs.com/lambda-stack-deep-learning-software)
+    * [ ![](https://lambda.ai/hubfs/raw_assets/public/ll15-theme/assets/static/img/icons/icons-colored/documentation_icon.svg) Documentation ](https://docs.lambda.ai/)
+    * [ ![](https://lambda.ai/hubfs/raw_assets/public/ll15-theme/assets/static/img/icons/icons-colored/forum_icon.svg) Forum ](https://deeptalk.lambda.ai/)
+    * [ ![](https://lambda.ai/hubfs/raw_assets/public/ll15-theme/assets/static/img/icons/icons-colored/research_icon.svg) Research ](https://lambdalabs.com/research)
+    * [ ![](https://lambda.ai/hubfs/raw_assets/public/ll15-theme/assets/static/img/icons/icons-colored/support_icon.svg) Technical Support ](https://lambdalabs.com/support)
+
+
+[Login](https://cloud.lambda.ai/login) [Create account](https://cloud.lambda.ai/sign-up)
+# The AI Developer Cloud
+On-demand NVIDIA GPU instances & clusters for AI training & inference.
+[ Launch GPU instance ](https://lambdalabs.com/sign-up) [ Contact sales ](https://lambdalabs.com/talk-to-an-engineer)
+![Intuitive_logo](https://lambda.ai/hubfs/Branding%201.5/logos/Intuitive_logo.svg) ![Writer_logo](https://lambda.ai/hubfs/Branding%201.5/logos/Writer_logo.svg) ![Sony_logo](https://lambda.ai/hubfs/Branding%201.5/logos/Sony_logo.svg) ![Samsung_logo](https://lambda.ai/hubfs/Branding%201.5/logos/Samsung_logo.svg) ![Covariant_logo](https://lambda.ai/hubfs/Branding%201.5/logos/Covariant_logo.svg) ![Pika_logo](https://lambda.ai/hubfs/Branding%201.5/logos/Pika_logo.svg)
+Deploy NVIDIA B200 multi-node clusters for $5.99/hour. [Learn more](https://lambdalabs.com/service/gpu-cloud/1-click-clusters)
+## The only Cloud focused on enabling AI developers
+[ ![icon](https://lambda.ai/hubfs/type=1cc.svg) ![icon](https://lambda.ai/hubfs/type=1cc_hover.svg) 1-Click Clusters On-demand GPU clusters featuring NVIDIA B200 GPUs with NVIDIA Quantum-2 InfiniBand. No long-term contract required. ](https://lambdalabs.com/service/gpu-cloud/1-click-clusters) [ ![icon](https://lambda.ai/hubfs/type=on-demand.svg) ![icon](https://lambda.ai/hubfs/type=on-demand_hover.svg) On-Demand Instances Spin up on-demand GPU Instances billed by the hour. NVIDIA H100 instances starting at $2.49/hr. ](https://lambdalabs.com/service/gpu-cloud) [ ![icon](https://lambda.ai/hubfs/type=private-cloud.svg) ![icon](https://lambda.ai/hubfs/type=private-cloud_hover.svg) Private Cloud Reserve thousands of NVIDIA H100s, H200s, GH200s, B200s and GB200s with Quantum-2 InfiniBand Networking. ](https://lambdalabs.com/service/gpu-cloud/private-cloud) [ ![icon](https://lambda.ai/hubfs/type=inference.svg) ![icon](https://lambda.ai/hubfs/type=inference_hover.svg) The lowest-cost AI inference Access the latest LLMs through a serverless API endpoint with no rate limits. ](https://lambdalabs.com/inference)
+## Get the most coveted and highest performing NVIDIA GPUs
+##### [NVIDIA B200 ![B200](https://lambda.ai/hubfs/2.%20Images/Images%20-%20Site%20Pages/Images%20-%20DGX%20\(Servers\)%20Page/blackwell-b200-gtc24-content-600x600.png) ](https://lambdalabs.com/service/gpu-cloud/1-click-clusters)
+The NVIDIA B200 Tensor Core GPU is based on the latest Blackwell architecture with 180GB of HBM3e memory at 8TB/s.
+##### [NVIDIA H200 ![hpc-social-sc23-hgx-h200-2048x2048 1](https://lambda.ai/hubfs/hpc-social-sc23-hgx-h200-2048x2048%201.jpg) ](https://lambdalabs.com/service/gpu-cloud/private-cloud)
+Lambda Private Cloud is now available with the NVIDIA H200 Tensor Core GPU. H200 is packed with 141GB of HBM3e running at 4.8TB/s.
+##### [NVIDIA H100 ![NVIDIA_H100_block](https://lambda.ai/hubfs/NVIDIA_H100_block.jpg) ](https://lambdalabs.com/sign-up)
+Lambda is one of the first cloud providers to make NVIDIA H100 Tensor Core GPUs available on-demand in a public cloud.
+## Lambda Stack is used by more than 50k ML teams
+One-line installation and managed upgrade path for: PyTorch®, TensorFlow, NVIDIA® CUDA®, NVIDIA CuDNN®, and NVIDIA Drivers
+[ Learn more ](https://lambdalabs.com/lambda-stack-deep-learning-software)
+## Ready to get started?
+Create a cloud account instantly to spin up GPUs today or contact us to secure a long-term contract for thousands of GPUs
+[ Launch GPU instances ](https://lambdalabs.com/sign-up)
+[ Contact sales ](https://lambdalabs.com/talk-to-an-engineer)
+##### Resources
+  * [GPU Benchmarks](https://lambdalabs.com/gpu-benchmarks)
+  * [Blog](https://lambdalabs.com/blog)
+  * [Lambda Stack](https://lambdalabs.com/lambda-stack-deep-learning-software)
+  * [Documentation](https://docs.lambda.ai/)
+  * [Forum](https://deeptalk.lambda.ai/)
+  * [Research](https://lambdalabs.com/research)
+
+
+##### Company
+  * [About](https://lambdalabs.com/about)
+  * [Careers](https://lambdalabs.com/careers)
+  * [Security](https://lambdalabs.com/soc2-type-ii-report)
+  * [Professional Services](https://lambdalabs.com/professional-services)
+  * [Partners](https://lambdalabs.com/partners)
+
+
+##### Support
+  * [Technical Support](https://lambdalabs.com/support?hsLang=en)
+
+
+##### Contact
+  * [Contact Us](https://lambdalabs.com/contact?hsLang=en)
+  * [P. 1 (866) 711-2025](tel:%2018667112025)
+
+
+© 2025 All rights reserved.
+[Terms of Service](https://lambdalabs.com/legal/terms-of-service?hsLang=en) [Privacy Policy](https://lambdalabs.com/legal/privacy-policy?hsLang=en)
+[ ![Follow us on X](https://lambda.ai/hubfs/raw_assets/public/ll15-theme/assets/static/img/icons/social/x.svg) ](https://x.com/lambdaapi) [ ![Follow us on LinkedIn](https://lambda.ai/hubfs/raw_assets/public/ll15-theme/assets/static/img/icons/social/linkedin.svg) ](https://www.linkedin.com/company/lambda-labs/) [ ![Lambda's YouTube Channel](https://lambda.ai/hubfs/raw_assets/public/ll15-theme/assets/static/img/icons/social/youtube.svg) ](https://www.youtube.com/c/LambdaLabs/videos) [ ![Lambda's Blog RSS Feed](https://lambda.ai/hubfs/raw_assets/public/ll15-theme/assets/static/img/icons/social/rss.svg) ](https://lambdalabs.com/blog/rss.xml?hsLang=en) [ ![Lambdas' GitHub](https://lambda.ai/hubfs/raw_assets/public/ll15-theme/assets/static/img/icons/social/github.svg) ](https://github.com/lambdal)
+![](https://bat.bing.com/action/0?ti=343008524&Ver=2)
+![](https://bat.bing.com/action/0?ti=343008524&Ver=2&mid=94062897-a650-4af3-b91b-b7ca934447e9&bo=1&sid=66d9f8000d8e11f093e74bb1abca14a3&vid=66d9f4100d8e11f095c9a1e1c7960c44&vids=1&msclkid=N&pi=918639831&lg=en-US&sw=1080&sh=600&sc=30&tl=Lambda%20%7C%20GPU%20Compute%20for%20AI&p=https%3A%2F%2Flambda.ai%2F&r=&evt=pageLoad&sv=1&cdb=AQAQ&rn=269316)
+![](https://t.co/1/i/adsct?bci=4&dv=America%2FBoise%26en-US%26Google%20Inc.%26MacIntel%26127%261080%26600%2610%2630%261080%26600%260%26na&eci=3&event=%7B%7D&event_id=64ff31c3-66c8-484e-a385-9d76949a2a2f&integration=gtm&p_id=Twitter&p_user_id=0&pl_id=3cc7da17-1ff9-42c5-b2d5-16e8a96aa799&tw_document_href=https%3A%2F%2Flambda.ai%2F&tw_iframe_status=0&txn_id=nxrsi&type=javascript&version=2.3.31)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FBoise%26en-US%26Google%20Inc.%26MacIntel%26127%261080%26600%2610%2630%261080%26600%260%26na&eci=3&event=%7B%7D&event_id=64ff31c3-66c8-484e-a385-9d76949a2a2f&integration=gtm&p_id=Twitter&p_user_id=0&pl_id=3cc7da17-1ff9-42c5-b2d5-16e8a96aa799&tw_document_href=https%3A%2F%2Flambda.ai%2F&tw_iframe_status=0&txn_id=nxrsi&type=javascript&version=2.3.31)

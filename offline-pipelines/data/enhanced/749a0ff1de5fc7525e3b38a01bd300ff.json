@@ -1,0 +1,26 @@
+{
+    "id": "749a0ff1de5fc7525e3b38a01bd300ff",
+    "metadata": {
+        "id": "749a0ff1de5fc7525e3b38a01bd300ff",
+        "url": "https://www.notion.so/Segmentation-749a0ff1de5fc7525e3b38a01bd300ff",
+        "title": "Segmentation",
+        "properties": {
+            "Tags": [],
+            "Created": {
+                "id": "XI%60x",
+                "type": "created_time",
+                "created_time": "2023-04-13T05:20:00.000Z"
+            }
+        }
+    },
+    "parent_metadata": {
+        "id": "ca9236cfb00912cda6524e5e9b1f8d7e",
+        "url": "",
+        "title": "",
+        "properties": {}
+    },
+    "content": "- SAM: Segment Anything Model - 2D Segmentation\n\t\n\n-",
+    "content_quality_score": 0.1,
+    "summary": null,
+    "child_urls": []
+}

@@ -1,0 +1,709 @@
+[Skip to content](https://github.com/qdrant/fastembed/#start-of-content)
+## Navigation Menu
+Toggle navigation
+[ ](https://github.com/)
+[ Sign in ](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fqdrant%2Ffastembed%2F)
+  * Product 
+    * [ GitHub Copilot Write better code with AI  ](https://github.com/features/copilot)
+    * [ Security Find and fix vulnerabilities  ](https://github.com/features/security)
+    * [ Actions Automate any workflow  ](https://github.com/features/actions)
+    * [ Codespaces Instant dev environments  ](https://github.com/features/codespaces)
+    * [ Issues Plan and track work  ](https://github.com/features/issues)
+    * [ Code Review Manage code changes  ](https://github.com/features/code-review)
+    * [ Discussions Collaborate outside of code  ](https://github.com/features/discussions)
+    * [ Code Search Find more, search less  ](https://github.com/features/code-search)
+Explore
+    * [ All features ](https://github.com/features)
+    * [ Documentation ](https://docs.github.com)
+    * [ GitHub Skills ](https://skills.github.com)
+    * [ Blog ](https://github.blog)
+  * Solutions 
+By company size
+    * [ Enterprises ](https://github.com/enterprise)
+    * [ Small and medium teams ](https://github.com/team)
+    * [ Startups ](https://github.com/enterprise/startups)
+    * [ Nonprofits ](https://github.com/solutions/industry/nonprofits)
+By use case
+    * [ DevSecOps ](https://github.com/solutions/use-case/devsecops)
+    * [ DevOps ](https://github.com/solutions/use-case/devops)
+    * [ CI/CD ](https://github.com/solutions/use-case/ci-cd)
+    * [ View all use cases ](https://github.com/solutions/use-case)
+By industry
+    * [ Healthcare ](https://github.com/solutions/industry/healthcare)
+    * [ Financial services ](https://github.com/solutions/industry/financial-services)
+    * [ Manufacturing ](https://github.com/solutions/industry/manufacturing)
+    * [ Government ](https://github.com/solutions/industry/government)
+    * [ View all industries ](https://github.com/solutions/industry)
+[ View all solutions ](https://github.com/solutions)
+  * Resources 
+Topics
+    * [ AI ](https://github.com/resources/articles/ai)
+    * [ DevOps ](https://github.com/resources/articles/devops)
+    * [ Security ](https://github.com/resources/articles/security)
+    * [ Software Development ](https://github.com/resources/articles/software-development)
+    * [ View all ](https://github.com/resources/articles)
+Explore
+    * [ Learning Pathways ](https://resources.github.com/learn/pathways)
+    * [ Events & Webinars ](https://resources.github.com)
+    * [ Ebooks & Whitepapers ](https://github.com/resources/whitepapers)
+    * [ Customer Stories ](https://github.com/customer-stories)
+    * [ Partners ](https://partner.github.com)
+    * [ Executive Insights ](https://github.com/solutions/executive-insights)
+  * Open Source 
+    * [ GitHub Sponsors Fund open source developers  ](https://github.com/sponsors)
+    * [ The ReadME Project GitHub community articles  ](https://github.com/readme)
+Repositories
+    * [ Topics ](https://github.com/topics)
+    * [ Trending ](https://github.com/trending)
+    * [ Collections ](https://github.com/collections)
+  * Enterprise 
+    * [ Enterprise platform AI-powered developer platform  ](https://github.com/enterprise)
+Available add-ons
+    * [ Advanced Security Enterprise-grade security features  ](https://github.com/enterprise/advanced-security)
+    * [ Copilot for business Enterprise-grade AI features  ](https://github.com/features/copilot/copilot-business)
+    * [ Premium Support Enterprise-grade 24/7 support  ](https://github.com/premium-support)
+  * [Pricing](https://github.com/pricing)
+
+
+Search or jump to...
+# Search code, repositories, users, issues, pull requests...
+Search 
+Clear
+[Search syntax tips](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax)
+#  Provide feedback 
+We read every piece of feedback, and take your input very seriously.
+Include my email address so I can be contacted
+Cancel  Submit feedback 
+#  Saved searches 
+## Use saved searches to filter your results more quickly
+Name
+Query
+To see all available qualifiers, see our [documentation](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax). 
+Cancel  Create saved search 
+[ Sign in ](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fqdrant%2Ffastembed%2F)
+[ Sign up ](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E&source=header-repo&source_repo=qdrant%2Ffastembed) Reseting focus
+You signed in with another tab or window. [Reload](https://github.com/qdrant/fastembed/) to refresh your session. You signed out in another tab or window. [Reload](https://github.com/qdrant/fastembed/) to refresh your session. You switched accounts on another tab or window. [Reload](https://github.com/qdrant/fastembed/) to refresh your session. Dismiss alert
+{{ message }}
+[ qdrant ](https://github.com/qdrant) / **[fastembed](https://github.com/qdrant/fastembed) ** Public
+  * [ Notifications ](https://github.com/login?return_to=%2Fqdrant%2Ffastembed) You must be signed in to change notification settings
+  * [ Fork 127 ](https://github.com/login?return_to=%2Fqdrant%2Ffastembed)
+  * [ Star  1.9k ](https://github.com/login?return_to=%2Fqdrant%2Ffastembed)
+
+
+Fast, Accurate, Lightweight Python library to make State of the Art Embedding 
+[qdrant.github.io/fastembed/](https://qdrant.github.io/fastembed/ "https://qdrant.github.io/fastembed/")
+### License
+[ Apache-2.0 license ](https://github.com/qdrant/fastembed/blob/main/LICENSE)
+[ 1.9k stars ](https://github.com/qdrant/fastembed/stargazers) [ 127 forks ](https://github.com/qdrant/fastembed/forks) [ Branches ](https://github.com/qdrant/fastembed/branches) [ Tags ](https://github.com/qdrant/fastembed/tags) [ Activity ](https://github.com/qdrant/fastembed/activity)
+[ Star  ](https://github.com/login?return_to=%2Fqdrant%2Ffastembed)
+[ Notifications ](https://github.com/login?return_to=%2Fqdrant%2Ffastembed) You must be signed in to change notification settings
+  * [ Code ](https://github.com/qdrant/fastembed)
+  * [ Issues 63 ](https://github.com/qdrant/fastembed/issues)
+  * [ Pull requests 4 ](https://github.com/qdrant/fastembed/pulls)
+  * [ Discussions ](https://github.com/qdrant/fastembed/discussions)
+  * [ Actions ](https://github.com/qdrant/fastembed/actions)
+  * [ Projects 0 ](https://github.com/qdrant/fastembed/projects)
+  * [ Security ](https://github.com/qdrant/fastembed/security)
+  * [ Insights ](https://github.com/qdrant/fastembed/pulse)
+
+
+Additional navigation options
+  * [ Code  ](https://github.com/qdrant/fastembed)
+  * [ Issues  ](https://github.com/qdrant/fastembed/issues)
+  * [ Pull requests  ](https://github.com/qdrant/fastembed/pulls)
+  * [ Discussions  ](https://github.com/qdrant/fastembed/discussions)
+  * [ Actions  ](https://github.com/qdrant/fastembed/actions)
+  * [ Projects  ](https://github.com/qdrant/fastembed/projects)
+  * [ Security  ](https://github.com/qdrant/fastembed/security)
+  * [ Insights  ](https://github.com/qdrant/fastembed/pulse)
+
+
+# qdrant/fastembed
+main
+[**31** Branches](https://github.com/qdrant/fastembed/branches)[**45** Tags](https://github.com/qdrant/fastembed/tags)
+[](https://github.com/qdrant/fastembed/branches)[](https://github.com/qdrant/fastembed/tags)
+Go to file
+Code
+## Folders and files
+Name| Name| Last commit message| Last commit date  
+---|---|---|---  
+## Latest commit
+[![joein](https://avatars.githubusercontent.com/u/22641570?v=4&size=40)](https://github.com/joein)[joein](https://github.com/qdrant/fastembed/commits?author=joein)[fix: fix splade name (](https://github.com/qdrant/fastembed/commit/aa0c475a1f3a832e0f49b10b263f697fe558c1bd)[#499](https://github.com/qdrant/fastembed/pull/499)[)](https://github.com/qdrant/fastembed/commit/aa0c475a1f3a832e0f49b10b263f697fe558c1bd)Mar 17, 2025[aa0c475](https://github.com/qdrant/fastembed/commit/aa0c475a1f3a832e0f49b10b263f697fe558c1bd) · Mar 17, 2025
+## History
+[542 Commits](https://github.com/qdrant/fastembed/commits/main/)[](https://github.com/qdrant/fastembed/commits/main/)  
+[.github](https://github.com/qdrant/fastembed/tree/main/.github ".github")| [.github](https://github.com/qdrant/fastembed/tree/main/.github ".github")| [Speedup ci (](https://github.com/qdrant/fastembed/commit/6acfb001fba8b8b50139382675425fea6ec79eda "Speedup ci \(#489\)
+* chore: Trigger CI test
+* chore: Trigger CI test
+* chore: Trigger CI test
+* chore: Trigger CI test
+* chore: Trigger CI test
+* chore: Trigger CI test
+* chore: Trigger CI test
+* chore: Trigger CI test
+* chore: Trigger CI test
+* Trigger CI
+* Trigger CI
+* Trigger CI
+* Trigger CI test
+* Trigger CI test
+* Trigger CI test
+* Trigger CI test
+* Trigger CI test
+* Trigger CI test
+* Trigger CI test
+* Trigger CI test
+* Trigger CI test
+* Trigger CI test
+* Trigger CI test
+* Trigger CI test
+* Trigger CI test
+* Trigger CI test
+* Trigger CI test
+* Trigger CI test
+* Trigger CI test
+* Trigger CI test
+* Trigger CI test
+* Trigger CI test
+* Trigger CI test
+* Trigger CI test
+* Trigger CI test
+* Trigger CI test
+* Trigger CI test
+* Trigger CI test
+* new: Added on workflow dispatch
+* tests: Updated tests
+* fix: Fix CI
+* fix: Fix CI
+* fix: Fix CI
+* improve: Prevent stop iteration error caused by next
+* fix: Fix variable might be referenced before assignment
+* refactor: Revised the way of getting models to test
+* fix: Fix test in image model
+* refactor: Call one model
+* fix: Fix ci
+* fix: Fix splade model name
+* tests: Updated tests
+* chore: Remove cache
+* tests: Update multi task tests
+* tests: Update multi task tests
+* tests: Updated tests
+* refactor: refactor utils func, add comments, conditions refactor
+---------
+Co-authored-by: George Panchuk <george.panchuk@qdrant.tech>")[#489](https://github.com/qdrant/fastembed/pull/489)[)](https://github.com/qdrant/fastembed/commit/6acfb001fba8b8b50139382675425fea6ec79eda "Speedup ci \(#489\)
+* chore: Trigger CI test
+* chore: Trigger CI test
+* chore: Trigger CI test
+* chore: Trigger CI test
+* chore: Trigger CI test
+* chore: Trigger CI test
+* chore: Trigger CI test
+* chore: Trigger CI test
+* chore: Trigger CI test
+* Trigger CI
+* Trigger CI
+* Trigger CI
+* Trigger CI test
+* Trigger CI test
+* Trigger CI test
+* Trigger CI test
+* Trigger CI test
+* Trigger CI test
+* Trigger CI test
+* Trigger CI test
+* Trigger CI test
+* Trigger CI test
+* Trigger CI test
+* Trigger CI test
+* Trigger CI test
+* Trigger CI test
+* Trigger CI test
+* Trigger CI test
+* Trigger CI test
+* Trigger CI test
+* Trigger CI test
+* Trigger CI test
+* Trigger CI test
+* Trigger CI test
+* Trigger CI test
+* Trigger CI test
+* Trigger CI test
+* Trigger CI test
+* new: Added on workflow dispatch
+* tests: Updated tests
+* fix: Fix CI
+* fix: Fix CI
+* fix: Fix CI
+* improve: Prevent stop iteration error caused by next
+* fix: Fix variable might be referenced before assignment
+* refactor: Revised the way of getting models to test
+* fix: Fix test in image model
+* refactor: Call one model
+* fix: Fix ci
+* fix: Fix splade model name
+* tests: Updated tests
+* chore: Remove cache
+* tests: Update multi task tests
+* tests: Update multi task tests
+* tests: Updated tests
+* refactor: refactor utils func, add comments, conditions refactor
+---------
+Co-authored-by: George Panchuk <george.panchuk@qdrant.tech>")| Mar 5, 2025  
+[docs](https://github.com/qdrant/fastembed/tree/main/docs "docs")| [docs](https://github.com/qdrant/fastembed/tree/main/docs "docs")| [chore: Add missing returns in defs (](https://github.com/qdrant/fastembed/commit/73e1e5ecb98119190960f7986677358b549bcec4 "chore: Add missing returns in defs \(#451\)
+* chore: Add missing returns in defs
+* remove return type from init
+* remove incorrect ndarray specifier
+---------
+Co-authored-by: George Panchuk <george.panchuk@qdrant.tech>")[#451](https://github.com/qdrant/fastembed/pull/451)[)](https://github.com/qdrant/fastembed/commit/73e1e5ecb98119190960f7986677358b549bcec4 "chore: Add missing returns in defs \(#451\)
+* chore: Add missing returns in defs
+* remove return type from init
+* remove incorrect ndarray specifier
+---------
+Co-authored-by: George Panchuk <george.panchuk@qdrant.tech>")| Jan 29, 2025  
+[experiments](https://github.com/qdrant/fastembed/tree/main/experiments "experiments")| [experiments](https://github.com/qdrant/fastembed/tree/main/experiments "experiments")| [new: drop python 3.8 support, update type hints, ci (](https://github.com/qdrant/fastembed/commit/1343e55076f7124185f74f39961c1a17eb8ec0ab "new: drop python 3.8 support, update type hints, ci \(#403\)")[#403](https://github.com/qdrant/fastembed/pull/403)[)](https://github.com/qdrant/fastembed/commit/1343e55076f7124185f74f39961c1a17eb8ec0ab "new: drop python 3.8 support, update type hints, ci \(#403\)")| Nov 15, 2024  
+[fastembed](https://github.com/qdrant/fastembed/tree/main/fastembed "fastembed")| [fastembed](https://github.com/qdrant/fastembed/tree/main/fastembed "fastembed")| [fix: fix splade name (](https://github.com/qdrant/fastembed/commit/aa0c475a1f3a832e0f49b10b263f697fe558c1bd "fix: fix splade name \(#499\)")[#499](https://github.com/qdrant/fastembed/pull/499)[)](https://github.com/qdrant/fastembed/commit/aa0c475a1f3a832e0f49b10b263f697fe558c1bd "fix: fix splade name \(#499\)")| Mar 17, 2025  
+[tests](https://github.com/qdrant/fastembed/tree/main/tests "tests")| [tests](https://github.com/qdrant/fastembed/tree/main/tests "tests")| [Custom rerankers support (](https://github.com/qdrant/fastembed/commit/4c239b11d5012fc34db417983c6eade59c997cbc "Custom rerankers support \(#496\)
+* Custom rerankers support
+* Test for reranker_custom_model
+* test fix
+* Model description type fix
+* Test fix
+* fix: fix naming
+* fix: remove redundant arg from tests
+* new: update readme
+---------
+Co-authored-by: George Panchuk <george.panchuk@qdrant.tech>")[#496](https://github.com/qdrant/fastembed/pull/496)[)](https://github.com/qdrant/fastembed/commit/4c239b11d5012fc34db417983c6eade59c997cbc "Custom rerankers support \(#496\)
+* Custom rerankers support
+* Test for reranker_custom_model
+* test fix
+* Model description type fix
+* Test fix
+* fix: fix naming
+* fix: remove redundant arg from tests
+* new: update readme
+---------
+Co-authored-by: George Panchuk <george.panchuk@qdrant.tech>")| Mar 16, 2025  
+[.gitignore](https://github.com/qdrant/fastembed/blob/main/.gitignore ".gitignore")| [.gitignore](https://github.com/qdrant/fastembed/blob/main/.gitignore ".gitignore")| [fix: unify existing patterns, remove redundant (](https://github.com/qdrant/fastembed/commit/0a4ed42b58d62fc52b42b2037e119ee62b43586d "fix: unify existing patterns, remove redundant \(#168\)")[#168](https://github.com/qdrant/fastembed/pull/168)[)](https://github.com/qdrant/fastembed/commit/0a4ed42b58d62fc52b42b2037e119ee62b43586d "fix: unify existing patterns, remove redundant \(#168\)")| Mar 30, 2024  
+[.pre-commit-config.yaml](https://github.com/qdrant/fastembed/blob/main/.pre-commit-config.yaml ".pre-commit-config.yaml")| [.pre-commit-config.yaml](https://github.com/qdrant/fastembed/blob/main/.pre-commit-config.yaml ".pre-commit-config.yaml")| [Update ruff (](https://github.com/qdrant/fastembed/commit/25671ec3498f34f63aa0b67296d7b71b4ae92d3b "Update ruff \(#172\)
+* refactoring: reduce max line-length
+* new: update ruff
+---------
+Co-authored-by: Nirant <NirantK@users.noreply.github.com>")[#172](https://github.com/qdrant/fastembed/pull/172)[)](https://github.com/qdrant/fastembed/commit/25671ec3498f34f63aa0b67296d7b71b4ae92d3b "Update ruff \(#172\)
+* refactoring: reduce max line-length
+* new: update ruff
+---------
+Co-authored-by: Nirant <NirantK@users.noreply.github.com>")| Apr 1, 2024  
+[CONTRIBUTING.md](https://github.com/qdrant/fastembed/blob/main/CONTRIBUTING.md "CONTRIBUTING.md")| [CONTRIBUTING.md](https://github.com/qdrant/fastembed/blob/main/CONTRIBUTING.md "CONTRIBUTING.md")| [Move CONTRIBUTING.md + Add Test for Adding New Models (](https://github.com/qdrant/fastembed/commit/256b2265d5944a06eb9436a093de3ceff2adc528 "Move CONTRIBUTING.md + Add Test for Adding New Models \(#154\)
+* Move CONTRIBUTING.md + Ad Test for Adding New Models
+* Update CONTRIBUTING.md
+Co-authored-by: Kumar Shivendu <kshivendu1@gmail.com>
+---------
+Co-authored-by: Kumar Shivendu <kshivendu1@gmail.com>")[#154](https://github.com/qdrant/fastembed/pull/154)[)](https://github.com/qdrant/fastembed/commit/256b2265d5944a06eb9436a093de3ceff2adc528 "Move CONTRIBUTING.md + Add Test for Adding New Models \(#154\)
+* Move CONTRIBUTING.md + Ad Test for Adding New Models
+* Update CONTRIBUTING.md
+Co-authored-by: Kumar Shivendu <kshivendu1@gmail.com>
+---------
+Co-authored-by: Kumar Shivendu <kshivendu1@gmail.com>")| Mar 18, 2024  
+[LICENSE](https://github.com/qdrant/fastembed/blob/main/LICENSE "LICENSE")| [LICENSE](https://github.com/qdrant/fastembed/blob/main/LICENSE "LICENSE")| [Initial commit](https://github.com/qdrant/fastembed/commit/d567f27ce8672f182a20732d52f0300a7d2ea731 "Initial commit")| Jul 4, 2023  
+[NOTICE](https://github.com/qdrant/fastembed/blob/main/NOTICE "NOTICE")| [NOTICE](https://github.com/qdrant/fastembed/blob/main/NOTICE "NOTICE")| [colpali v1.3 by AndrewOgn (](https://github.com/qdrant/fastembed/commit/2fe33c5a62f413ed26bf2be775bd171c7c984694 "colpali v1.3 by AndrewOgn \(#427\)
+* wip: design draft
+* Operators fix
+* Fix model inputs
+* Import from fastembed.late_interaction_multimodal
+* Fixed method misspelling
+* Tests, which do not run in CI
+Docstring improvements
+* Fix tests
+* Bump colpali to version v1.3
+* Remove colpali v1.2
+* Remove colpali v1.2 from tests
+* partial fix of change requests:
+descriptions
+docs
+black
+* query_max_length
+* black colpali
+* Added comment for EMPTY_TEXT_PLACEHOLDER
+* Review fixes
+* Removed redundant VISUAL_PROMPT_PREFIX
+* type fix + model info
+* new: add specific model path to colpali
+* fix: revert accidental renaming
+* fix: remove max_length from encode_batch
+* refactoring: remove redundant QUERY_MAX_LENGTH variable
+* refactoring: remove redundant document marker token id
+* fix: fix type hints, fix tests, handle single image path embed, rename model, update description
+* license: add gemma to NOTICE
+* fix: do not run colpali test in ci
+* fix: fix colpali test
+---------
+Co-authored-by: d.rudenko <dmitrii.rudenko@qdrant.com>")[#427](https://github.com/qdrant/fastembed/pull/427)[)](https://github.com/qdrant/fastembed/commit/2fe33c5a62f413ed26bf2be775bd171c7c984694 "colpali v1.3 by AndrewOgn \(#427\)
+* wip: design draft
+* Operators fix
+* Fix model inputs
+* Import from fastembed.late_interaction_multimodal
+* Fixed method misspelling
+* Tests, which do not run in CI
+Docstring improvements
+* Fix tests
+* Bump colpali to version v1.3
+* Remove colpali v1.2
+* Remove colpali v1.2 from tests
+* partial fix of change requests:
+descriptions
+docs
+black
+* query_max_length
+* black colpali
+* Added comment for EMPTY_TEXT_PLACEHOLDER
+* Review fixes
+* Removed redundant VISUAL_PROMPT_PREFIX
+* type fix + model info
+* new: add specific model path to colpali
+* fix: revert accidental renaming
+* fix: remove max_length from encode_batch
+* refactoring: remove redundant QUERY_MAX_LENGTH variable
+* refactoring: remove redundant document marker token id
+* fix: fix type hints, fix tests, handle single image path embed, rename model, update description
+* license: add gemma to NOTICE
+* fix: do not run colpali test in ci
+* fix: fix colpali test
+---------
+Co-authored-by: d.rudenko <dmitrii.rudenko@qdrant.com>")| Feb 6, 2025  
+[README.md](https://github.com/qdrant/fastembed/blob/main/README.md "README.md")| [README.md](https://github.com/qdrant/fastembed/blob/main/README.md "README.md")| [Custom rerankers support (](https://github.com/qdrant/fastembed/commit/4c239b11d5012fc34db417983c6eade59c997cbc "Custom rerankers support \(#496\)
+* Custom rerankers support
+* Test for reranker_custom_model
+* test fix
+* Model description type fix
+* Test fix
+* fix: fix naming
+* fix: remove redundant arg from tests
+* new: update readme
+---------
+Co-authored-by: George Panchuk <george.panchuk@qdrant.tech>")[#496](https://github.com/qdrant/fastembed/pull/496)[)](https://github.com/qdrant/fastembed/commit/4c239b11d5012fc34db417983c6eade59c997cbc "Custom rerankers support \(#496\)
+* Custom rerankers support
+* Test for reranker_custom_model
+* test fix
+* Model description type fix
+* Test fix
+* fix: fix naming
+* fix: remove redundant arg from tests
+* new: update readme
+---------
+Co-authored-by: George Panchuk <george.panchuk@qdrant.tech>")| Mar 16, 2025  
+[RELEASE.md](https://github.com/qdrant/fastembed/blob/main/RELEASE.md "RELEASE.md")| [RELEASE.md](https://github.com/qdrant/fastembed/blob/main/RELEASE.md "RELEASE.md")| [fix: update push gpu command (](https://github.com/qdrant/fastembed/commit/e49789c1298b83c2b930eb40a3e260752cb46299 "fix: update push gpu command \(#300\)")[#300](https://github.com/qdrant/fastembed/pull/300)[)](https://github.com/qdrant/fastembed/commit/e49789c1298b83c2b930eb40a3e260752cb46299 "fix: update push gpu command \(#300\)")| Jul 18, 2024  
+[mkdocs.yml](https://github.com/qdrant/fastembed/blob/main/mkdocs.yml "mkdocs.yml")| [mkdocs.yml](https://github.com/qdrant/fastembed/blob/main/mkdocs.yml "mkdocs.yml")| [chore: pre-commit formatting (](https://github.com/qdrant/fastembed/commit/9b63427118c1c232f2ca7ae214a055e84cb13fbb "chore: pre-commit formatting \(#91\)
+* chore: formatting
+* chore: formatting
+* chore: remove other hooks
+* Update poetry lock
+---------
+Co-authored-by: Nirant Kasliwal <nirant.bits@gmail.com>")[#91](https://github.com/qdrant/fastembed/pull/91)[)](https://github.com/qdrant/fastembed/commit/9b63427118c1c232f2ca7ae214a055e84cb13fbb "chore: pre-commit formatting \(#91\)
+* chore: formatting
+* chore: formatting
+* chore: remove other hooks
+* Update poetry lock
+---------
+Co-authored-by: Nirant Kasliwal <nirant.bits@gmail.com>")| Jan 16, 2024  
+[pyproject.toml](https://github.com/qdrant/fastembed/blob/main/pyproject.toml "pyproject.toml")| [pyproject.toml](https://github.com/qdrant/fastembed/blob/main/pyproject.toml "pyproject.toml")| [bump version to 0.6.0](https://github.com/qdrant/fastembed/commit/2082108baf6fbfe5d37efc63a6261fa6b8f38a4d "bump version to 0.6.0")| Feb 26, 2025  
+View all files  
+## Repository files navigation
+  * [README](https://github.com/qdrant/fastembed/)
+  * [License](https://github.com/qdrant/fastembed/)
+
+
+# ⚡️ What is FastEmbed?
+[](https://github.com/qdrant/fastembed/#️-what-is-fastembed)
+FastEmbed is a lightweight, fast, Python library built for embedding generation. We [support popular text models](https://qdrant.github.io/fastembed/examples/Supported_Models/). Please [open a GitHub issue](https://github.com/qdrant/fastembed/issues/new) if you want us to add a new model.
+The default text embedding (`TextEmbedding`) model is Flag Embedding, presented in the [MTEB](https://huggingface.co/spaces/mteb/leaderboard) leaderboard. It supports "query" and "passage" prefixes for the input text. Here is an example for [Retrieval Embedding Generation](https://qdrant.github.io/fastembed/qdrant/Retrieval_with_FastEmbed/) and how to use [FastEmbed with Qdrant](https://qdrant.github.io/fastembed/qdrant/Usage_With_Qdrant/).
+## 📈 Why FastEmbed?
+[](https://github.com/qdrant/fastembed/#-why-fastembed)
+  1. Light: FastEmbed is a lightweight library with few external dependencies. We don't require a GPU and don't download GBs of PyTorch dependencies, and instead use the ONNX Runtime. This makes it a great candidate for serverless runtimes like AWS Lambda.
+  2. Fast: FastEmbed is designed for speed. We use the ONNX Runtime, which is faster than PyTorch. We also use data parallelism for encoding large datasets.
+  3. Accurate: FastEmbed is better than OpenAI Ada-002. We also [support](https://qdrant.github.io/fastembed/examples/Supported_Models/) an ever-expanding set of models, including a few multilingual models.
+
+
+## 🚀 Installation
+[](https://github.com/qdrant/fastembed/#-installation)
+To install the FastEmbed library, pip works best. You can install it with or without GPU support:
+```
+pip install fastembed
+# or with GPU support
+pip install fastembed-gpu
+```
+
+## 📖 Quickstart
+[](https://github.com/qdrant/fastembed/#-quickstart)
+```
+from fastembed import TextEmbedding
+
+# Example list of documents
+documents: list[str] = [
+  "This is built to be faster and lighter than other embedding libraries e.g. Transformers, Sentence-Transformers, etc.",
+  "fastembed is supported by and maintained by Qdrant.",
+]
+# This will trigger the model download and initialization
+embedding_model = TextEmbedding()
+print("The model BAAI/bge-small-en-v1.5 is ready to use.")
+embeddings_generator = embedding_model.embed(documents) # reminder this is a generator
+embeddings_list = list(embedding_model.embed(documents))
+ # you can also convert the generator to a list, and that to a numpy array
+len(embeddings_list[0]) # Vector of 384 dimensions
+```
+
+Fastembed supports a variety of models for different tasks and modalities. The list of all the available models can be found [here](https://qdrant.github.io/fastembed/examples/Supported_Models/)
+### 🎒 Dense text embeddings
+[](https://github.com/qdrant/fastembed/#-dense-text-embeddings)
+```
+from fastembed import TextEmbedding
+model = TextEmbedding(model_name="BAAI/bge-small-en-v1.5")
+embeddings = list(model.embed(documents))
+# [
+#  array([-0.1115, 0.0097, 0.0052, 0.0195, ...], dtype=float32),
+#  array([-0.1019, 0.0635, -0.0332, 0.0522, ...], dtype=float32)
+# ]
+```
+
+Dense text embedding can also be extended with models which are not in the list of supported models.
+```
+from fastembed import TextEmbedding
+from fastembed.common.model_description import PoolingType, ModelSource
+TextEmbedding.add_custom_model(
+  model="intfloat/multilingual-e5-small",
+  pooling=PoolingType.MEAN,
+  normalization=True,
+  sources=ModelSource(hf="intfloat/multilingual-e5-small"), # can be used with an `url` to load files from a private storage
+  dim=384,
+  model_file="onnx/model.onnx", # can be used to load an already supported model with another optimization or quantization, e.g. onnx/model_O4.onnx
+)
+model = TextEmbedding(model_name="intfloat/multilingual-e5-small")
+embeddings = list(model.embed(documents))
+```
+
+### 🔱 Sparse text embeddings
+[](https://github.com/qdrant/fastembed/#-sparse-text-embeddings)
+  * SPLADE++
+
+
+```
+from fastembed import SparseTextEmbedding
+model = SparseTextEmbedding(model_name="prithivida/Splade_PP_en_v1")
+embeddings = list(model.embed(documents))
+# [
+#  SparseEmbedding(indices=[ 17, 123, 919, ... ], values=[0.71, 0.22, 0.39, ...]),
+#  SparseEmbedding(indices=[ 38, 12, 91, ... ], values=[0.11, 0.22, 0.39, ...])
+# ]
+```
+
+### 🦥 Late interaction models (aka ColBERT)
+[](https://github.com/qdrant/fastembed/#-late-interaction-models-aka-colbert)
+```
+from fastembed import LateInteractionTextEmbedding
+model = LateInteractionTextEmbedding(model_name="colbert-ir/colbertv2.0")
+embeddings = list(model.embed(documents))
+# [
+#  array([
+#    [-0.1115, 0.0097, 0.0052, 0.0195, ...],
+#    [-0.1019, 0.0635, -0.0332, 0.0522, ...],
+#  ]),
+#  array([
+#    [-0.9019, 0.0335, -0.0032, 0.0991, ...],
+#    [-0.2115, 0.8097, 0.1052, 0.0195, ...],
+#  ]), 
+# ]
+```
+
+### 🖼️ Image embeddings
+[](https://github.com/qdrant/fastembed/#️-image-embeddings)
+```
+from fastembed import ImageEmbedding
+images = [
+  "./path/to/image1.jpg",
+  "./path/to/image2.jpg",
+]
+model = ImageEmbedding(model_name="Qdrant/clip-ViT-B-32-vision")
+embeddings = list(model.embed(images))
+# [
+#  array([-0.1115, 0.0097, 0.0052, 0.0195, ...], dtype=float32),
+#  array([-0.1019, 0.0635, -0.0332, 0.0522, ...], dtype=float32)
+# ]
+```
+
+### Late interaction multimodal models (ColPali)
+[](https://github.com/qdrant/fastembed/#late-interaction-multimodal-models-colpali)
+```
+from fastembed import LateInteractionMultimodalEmbedding
+doc_images = [
+  "./path/to/qdrant_pdf_doc_1_screenshot.jpg",
+  "./path/to/colpali_pdf_doc_2_screenshot.jpg",
+]
+query = "What is Qdrant?"
+model = LateInteractionMultimodalEmbedding(model_name="Qdrant/colpali-v1.3-fp16")
+doc_images_embeddings = list(model.embed_image(doc_images))
+# shape (2, 1030, 128)
+# [array([[-0.03353882, -0.02090454, ..., -0.15576172, -0.07678223]], dtype=float32)]
+query_embedding = model.embed_text(query)
+# shape (1, 20, 128)
+# [array([[-0.00218201, 0.14758301, ..., -0.02207947, 0.16833496]], dtype=float32)]
+```
+
+### 🔄 Rerankers
+[](https://github.com/qdrant/fastembed/#-rerankers)
+```
+from fastembed.rerank.cross_encoder import TextCrossEncoder
+query = "Who is maintaining Qdrant?"
+documents: list[str] = [
+  "This is built to be faster and lighter than other embedding libraries e.g. Transformers, Sentence-Transformers, etc.",
+  "fastembed is supported by and maintained by Qdrant.",
+]
+encoder = TextCrossEncoder(model_name="Xenova/ms-marco-MiniLM-L-6-v2")
+scores = list(encoder.rerank(query, documents))
+# [-11.48061752319336, 5.472434997558594]
+```
+
+Text cross encoders can also be extended with models which are not in the list of supported models.
+```
+from fastembed.rerank.cross_encoder import TextCrossEncoder 
+from fastembed.common.model_description import ModelSource
+TextCrossEncoder.add_custom_model(
+  model="Xenova/ms-marco-MiniLM-L-4-v2",
+  model_file="onnx/model.onnx",
+  sources=ModelSource(hf="Xenova/ms-marco-MiniLM-L-4-v2"),
+)
+model = TextCrossEncoder(model_name="Xenova/ms-marco-MiniLM-L-4-v2")
+scores = list(model.rerank_pairs(
+  [("What is AI?", "Artificial intelligence is ..."), ("What is ML?", "Machine learning is ..."),]
+))
+```
+
+## ⚡️ FastEmbed on a GPU
+[](https://github.com/qdrant/fastembed/#️-fastembed-on-a-gpu)
+FastEmbed supports running on GPU devices. It requires installation of the `fastembed-gpu` package.
+```
+pip install fastembed-gpu
+```
+
+Check our [example](https://qdrant.github.io/fastembed/examples/FastEmbed_GPU/) for detailed instructions, CUDA 12.x support and troubleshooting of the common issues.
+```
+from fastembed import TextEmbedding
+embedding_model = TextEmbedding(
+  model_name="BAAI/bge-small-en-v1.5", 
+  providers=["CUDAExecutionProvider"]
+)
+print("The model BAAI/bge-small-en-v1.5 is ready to use on a GPU.")
+```
+
+## Usage with Qdrant
+[](https://github.com/qdrant/fastembed/#usage-with-qdrant)
+Installation with Qdrant Client in Python:
+```
+pip install qdrant-client[fastembed]
+```
+
+or
+```
+pip install qdrant-client[fastembed-gpu]
+```
+
+You might have to use quotes `pip install 'qdrant-client[fastembed]'` on zsh.
+```
+from qdrant_client import QdrantClient
+# Initialize the client
+client = QdrantClient("localhost", port=6333) # For production
+# client = QdrantClient(":memory:") # For small experiments
+# Prepare your documents, metadata, and IDs
+docs = ["Qdrant has Langchain integrations", "Qdrant also has Llama Index integrations"]
+metadata = [
+  {"source": "Langchain-docs"},
+  {"source": "Llama-index-docs"},
+]
+ids = [42, 2]
+# If you want to change the model:
+# client.set_model("sentence-transformers/all-MiniLM-L6-v2")
+# List of supported models: https://qdrant.github.io/fastembed/examples/Supported_Models
+# Use the new add() instead of upsert()
+# This internally calls embed() of the configured embedding model
+client.add(
+  collection_name="demo_collection",
+  documents=docs,
+  metadata=metadata,
+  ids=ids
+)
+search_result = client.query(
+  collection_name="demo_collection",
+  query_text="This is a query document"
+)
+print(search_result)
+```
+
+## About
+Fast, Accurate, Lightweight Python library to make State of the Art Embedding 
+[qdrant.github.io/fastembed/](https://qdrant.github.io/fastembed/ "https://qdrant.github.io/fastembed/")
+### Topics
+[ retrieval ](https://github.com/topics/retrieval "Topic: retrieval") [ embeddings ](https://github.com/topics/embeddings "Topic: embeddings") [ openai ](https://github.com/topics/openai "Topic: openai") [ rag ](https://github.com/topics/rag "Topic: rag") [ vector-search ](https://github.com/topics/vector-search "Topic: vector-search") [ retrieval-augmented-generation ](https://github.com/topics/retrieval-augmented-generation "Topic: retrieval-augmented-generation")
+### Resources
+[ Readme ](https://github.com/qdrant/fastembed/#readme-ov-file)
+### License
+[ Apache-2.0 license ](https://github.com/qdrant/fastembed/#Apache-2.0-1-ov-file)
+[ Activity](https://github.com/qdrant/fastembed/activity)
+[ Custom properties](https://github.com/qdrant/fastembed/custom-properties)
+### Stars
+[ **1.9k** stars](https://github.com/qdrant/fastembed/stargazers)
+### Watchers
+[ **16** watching](https://github.com/qdrant/fastembed/watchers)
+### Forks
+[ **127** forks](https://github.com/qdrant/fastembed/forks)
+[ Report repository ](https://github.com/contact/report-content?content_url=https%3A%2F%2Fgithub.com%2Fqdrant%2Ffastembed&report=qdrant+%28user%29)
+##  [Releases 21](https://github.com/qdrant/fastembed/releases)
+[ v0.6.0 Latest  Feb 26, 2025 ](https://github.com/qdrant/fastembed/releases/tag/v0.6.0)
+[+ 20 releases](https://github.com/qdrant/fastembed/releases)
+##  [Packages 0](https://github.com/orgs/qdrant/packages?repo_name=fastembed)
+No packages published 
+##  [Used by 2.6k](https://github.com/qdrant/fastembed/network/dependents)
+[
+  * ![@vaibhavgupta9876](https://avatars.githubusercontent.com/u/21174228?s=64&v=4)
+  * ![@IUGiSO](https://avatars.githubusercontent.com/u/140979538?s=64&v=4)
+  * ![@jeffrey2212](https://avatars.githubusercontent.com/u/1582786?s=64&v=4)
+  * ![@shinn92dev](https://avatars.githubusercontent.com/u/140452979?s=64&v=4)
+  * ![@sourangshupal](https://avatars.githubusercontent.com/u/17902554?s=64&v=4)
+  * ![@vishnu-17o7](https://avatars.githubusercontent.com/u/88884840?s=64&v=4)
+  * ![@bargav25](https://avatars.githubusercontent.com/u/52544154?s=64&v=4)
+  * ![@danywilliamta](https://avatars.githubusercontent.com/u/179829845?s=64&v=4)
+
++ 2,563  ](https://github.com/qdrant/fastembed/network/dependents)
+##  [Contributors 27](https://github.com/qdrant/fastembed/graphs/contributors)
+  * [ ![@NirantK](https://avatars.githubusercontent.com/u/3250749?s=64&v=4) ](https://github.com/NirantK)
+  * [ ![@joein](https://avatars.githubusercontent.com/u/22641570?s=64&v=4) ](https://github.com/joein)
+  * [ ![@hh-space-invader](https://avatars.githubusercontent.com/u/90828745?s=64&v=4) ](https://github.com/hh-space-invader)
+  * [ ![@generall](https://avatars.githubusercontent.com/u/1935623?s=64&v=4) ](https://github.com/generall)
+  * [ ![@Anush008](https://avatars.githubusercontent.com/u/46051506?s=64&v=4) ](https://github.com/Anush008)
+  * [ ![@I8dNLo](https://avatars.githubusercontent.com/u/12086538?s=64&v=4) ](https://github.com/I8dNLo)
+  * [ ![@KShivendu](https://avatars.githubusercontent.com/u/47217984?s=64&v=4) ](https://github.com/KShivendu)
+  * [ ![@dependabot\[bot\]](https://avatars.githubusercontent.com/in/29110?s=64&v=4) ](https://github.com/apps/dependabot)
+  * [ ![@mrscoopers](https://avatars.githubusercontent.com/u/143733659?s=64&v=4) ](https://github.com/mrscoopers)
+  * [ ![@afg1](https://avatars.githubusercontent.com/u/623671?s=64&v=4) ](https://github.com/afg1)
+  * [ ![@dpjanes](https://avatars.githubusercontent.com/u/2311111?s=64&v=4) ](https://github.com/dpjanes)
+  * [ ![@jamert](https://avatars.githubusercontent.com/u/3200920?s=64&v=4) ](https://github.com/jamert)
+  * [ ![@deichrenner](https://avatars.githubusercontent.com/u/4533011?s=64&v=4) ](https://github.com/deichrenner)
+  * [ ![@amietn](https://avatars.githubusercontent.com/u/5566087?s=64&v=4) ](https://github.com/amietn)
+
+
+[+ 13 contributors](https://github.com/qdrant/fastembed/graphs/contributors)
+## Languages
+  * [ Python 81.6% ](https://github.com/qdrant/fastembed/search?l=python)
+  * [ Jupyter Notebook 18.4% ](https://github.com/qdrant/fastembed/search?l=jupyter-notebook)
+
+
+## Footer
+[ ](https://github.com "GitHub") © 2025 GitHub, Inc. 
+### Footer navigation
+  * [Terms](https://docs.github.com/site-policy/github-terms/github-terms-of-service)
+  * [Privacy](https://docs.github.com/site-policy/privacy-policies/github-privacy-statement)
+  * [Security](https://github.com/security)
+  * [Status](https://www.githubstatus.com/)
+  * [Docs](https://docs.github.com/)
+  * [Contact](https://support.github.com?tags=dotcom-footer)
+  * Manage cookies 
+  * Do not share my personal information 
+
+
+You can’t perform that action at this time. 

@@ -1,0 +1,273 @@
+[Skip to content](https://github.com/truera/trulens/#start-of-content)
+## Navigation Menu
+Toggle navigation
+[ ](https://github.com/)
+[ Sign in ](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Ftruera%2Ftrulens%2F)
+  * Product 
+    * [ GitHub Copilot Write better code with AI  ](https://github.com/features/copilot)
+    * [ Security Find and fix vulnerabilities  ](https://github.com/features/security)
+    * [ Actions Automate any workflow  ](https://github.com/features/actions)
+    * [ Codespaces Instant dev environments  ](https://github.com/features/codespaces)
+    * [ Issues Plan and track work  ](https://github.com/features/issues)
+    * [ Code Review Manage code changes  ](https://github.com/features/code-review)
+    * [ Discussions Collaborate outside of code  ](https://github.com/features/discussions)
+    * [ Code Search Find more, search less  ](https://github.com/features/code-search)
+Explore
+    * [ All features ](https://github.com/features)
+    * [ Documentation ](https://docs.github.com)
+    * [ GitHub Skills ](https://skills.github.com)
+    * [ Blog ](https://github.blog)
+  * Solutions 
+By company size
+    * [ Enterprises ](https://github.com/enterprise)
+    * [ Small and medium teams ](https://github.com/team)
+    * [ Startups ](https://github.com/enterprise/startups)
+    * [ Nonprofits ](https://github.com/solutions/industry/nonprofits)
+By use case
+    * [ DevSecOps ](https://github.com/solutions/use-case/devsecops)
+    * [ DevOps ](https://github.com/solutions/use-case/devops)
+    * [ CI/CD ](https://github.com/solutions/use-case/ci-cd)
+    * [ View all use cases ](https://github.com/solutions/use-case)
+By industry
+    * [ Healthcare ](https://github.com/solutions/industry/healthcare)
+    * [ Financial services ](https://github.com/solutions/industry/financial-services)
+    * [ Manufacturing ](https://github.com/solutions/industry/manufacturing)
+    * [ Government ](https://github.com/solutions/industry/government)
+    * [ View all industries ](https://github.com/solutions/industry)
+[ View all solutions ](https://github.com/solutions)
+  * Resources 
+Topics
+    * [ AI ](https://github.com/resources/articles/ai)
+    * [ DevOps ](https://github.com/resources/articles/devops)
+    * [ Security ](https://github.com/resources/articles/security)
+    * [ Software Development ](https://github.com/resources/articles/software-development)
+    * [ View all ](https://github.com/resources/articles)
+Explore
+    * [ Learning Pathways ](https://resources.github.com/learn/pathways)
+    * [ Events & Webinars ](https://resources.github.com)
+    * [ Ebooks & Whitepapers ](https://github.com/resources/whitepapers)
+    * [ Customer Stories ](https://github.com/customer-stories)
+    * [ Partners ](https://partner.github.com)
+    * [ Executive Insights ](https://github.com/solutions/executive-insights)
+  * Open Source 
+    * [ GitHub Sponsors Fund open source developers  ](https://github.com/sponsors)
+    * [ The ReadME Project GitHub community articles  ](https://github.com/readme)
+Repositories
+    * [ Topics ](https://github.com/topics)
+    * [ Trending ](https://github.com/trending)
+    * [ Collections ](https://github.com/collections)
+  * Enterprise 
+    * [ Enterprise platform AI-powered developer platform  ](https://github.com/enterprise)
+Available add-ons
+    * [ Advanced Security Enterprise-grade security features  ](https://github.com/enterprise/advanced-security)
+    * [ Copilot for business Enterprise-grade AI features  ](https://github.com/features/copilot/copilot-business)
+    * [ Premium Support Enterprise-grade 24/7 support  ](https://github.com/premium-support)
+  * [Pricing](https://github.com/pricing)
+
+
+Search or jump to...
+# Search code, repositories, users, issues, pull requests...
+Search 
+Clear
+[Search syntax tips](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax)
+#  Provide feedback 
+We read every piece of feedback, and take your input very seriously.
+Include my email address so I can be contacted
+Cancel  Submit feedback 
+#  Saved searches 
+## Use saved searches to filter your results more quickly
+Name
+Query
+To see all available qualifiers, see our [documentation](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax). 
+Cancel  Create saved search 
+[ Sign in ](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Ftruera%2Ftrulens%2F)
+[ Sign up ](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E&source=header-repo&source_repo=truera%2Ftrulens) Reseting focus
+You signed in with another tab or window. [Reload](https://github.com/truera/trulens/) to refresh your session. You signed out in another tab or window. [Reload](https://github.com/truera/trulens/) to refresh your session. You switched accounts on another tab or window. [Reload](https://github.com/truera/trulens/) to refresh your session. Dismiss alert
+{{ message }}
+[ truera ](https://github.com/truera) / **[trulens](https://github.com/truera/trulens) ** Public
+  * [ Notifications ](https://github.com/login?return_to=%2Ftruera%2Ftrulens) You must be signed in to change notification settings
+  * [ Fork 209 ](https://github.com/login?return_to=%2Ftruera%2Ftrulens)
+  * [ Star  2.4k ](https://github.com/login?return_to=%2Ftruera%2Ftrulens)
+
+
+Evaluation and Tracking for LLM Experiments 
+[www.trulens.org/](https://www.trulens.org/ "https://www.trulens.org/")
+### License
+[ MIT license ](https://github.com/truera/trulens/blob/main/LICENSE)
+[ 2.4k stars ](https://github.com/truera/trulens/stargazers) [ 209 forks ](https://github.com/truera/trulens/forks) [ Branches ](https://github.com/truera/trulens/branches) [ Tags ](https://github.com/truera/trulens/tags) [ Activity ](https://github.com/truera/trulens/activity)
+[ Star  ](https://github.com/login?return_to=%2Ftruera%2Ftrulens)
+[ Notifications ](https://github.com/login?return_to=%2Ftruera%2Ftrulens) You must be signed in to change notification settings
+  * [ Code ](https://github.com/truera/trulens)
+  * [ Issues 16 ](https://github.com/truera/trulens/issues)
+  * [ Pull requests 38 ](https://github.com/truera/trulens/pulls)
+  * [ Discussions ](https://github.com/truera/trulens/discussions)
+  * [ Actions ](https://github.com/truera/trulens/actions)
+  * [ Projects 0 ](https://github.com/truera/trulens/projects)
+  * [ Wiki ](https://github.com/truera/trulens/wiki)
+  * [ Security ](https://github.com/truera/trulens/security)
+  * [ Insights ](https://github.com/truera/trulens/pulse)
+
+
+Additional navigation options
+  * [ Code  ](https://github.com/truera/trulens)
+  * [ Issues  ](https://github.com/truera/trulens/issues)
+  * [ Pull requests  ](https://github.com/truera/trulens/pulls)
+  * [ Discussions  ](https://github.com/truera/trulens/discussions)
+  * [ Actions  ](https://github.com/truera/trulens/actions)
+  * [ Projects  ](https://github.com/truera/trulens/projects)
+  * [ Wiki  ](https://github.com/truera/trulens/wiki)
+  * [ Security  ](https://github.com/truera/trulens/security)
+  * [ Insights  ](https://github.com/truera/trulens/pulse)
+
+
+# truera/trulens
+main
+[Branches](https://github.com/truera/trulens/branches)[Tags](https://github.com/truera/trulens/tags)
+[](https://github.com/truera/trulens/branches)[](https://github.com/truera/trulens/tags)
+Go to file
+Code
+## Folders and files
+Name| Name| Last commit message| Last commit date  
+---|---|---|---  
+## Latest commit
+[![sfc-gh-dhuang](https://avatars.githubusercontent.com/u/171001675?v=4&size=40)](https://github.com/sfc-gh-dhuang)[sfc-gh-dhuang](https://github.com/truera/trulens/commits?author=sfc-gh-dhuang)[Fix litellm e2e tests with Azure Openai (](https://github.com/truera/trulens/commit/0ed0ff3ed0890f04fba03eff957597430e7090c3)[#1887](https://github.com/truera/trulens/pull/1887)[)](https://github.com/truera/trulens/commit/0ed0ff3ed0890f04fba03eff957597430e7090c3)Mar 27, 2025[0ed0ff3](https://github.com/truera/trulens/commit/0ed0ff3ed0890f04fba03eff957597430e7090c3) · Mar 27, 2025
+## History
+[1,323 Commits](https://github.com/truera/trulens/commits/main/)[](https://github.com/truera/trulens/commits/main/)  
+[.azure_pipelines](https://github.com/truera/trulens/tree/main/.azure_pipelines ".azure_pipelines")| [.azure_pipelines](https://github.com/truera/trulens/tree/main/.azure_pipelines ".azure_pipelines")  
+[.github/ISSUE_TEMPLATE](https://github.com/truera/trulens/tree/main/.github/ISSUE_TEMPLATE "This path skips through empty directories")| [.github/ISSUE_TEMPLATE](https://github.com/truera/trulens/tree/main/.github/ISSUE_TEMPLATE "This path skips through empty directories")  
+[.grit](https://github.com/truera/trulens/tree/main/.grit ".grit")| [.grit](https://github.com/truera/trulens/tree/main/.grit ".grit")  
+[.vscode](https://github.com/truera/trulens/tree/main/.vscode ".vscode")| [.vscode](https://github.com/truera/trulens/tree/main/.vscode ".vscode")  
+[_trulens/trulens/_bundle](https://github.com/truera/trulens/tree/main/_trulens/trulens/_bundle "This path skips through empty directories")| [_trulens/trulens/_bundle](https://github.com/truera/trulens/tree/main/_trulens/trulens/_bundle "This path skips through empty directories")  
+[docker](https://github.com/truera/trulens/tree/main/docker "docker")| [docker](https://github.com/truera/trulens/tree/main/docker "docker")  
+[docs](https://github.com/truera/trulens/tree/main/docs "docs")| [docs](https://github.com/truera/trulens/tree/main/docs "docs")  
+[examples](https://github.com/truera/trulens/tree/main/examples "examples")| [examples](https://github.com/truera/trulens/tree/main/examples "examples")  
+[release_dbs/infty.infty.infty](https://github.com/truera/trulens/tree/main/release_dbs/infty.infty.infty "This path skips through empty directories")| [release_dbs/infty.infty.infty](https://github.com/truera/trulens/tree/main/release_dbs/infty.infty.infty "This path skips through empty directories")  
+[src](https://github.com/truera/trulens/tree/main/src "src")| [src](https://github.com/truera/trulens/tree/main/src "src")  
+[tests](https://github.com/truera/trulens/tree/main/tests "tests")| [tests](https://github.com/truera/trulens/tree/main/tests "tests")  
+[tools/systemd](https://github.com/truera/trulens/tree/main/tools/systemd "This path skips through empty directories")| [tools/systemd](https://github.com/truera/trulens/tree/main/tools/systemd "This path skips through empty directories")  
+[.gitattributes](https://github.com/truera/trulens/blob/main/.gitattributes ".gitattributes")| [.gitattributes](https://github.com/truera/trulens/blob/main/.gitattributes ".gitattributes")  
+[.gitignore](https://github.com/truera/trulens/blob/main/.gitignore ".gitignore")| [.gitignore](https://github.com/truera/trulens/blob/main/.gitignore ".gitignore")  
+[.pre-commit-config.yaml](https://github.com/truera/trulens/blob/main/.pre-commit-config.yaml ".pre-commit-config.yaml")| [.pre-commit-config.yaml](https://github.com/truera/trulens/blob/main/.pre-commit-config.yaml ".pre-commit-config.yaml")  
+[CONTRIBUTORS.md](https://github.com/truera/trulens/blob/main/CONTRIBUTORS.md "CONTRIBUTORS.md")| [CONTRIBUTORS.md](https://github.com/truera/trulens/blob/main/CONTRIBUTORS.md "CONTRIBUTORS.md")  
+[DEPRECATION.md](https://github.com/truera/trulens/blob/main/DEPRECATION.md "DEPRECATION.md")| [DEPRECATION.md](https://github.com/truera/trulens/blob/main/DEPRECATION.md "DEPRECATION.md")  
+[DEVELOPMENT.md](https://github.com/truera/trulens/blob/main/DEVELOPMENT.md "DEVELOPMENT.md")| [DEVELOPMENT.md](https://github.com/truera/trulens/blob/main/DEVELOPMENT.md "DEVELOPMENT.md")  
+[LICENSE](https://github.com/truera/trulens/blob/main/LICENSE "LICENSE")| [LICENSE](https://github.com/truera/trulens/blob/main/LICENSE "LICENSE")  
+[MAINTAINERS.md](https://github.com/truera/trulens/blob/main/MAINTAINERS.md "MAINTAINERS.md")| [MAINTAINERS.md](https://github.com/truera/trulens/blob/main/MAINTAINERS.md "MAINTAINERS.md")  
+[Makefile](https://github.com/truera/trulens/blob/main/Makefile "Makefile")| [Makefile](https://github.com/truera/trulens/blob/main/Makefile "Makefile")  
+[POLICIES.md](https://github.com/truera/trulens/blob/main/POLICIES.md "POLICIES.md")| [POLICIES.md](https://github.com/truera/trulens/blob/main/POLICIES.md "POLICIES.md")  
+[README.md](https://github.com/truera/trulens/blob/main/README.md "README.md")| [README.md](https://github.com/truera/trulens/blob/main/README.md "README.md")  
+[RELEASES.md](https://github.com/truera/trulens/blob/main/RELEASES.md "RELEASES.md")| [RELEASES.md](https://github.com/truera/trulens/blob/main/RELEASES.md "RELEASES.md")  
+[conftest.py](https://github.com/truera/trulens/blob/main/conftest.py "conftest.py")| [conftest.py](https://github.com/truera/trulens/blob/main/conftest.py "conftest.py")  
+[mkdocs.yml](https://github.com/truera/trulens/blob/main/mkdocs.yml "mkdocs.yml")| [mkdocs.yml](https://github.com/truera/trulens/blob/main/mkdocs.yml "mkdocs.yml")  
+[poetry.lock](https://github.com/truera/trulens/blob/main/poetry.lock "poetry.lock")| [poetry.lock](https://github.com/truera/trulens/blob/main/poetry.lock "poetry.lock")  
+[pyproject.toml](https://github.com/truera/trulens/blob/main/pyproject.toml "pyproject.toml")| [pyproject.toml](https://github.com/truera/trulens/blob/main/pyproject.toml "pyproject.toml")  
+[zip_wheels.sh](https://github.com/truera/trulens/blob/main/zip_wheels.sh "zip_wheels.sh")| [zip_wheels.sh](https://github.com/truera/trulens/blob/main/zip_wheels.sh "zip_wheels.sh")  
+View all files  
+## Repository files navigation
+  * [README](https://github.com/truera/trulens/)
+  * [MIT license](https://github.com/truera/trulens/)
+
+
+[![PyPI - Version](https://camo.githubusercontent.com/54cb62f51d18cf318b1c23cbcf20b6ef062697d56b16ed68ec3467f888d9278d/68747470733a2f2f696d672e736869656c64732e696f2f707970692f762f7472756c656e733f6c6162656c3d7472756c656e73266c696e6b3d6874747073253341253246253246707970692e6f726725324670726f6a6563742532467472756c656e73253246)](https://camo.githubusercontent.com/54cb62f51d18cf318b1c23cbcf20b6ef062697d56b16ed68ec3467f888d9278d/68747470733a2f2f696d672e736869656c64732e696f2f707970692f762f7472756c656e733f6c6162656c3d7472756c656e73266c696e6b3d6874747073253341253246253246707970692e6f726725324670726f6a6563742532467472756c656e73253246) [![Azure Build Status](https://camo.githubusercontent.com/c817c3fcadceece6730deea596400d1510a2fcf0b3215bdbee67627ca2d61632/68747470733a2f2f6465762e617a7572652e636f6d2f7472756572612f7472756c656e732f5f617069732f6275696c642f7374617475732532465472754c656e7325323045324525323054657374733f6272616e63684e616d653d6d61696e)](https://dev.azure.com/truera/trulens/_build/latest?definitionId=8&branchName=main) [![GitHub](https://camo.githubusercontent.com/d0e43c6f39d47067430e30a7559afea4db1c761b6cf91f1a3b463695b18bcce8/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6963656e73652f7472756572612f7472756c656e73)](https://camo.githubusercontent.com/d0e43c6f39d47067430e30a7559afea4db1c761b6cf91f1a3b463695b18bcce8/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6963656e73652f7472756572612f7472756c656e73) [![PyPI - Downloads](https://camo.githubusercontent.com/6f0ab36d5b3a584f60dd3b9ccbe601b45cea69636c26b4765148a52cebe950c9/68747470733a2f2f696d672e736869656c64732e696f2f707970692f646d2f7472756c656e73)](https://camo.githubusercontent.com/6f0ab36d5b3a584f60dd3b9ccbe601b45cea69636c26b4765148a52cebe950c9/68747470733a2f2f696d672e736869656c64732e696f2f707970692f646d2f7472756c656e73) [![Discourse](https://camo.githubusercontent.com/6107deb9029693721e4efd711425b534f1fdb72a520cc8ac7af1262a56cadc73/68747470733a2f2f696d672e736869656c64732e696f2f646973636f757273652f75736572733f7365727665723d68747470733a2f2f736e6f77666c616b652e646973636f757273652e67726f75702f)](https://snowflake.discourse.group/c/ai-research-and-development-community/trulens/97) [![Docs](https://camo.githubusercontent.com/591b1996008d8158ca5fa2bd451de06740fd96ae7d25e3575bb32e32da443af5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f646f63732d7472756c656e732e6f72672d626c7565)](https://www.trulens.org/getting_started/) [![Open In Colab](https://camo.githubusercontent.com/96889048f8a9014fdeba2a891f97150c6aac6e723f5190236b10215a97ed41f3/68747470733a2f2f636f6c61622e72657365617263682e676f6f676c652e636f6d2f6173736574732f636f6c61622d62616467652e737667)](https://colab.research.google.com/github/truera/trulens/blob/main/examples/quickstart/langchain_quickstart.ipynb)
+# 🦑 Welcome to TruLens!
+[](https://github.com/truera/trulens/#-welcome-to-trulens)
+[![TruLens](https://camo.githubusercontent.com/43b05c74bb19cd4ccd6c27b50ef2965a2463b30ed5e0bb1dcb84aae7708b25a9/68747470733a2f2f7777772e7472756c656e732e6f72672f6173736574732f696d616765732f4e657572616c5f4e6574776f726b5f4578706c61696e6162696c6974792e706e67)](https://camo.githubusercontent.com/43b05c74bb19cd4ccd6c27b50ef2965a2463b30ed5e0bb1dcb84aae7708b25a9/68747470733a2f2f7777772e7472756c656e732e6f72672f6173736574732f696d616765732f4e657572616c5f4e6574776f726b5f4578706c61696e6162696c6974792e706e67)
+**Don't just vibe-check your LLM app!** Systematically evaluate and track your LLM experiments with TruLens. As you develop your app including prompts, models, retrievers, knowledge sources and more, _TruLens_ is the tool you need to understand its performance.
+Fine-grained, stack-agnostic instrumentation and comprehensive evaluations help you to identify failure modes & systematically iterate to improve your application.
+Read more about the core concepts behind TruLens including [Feedback Functions](https://www.trulens.org/getting_started/core_concepts/feedback_functions/), [The RAG Triad](https://www.trulens.org/getting_started/core_concepts/rag_triad/), and [Honest, Harmless and Helpful Evals](https://www.trulens.org/getting_started/core_concepts/honest_harmless_helpful_evals/).
+## TruLens in the development workflow
+[](https://github.com/truera/trulens/#trulens-in-the-development-workflow)
+Build your first prototype then connect instrumentation and logging with TruLens. Decide what feedbacks you need, and specify them with TruLens to run alongside your app. Then iterate and compare versions of your app in an easy-to-use user interface 👇
+[![Architecture Diagram](https://camo.githubusercontent.com/5e545b625aa3967636d1ced49a35b4fe0fa7c049b748592ff3979d85d67e90a2/68747470733a2f2f7777772e7472756c656e732e6f72672f6173736574732f696d616765732f5472754c656e735f4172636869746563747572652e706e67)](https://camo.githubusercontent.com/5e545b625aa3967636d1ced49a35b4fe0fa7c049b748592ff3979d85d67e90a2/68747470733a2f2f7777772e7472756c656e732e6f72672f6173736574732f696d616765732f5472754c656e735f4172636869746563747572652e706e67)
+## Installation and Setup
+[](https://github.com/truera/trulens/#installation-and-setup)
+Install the trulens pip package from PyPI.
+```
+  pip install trulens
+```
+
+## Quick Usage
+[](https://github.com/truera/trulens/#quick-usage)
+Walk through how to instrument and evaluate a RAG built from scratch with TruLens.
+[![Open In Colab](https://camo.githubusercontent.com/96889048f8a9014fdeba2a891f97150c6aac6e723f5190236b10215a97ed41f3/68747470733a2f2f636f6c61622e72657365617263682e676f6f676c652e636f6d2f6173736574732f636f6c61622d62616467652e737667)](https://colab.research.google.com/github/truera/trulens/blob/main/examples/quickstart/quickstart.ipynb)
+### 💡 Contributing & Community
+[](https://github.com/truera/trulens/#-contributing--community)
+Interested in contributing? See our [contributing guide](https://www.trulens.org/contributing/) for more details.
+The best way to support TruLens is to give us a ⭐ on [GitHub](https://www.github.com/truera/trulens) and join our [discourse community](https://snowflake.discourse.group/c/ai-research-and-development-community/trulens/97)!
+## About
+Evaluation and Tracking for LLM Experiments 
+[www.trulens.org/](https://www.trulens.org/ "https://www.trulens.org/")
+### Topics
+[ machine-learning ](https://github.com/topics/machine-learning "Topic: machine-learning") [ neural-networks ](https://github.com/topics/neural-networks "Topic: neural-networks") [ explainable-ml ](https://github.com/topics/explainable-ml "Topic: explainable-ml") [ llm ](https://github.com/topics/llm "Topic: llm") [ llmops ](https://github.com/topics/llmops "Topic: llmops")
+### Resources
+[ Readme ](https://github.com/truera/trulens/#readme-ov-file)
+### License
+[ MIT license ](https://github.com/truera/trulens/#MIT-1-ov-file)
+[ Activity](https://github.com/truera/trulens/activity)
+[ Custom properties](https://github.com/truera/trulens/custom-properties)
+### Stars
+[ **2.4k** stars](https://github.com/truera/trulens/stargazers)
+### Watchers
+[ **17** watching](https://github.com/truera/trulens/watchers)
+### Forks
+[ **209** forks](https://github.com/truera/trulens/forks)
+[ Report repository ](https://github.com/contact/report-content?content_url=https%3A%2F%2Fgithub.com%2Ftruera%2Ftrulens&report=truera+%28user%29)
+##  [Releases 89](https://github.com/truera/trulens/releases)
+[ TruLens v1.4.7 Latest  Mar 20, 2025 ](https://github.com/truera/trulens/releases/tag/trulens-1.4.7)
+[+ 88 releases](https://github.com/truera/trulens/releases)
+##  [Packages 0](https://github.com/orgs/truera/packages?repo_name=trulens)
+No packages published 
+##  [Used by 128](https://github.com/truera/trulens/network/dependents)
+[
+  * ![@parimal1009](https://avatars.githubusercontent.com/u/118711970?s=64&v=4)
+  * ![@parimal1009](https://avatars.githubusercontent.com/u/118711970?s=64&v=4)
+  * ![@vapmail16](https://avatars.githubusercontent.com/u/71099884?s=64&v=4)
+  * ![@Skooldio](https://avatars.githubusercontent.com/u/25908181?s=64&v=4)
+  * ![@michaWorku](https://avatars.githubusercontent.com/u/94218813?s=64&v=4)
+  * ![@CNTXTFZCO0](https://avatars.githubusercontent.com/u/169078881?s=64&v=4)
+  * ![@JaeyeopC](https://avatars.githubusercontent.com/u/150568620?s=64&v=4)
+  * ![@Vlad-Fliahin](https://avatars.githubusercontent.com/u/55523599?s=64&v=4)
+
++ 120  ](https://github.com/truera/trulens/network/dependents)
+##  [Contributors 61](https://github.com/truera/trulens/graphs/contributors)
+  * [ ![@joshreini1](https://avatars.githubusercontent.com/u/60949774?s=64&v=4) ](https://github.com/joshreini1)
+  * [ ![@rshih32](https://avatars.githubusercontent.com/u/6810746?s=64&v=4) ](https://github.com/rshih32)
+  * [ ![@piotrm0](https://avatars.githubusercontent.com/u/421701?s=64&v=4) ](https://github.com/piotrm0)
+  * [ ![@github-actions\[bot\]](https://avatars.githubusercontent.com/in/15368?s=64&v=4) ](https://github.com/apps/github-actions)
+  * [ ![@sfc-gh-jreini](https://avatars.githubusercontent.com/u/171636836?s=64&v=4) ](https://github.com/sfc-gh-jreini)
+  * [ ![@sfc-gh-dkurokawa](https://avatars.githubusercontent.com/u/170676073?s=64&v=4) ](https://github.com/sfc-gh-dkurokawa)
+  * [ ![@sfc-gh-chu](https://avatars.githubusercontent.com/u/170677933?s=64&v=4) ](https://github.com/sfc-gh-chu)
+  * [ ![@shayaks](https://avatars.githubusercontent.com/u/47965099?s=64&v=4) ](https://github.com/shayaks)
+  * [ ![@sfc-gh-dhuang](https://avatars.githubusercontent.com/u/171001675?s=64&v=4) ](https://github.com/sfc-gh-dhuang)
+  * [ ![@klasleino](https://avatars.githubusercontent.com/u/5330257?s=64&v=4) ](https://github.com/klasleino)
+  * [ ![@coreyhu](https://avatars.githubusercontent.com/u/4167654?s=64&v=4) ](https://github.com/coreyhu)
+  * [ ![@sfc-gh-pmardziel](https://avatars.githubusercontent.com/u/171089591?s=64&v=4) ](https://github.com/sfc-gh-pmardziel)
+  * [ ![@daniel-huang-1230](https://avatars.githubusercontent.com/u/19476654?s=64&v=4) ](https://github.com/daniel-huang-1230)
+  * [ ![@arn-tru](https://avatars.githubusercontent.com/u/163380706?s=64&v=4) ](https://github.com/arn-tru)
+
+
+[+ 47 contributors](https://github.com/truera/trulens/graphs/contributors)
+## Languages
+  * [ Python 83.5% ](https://github.com/truera/trulens/search?l=python)
+  * [ Jupyter Notebook 13.7% ](https://github.com/truera/trulens/search?l=jupyter-notebook)
+  * [ TypeScript 2.1% ](https://github.com/truera/trulens/search?l=typescript)
+  * [ Makefile 0.4% ](https://github.com/truera/trulens/search?l=makefile)
+  * [ JavaScript 0.1% ](https://github.com/truera/trulens/search?l=javascript)
+  * [ Shell 0.1% ](https://github.com/truera/trulens/search?l=shell)
+  * Other 0.1%
+
+
+## Footer
+[ ](https://github.com "GitHub") © 2025 GitHub, Inc. 
+### Footer navigation
+  * [Terms](https://docs.github.com/site-policy/github-terms/github-terms-of-service)
+  * [Privacy](https://docs.github.com/site-policy/privacy-policies/github-privacy-statement)
+  * [Security](https://github.com/security)
+  * [Status](https://www.githubstatus.com/)
+  * [Docs](https://docs.github.com/)
+  * [Contact](https://support.github.com?tags=dotcom-footer)
+  * Manage cookies 
+  * Do not share my personal information 
+
+
+You can’t perform that action at this time. 

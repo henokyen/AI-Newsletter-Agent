@@ -1,0 +1,63 @@
+{
+    "id": "f5067b9bfff8fde6a22e04a2818afaad",
+    "metadata": {
+        "id": "f5067b9bfff8fde6a22e04a2818afaad",
+        "url": "https://lightning.ai/",
+        "title": "Lightning AI",
+        "properties": {
+            "description": "The all-in-one platform for AI development. Code together. Prototype. Train. Scale. Serve. From your browser - with zero setup. From the creators of PyTorch Lightning.",
+            "keywords": null,
+            "author": null,
+            "og:url": "https://lightning.ai",
+            "og:title": "Lightning AI | Turn ideas into AI, Lightning fast",
+            "og:description": "The all-in-one platform for AI development. Code together. Prototype. Train. Scale. Serve. From your browser - with zero setup. From the creators of PyTorch Lightning.",
+            "og:type": "website",
+            "og:image": "https://pl-bolts-doc-images.s3.us-east-2.amazonaws.com/app-2/default-social-preview.jpg",
+            "og:image:width": "1200",
+            "og:image:height": "630",
+            "og:locale": "en_US",
+            "og:site_name": "Lightning AI",
+            "og:secure_url": "https://pl-bolts-doc-images.s3.us-east-2.amazonaws.com/app-2/default-social-preview.jpg",
+            "twitter:title": "Lightning AI | Turn ideas into AI, Lightning fast",
+            "twitter:description": "The all-in-one platform for AI development. Code together. Prototype. Train. Scale. Serve. From your browser - with zero setup. From the creators of PyTorch Lightning.",
+            "twitter:image": "pl-bolts-doc-images.s3.us-east-2.amazonaws.com/app-2/default-social-preview.jpg",
+            "twitter:image:alt": "Lightning AI - The all-in-one AI development platform",
+            "twitter:card": "summary_large_image",
+            "twitter:site": "@LightningAI"
+        }
+    },
+    "parent_metadata": {
+        "id": "50bf2a8cc2c86bcebdb5a90ebaef69bf",
+        "url": "https://www.notion.so/Cloud-Compute-50bf2a8cc2c86bcebdb5a90ebaef69bf",
+        "title": "Cloud Compute",
+        "properties": {
+            "Type": "Node"
+        }
+    },
+    "content": "We'll be at NVIDIA GTC 2025! Want to develop AI products 80% faster? [Book a time with our team.](https://lightning.ai/)\nLearn more\n[![Lightning.AI Logo](https://lightning.ai/static/media/logo-dark.82b2cc7df5d987ca34bf210ac51cf827.svg)](https://lightning.ai/)\nLogin\nStart free\n[![Lightning.AI Logo With Text](https://lightning.ai/static/media/logo-with-text-dark.bdcfdf86bccb9812ed1d3ec873e9e771.svg)](https://lightning.ai/)\n[![Join us on Discord](https://pl-bolts-doc-images.s3.us-east-2.amazonaws.com/app-2/discord-icon.svg)](https://discord.gg/MWAEvnC5fU)[![Follow us on Twitter](https://lightning.ai/static/media/icon-social-twitter.727156ae251aac8e8ad0721874a5b8cf.svg)](https://x.com/LightningAI)[![Connect with us on LinkedIn](https://lightning.ai/static/media/icon-social-linkedin.d050b1bb25a6b8eceb406da4d44f7435.svg)](https://www.linkedin.com/company/pytorch-lightning/)[![Watch our YouTube channel](https://lightning.ai/static/media/icon-social-youtube.449171b2016a0e612af033acd2ff9823.svg)](https://www.youtube.com/c/PyTorchLightning)\nAbout\n[About Lightning AI](https://lightning.ai/about)[Pricing](https://lightning.ai/pricing/)[Terms of Service](https://lightning.ai/pages/policies/terms-of-service/)[Privacy Policy](https://lightning.ai/pages/policies/privacy-policy/)\nCommunity\n[r/LightningAI](https://www.reddit.com/r/lightningAI/)[GitHub](https://github.com/Lightning-AI/lightning)[Resources](https://lightning.ai/pages/resources/)[AI Education](https://lightning.ai/pages/ai-education/)[Careers](https://lightning.ai/careers)\nDocs\n[Lightning AI Studio](https://lightning.ai/docs/overview/studios/)[PyTorch Lightning](https://lightning.ai/docs/pytorch/stable)[LitServe](https://lightning.ai/docs/fabric/stable)[Fabric](https://lightning.ai/docs/litserve/stable)[LitGPT](https://github.com/Lightning-AI/litgpt/blob/main/tutorials/0_to_litgpt.md)[TorchMetrics](https://lightning.ai/docs/torchmetrics/stable)[Thunder](https://lightning-thunder.readthedocs.io/en/stable/)\n",
+    "content_quality_score": 0.1,
+    "summary": null,
+    "child_urls": [
+        "https://lightning.ai/",
+        "https://lightning.ai/about",
+        "https://lightning.ai/pricing/",
+        "https://lightning.ai/pages/policies/terms-of-service/",
+        "https://lightning.ai/pages/policies/privacy-policy/",
+        "https://lightning.ai/pages/resources/",
+        "https://lightning.ai/pages/ai-education/",
+        "https://lightning.ai/careers",
+        "https://lightning.ai/docs/overview/studios/",
+        "https://lightning.ai/docs/pytorch/stable",
+        "https://lightning.ai/docs/fabric/stable",
+        "https://lightning.ai/docs/litserve/stable",
+        "https://lightning.ai/docs/torchmetrics/stable",
+        "https://discord.gg/MWAEvnC5fU",
+        "https://x.com/LightningAI",
+        "https://www.linkedin.com/company/pytorch-lightning/",
+        "https://www.youtube.com/c/PyTorchLightning",
+        "https://www.reddit.com/r/lightningAI/",
+        "https://github.com/Lightning-AI/lightning",
+        "https://github.com/Lightning-AI/litgpt/blob/main/tutorials/0_to_litgpt.md",
+        "https://lightning-thunder.readthedocs.io/en/stable/"
+    ]
+}

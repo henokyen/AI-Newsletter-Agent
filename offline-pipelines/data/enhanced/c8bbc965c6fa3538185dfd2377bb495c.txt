@@ -1,0 +1,265 @@
+⚡️ Checkout our new [End-to-end LLM Workflows Guide](https://www.anyscale.com/blog/end-to-end-llm-workflows-guide)
+[ ![logo](https://madewithml.com/static/images/logo.png) ](https://madewithml.com/ "Made With ML by Anyscale")
+Made With ML by Anyscale 
+Home 
+Initializing search 
+[ GokuMohandas/MadeWithML  ](https://github.com/GokuMohandas/Made-With-ML "Go to repository")
+  * [ Home ](https://madewithml.com/)
+  * [ About ](https://madewithml.com/about/)
+  * [ Course ](https://madewithml.com/#course)
+  * [ Foundations ](https://madewithml.com/courses/foundations/)
+  * [ Subscribe ](https://madewithml.com/misc/newsletter/)
+  * [ Community ](https://discord.com/channels/1078171187609337896/1078171189169635472)
+
+
+[ ![logo](https://madewithml.com/static/images/logo.png) ](https://madewithml.com/ "Made With ML by Anyscale") Made With ML by Anyscale 
+[ GokuMohandas/MadeWithML  ](https://github.com/GokuMohandas/Made-With-ML "Go to repository")
+  * [ Home ](https://madewithml.com/)
+  * [ About ](https://madewithml.com/about/)
+  * Course  Course 
+    * [ Lessons ](https://madewithml.com/#course)
+    * 🎨 Design  🎨 Design 
+      * [ Setup ](https://madewithml.com/courses/mlops/setup/)
+      * [ Product ](https://madewithml.com/courses/mlops/product-design/)
+      * [ Systems ](https://madewithml.com/courses/mlops/systems-design/)
+    * 🔢 Data  🔢 Data 
+      * [ Preparation ](https://madewithml.com/courses/mlops/preparation/)
+      * [ Exploration ](https://madewithml.com/courses/mlops/exploratory-data-analysis/)
+      * [ Preprocessing ](https://madewithml.com/courses/mlops/preprocessing/)
+      * [ Distributed ](https://madewithml.com/courses/mlops/distributed-data/)
+    * 📈 Model  📈 Model 
+      * [ Training ](https://madewithml.com/courses/mlops/training/)
+      * [ Tracking ](https://madewithml.com/courses/mlops/experiment-tracking/)
+      * [ Tuning ](https://madewithml.com/courses/mlops/tuning/)
+      * [ Evaluation ](https://madewithml.com/courses/mlops/evaluation/)
+      * [ Serving ](https://madewithml.com/courses/mlops/serving/)
+    * 💻 Developing  💻 Developing 
+      * [ Scripting ](https://madewithml.com/courses/mlops/scripting/)
+      * [ CLI ](https://madewithml.com/courses/mlops/cli/)
+    * 📦 Utilities  📦 Utilities 
+      * [ Logging ](https://madewithml.com/courses/mlops/logging/)
+      * [ Documentation ](https://madewithml.com/courses/mlops/documentation/)
+      * [ Styling ](https://madewithml.com/courses/mlops/styling/)
+      * [ Pre-commit ](https://madewithml.com/courses/mlops/pre-commit/)
+    * ✅ Testing  ✅ Testing 
+      * [ Code ](https://madewithml.com/courses/mlops/testing/)
+      * [ Data ](https://madewithml.com/courses/mlops/testing/#data)
+      * [ Models ](https://madewithml.com/courses/mlops/testing/#models)
+    * ♻️ Reproducibility  ♻️ Reproducibility 
+      * [ Versioning ](https://madewithml.com/courses/mlops/versioning/)
+    * 🚀 Production  🚀 Production 
+      * [ Jobs & Services ](https://madewithml.com/courses/mlops/jobs-and-services/)
+      * [ CI/CD workflows ](https://madewithml.com/courses/mlops/cicd/)
+      * [ Monitoring ](https://madewithml.com/courses/mlops/monitoring/)
+      * [ Data engineering ](https://madewithml.com/courses/mlops/data-engineering/)
+  * Foundations  Foundations 
+    * [ Lessons ](https://madewithml.com/courses/foundations/)
+    * 🛠 Toolkit  🛠 Toolkit 
+      * [ Notebooks ](https://madewithml.com/courses/foundations/notebooks/)
+      * [ Python ](https://madewithml.com/courses/foundations/python/)
+      * [ NumPy ](https://madewithml.com/courses/foundations/numpy/)
+      * [ Pandas ](https://madewithml.com/courses/foundations/pandas/)
+      * [ PyTorch ](https://madewithml.com/courses/foundations/pytorch/)
+    * 🔥 Machine Learning  🔥 Machine Learning 
+      * [ Linear regression ](https://madewithml.com/courses/foundations/linear-regression/)
+      * [ Logistic regression ](https://madewithml.com/courses/foundations/logistic-regression/)
+      * [ Neural networks ](https://madewithml.com/courses/foundations/neural-networks/)
+      * [ Data quality ](https://madewithml.com/courses/foundations/data-quality/)
+      * [ Utilities ](https://madewithml.com/courses/foundations/utilities/)
+    * 🤖 Deep Learning  🤖 Deep Learning 
+      * [ CNNs ](https://madewithml.com/courses/foundations/convolutional-neural-networks/)
+      * [ Embeddings ](https://madewithml.com/courses/foundations/embeddings/)
+      * [ RNNs ](https://madewithml.com/courses/foundations/recurrent-neural-networks/)
+      * [ Attention ](https://madewithml.com/courses/foundations/attention/)
+      * [ Transformers ](https://madewithml.com/courses/foundations/transformers/)
+  * [ Subscribe ](https://madewithml.com/misc/newsletter/)
+  * [ Community ](https://discord.com/channels/1078171187609337896/1078171189169635472)
+
+
+×
+# Made With ML
+BY
+[![](https://madewithml.com/static/images/anyscale-black-text.svg)](https://www.anyscale.com?utm_source=madewithmml&utm_medium=website&utm_campaign=hero)
+Join **40K+ developers** in learning how to responsibly deliver value with ML!
+Subscribe  [View lessons](https://madewithml.com/#mlops)
+![machine learning logos](https://madewithml.com/static/images/logos.png)
+## ML for Developers
+Design · Develop · Deploy · Iterate
+Learn how to combine machine learning with software engineering to design, develop, deploy and iterate on production ML applications. → [GokuMohandas/Made-With-ML](https://github.com/GokuMohandas/Made-With-ML)
+1. **🎨 Design**
+  * [Setup](https://madewithml.com/courses/mlops/setup/)
+  * [Product](https://madewithml.com/courses/mlops/product-design/)
+  * [Systems](https://madewithml.com/courses/mlops/systems-design)
+
+2. **🔢 Data**
+  * [Preparation](https://madewithml.com/courses/mlops/preparation/)
+  * [Exploration](https://madewithml.com/courses/mlops/exploratory-data-analysis/)
+  * [Preprocessing](https://madewithml.com/courses/mlops/preprocessing/)
+  * [Distributed](https://madewithml.com/courses/mlops/distributed-data/)
+
+3. **🤖 Model**
+  * [Training](https://madewithml.com/courses/mlops/training/)
+  * [Tracking](https://madewithml.com/courses/mlops/experiment-tracking/)
+  * [Tuning](https://madewithml.com/courses/mlops/tuning/)
+  * [Evaluation](https://madewithml.com/courses/mlops/evaluation/)
+  * [Serving](https://madewithml.com/courses/mlops/serving/)
+
+
+4. **💻 Develop**
+  * [Scripting](https://madewithml.com/courses/mlops/scripting/)
+  * [Command-line](https://madewithml.com/courses/mlops/cli/)
+
+5. **📦 Utilities**
+  * [Logging](https://madewithml.com/courses/mlops/logging/)
+  * [Documentation](https://madewithml.com/courses/mlops/documentation/)
+  * [Styling](https://madewithml.com/courses/mlops/styling/)
+  * [Pre-commit](https://madewithml.com/courses/mlops/pre-commit/)
+
+6. **🧪 Test**
+  * [Code](https://madewithml.com/courses/mlops/testing/)
+  * [Data](https://madewithml.com/courses/mlops/testing/#data)
+  * [Models](https://madewithml.com/courses/mlops/testing/#models)
+
+7. **♻️ Reproducibility**
+  * [Versioning](https://madewithml.com/courses/mlops/versioning/)
+
+
+8. **🚀 Production**
+  * [Jobs & Services](https://madewithml.com/courses/mlops/jobs-and-services/)
+  * [CI/CD workflows](https://madewithml.com/courses/mlops/cicd/)
+  * [Monitoring](https://madewithml.com/courses/mlops/monitoring/)
+  * [Data engineering](https://madewithml.com/courses/mlops/data-engineering/)
+
+
+Live cohort
+Sign up for our upcoming live cohort, where we'll provide **live lessons + QA** , **compute (GPUs)** and **community** to learn everything in one day. 
+Learn more
+While the specific task in this course involves fine-tuning an LLM for a supervised task, everything we learn **easily extends** to all applications (NLP, CV, time-series, etc.), models (regression → LLMs), data modalities (tabular, text, etc.), cloud platforms (AWS, GCP) and scale (local laptop → distributed cluster). 
+First principles 
+Before we jump straight into the code, we develop a first principles understanding for every machine learning concept. 
+Best practices 
+Implement software engineering best practices as we develop and deploy our machine learning models. 
+Scale 
+Easily scale ML workloads (data, train, tune, serve) in Python without having to learn completely new languages. 
+MLOps 
+Connect MLOps components (tracking, testing, serving, orchestration, etc.) as we build an end-to-end machine learning system. 
+Dev to Prod 
+Learn how to quickly and reliably go from development to production without any changes to our code or infra management. 
+CI/CD 
+Learn how to create mature CI/CD workflows to continuously train and deploy better models in a modular way that integrates with any stack. 
+## Who is this content for?
+Machine learning is not a separate industry, instead, it's a powerful way of thinking about data that's not reserved for any one type of person.
+👩‍💻 All developers 
+Whether software/infra engineer or data scientist, ML is increasingly becoming a key part of the products that you'll be developing. 
+👩‍🎓 College graduates 
+Learn the practical skills required for industry and bridge gap between the university curriculum and what industry expects. 
+👩‍💼 Product/Leadership 
+who want to develop a technical foundation so that they can build amazing (and reliable) products powered by machine learning. 
+## Meet your instructor
+![Goku Mohandas](https://madewithml.com/static/images/goku_circle.png)
+### Hi, I'm Goku Mohandas
+[](https://twitter.com/GokuMohandas) [](https://www.linkedin.com/in/goku) [](https://www.github.com/GokuMohandas) [](https://www.youtube.com/c/MadeWithML)
+I've spent [my career](https://linkedin.com/in/goku) developing ML applications across all scales and industries. Specifically over the last four years (through Made With ML), I’ve had the opportunity to help dozens of F500 companies + startups build out their ML platforms and launch high-impact ML applications on top of them. I started Made With ML to address the gaps in education and share the best practices on how to deliver value with ML in production. 
+While this was an amazing experience, it was also a humbling one because there were obstacles around **scale** , **integrations** and **productionization** that I didn’t have great solutions for. So, I decided to join a team that has been addressing these precise obstacles with some of the [best ML teams](https://www.anyscale.com/user-stories) in the world and has an even bigger vision I could stand behind. So I'm excited to announce that Made With ML is now part of [Anyscale](https://www.anyscale.com/) to accelerate the path towards production ML. 
+🎉 Made With ML is now part of [Anyscale](https://www.anyscale.com/), read more about it **[here](https://www.anyscale.com/blog/machine-learning-for-developers)**! 
+## ❤️ Wall of Love
+See what the community has to say about Made With ML.
+![profile](https://madewithml.com/static/images/testimonials/sherry_wang.jpeg)
+**Sherry Wang** [ ](https://www.linkedin.com/posts/arghyadeep-das_made-with-ml-activity-6815267985788342272-yJ8e)
+Senior ML Engineer - Cars.com
+"Made with ML is one of the best courses I’ve ever taken. The material covered is very practical; I get to apply some of them to my job right away."
+![profile](https://madewithml.com/static/images/testimonials/deepak_jayakumaran.jpeg)
+**Deepak Jayakumaran** [ ](https://www.linkedin.com/in/deepakjayakumaran/)
+Lead Data Scientist - Grab
+"This course has given me the know-how to make optimal choices around design & implementation of ML engineering for a variety of real-world use-cases."
+![profile](https://madewithml.com/static/images/testimonials/jeremy_jordan.jpeg)
+**Jeremy Jordan** [ ](https://twitter.com/jeremyjordan/status/1316052661133815809)
+Senior ML Engineer - Duo Security
+"This will be a great journey for those interested in deploying machine learning models which lead to a positive impact on the product."
+![profile](https://madewithml.com/static/images/testimonials/clara_matos.jpeg)
+**Clara Matos** [ ](https://www.linkedin.com/in/claramatos/)
+Head of AI Eng - Sword Health
+"This course really mimics the production ML thought process by providing alternative options with different levels of complexity & weighing on the pros/cons."
+![profile](https://madewithml.com/static/images/testimonials/ritchie_ng.jpeg)
+**Ritchie Ng** [ ](https://youtu.be/CjU_6OaYKpw?t=1009)
+PyTorch Keynote Speaker
+"For production ML, I cannot possibly think of a better resource out there ... this resource is the gold standard."
+![profile](https://madewithml.com/static/images/testimonials/greg_coquillo.jpeg)
+**Greg Coquillo** [ ](https://www.linkedin.com/posts/greg-coquillo_datascience-machinelearning-artificialintelligence-activity-6823665007415455744-QsY4?utm_source=share&utm_medium=member_desktop)
+AI Product - Amazon
+"One of the best places where you can learn the fundamentals of ML, then practice MLOps by building production grade products and delivering value!"
+![profile](https://madewithml.com/static/images/testimonials/kavin_veerapandian.jpeg)
+**Kavin Veerapandian** [ ](https://www.linkedin.com/in/kavin-veerapandian-b18537191/)
+Senior Analyst - Citi
+"Coming from academia with purely model-specific knowledge, Made With ML set the expectations right when it comes to how ML is being applied in the industry."
+![profile](https://madewithml.com/static/images/testimonials/daniel_bourke.jpeg)
+**Daniel Bourke** [ ](https://twitter.com/mrdbourke/status/1409737996455141388)
+Founder - Mrdbourke
+"Built some machine learning models? Want to take them to the next level? I do. And I’m using [@madewithml](https://twitter.com/MadeWithML) to learn how. Outstanding MLOps lessons!"
+![profile](https://madewithml.com/static/images/testimonials/dmitry_petrov.png)
+**Dmitry Petrov** [ ](https://twitter.com/FullStackML/status/1316077799652749313)
+Co-Founder, CEO - DVC
+"This is not a usual ML class, it covers productionalization part of ML projects - the most important part from a business point of view."
+![profile](https://madewithml.com/static/images/testimonials/lawrence_okegbemi.jpeg)
+**Lawrence Okegbemi** [ ](https://www.linkedin.com/feed/update/urn:li:activity:6815254111030792192?commentUrn=urn%3Ali%3Acomment%3A%28activity%3A6815254111030792192%2C6815256765584678912%29)
+ML Engineer - Enterscale
+"Following all through, it's really amazing to see how you demonstrated best practices in building an ML driven application."
+![profile](https://madewithml.com/static/images/testimonials/laxman_tomar.jpeg)
+**Laxman Tomar** [ ](https://twitter.com/LaxmanSTomar/status/1409522738880860174)
+ML Engineer - Robofied
+"The best MLOps resource that I've come across on the web. Goes over whys, hows, tradeoffs, tools & their alternatives via high-quality explanations and code."
+![profile](https://madewithml.com/static/images/testimonials/satyabrata_pal.jpeg)
+**Satyabrata Pal** [ ](https://twitter.com/TheCodingProjec/status/1381259115901558784)
+Julia Community
+"Completely sold out on the clean code and detailed writeup. This is one of the few ML courses which doesn't stop on just training a model but goes beyond."
+[ ‹ ](https://madewithml.com/#testimonials) [ › ](https://madewithml.com/#testimonials)
+Upcoming live cohorts
+Sign up for our upcoming live cohort, where we'll provide **live lessons + QA** , **compute (GPUs)** and **community** to learn everything in one day. 
+Learn more 
+## Frequently Asked Questions (FAQ)
+##### Who is this course for?
+Machine learning is **not a separate industry** , instead, it's a powerful **way of thinking** about data that's not reserved for any one type of person. 
+  * **All developers** Whether software engineer or data scientist, ML is increaingly becoming a key part of the products that you'll be developing.
+  * **College graduates** Learn the practical skills required for industry and bridge gap between the university curriculum and what industry expects.
+  * **Product / Leadesrhip** who want to develop a technical foundation so that they can build amazing (and reliable) products powered by machine learning.
+
+
+##### What are the prerequisites?
+You should know how to code in Python and the basics of machine learning.
+  * currently working with ML in industry or academia
+  * Python ([basics](https://madewithml.com/courses/foundations/python), [NumPy](https://madewithml.com/courses/foundations/numpy), [Pandas](https://madewithml.com/courses/foundations/pandas))
+  * ML / deep learning basics ([logistic regression](https://madewithml.com/courses/foundations/logistic-regression), [PyTorch](https://madewithml.com/courses/foundations/pytorch), etc.)
+
+
+##### Why should I take this course now?
+Machine learning is increasingly becoming a key part of many products and so companies are looking for people with deeper knowledge on not only modeling, but how to operationalize it (MLOps). It's a major advantage to understand the fundamentals of this field at this nascent stage so you can responsibly design, develop, deploy and iterate on production ML applications as a foundational developer in your respective industry. 
+##### What is the time commitment?
+You can go through the lessons at your pace or [sign up](https://4190urw86oh.typeform.com/madewithml) for our upcoming live cohort where we'll provide live lessons, QA, compute (GPUs) and community to learn everything in one day. 
+##### What happens after the course?
+After the course, you'll have access to our private community where you can connect with alumni and meet future cohort members as well. You can continue to ask questions about the topics (especially as new tools enter the market), get feedback on your work, etc. 
+##### Is this course fully remote?
+When you sign up for the course, you'll have the choice of attending remotely or at one of our in-person weekend sessions near you. 
+If you have additional questions, send us an email and we'll get back to you very soon. 
+To cite this content, please use:
+```
+1
+2
+3
+4
+5
+6
+```
+| ```
+@article{madewithml,
+author={Goku Mohandas},
+title={ Home - Made With ML },
+howpublished={\url{https://madewithml.com/}},
+year={2023}
+}
+
+```
+  
+---|---  
+[![](https://madewithml.com/static/images/anyscale-white-text.svg)](https://www.anyscale.com?utm_source=madewithmml&utm_medium=website&utm_campaign=footer) © 2025 Anyscale, Inc. [Anyscale Privacy Policy](https://www.anyscale.com/privacy-policy)
+Made with [ Material for MkDocs ](https://squidfunk.github.io/mkdocs-material/)
+[ ](https://twitter.com/GokuMohandas "twitter.com") [ ](https://linkedin.com/in/goku "linkedin.com") [ ](https://github.com/GokuMohandas "github.com") [ ](https://www.youtube.com/madewithml?sub_confirmation=1 "www.youtube.com")

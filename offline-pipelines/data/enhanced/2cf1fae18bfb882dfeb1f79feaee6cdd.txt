@@ -1,0 +1,210 @@
+•
+NaN / NaN
+Back  [ ](https://www.youtube.com/ "YouTube Home")
+Skip navigation
+Search 
+Search with your voice 
+[Sign in](https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fwatch%253Fv%253DhmkF77F9TLw%25252F&hl=en&ec=65620)
+[ ](https://www.youtube.com/ "YouTube Home")
+Give your team a platform they’ll love, so they can achieve more every day
+Search
+Watch later
+Share
+Copy link
+Info
+Shopping
+Tap to unmute
+2x
+If playback doesn't begin shortly, try restarting your device.
+•
+Share
+Include playlist
+An error occurred while retrieving sharing information. Please try again later.
+0:00
+0:00 / 1:12•Watch full videoLive
+•
+•
+Scroll for details
+#  Microservice Architecture and System Design with Python & Kubernetes – Full Course
+[![](https://yt3.ggpht.com/ytc/AIdro_lGRc-05M2OoE1ejQdxeFhyP7OkJg9h4Y-7CK_5je3QqFI=s48-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/@freecodecamp)
+[freeCodeCamp.org](https://www.youtube.com/@freecodecamp)
+freeCodeCamp.org 
+10.6M subscribers
+Join
+<__slot-el>
+Subscribe
+<__slot-el>
+Subscribed
+12K
+Share
+Download
+Download 
+Save
+500K views2 years ago[Back End Developer Learning Path](https://www.youtube.com/playlist?list=PLWKjhJtqVAbn21gs5UnLhCQ82f923WCgM)
+500,154 views • Nov 8, 2022 • Back End Developer Learning Path 
+Show less 
+Learn about software system design and microservices. This course is a hands-on approach to learning about microservice architectures and distributed systems using Python, Kubernetes, RabbitMQ, MongoDB, mySQL.…...more 
+...more 
+## 
+Chapters
+View all
+#### [Intro Intro 0:00 ](https://www.youtube.com/watch?v=hmkF77F9TLw)
+#### [Intro ](https://www.youtube.com/watch?v=hmkF77F9TLw)
+0:00
+#### [Overview Overview 1:02 ](https://www.youtube.com/watch?v=hmkF77F9TLw&t=62s)
+#### [Overview ](https://www.youtube.com/watch?v=hmkF77F9TLw&t=62s)
+1:02
+#### [Installation & Setup? Installation & Setup? 2:47 ](https://www.youtube.com/watch?v=hmkF77F9TLw&t=167s)
+#### [Installation & Setup? ](https://www.youtube.com/watch?v=hmkF77F9TLw&t=167s)
+2:47
+#### [Auth Service Code Auth Service Code 10:16 ](https://www.youtube.com/watch?v=hmkF77F9TLw&t=616s)
+#### [Auth Service Code ](https://www.youtube.com/watch?v=hmkF77F9TLw&t=616s)
+10:16
+Explore this course
+[ 18 lessons ](https://www.youtube.com/playlist?list=PLWKjhJtqVAbn21gs5UnLhCQ82f923WCgM)
+Back End Developer Learning Path
+freeCodeCamp.org
+### Course progress
+0 of 18 lessons complete
+Transcript
+Follow along using the transcript.
+Show transcript
+### [freeCodeCamp.org 10.6M subscribers  ](https://www.youtube.com/@freecodecamp)
+[Videos](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ/videos)
+[About](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ/about)
+[Videos](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ/videos)[About](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ/about)
+Show less 
+[](https://www.youtube.com/playlist?list=PLWKjhJtqVAbn21gs5UnLhCQ82f923WCgM)[Back End Developer Learning Path](https://www.youtube.com/playlist?list=PLWKjhJtqVAbn21gs5UnLhCQ82f923WCgM)
+# Microservice Architecture and System Design with Python & Kubernetes – Full Course
+500,154 views500K views
+Nov 8, 2022
+12K
+Share
+Download
+Download 
+Save
+Shop the freeCodeCamp.org store
+##  Comments 364
+Top comments  Newest first 
+##  Chapters
+#### [Intro Intro 0:00 ](https://www.youtube.com/watch?v=hmkF77F9TLw&pp=0gcJCcwCDuyUWbzu)
+#### [Intro ](https://www.youtube.com/watch?v=hmkF77F9TLw&pp=0gcJCcwCDuyUWbzu)
+0:00
+#### [Overview Overview 1:02 ](https://www.youtube.com/watch?v=hmkF77F9TLw&t=62s)
+#### [Overview ](https://www.youtube.com/watch?v=hmkF77F9TLw&t=62s)
+1:02
+#### [Installation & Setup? Installation & Setup? 2:47 ](https://www.youtube.com/watch?v=hmkF77F9TLw&t=167s&pp=0gcJCcwCDuyUWbzu)
+#### [Installation & Setup? ](https://www.youtube.com/watch?v=hmkF77F9TLw&t=167s&pp=0gcJCcwCDuyUWbzu)
+2:47
+#### [Auth Service Code Auth Service Code 10:16 ](https://www.youtube.com/watch?v=hmkF77F9TLw&t=616s)
+#### [Auth Service Code ](https://www.youtube.com/watch?v=hmkF77F9TLw&t=616s)
+10:16
+#### [Auth Flow Overview & JWTs Auth Flow Overview & JWTs 32:25 ](https://www.youtube.com/watch?v=hmkF77F9TLw&t=1945s)
+#### [Auth Flow Overview & JWTs ](https://www.youtube.com/watch?v=hmkF77F9TLw&t=1945s)
+32:25
+#### [Auth Service Deployment Auth Service Deployment 53:04 ](https://www.youtube.com/watch?v=hmkF77F9TLw&t=3184s)
+#### [Auth Service Deployment ](https://www.youtube.com/watch?v=hmkF77F9TLw&t=3184s)
+53:04
+#### [Auth Dockerfile Auth Dockerfile 56:08 ](https://www.youtube.com/watch?v=hmkF77F9TLw&t=3368s)
+#### [Auth Dockerfile ](https://www.youtube.com/watch?v=hmkF77F9TLw&t=3368s)
+56:08
+#### [Kubernetes Kubernetes 1:20:05 ](https://www.youtube.com/watch?v=hmkF77F9TLw&t=4805s)
+#### [Kubernetes ](https://www.youtube.com/watch?v=hmkF77F9TLw&t=4805s)
+1:20:05
+#### [Gateway Service Code Gateway Service Code 1:37:26 ](https://www.youtube.com/watch?v=hmkF77F9TLw&t=5846s)
+#### [Gateway Service Code ](https://www.youtube.com/watch?v=hmkF77F9TLw&t=5846s)
+1:37:26
+#### [MongoDB & GridFs MongoDB & GridFs 1:42:34 ](https://www.youtube.com/watch?v=hmkF77F9TLw&t=6154s)
+#### [MongoDB & GridFs ](https://www.youtube.com/watch?v=hmkF77F9TLw&t=6154s)
+1:42:34
+#### [Architecture Overview (RabbitMQ) Architecture Overview (RabbitMQ) 1:47:04 ](https://www.youtube.com/watch?v=hmkF77F9TLw&t=6424s)
+#### [Architecture Overview (RabbitMQ) ](https://www.youtube.com/watch?v=hmkF77F9TLw&t=6424s)
+1:47:04
+#### [Synchronous Interservice Communication Synchronous Interservice Communication 1:49:50 ](https://www.youtube.com/watch?v=hmkF77F9TLw&t=6590s)
+#### [Synchronous Interservice Communication ](https://www.youtube.com/watch?v=hmkF77F9TLw&t=6590s)
+1:49:50
+#### [Asynchronous Interservice Communication Asynchronous Interservice Communication 1:50:49 ](https://www.youtube.com/watch?v=hmkF77F9TLw&t=6649s)
+#### [Asynchronous Interservice Communication ](https://www.youtube.com/watch?v=hmkF77F9TLw&t=6649s)
+1:50:49
+#### [Strong Consistency Strong Consistency 1:53:19 ](https://www.youtube.com/watch?v=hmkF77F9TLw&t=6799s)
+#### [Strong Consistency ](https://www.youtube.com/watch?v=hmkF77F9TLw&t=6799s)
+1:53:19
+#### [Eventual Consistency Eventual Consistency 1:54:07 ](https://www.youtube.com/watch?v=hmkF77F9TLw&t=6847s)
+#### [Eventual Consistency ](https://www.youtube.com/watch?v=hmkF77F9TLw&t=6847s)
+1:54:07
+#### [RabbitMQ RabbitMQ 2:19:16 ](https://www.youtube.com/watch?v=hmkF77F9TLw&t=8356s)
+#### [RabbitMQ ](https://www.youtube.com/watch?v=hmkF77F9TLw&t=8356s)
+2:19:16
+#### [Gateway Service Deployment Gateway Service Deployment 2:21:16 ](https://www.youtube.com/watch?v=hmkF77F9TLw&t=8476s)
+#### [Gateway Service Deployment ](https://www.youtube.com/watch?v=hmkF77F9TLw&t=8476s)
+2:21:16
+#### [Kubernetes Ingress Kubernetes Ingress 2:35:34 ](https://www.youtube.com/watch?v=hmkF77F9TLw&t=9334s)
+#### [Kubernetes Ingress ](https://www.youtube.com/watch?v=hmkF77F9TLw&t=9334s)
+2:35:34
+#### [Kubernetes StatefulSet Kubernetes StatefulSet 2:46:28 ](https://www.youtube.com/watch?v=hmkF77F9TLw&t=9988s&pp=0gcJCcwCDuyUWbzu)
+#### [Kubernetes StatefulSet ](https://www.youtube.com/watch?v=hmkF77F9TLw&t=9988s&pp=0gcJCcwCDuyUWbzu)
+2:46:28
+#### [RabbitMQ Deployment RabbitMQ Deployment 2:51:18 ](https://www.youtube.com/watch?v=hmkF77F9TLw&t=10278s)
+#### [RabbitMQ Deployment ](https://www.youtube.com/watch?v=hmkF77F9TLw&t=10278s)
+2:51:18
+#### [Converter Service Code Converter Service Code 3:09:35 ](https://www.youtube.com/watch?v=hmkF77F9TLw&t=11375s)
+#### [Converter Service Code ](https://www.youtube.com/watch?v=hmkF77F9TLw&t=11375s)
+3:09:35
+#### [Converter Service Deployment Converter Service Deployment 3:33:43 ](https://www.youtube.com/watch?v=hmkF77F9TLw&t=12823s)
+#### [Converter Service Deployment ](https://www.youtube.com/watch?v=hmkF77F9TLw&t=12823s)
+3:33:43
+#### [Checkpoint Checkpoint 4:21:09 ](https://www.youtube.com/watch?v=hmkF77F9TLw&t=15669s)
+#### [Checkpoint ](https://www.youtube.com/watch?v=hmkF77F9TLw&t=15669s)
+4:21:09
+#### [Update Gateway Service Update Gateway Service 4:22:11 ](https://www.youtube.com/watch?v=hmkF77F9TLw&t=15731s)
+#### [Update Gateway Service ](https://www.youtube.com/watch?v=hmkF77F9TLw&t=15731s)
+4:22:11
+#### [Notification Service Code Notification Service Code 4:31:46 ](https://www.youtube.com/watch?v=hmkF77F9TLw&t=16306s)
+#### [Notification Service Code ](https://www.youtube.com/watch?v=hmkF77F9TLw&t=16306s)
+4:31:46
+#### [Notification Service Deployment Notification Service Deployment 4:43:24 ](https://www.youtube.com/watch?v=hmkF77F9TLw&t=17004s)
+#### [Notification Service Deployment ](https://www.youtube.com/watch?v=hmkF77F9TLw&t=17004s)
+4:43:24
+#### [Sanity Check Sanity Check 4:51:55 ](https://www.youtube.com/watch?v=hmkF77F9TLw&t=17515s)
+#### [Sanity Check ](https://www.youtube.com/watch?v=hmkF77F9TLw&t=17515s)
+4:51:55
+Sync to video time 
+Sync to video time
+##  Products
+freeCodeCamp.org tagged products below.Learn more
+Men's T-shirt Black Lfreecodecamp$20.00View
+Women's T-shirt Black Mfreecodecamp$20.00View
+##  Description
+Microservice Architecture and System Design with Python & Kubernetes – Full Course
+12KLikes
+500,154Views
+2022Nov 8
+Learn about software system design and microservices. This course is a hands-on approach to learning about microservice architectures and distributed systems using Python, Kubernetes, RabbitMQ, MongoDB, mySQL. ✏️ Course from Kantan Coding. Check out his channel: [ / @kantancoding ](https://www.youtube.com/channel/UC5UgemAz061hkjTFHOfxNpg) 🔗 Twitter: [ / kantancoding ](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbWFZWlFxQjVxR3ZfbDdLUmVfdG4zemtpQmZ1QXxBQ3Jtc0trTDZ5Qm1Ea1MydDdkY29JRUFVbnBZU2h2QTFWU0VFd2MwQUdLQXo3c09md1JBQ1FObjlDNXNZdWVtRTRET05SSHBqa1ozMEpfMjhpQXhxT3dDVjhEMGFNR1p4d0JWcTNBNUNPTXpCRWFmdlpaNEFUWQ&q=https%3A%2F%2Ftwitter.com%2Fkantancoding&v=hmkF77F9TLw) 🔗 Instagram: [ / kantancoding ](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqazlubUdtOUJvUXpxY1BOblBSQlpzSmg1UkFjUXxBQ3Jtc0ttQ0Z5RFI5WUUwODRWU2M3eHo0b1FLWUJnN01NX3d2MGtFTktVaVVzN1h1cWwwWFI0WkZKRkFNRmVFV2xJTS1Pcm9VQWJZUGVIQnU1WHNmYS1xaFllOW5nWXY5eENtc0ZvV0l1dUcyZWx0dGJjeW1DRQ&q=https%3A%2F%2Fwww.instagram.com%2Fkantancoding&v=hmkF77F9TLw) 💻 Code: [https://github.com/selikapro/microser...](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqazMzOVNTZmt0TDVLT1pjUHBsOTJ6N0lncWhxZ3xBQ3Jtc0ttOEt1bHpZWkYybXlSb2R1LXJSQU41NVg4OWktQ2ladXBTVVFCSEpLU0dYN041VE5lZHg2NVAyLW9fazZMNVBQN2hIUUJYb09BcEdDeTFHOGRJNmtQdXNBdHZHakxCak9BN3l4bVhxZnc4RnNZNE5ZYw&q=https%3A%2F%2Fgithub.com%2Fselikapro%2Fmicroservices-python&v=hmkF77F9TLw) Kubernetes API Reference: [https://kubernetes.io/docs/reference/...](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa05XSE1HMllPem55MGktRklaN1J2UHROWlJMQXxBQ3Jtc0trWkYySE01cFo0UkFscHM5MmpMT0xaTEVsZVpMLVJsMU9BOFNpZzJKdzgyd2ZyYUR2b1AyVmFlTEQ0M3o1YmsyU24teUM0T0hzcTQwbzF4U1pINUoxcUtMbEIxV3lzTjN1bUZzcFhOaDZlbzlUWEhicw&q=https%3A%2F%2Fkubernetes.io%2Fdocs%2Freference%2Fkubernetes-api%2F&v=hmkF77F9TLw) ❤️ Try interactive Python courses we love, right in your browser: [https://scrimba.com/freeCodeCamp-Python](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa3otN0JDSlVfang3ZVdtcDhqTjYtRzVhX3Fjd3xBQ3Jtc0ttZHpiRnpBV3ItY09jbHlOaVpfVlZRbHRnQWk1amtGcXZJdnBXMno3N2tPMUhrbjdKRDluLWJMVElDZmVmOW1YbFB2am4wVERBcVhDT19kR0M3YmFVRmJQX1haWUUwZXBxRFpZd0dFYjc2ODVDR0NHUQ&q=https%3A%2F%2Fscrimba.com%2FfreeCodeCamp-Python&v=hmkF77F9TLw) (Made possible by a grant from our friends at Scrimba) ⭐️ Contents ⭐️ ([0:00:00](https://www.youtube.com/watch?v=hmkF77F9TLw)) Intro ([0:01:02](https://www.youtube.com/watch?v=hmkF77F9TLw&t=62s)) Overview ([0:02:47](https://www.youtube.com/watch?v=hmkF77F9TLw&t=167s)) Installation & Setup? ([0:10:16](https://www.youtube.com/watch?v=hmkF77F9TLw&t=616s)) Auth Service Code ([0:32:25](https://www.youtube.com/watch?v=hmkF77F9TLw&t=1945s)) Auth Flow Overview & JWTs ([0:53:04](https://www.youtube.com/watch?v=hmkF77F9TLw&t=3184s)) Auth Service Deployment ([0:56:08](https://www.youtube.com/watch?v=hmkF77F9TLw&t=3368s)) Auth Dockerfile ([1:20:05](https://www.youtube.com/watch?v=hmkF77F9TLw&t=4805s)) Kubernetes ([1:37:26](https://www.youtube.com/watch?v=hmkF77F9TLw&t=5846s)) Gateway Service Code ([1:42:34](https://www.youtube.com/watch?v=hmkF77F9TLw&t=6154s)) MongoDB & GridFs ([1:47:04](https://www.youtube.com/watch?v=hmkF77F9TLw&t=6424s)) Architecture Overview (RabbitMQ) ([1:49:50](https://www.youtube.com/watch?v=hmkF77F9TLw&t=6590s)) Synchronous Interservice Communication ([1:50:49](https://www.youtube.com/watch?v=hmkF77F9TLw&t=6649s)) Asynchronous Interservice Communication ([1:53:19](https://www.youtube.com/watch?v=hmkF77F9TLw&t=6799s)) Strong Consistency ([1:54:07](https://www.youtube.com/watch?v=hmkF77F9TLw&t=6847s)) Eventual Consistency ([2:19:16](https://www.youtube.com/watch?v=hmkF77F9TLw&t=8356s)) RabbitMQ ([2:21:16](https://www.youtube.com/watch?v=hmkF77F9TLw&t=8476s)) Gateway Service Deployment ([2:35:34](https://www.youtube.com/watch?v=hmkF77F9TLw&t=9334s)) Kubernetes Ingress ([2:46:28](https://www.youtube.com/watch?v=hmkF77F9TLw&t=9988s)) Kubernetes StatefulSet ([2:51:18](https://www.youtube.com/watch?v=hmkF77F9TLw&t=10278s)) RabbitMQ Deployment ([3:09:35](https://www.youtube.com/watch?v=hmkF77F9TLw&t=11375s)) Converter Service Code ([3:33:43](https://www.youtube.com/watch?v=hmkF77F9TLw&t=12823s)) Converter Service Deployment ([4:21:09](https://www.youtube.com/watch?v=hmkF77F9TLw&t=15669s)) Checkpoint ([4:22:11](https://www.youtube.com/watch?v=hmkF77F9TLw&t=15731s)) Update Gateway Service ([4:31:46](https://www.youtube.com/watch?v=hmkF77F9TLw&t=16306s)) Notification Service Code ([4:43:24](https://www.youtube.com/watch?v=hmkF77F9TLw&t=17004s)) Notification Service Deployment ([4:51:55](https://www.youtube.com/watch?v=hmkF77F9TLw&t=17515s)) Sanity Check (5:05:54) End ⭐️ References ⭐️ [https://www.mongodb.com/docs/](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbGhCV1BpYmVGQ1NraVBWdjROMnJUeXU0ZU5rQXxBQ3Jtc0tsUkhLSjQ1eXROQzBxYzJpU2R0Q2xiWHFDbkhmb3U3Z3RrVzQ2SVM1MXJkOVZVSzVxazA4ZWt2Y09DYTdrQ19FV2U5QWlOVnp2cWRPRjh0bWVxSXVTd0ctdDdIYnF0RzE2dThpbzQtdXg1VVpVWFVnMA&q=https%3A%2F%2Fwww.mongodb.com%2Fdocs%2F&v=hmkF77F9TLw)[https://www.rabbitmq.com/documentatio...](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbEJleW5MQlJ1OGk2dTdqaGxLRGFRQ1UtYXBqZ3xBQ3Jtc0tuanRqYXBoME1iMHU4OFAwNXJYZGVvLVJOQmFyVDBERGdlOUlVVVVFNjNkYjRXR2sxMmlUc0pDaWJWWWVWcjNQeGdQX0tobm1zWE9SQnFvdXdpOW5UZ3ZnZnQ2THlnVUNXWU1NZk9jZ2lEUFNuYlZPYw&q=https%3A%2F%2Fwww.rabbitmq.com%2Fdocumentation.html&v=hmkF77F9TLw)[https://docs.microsoft.com/en-us/azur...](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbllreHNTd1otVlF1MklQTWUyQTdGX0FIMFNfQXxBQ3Jtc0tsU0RWVnhOSXFka0xhdmxUYlRDdDdvMllUQTV6LXV6Y3otc2dETHdlUUZKY1ZSdHo1bmRKM3JPOWtWa0pBWnhUZ000aTVoRGhqTlQxclZjdzVrMzhPWHJEZGh0SEpqNzBtN1JidGZ3Tk9sRnZNbHIycw&q=https%3A%2F%2Fdocs.microsoft.com%2Fen-us%2Fazure%2Farchitecture%2Fpatterns%2Fcompeting-consumers&v=hmkF77F9TLw)[https://docs.microsoft.com/en-us/azur...](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbE9zbU90YlhPNUU0TXdkd3FvdUVOVkpXWHNvUXxBQ3Jtc0tuUjRoYlgxd284dXloY1pmTWoxYUIwQlR0Q0QyLUZoSklpZnI1amQ1S2tyTldndGFwUktTOUw4Ym1hbGdpMnZCS0MzZXdnNG1rWE94Q250OWpSdE5EZWZwdGpwd0V6LUczVUNEei02VWhaenVnaDUtcw&q=https%3A%2F%2Fdocs.microsoft.com%2Fen-us%2Fazure%2Farchitecture%2Fmicroservices%2Fdesign%2Finterservice-communication&v=hmkF77F9TLw)[https://cloud.google.com/datastore/do...](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbFh0QldtU0xTUmtOcHJDNHU1dTd0Zmt4TWVCQXxBQ3Jtc0ttaHVVQTVQWVhUUWxpNmdraUZVTXdlQ3JhSzdXNHVpRVhQaXNCcm1zUFVJb1poa2tzejFiZzkwZzlSdDdYTXd1V25YV05sNWtQUkw5NlpCNDZndGpZQ0JuVFowRXhackJveGdWUG5UUUJOa3k2dFYxYw&q=https%3A%2F%2Fcloud.google.com%2Fdatastore%2Fdocs%2Farticles%2Fbalancing-strong-and-eventual-consistency-with-google-cloud-datastore&v=hmkF77F9TLw) 🎉 Thanks to our Champion and Sponsor supporters: 👾 Nattira Maneerat 👾 Heather Wcislo 👾 Serhiy Kalinets 👾 Erdeniz Unvan 👾 Justin Hual 👾 Agustín Kussrow 👾 Otis Morgan -- Learn to code for free and get a developer job: [https://www.freecodecamp.org](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbHRlRmM5QVE4NEZwNkNDenNLc3hNUFpENXBxd3xBQ3Jtc0tuRFdqeHFtZ2ZGcmRTNkxqeUxtTEFUSm5kNTY1RHNNTHZKbEJia2ZTX2F1Vkt4R3FaVDgyWHc0Mk15Q005U3BSYlRtRUNKUUNLaVJrY1pqczZOVFg5WUJCLVZVU3RzWEJnTFhNY2dTX243WjJXMFFHaw&q=https%3A%2F%2Fwww.freecodecamp.org%2F&v=hmkF77F9TLw) Read hundreds of articles on programming: [https://freecodecamp.org/news](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbWlhR0ppWUNiYnhqeG9kaWZoT3RtNExfNTBHZ3xBQ3Jtc0ttaTFud2ZGVlF4T19zT2R4eTByWDdQNkZySTFsMFUzbGFPdzlhakZocmtMWk1FRWVZRjNjLUo5Q0dLajFBQmlIZ2g1ejlYb2JDS0FTWUl4TUE5R0YyNUdiS3RDTDRFS3hoVUQ3YWs2elhHNjZvODNiQQ&q=https%3A%2F%2Ffreecodecamp.org%2Fnews&v=hmkF77F9TLw)…...more 
+...more Show less 
+## 
+Chapters
+View all
+Explore this course
+[ 18 lessons ](https://www.youtube.com/playlist?list=PLWKjhJtqVAbn21gs5UnLhCQ82f923WCgM)
+Back End Developer Learning Path
+freeCodeCamp.org
+### Course progress
+0 of 18 lessons complete
+Transcript
+Follow along using the transcript.
+Show transcript
+### [freeCodeCamp.org 10.6M subscribers  ](https://www.youtube.com/@freecodecamp)
+[Videos](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ/videos)
+[About](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ/about)
+[Videos](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ/videos)[About](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ/about)
+##  Transcript
+NaN / NaN
+![](https://lh6.googleusercontent.com/proxy/62_vCK564pSyAPDZu-PhrUAk2QZLRfcW2Y1NRbUQeyZz1turEHHtINJH7awAdvLFOKKeweGHUOJzPioXNTsrVFgbayxFsB4Hf_qV3t7gSamJZ_ep1OSU6a05nWeQRwCFSTs)
+[12 Week Data Science Course](https://www.googleadservices.com/pagead/aclk?sa=L&ai=C9Uu6nYLpZ_j9DK6Grr4PvIvgwAj2qaiZfoT2y8itE7CQHxABIABgybaGh8yjwBeCARdjYS1wdWItNjIxOTgxMTc0NzA0OTM3MaABusCI0QKoAwTIAwqqBN8CT9C7nmbP8sKApRUYcakJLoHbQpWQJwE61bu9TkOTn8YyxCgWnkDE4JwtrK3btjfJVUgd_vJvmayvDRXB-9e3MXN72JmwxadcpkgFx8SyfsmSNLg4rBjB90pfHa7WoQF-84iaNNnZaZosJuvan1_3JgHZlpyUi-6GkZ3xnxQPlC9v0KrXpvaCRRDD7FDfJOitpfKx-5PrBGuEiIZlR5-AMvx0Z9MOxaf-j9VQRXdfdu2ROsxwN3-914t9fqA3e2bZY_6VbLdNIgABhXGz6Ynmv2mtTOTpYo_eohepaGKB8GlhsuSsgdKTel0rLnqjYsFYu2z2haDDMK1AbuF-CUDrIZ-S7Cye9rZCJmp6tkIwLAdkS22_oqjPnK3SBVskb8jeqEhMIRJ7QY5E60P5M1b3_WjQu2T1RO7DH6jNkjou0nqpELTJ7BjhKlfzBgu_lqjB6IW4ItGvHl81nWGXED2ekgUKCBNoAnjx7Nn_AaAGboAH59Xr3QGQBwSoB_mxsQKoB4C6sQKoB_LAsQKoB7jEsQKoB6XPsQKoB73NsQKoB-edsQKoB-idsQKoB--1sQKoB_C1sQKoB4KqsQKoB4QIqAeo0huoB7YHqAex3BuoB7CbsQKoB66xsQKoB-a8sQKoB8q6sQKoB_zLsQKoB_2ysQKoB_e4sQKoB_i4sQKoB83HsQKoB6XMsQKoB4HGG6gH_K-xAqgHq8UbqAe3obECqAfVqbECqAfetbECqAfqsbECqAe-t7ECqAeZtbECqAeFwbECqAfrpbECqAfKqbEC0gguCIjBgEAQARheMgODggE6DoDCgIBAgMCAgICAgIACSNmg0jVQFFiwzYyqrbKMA_IIH2NhLXl0LWhvc3QtcHViLTk0ODI3ODYzNjkxMTM3NTOaCUlodHRwczovL3Byb2Zlc3Npb25hbC1lZHVjYXRpb24tZ2wubWl0LmVkdS9taXQtYXBwbGllZC1kYXRhLXNjaWVuY2UtY291cnNlsQkUj8KKZhsOOsgJAMgJigKYCwGhC-O2ci4wD2tsugs5CAEQBRgEIAgoATAaQAFIAFABWAFgAGgAcAGIAQCYAQGiAQoKABgBqAIB2AICqAEB2AEBgAIBiAIG0AsS2gwmCgsQsL6eupK0p_OTARICAQMaDRjAvdPFUSDF-77j-QRAAUoCEB-aDQESoA0Bqg0CVVPIDQHSDaICaHR0cHM6Ly9wcm9mZXNzaW9uYWwtZWR1Y2F0aW9uLWdsLm1pdC5lZHUvbWl0LWFwcGxpZWQtZGF0YS1zY2llbmNlLWNvdXJzZT8mdXRtX3NvdXJjZT1nb29nbGUmdXRtX21lZGl1bT1kaXNjb3ZlcnkmdXRtX2NhbXBhaWduPUFEU1BfSW50X0Rpc2NvdmVyeV9Jbl9NYXJrZXRfSGlnaF9JbnRlbnRfVVNfRGVza3RvcCZjYW1wYWlnbl9pZD0yMTg4OTM0MzE2OCZhZGdyb3VwX2lkPTE3MDEyODI5MzMxNyZhZF9pZD03MjA0MzU1NTM4MzAmdXRtX3RhcmdldD0mS2V5d29yZD0mcGxhY2VtZW50PSZnYWRfc291cmNlPTK4E____________wGIFAKwFAHAFYGAgEDQFQHYFQGYFgHiFgIIAYAXAYoXFggDGAEgASgBMAE4AUABSAFQAVgBYAKgFwGpF7t9YDZhyz78uhcGKAAwADgB0BgB8BgB&ase=2&gclid=EAIaIQobChMIuMCNqq2yjAMVLoPLAR28BRiIEAEYASAAEgLWevD_BwE&num=1&cid=CAASFeRoNX8L2Lwd7g0DPgyN7ecEqJcG4Q&sig=AOD64_2j8iA-cFJpackbtz1nuC7EjvXG0Q&ms=%5BCLICK_MS%5D&nb=0&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D)[Learn Machine Learning, Deep Learning, NLP and earn a certificate on completion.](https://www.googleadservices.com/pagead/aclk?sa=L&ai=C9Uu6nYLpZ_j9DK6Grr4PvIvgwAj2qaiZfoT2y8itE7CQHxABIABgybaGh8yjwBeCARdjYS1wdWItNjIxOTgxMTc0NzA0OTM3MaABusCI0QKoAwTIAwqqBN8CT9C7nmbP8sKApRUYcakJLoHbQpWQJwE61bu9TkOTn8YyxCgWnkDE4JwtrK3btjfJVUgd_vJvmayvDRXB-9e3MXN72JmwxadcpkgFx8SyfsmSNLg4rBjB90pfHa7WoQF-84iaNNnZaZosJuvan1_3JgHZlpyUi-6GkZ3xnxQPlC9v0KrXpvaCRRDD7FDfJOitpfKx-5PrBGuEiIZlR5-AMvx0Z9MOxaf-j9VQRXdfdu2ROsxwN3-914t9fqA3e2bZY_6VbLdNIgABhXGz6Ynmv2mtTOTpYo_eohepaGKB8GlhsuSsgdKTel0rLnqjYsFYu2z2haDDMK1AbuF-CUDrIZ-S7Cye9rZCJmp6tkIwLAdkS22_oqjPnK3SBVskb8jeqEhMIRJ7QY5E60P5M1b3_WjQu2T1RO7DH6jNkjou0nqpELTJ7BjhKlfzBgu_lqjB6IW4ItGvHl81nWGXED2ekgUKCBNoAnjx7Nn_AaAGboAH59Xr3QGQBwSoB_mxsQKoB4C6sQKoB_LAsQKoB7jEsQKoB6XPsQKoB73NsQKoB-edsQKoB-idsQKoB--1sQKoB_C1sQKoB4KqsQKoB4QIqAeo0huoB7YHqAex3BuoB7CbsQKoB66xsQKoB-a8sQKoB8q6sQKoB_zLsQKoB_2ysQKoB_e4sQKoB_i4sQKoB83HsQKoB6XMsQKoB4HGG6gH_K-xAqgHq8UbqAe3obECqAfVqbECqAfetbECqAfqsbECqAe-t7ECqAeZtbECqAeFwbECqAfrpbECqAfKqbEC0gguCIjBgEAQARheMgODggE6DoDCgIBAgMCAgICAgIACSNmg0jVQFFiwzYyqrbKMA_IIH2NhLXl0LWhvc3QtcHViLTk0ODI3ODYzNjkxMTM3NTOaCUlodHRwczovL3Byb2Zlc3Npb25hbC1lZHVjYXRpb24tZ2wubWl0LmVkdS9taXQtYXBwbGllZC1kYXRhLXNjaWVuY2UtY291cnNlsQkUj8KKZhsOOsgJAMgJigKYCwGhC-O2ci4wD2tsugs5CAEQBRgEIAgoATAaQAFIAFABWAFgAGgAcAGIAQCYAQGiAQoKABgBqAIB2AICqAEB2AEBgAIBiAIG0AsS2gwmCgsQsL6eupK0p_OTARICAQMaDRjAvdPFUSDF-77j-QRAAUoCEB-aDQESoA0Bqg0CVVPIDQHSDaICaHR0cHM6Ly9wcm9mZXNzaW9uYWwtZWR1Y2F0aW9uLWdsLm1pdC5lZHUvbWl0LWFwcGxpZWQtZGF0YS1zY2llbmNlLWNvdXJzZT8mdXRtX3NvdXJjZT1nb29nbGUmdXRtX21lZGl1bT1kaXNjb3ZlcnkmdXRtX2NhbXBhaWduPUFEU1BfSW50X0Rpc2NvdmVyeV9Jbl9NYXJrZXRfSGlnaF9JbnRlbnRfVVNfRGVza3RvcCZjYW1wYWlnbl9pZD0yMTg4OTM0MzE2OCZhZGdyb3VwX2lkPTE3MDEyODI5MzMxNyZhZF9pZD03MjA0MzU1NTM4MzAmdXRtX3RhcmdldD0mS2V5d29yZD0mcGxhY2VtZW50PSZnYWRfc291cmNlPTK4E____________wGIFAKwFAHAFYGAgEDQFQHYFQGYFgHiFgIIAYAXAYoXFggDGAEgASgBMAE4AUABSAFQAVgBYAKgFwGpF7t9YDZhyz78uhcGKAAwADgB0BgB8BgB&ase=2&gclid=EAIaIQobChMIuMCNqq2yjAMVLoPLAR28BRiIEAEYASAAEgLWevD_BwE&num=1&cid=CAASFeRoNX8L2Lwd7g0DPgyN7ecEqJcG4Q&sig=AOD64_2j8iA-cFJpackbtz1nuC7EjvXG0Q&ms=%5BCLICK_MS%5D&nb=7&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D)
+Sponsored
+Great Learning
+[Learn more](https://www.googleadservices.com/pagead/aclk?sa=L&ai=C9Uu6nYLpZ_j9DK6Grr4PvIvgwAj2qaiZfoT2y8itE7CQHxABIABgybaGh8yjwBeCARdjYS1wdWItNjIxOTgxMTc0NzA0OTM3MaABusCI0QKoAwTIAwqqBN8CT9C7nmbP8sKApRUYcakJLoHbQpWQJwE61bu9TkOTn8YyxCgWnkDE4JwtrK3btjfJVUgd_vJvmayvDRXB-9e3MXN72JmwxadcpkgFx8SyfsmSNLg4rBjB90pfHa7WoQF-84iaNNnZaZosJuvan1_3JgHZlpyUi-6GkZ3xnxQPlC9v0KrXpvaCRRDD7FDfJOitpfKx-5PrBGuEiIZlR5-AMvx0Z9MOxaf-j9VQRXdfdu2ROsxwN3-914t9fqA3e2bZY_6VbLdNIgABhXGz6Ynmv2mtTOTpYo_eohepaGKB8GlhsuSsgdKTel0rLnqjYsFYu2z2haDDMK1AbuF-CUDrIZ-S7Cye9rZCJmp6tkIwLAdkS22_oqjPnK3SBVskb8jeqEhMIRJ7QY5E60P5M1b3_WjQu2T1RO7DH6jNkjou0nqpELTJ7BjhKlfzBgu_lqjB6IW4ItGvHl81nWGXED2ekgUKCBNoAnjx7Nn_AaAGboAH59Xr3QGQBwSoB_mxsQKoB4C6sQKoB_LAsQKoB7jEsQKoB6XPsQKoB73NsQKoB-edsQKoB-idsQKoB--1sQKoB_C1sQKoB4KqsQKoB4QIqAeo0huoB7YHqAex3BuoB7CbsQKoB66xsQKoB-a8sQKoB8q6sQKoB_zLsQKoB_2ysQKoB_e4sQKoB_i4sQKoB83HsQKoB6XMsQKoB4HGG6gH_K-xAqgHq8UbqAe3obECqAfVqbECqAfetbECqAfqsbECqAe-t7ECqAeZtbECqAeFwbECqAfrpbECqAfKqbEC0gguCIjBgEAQARheMgODggE6DoDCgIBAgMCAgICAgIACSNmg0jVQFFiwzYyqrbKMA_IIH2NhLXl0LWhvc3QtcHViLTk0ODI3ODYzNjkxMTM3NTOaCUlodHRwczovL3Byb2Zlc3Npb25hbC1lZHVjYXRpb24tZ2wubWl0LmVkdS9taXQtYXBwbGllZC1kYXRhLXNjaWVuY2UtY291cnNlsQkUj8KKZhsOOsgJAMgJigKYCwGhC-O2ci4wD2tsugs5CAEQBRgEIAgoATAaQAFIAFABWAFgAGgAcAGIAQCYAQGiAQoKABgBqAIB2AICqAEB2AEBgAIBiAIG0AsS2gwmCgsQsL6eupK0p_OTARICAQMaDRjAvdPFUSDF-77j-QRAAUoCEB-aDQESoA0Bqg0CVVPIDQHSDaICaHR0cHM6Ly9wcm9mZXNzaW9uYWwtZWR1Y2F0aW9uLWdsLm1pdC5lZHUvbWl0LWFwcGxpZWQtZGF0YS1zY2llbmNlLWNvdXJzZT8mdXRtX3NvdXJjZT1nb29nbGUmdXRtX21lZGl1bT1kaXNjb3ZlcnkmdXRtX2NhbXBhaWduPUFEU1BfSW50X0Rpc2NvdmVyeV9Jbl9NYXJrZXRfSGlnaF9JbnRlbnRfVVNfRGVza3RvcCZjYW1wYWlnbl9pZD0yMTg4OTM0MzE2OCZhZGdyb3VwX2lkPTE3MDEyODI5MzMxNyZhZF9pZD03MjA0MzU1NTM4MzAmdXRtX3RhcmdldD0mS2V5d29yZD0mcGxhY2VtZW50PSZnYWRfc291cmNlPTK4E____________wGIFAKwFAHAFYGAgEDQFQHYFQGYFgHiFgIIAYAXAYoXFggDGAEgASgBMAE4AUABSAFQAVgBYAKgFwGpF7t9YDZhyz78uhcGKAAwADgB0BgB8BgB&ase=2&gclid=EAIaIQobChMIuMCNqq2yjAMVLoPLAR28BRiIEAEYASAAEgLWevD_BwE&num=1&cid=CAASFeRoNX8L2Lwd7g0DPgyN7ecEqJcG4Q&sig=AOD64_2j8iA-cFJpackbtz1nuC7EjvXG0Q&ms=%5BCLICK_MS%5D&nb=8&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D)
+[![](https://i.ytimg.com/vi/X48VuDVv0do/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLDD2M4qe1dKKAoZ4iq1FV5D3ilpAw)3:36:55](https://www.youtube.com/watch?v=X48VuDVv0do&pp=0gcJCegBSCBzzxdG)
+### [Kubernetes Tutorial for Beginners [FULL COURSE in 4 Hours]](https://www.youtube.com/watch?v=X48VuDVv0do&pp=0gcJCegBSCBzzxdG)
+TechWorld with Nana
+9M views • 4 years ago

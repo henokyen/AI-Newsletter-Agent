@@ -1,0 +1,457 @@
+[Skip to content](https://github.com/recommenders-team/recommenders/#start-of-content)
+## Navigation Menu
+Toggle navigation
+[ ](https://github.com/)
+[ Sign in ](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Frecommenders-team%2Frecommenders%2F)
+  * Product 
+    * [ GitHub Copilot Write better code with AI  ](https://github.com/features/copilot)
+    * [ Security Find and fix vulnerabilities  ](https://github.com/features/security)
+    * [ Actions Automate any workflow  ](https://github.com/features/actions)
+    * [ Codespaces Instant dev environments  ](https://github.com/features/codespaces)
+    * [ Issues Plan and track work  ](https://github.com/features/issues)
+    * [ Code Review Manage code changes  ](https://github.com/features/code-review)
+    * [ Discussions Collaborate outside of code  ](https://github.com/features/discussions)
+    * [ Code Search Find more, search less  ](https://github.com/features/code-search)
+Explore
+    * [ All features ](https://github.com/features)
+    * [ Documentation ](https://docs.github.com)
+    * [ GitHub Skills ](https://skills.github.com)
+    * [ Blog ](https://github.blog)
+  * Solutions 
+By company size
+    * [ Enterprises ](https://github.com/enterprise)
+    * [ Small and medium teams ](https://github.com/team)
+    * [ Startups ](https://github.com/enterprise/startups)
+    * [ Nonprofits ](https://github.com/solutions/industry/nonprofits)
+By use case
+    * [ DevSecOps ](https://github.com/solutions/use-case/devsecops)
+    * [ DevOps ](https://github.com/solutions/use-case/devops)
+    * [ CI/CD ](https://github.com/solutions/use-case/ci-cd)
+    * [ View all use cases ](https://github.com/solutions/use-case)
+By industry
+    * [ Healthcare ](https://github.com/solutions/industry/healthcare)
+    * [ Financial services ](https://github.com/solutions/industry/financial-services)
+    * [ Manufacturing ](https://github.com/solutions/industry/manufacturing)
+    * [ Government ](https://github.com/solutions/industry/government)
+    * [ View all industries ](https://github.com/solutions/industry)
+[ View all solutions ](https://github.com/solutions)
+  * Resources 
+Topics
+    * [ AI ](https://github.com/resources/articles/ai)
+    * [ DevOps ](https://github.com/resources/articles/devops)
+    * [ Security ](https://github.com/resources/articles/security)
+    * [ Software Development ](https://github.com/resources/articles/software-development)
+    * [ View all ](https://github.com/resources/articles)
+Explore
+    * [ Learning Pathways ](https://resources.github.com/learn/pathways)
+    * [ Events & Webinars ](https://resources.github.com)
+    * [ Ebooks & Whitepapers ](https://github.com/resources/whitepapers)
+    * [ Customer Stories ](https://github.com/customer-stories)
+    * [ Partners ](https://partner.github.com)
+    * [ Executive Insights ](https://github.com/solutions/executive-insights)
+  * Open Source 
+    * [ GitHub Sponsors Fund open source developers  ](https://github.com/sponsors)
+    * [ The ReadME Project GitHub community articles  ](https://github.com/readme)
+Repositories
+    * [ Topics ](https://github.com/topics)
+    * [ Trending ](https://github.com/trending)
+    * [ Collections ](https://github.com/collections)
+  * Enterprise 
+    * [ Enterprise platform AI-powered developer platform  ](https://github.com/enterprise)
+Available add-ons
+    * [ Advanced Security Enterprise-grade security features  ](https://github.com/enterprise/advanced-security)
+    * [ Copilot for business Enterprise-grade AI features  ](https://github.com/features/copilot/copilot-business)
+    * [ Premium Support Enterprise-grade 24/7 support  ](https://github.com/premium-support)
+  * [Pricing](https://github.com/pricing)
+
+
+Search or jump to...
+# Search code, repositories, users, issues, pull requests...
+Search 
+Clear
+[Search syntax tips](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax)
+#  Provide feedback 
+We read every piece of feedback, and take your input very seriously.
+Include my email address so I can be contacted
+Cancel  Submit feedback 
+#  Saved searches 
+## Use saved searches to filter your results more quickly
+Name
+Query
+To see all available qualifiers, see our [documentation](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax). 
+Cancel  Create saved search 
+[ Sign in ](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Frecommenders-team%2Frecommenders%2F)
+[ Sign up ](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E&source=header-repo&source_repo=recommenders-team%2Frecommenders) Reseting focus
+You signed in with another tab or window. [Reload](https://github.com/recommenders-team/recommenders/) to refresh your session. You signed out in another tab or window. [Reload](https://github.com/recommenders-team/recommenders/) to refresh your session. You switched accounts on another tab or window. [Reload](https://github.com/recommenders-team/recommenders/) to refresh your session. Dismiss alert
+{{ message }}
+[ recommenders-team ](https://github.com/recommenders-team) / **[recommenders](https://github.com/recommenders-team/recommenders) ** Public
+  * [ Notifications ](https://github.com/login?return_to=%2Frecommenders-team%2Frecommenders) You must be signed in to change notification settings
+  * [ Fork 3.2k ](https://github.com/login?return_to=%2Frecommenders-team%2Frecommenders)
+  * [ Star  20k ](https://github.com/login?return_to=%2Frecommenders-team%2Frecommenders)
+
+
+Best Practices on Recommendation Systems 
+[recommenders-team.github.io/recommenders/intro.html](https://recommenders-team.github.io/recommenders/intro.html "https://recommenders-team.github.io/recommenders/intro.html")
+### License
+[ MIT license ](https://github.com/recommenders-team/recommenders/blob/main/LICENSE)
+[ 20k stars ](https://github.com/recommenders-team/recommenders/stargazers) [ 3.2k forks ](https://github.com/recommenders-team/recommenders/forks) [ Branches ](https://github.com/recommenders-team/recommenders/branches) [ Tags ](https://github.com/recommenders-team/recommenders/tags) [ Activity ](https://github.com/recommenders-team/recommenders/activity)
+[ Star  ](https://github.com/login?return_to=%2Frecommenders-team%2Frecommenders)
+[ Notifications ](https://github.com/login?return_to=%2Frecommenders-team%2Frecommenders) You must be signed in to change notification settings
+  * [ Code ](https://github.com/recommenders-team/recommenders)
+  * [ Issues 163 ](https://github.com/recommenders-team/recommenders/issues)
+  * [ Pull requests 8 ](https://github.com/recommenders-team/recommenders/pulls)
+  * [ Discussions ](https://github.com/recommenders-team/recommenders/discussions)
+  * [ Actions ](https://github.com/recommenders-team/recommenders/actions)
+  * [ Projects 0 ](https://github.com/recommenders-team/recommenders/projects)
+  * [ Wiki ](https://github.com/recommenders-team/recommenders/wiki)
+  * [ Security ](https://github.com/recommenders-team/recommenders/security)
+  * [ Insights ](https://github.com/recommenders-team/recommenders/pulse)
+
+
+Additional navigation options
+  * [ Code  ](https://github.com/recommenders-team/recommenders)
+  * [ Issues  ](https://github.com/recommenders-team/recommenders/issues)
+  * [ Pull requests  ](https://github.com/recommenders-team/recommenders/pulls)
+  * [ Discussions  ](https://github.com/recommenders-team/recommenders/discussions)
+  * [ Actions  ](https://github.com/recommenders-team/recommenders/actions)
+  * [ Projects  ](https://github.com/recommenders-team/recommenders/projects)
+  * [ Wiki  ](https://github.com/recommenders-team/recommenders/wiki)
+  * [ Security  ](https://github.com/recommenders-team/recommenders/security)
+  * [ Insights  ](https://github.com/recommenders-team/recommenders/pulse)
+
+
+# recommenders-team/recommenders
+main
+[**14** Branches](https://github.com/recommenders-team/recommenders/branches)[**14** Tags](https://github.com/recommenders-team/recommenders/tags)
+[](https://github.com/recommenders-team/recommenders/branches)[](https://github.com/recommenders-team/recommenders/tags)
+Go to file
+Code
+## Folders and files
+Name| Name| Last commit message| Last commit date  
+---|---|---|---  
+## Latest commit
+[![miguelgfierro](https://avatars.githubusercontent.com/u/3491412?v=4&size=40)](https://github.com/miguelgfierro)[miguelgfierro](https://github.com/recommenders-team/recommenders/commits?author=miguelgfierro)[Merge pull request](https://github.com/recommenders-team/recommenders/commit/d58014367f66cea4596a728ba3994c2ed3d12fe3) [#2206](https://github.com/recommenders-team/recommenders/pull/2206) [from recommenders-team/staging](https://github.com/recommenders-team/recommenders/commit/d58014367f66cea4596a728ba3994c2ed3d12fe3)Jan 18, 2025[d580143](https://github.com/recommenders-team/recommenders/commit/d58014367f66cea4596a728ba3994c2ed3d12fe3) · Jan 18, 2025
+## History
+[9,035 Commits](https://github.com/recommenders-team/recommenders/commits/main/)[](https://github.com/recommenders-team/recommenders/commits/main/)  
+[.devcontainer](https://github.com/recommenders-team/recommenders/tree/main/.devcontainer ".devcontainer")| [.devcontainer](https://github.com/recommenders-team/recommenders/tree/main/.devcontainer ".devcontainer")| [Merge multiple Dockerfiles into a single one (](https://github.com/recommenders-team/recommenders/commit/f2abb555efcb0a59594e92b00c054c3b23e50543 "Merge multiple Dockerfiles into a single one \(#2167\)
+Merge multiple Dockerfiles into a single one
+---------
+Signed-off-by: Simon Zhao <simonyansenzhao@gmail.com>
+Co-authored-by: Miguel Fierro <3491412+miguelgfierro@users.noreply.github.com>")[#2167](https://github.com/recommenders-team/recommenders/pull/2167)[)](https://github.com/recommenders-team/recommenders/commit/f2abb555efcb0a59594e92b00c054c3b23e50543 "Merge multiple Dockerfiles into a single one \(#2167\)
+Merge multiple Dockerfiles into a single one
+---------
+Signed-off-by: Simon Zhao <simonyansenzhao@gmail.com>
+Co-authored-by: Miguel Fierro <3491412+miguelgfierro@users.noreply.github.com>")| Nov 13, 2024  
+[.github](https://github.com/recommenders-team/recommenders/tree/main/.github ".github")| [.github](https://github.com/recommenders-team/recommenders/tree/main/.github ".github")| [Execute tests when there are changes in the pipelines (](https://github.com/recommenders-team/recommenders/commit/7166fceaefaadc1db0d59b666007877f213c0f76 "Execute tests when there are changes in the pipelines \(#2197\)
+Signed-off-by: miguelgfierro <miguelgfierro@users.noreply.github.com>
+Co-authored-by: miguelgfierro <miguelgfierro@users.noreply.github.com>")[#2197](https://github.com/recommenders-team/recommenders/pull/2197)[)](https://github.com/recommenders-team/recommenders/commit/7166fceaefaadc1db0d59b666007877f213c0f76 "Execute tests when there are changes in the pipelines \(#2197\)
+Signed-off-by: miguelgfierro <miguelgfierro@users.noreply.github.com>
+Co-authored-by: miguelgfierro <miguelgfierro@users.noreply.github.com>")| Dec 22, 2024  
+[contrib](https://github.com/recommenders-team/recommenders/tree/main/contrib "contrib")| [contrib](https://github.com/recommenders-team/recommenders/tree/main/contrib "contrib")| [Allow Python 3.11 for sarplus](https://github.com/recommenders-team/recommenders/commit/ed3b632ef0f1406204ce080cf99b320c3e8680b4 "Allow Python 3.11 for sarplus")| Feb 23, 2024  
+[docs](https://github.com/recommenders-team/recommenders/tree/main/docs "docs")| [docs](https://github.com/recommenders-team/recommenders/tree/main/docs "docs")| [Added comments by](https://github.com/recommenders-team/recommenders/commit/1aa1945d2d3190e053fb47c529fc58db7ebe3a65 "Added comments by @SimonYansenZhao
+Signed-off-by: miguelgfierro <miguelgfierro@users.noreply.github.com>") [@SimonYansenZhao](https://github.com/SimonYansenZhao)| Jan 29, 2024  
+[examples](https://github.com/recommenders-team/recommenders/tree/main/examples "examples")| [examples](https://github.com/recommenders-team/recommenders/tree/main/examples "examples")| [Correct variable used in pickle dump in `mind_utils.ipynb`](https://github.com/recommenders-team/recommenders/commit/1eb6619e7d78a8e4b9ac1750ef7ae6c61219af66 "Correct variable used in pickle dump in `mind_utils.ipynb`
+Fixed an issue where the incorrect variable `word_dict` was being dumped to word_dict_all.pkl instead of `word_dict_all` in the `mind_utils.ipynb` notebook.
+Signed-off-by: aaron <aaron_palpallatoc@dlsu.edu.ph>")| Aug 27, 2024  
+[recommenders](https://github.com/recommenders-team/recommenders/tree/main/recommenders "recommenders")| [recommenders](https://github.com/recommenders-team/recommenders/tree/main/recommenders "recommenders")| [Prepare for release (](https://github.com/recommenders-team/recommenders/commit/90b180ad40e922d548231bb70805e35833bfefd3 "Prepare for release \(#2200\)
+* Recommenders 1.2.1
+Signed-off-by: miguelgfierro <miguelgfierro@users.noreply.github.com>
+* update readmes
+Signed-off-by: miguelgfierro <miguelgfierro@users.noreply.github.com>
+* updating the date
+---------
+Signed-off-by: miguelgfierro <miguelgfierro@users.noreply.github.com>
+Co-authored-by: miguelgfierro <miguelgfierro@users.noreply.github.com>")[#2200](https://github.com/recommenders-team/recommenders/pull/2200)[)](https://github.com/recommenders-team/recommenders/commit/90b180ad40e922d548231bb70805e35833bfefd3 "Prepare for release \(#2200\)
+* Recommenders 1.2.1
+Signed-off-by: miguelgfierro <miguelgfierro@users.noreply.github.com>
+* update readmes
+Signed-off-by: miguelgfierro <miguelgfierro@users.noreply.github.com>
+* updating the date
+---------
+Signed-off-by: miguelgfierro <miguelgfierro@users.noreply.github.com>
+Co-authored-by: miguelgfierro <miguelgfierro@users.noreply.github.com>")| Dec 22, 2024  
+[scenarios](https://github.com/recommenders-team/recommenders/tree/main/scenarios "scenarios")| [scenarios](https://github.com/recommenders-team/recommenders/tree/main/scenarios "scenarios")| [license and contribution notice](https://github.com/recommenders-team/recommenders/commit/dc459bb969958794883b9f2a1c156384bb27a9bc "license and contribution notice
+Signed-off-by: miguelgfierro <miguelgfierro@users.noreply.github.com>")| Sep 29, 2023  
+[tests](https://github.com/recommenders-team/recommenders/tree/main/tests "tests")| [tests](https://github.com/recommenders-team/recommenders/tree/main/tests "tests")| [Add tag to federeated credential](https://github.com/recommenders-team/recommenders/commit/cfbd76292f1b0bf1c68d601fbe73e0da7b9eb528 "Add tag to federeated credential
+Signed-off-by: miguelgfierro <miguelgfierro@users.noreply.github.com>")| Dec 23, 2024  
+[tools](https://github.com/recommenders-team/recommenders/tree/main/tools "tools")| [tools](https://github.com/recommenders-team/recommenders/tree/main/tools "tools")| [Merge multiple Dockerfiles into a single one (](https://github.com/recommenders-team/recommenders/commit/f2abb555efcb0a59594e92b00c054c3b23e50543 "Merge multiple Dockerfiles into a single one \(#2167\)
+Merge multiple Dockerfiles into a single one
+---------
+Signed-off-by: Simon Zhao <simonyansenzhao@gmail.com>
+Co-authored-by: Miguel Fierro <3491412+miguelgfierro@users.noreply.github.com>")[#2167](https://github.com/recommenders-team/recommenders/pull/2167)[)](https://github.com/recommenders-team/recommenders/commit/f2abb555efcb0a59594e92b00c054c3b23e50543 "Merge multiple Dockerfiles into a single one \(#2167\)
+Merge multiple Dockerfiles into a single one
+---------
+Signed-off-by: Simon Zhao <simonyansenzhao@gmail.com>
+Co-authored-by: Miguel Fierro <3491412+miguelgfierro@users.noreply.github.com>")| Nov 13, 2024  
+[.gitignore](https://github.com/recommenders-team/recommenders/blob/main/.gitignore ".gitignore")| [.gitignore](https://github.com/recommenders-team/recommenders/blob/main/.gitignore ".gitignore")| [update setup](https://github.com/recommenders-team/recommenders/commit/bd67070d28bffe408620452ad6064ea95036f257 "update setup")| Dec 10, 2021  
+[AUTHORS.md](https://github.com/recommenders-team/recommenders/blob/main/AUTHORS.md "AUTHORS.md")| [AUTHORS.md](https://github.com/recommenders-team/recommenders/blob/main/AUTHORS.md "AUTHORS.md")| [Update Tao's user (](https://github.com/recommenders-team/recommenders/commit/b15263d270c8f3913a90898de8d294306ce8cf17 "Update Tao's user \(#2199\)
+Signed-off-by: miguelgfierro <miguelgfierro@users.noreply.github.com>
+Co-authored-by: miguelgfierro <miguelgfierro@users.noreply.github.com>")[#2199](https://github.com/recommenders-team/recommenders/pull/2199)[)](https://github.com/recommenders-team/recommenders/commit/b15263d270c8f3913a90898de8d294306ce8cf17 "Update Tao's user \(#2199\)
+Signed-off-by: miguelgfierro <miguelgfierro@users.noreply.github.com>
+Co-authored-by: miguelgfierro <miguelgfierro@users.noreply.github.com>")| Dec 22, 2024  
+[CODE_OF_CONDUCT.md](https://github.com/recommenders-team/recommenders/blob/main/CODE_OF_CONDUCT.md "CODE_OF_CONDUCT.md")| [CODE_OF_CONDUCT.md](https://github.com/recommenders-team/recommenders/blob/main/CODE_OF_CONDUCT.md "CODE_OF_CONDUCT.md")| [Add new code of conduct from LF](https://github.com/recommenders-team/recommenders/commit/63b352b2648d9345bc0087a5dd21fb8853846bbc "Add new code of conduct from LF
+Signed-off-by: miguelgfierro <miguelgfierro@users.noreply.github.com>")| Sep 29, 2023  
+[CONTRIBUTING.md](https://github.com/recommenders-team/recommenders/blob/main/CONTRIBUTING.md "CONTRIBUTING.md")| [CONTRIBUTING.md](https://github.com/recommenders-team/recommenders/blob/main/CONTRIBUTING.md "CONTRIBUTING.md")| [📝](https://github.com/recommenders-team/recommenders/commit/0976df459db26f817306910f85eb3e69109ce207 ":memo:
+Signed-off-by: miguelgfierro <miguelgfierro@users.noreply.github.com>")| May 22, 2024  
+[GLOSSARY.md](https://github.com/recommenders-team/recommenders/blob/main/GLOSSARY.md "GLOSSARY.md")| [GLOSSARY.md](https://github.com/recommenders-team/recommenders/blob/main/GLOSSARY.md "GLOSSARY.md")| [change path hybrid](https://github.com/recommenders-team/recommenders/commit/d3fce82fae82f287621b3bf08ac25aac04aa0493 "change path hybrid
+Signed-off-by: miguelgfierro <miguelgfierro@users.noreply.github.com>")| Dec 29, 2023  
+[LICENSE](https://github.com/recommenders-team/recommenders/blob/main/LICENSE "LICENSE")| [LICENSE](https://github.com/recommenders-team/recommenders/blob/main/LICENSE "LICENSE")| [Update license](https://github.com/recommenders-team/recommenders/commit/6fc2f9de1e4259b7b87cff4a162cfc04b5f57aa1 "Update license
+Signed-off-by: miguelgfierro <miguelgfierro@users.noreply.github.com>")| Aug 25, 2023  
+[MANIFEST.in](https://github.com/recommenders-team/recommenders/blob/main/MANIFEST.in "MANIFEST.in")| [MANIFEST.in](https://github.com/recommenders-team/recommenders/blob/main/MANIFEST.in "MANIFEST.in")| [replacing 793 occurrences accross 246 files with recommenders](https://github.com/recommenders-team/recommenders/commit/5825b7183865ee4967cb0d227916718018c395a9 "replacing 793 occurrences accross 246 files with recommenders")| Jul 22, 2021  
+[NEWS.md](https://github.com/recommenders-team/recommenders/blob/main/NEWS.md "NEWS.md")| [NEWS.md](https://github.com/recommenders-team/recommenders/blob/main/NEWS.md "NEWS.md")| [Prepare for release (](https://github.com/recommenders-team/recommenders/commit/90b180ad40e922d548231bb70805e35833bfefd3 "Prepare for release \(#2200\)
+* Recommenders 1.2.1
+Signed-off-by: miguelgfierro <miguelgfierro@users.noreply.github.com>
+* update readmes
+Signed-off-by: miguelgfierro <miguelgfierro@users.noreply.github.com>
+* updating the date
+---------
+Signed-off-by: miguelgfierro <miguelgfierro@users.noreply.github.com>
+Co-authored-by: miguelgfierro <miguelgfierro@users.noreply.github.com>")[#2200](https://github.com/recommenders-team/recommenders/pull/2200)[)](https://github.com/recommenders-team/recommenders/commit/90b180ad40e922d548231bb70805e35833bfefd3 "Prepare for release \(#2200\)
+* Recommenders 1.2.1
+Signed-off-by: miguelgfierro <miguelgfierro@users.noreply.github.com>
+* update readmes
+Signed-off-by: miguelgfierro <miguelgfierro@users.noreply.github.com>
+* updating the date
+---------
+Signed-off-by: miguelgfierro <miguelgfierro@users.noreply.github.com>
+Co-authored-by: miguelgfierro <miguelgfierro@users.noreply.github.com>")| Dec 22, 2024  
+[README.md](https://github.com/recommenders-team/recommenders/blob/main/README.md "README.md")| [README.md](https://github.com/recommenders-team/recommenders/blob/main/README.md "README.md")| [Prepare for release (](https://github.com/recommenders-team/recommenders/commit/90b180ad40e922d548231bb70805e35833bfefd3 "Prepare for release \(#2200\)
+* Recommenders 1.2.1
+Signed-off-by: miguelgfierro <miguelgfierro@users.noreply.github.com>
+* update readmes
+Signed-off-by: miguelgfierro <miguelgfierro@users.noreply.github.com>
+* updating the date
+---------
+Signed-off-by: miguelgfierro <miguelgfierro@users.noreply.github.com>
+Co-authored-by: miguelgfierro <miguelgfierro@users.noreply.github.com>")[#2200](https://github.com/recommenders-team/recommenders/pull/2200)[)](https://github.com/recommenders-team/recommenders/commit/90b180ad40e922d548231bb70805e35833bfefd3 "Prepare for release \(#2200\)
+* Recommenders 1.2.1
+Signed-off-by: miguelgfierro <miguelgfierro@users.noreply.github.com>
+* update readmes
+Signed-off-by: miguelgfierro <miguelgfierro@users.noreply.github.com>
+* updating the date
+---------
+Signed-off-by: miguelgfierro <miguelgfierro@users.noreply.github.com>
+Co-authored-by: miguelgfierro <miguelgfierro@users.noreply.github.com>")| Dec 22, 2024  
+[SECURITY.md](https://github.com/recommenders-team/recommenders/blob/main/SECURITY.md "SECURITY.md")| [SECURITY.md](https://github.com/recommenders-team/recommenders/blob/main/SECURITY.md "SECURITY.md")| [security](https://github.com/recommenders-team/recommenders/commit/4a76743f4520af17e04b20497dde59a7d8a3cf7a "security
+Signed-off-by: miguelgfierro <miguelgfierro@users.noreply.github.com>")| Sep 29, 2023  
+[SETUP.md](https://github.com/recommenders-team/recommenders/blob/main/SETUP.md "SETUP.md")| [SETUP.md](https://github.com/recommenders-team/recommenders/blob/main/SETUP.md "SETUP.md")| [Note in setup](https://github.com/recommenders-team/recommenders/commit/f510ec4f603329fad9a0df12c64f0ac16fc0fd73 "Note in setup
+Signed-off-by: miguelgfierro <miguelgfierro@users.noreply.github.com>")| Dec 23, 2024  
+[pyproject.toml](https://github.com/recommenders-team/recommenders/blob/main/pyproject.toml "pyproject.toml")| [pyproject.toml](https://github.com/recommenders-team/recommenders/blob/main/pyproject.toml "pyproject.toml")| [Restrict numpy version](https://github.com/recommenders-team/recommenders/commit/8cd3c133d7d167737b33f09152f0eca20b7ab170 "Restrict numpy version
+Signed-off-by: David Davó <david@ddavo.me>")| Jun 26, 2024  
+[setup.py](https://github.com/recommenders-team/recommenders/blob/main/setup.py "setup.py")| [setup.py](https://github.com/recommenders-team/recommenders/blob/main/setup.py "setup.py")| [Use cornac 2.3.0 for Python 3.9+](https://github.com/recommenders-team/recommenders/commit/5265ff9a96c20f63a894dd440b8b1279ad4557f1 "Use cornac 2.3.0 for Python 3.9+
+Signed-off-by: Simon Zhao <simonyansenzhao@gmail.com>")| Jan 14, 2025  
+View all files  
+## Repository files navigation
+  * [README](https://github.com/recommenders-team/recommenders/)
+  * [Code of conduct](https://github.com/recommenders-team/recommenders/)
+  * [MIT license](https://github.com/recommenders-team/recommenders/)
+  * [Security](https://github.com/recommenders-team/recommenders/)
+
+
+[![](https://raw.githubusercontent.com/recommenders-team/artwork/main/color/recommenders_color.svg)](https://raw.githubusercontent.com/recommenders-team/artwork/main/color/recommenders_color.svg)
+[![Documentation status](https://github.com/recommenders-team/recommenders/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/recommenders-team/recommenders/actions/workflows/pages/pages-build-deployment) [![License](https://camo.githubusercontent.com/7901f0456467e6b320e21d79ca37e1135f24dc177a331b66187a0aa8964ea11f/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6963656e73652f7265636f6d6d656e646572732d7465616d2f7265636f6d6d656e646572732e737667)](https://github.com/recommenders-team/recommenders/blob/main/LICENSE) [![Black](https://camo.githubusercontent.com/5bf9e9fa18966df7cb5fac7715bef6b72df15e01a6efa9d616c83f9fcb527fe2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f636f64652532307374796c652d626c61636b2d3030303030302e737667)](https://github.com/psf/black) [![PyPI Version](https://camo.githubusercontent.com/cb5789f807e4838d3fb820126dd84ada4f9e69d6f6f6f4dbf2dbc849d7df6a5c/68747470733a2f2f696d672e736869656c64732e696f2f707970692f762f7265636f6d6d656e646572732e7376673f6c6f676f3d70797069266c6f676f436f6c6f723d7768697465)](https://pypi.org/project/recommenders) [![Python Versions](https://camo.githubusercontent.com/b1b3b14f1463b07eefc5365abac7e2f2ae882f647b544616c256bd5c6ebeb1c9/68747470733a2f2f696d672e736869656c64732e696f2f707970692f707976657273696f6e732f7265636f6d6d656e646572732e7376673f6c6f676f3d707974686f6e266c6f676f436f6c6f723d7768697465)](https://pypi.org/project/recommenders)
+[![](https://raw.githubusercontent.com/recommenders-team/artwork/main/mix/join_recommenders_slack.svg)](https://join.slack.com/t/lfaifoundation/shared_invite/zt-2iyl7zyya-g5rOO5K518CBoevyi28W6w)
+## What's New (Dec, 2024)
+[](https://github.com/recommenders-team/recommenders/#whats-new-dec-2024)
+We have a new release [Recommenders 1.2.1](https://github.com/recommenders-team/recommenders/releases/tag/1.2.1)!
+We fixed a lot of bugs due to dependencies, improved security, reviewed the notebooks and the libraries.
+## Introduction
+[](https://github.com/recommenders-team/recommenders/#introduction)
+Recommenders objective is to assist researchers, developers and enthusiasts in prototyping, experimenting with and bringing to production a range of classic and state-of-the-art recommendation systems.
+Recommenders is a project under the [Linux Foundation of AI and Data](https://lfaidata.foundation/projects/).
+This repository contains examples and best practices for building recommendation systems, provided as Jupyter notebooks. The examples detail our learnings on five key tasks:
+  * [Prepare Data](https://github.com/recommenders-team/recommenders/blob/main/examples/01_prepare_data): Preparing and loading data for each recommendation algorithm.
+  * [Model](https://github.com/recommenders-team/recommenders/blob/main/examples/00_quick_start): Building models using various classical and deep learning recommendation algorithms such as Alternating Least Squares ([ALS](https://spark.apache.org/docs/latest/api/python/_modules/pyspark/ml/recommendation.html#ALS)) or eXtreme Deep Factorization Machines ([xDeepFM](https://arxiv.org/abs/1803.05170)).
+  * [Evaluate](https://github.com/recommenders-team/recommenders/blob/main/examples/03_evaluate): Evaluating algorithms with offline metrics.
+  * [Model Select and Optimize](https://github.com/recommenders-team/recommenders/blob/main/examples/04_model_select_and_optimize): Tuning and optimizing hyperparameters for recommendation models.
+  * [Operationalize](https://github.com/recommenders-team/recommenders/blob/main/examples/05_operationalize): Operationalizing models in a production environment on Azure.
+
+
+Several utilities are provided in [recommenders](https://github.com/recommenders-team/recommenders/blob/main/recommenders) to support common tasks such as loading datasets in the format expected by different algorithms, evaluating model outputs, and splitting training/test data. Implementations of several state-of-the-art algorithms are included for self-study and customization in your own applications. See the [Recommenders documentation](https://readthedocs.org/projects/microsoft-recommenders/).
+For a more detailed overview of the repository, please see the documents on the [wiki page](https://github.com/microsoft/recommenders/wiki/Documents-and-Presentations).
+For some of the practical scenarios where recommendation systems have been applied, see [scenarios](https://github.com/recommenders-team/recommenders/blob/main/scenarios).
+## Getting Started
+[](https://github.com/recommenders-team/recommenders/#getting-started)
+We recommend [conda](https://docs.conda.io/projects/conda/en/latest/glossary.html?highlight=environment#conda-environment) for environment management, and [VS Code](https://code.visualstudio.com/) for development. To install the recommenders package and run an example notebook on Linux/WSL:
+```
+# 1. Install gcc if it is not installed already. On Ubuntu, this could done by using the command
+# sudo apt install gcc
+# 2. Create and activate a new conda environment
+conda create -n <environment_name> python=3.9
+conda activate <environment_name>
+# 3. Install the core recommenders package. It can run all the CPU notebooks.
+pip install recommenders
+# 4. create a Jupyter kernel
+python -m ipykernel install --user --name <environment_name> --display-name <kernel_name>
+# 5. Clone this repo within VSCode or using command line:
+git clone https://github.com/recommenders-team/recommenders.git
+# 6. Within VSCode:
+#  a. Open a notebook, e.g., examples/00_quick_start/sar_movielens.ipynb; 
+#  b. Select Jupyter kernel <kernel_name>;
+#  c. Run the notebook.
+```
+
+For more information about setup on other platforms (e.g., Windows and macOS) and different configurations (e.g., GPU, Spark and experimental features), see the [Setup Guide](https://github.com/recommenders-team/recommenders/blob/main/SETUP.md).
+In addition to the core package, several extras are also provided, including:
+  * `[gpu]`: Needed for running GPU models.
+  * `[spark]`: Needed for running Spark models.
+  * `[dev]`: Needed for development for the repo.
+  * `[all]`: `[gpu]`|`[spark]`|`[dev]`
+  * `[experimental]`: Models that are not thoroughly tested and/or may require additional steps in installation.
+
+
+## Algorithms
+[](https://github.com/recommenders-team/recommenders/#algorithms)
+The table below lists the recommendation algorithms currently available in the repository. Notebooks are linked under the Example column as Quick start, showcasing an easy to run example of the algorithm, or as Deep dive, explaining in detail the math and implementation of the algorithm.
+Algorithm | Type | Description | Example  
+---|---|---|---  
+Alternating Least Squares (ALS) | Collaborative Filtering | Matrix factorization algorithm for explicit or implicit feedback in large datasets, optimized for scalability and distributed computing capability. It works in the PySpark environment. | [Quick start](https://github.com/recommenders-team/recommenders/blob/main/examples/00_quick_start/als_movielens.ipynb) / [Deep dive](https://github.com/recommenders-team/recommenders/blob/main/examples/02_model_collaborative_filtering/als_deep_dive.ipynb)  
+Attentive Asynchronous Singular Value Decomposition (A2SVD)* | Collaborative Filtering | Sequential-based algorithm that aims to capture both long and short-term user preferences using attention mechanism. It works in the CPU/GPU environment. | [Quick start](https://github.com/recommenders-team/recommenders/blob/main/examples/00_quick_start/sequential_recsys_amazondataset.ipynb)  
+Cornac/Bayesian Personalized Ranking (BPR) | Collaborative Filtering | Matrix factorization algorithm for predicting item ranking with implicit feedback. It works in the CPU environment. | [Deep dive](https://github.com/recommenders-team/recommenders/blob/main/examples/02_model_collaborative_filtering/cornac_bpr_deep_dive.ipynb)  
+Cornac/Bilateral Variational Autoencoder (BiVAE) | Collaborative Filtering | Generative model for dyadic data (e.g., user-item interactions). It works in the CPU/GPU environment. | [Deep dive](https://github.com/recommenders-team/recommenders/blob/main/examples/02_model_collaborative_filtering/cornac_bivae_deep_dive.ipynb)  
+Convolutional Sequence Embedding Recommendation (Caser) | Collaborative Filtering | Algorithm based on convolutions that aim to capture both user’s general preferences and sequential patterns. It works in the CPU/GPU environment. | [Quick start](https://github.com/recommenders-team/recommenders/blob/main/examples/00_quick_start/sequential_recsys_amazondataset.ipynb)  
+Deep Knowledge-Aware Network (DKN)* | Content-Based Filtering | Deep learning algorithm incorporating a knowledge graph and article embeddings for providing news or article recommendations. It works in the CPU/GPU environment. | [Quick start](https://github.com/recommenders-team/recommenders/blob/main/examples/00_quick_start/dkn_MIND.ipynb) / [Deep dive](https://github.com/recommenders-team/recommenders/blob/main/examples/02_model_content_based_filtering/dkn_deep_dive.ipynb)  
+Extreme Deep Factorization Machine (xDeepFM)* | Collaborative Filtering | Deep learning based algorithm for implicit and explicit feedback with user/item features. It works in the CPU/GPU environment. | [Quick start](https://github.com/recommenders-team/recommenders/blob/main/examples/00_quick_start/xdeepfm_criteo.ipynb)  
+FastAI Embedding Dot Bias (FAST) | Collaborative Filtering | General purpose algorithm with embeddings and biases for users and items. It works in the CPU/GPU environment. | [Quick start](https://github.com/recommenders-team/recommenders/blob/main/examples/00_quick_start/fastai_movielens.ipynb)  
+LightFM/Factorization Machine | Collaborative Filtering | Factorization Machine algorithm for both implicit and explicit feedbacks. It works in the CPU environment. | [Quick start](https://github.com/recommenders-team/recommenders/blob/main/examples/02_model_collaborative_filtering/lightfm_deep_dive.ipynb)  
+LightGBM/Gradient Boosting Tree* | Content-Based Filtering | Gradient Boosting Tree algorithm for fast training and low memory usage in content-based problems. It works in the CPU/GPU/PySpark environments. | [Quick start in CPU](https://github.com/recommenders-team/recommenders/blob/main/examples/00_quick_start/lightgbm_tinycriteo.ipynb) / [Deep dive in PySpark](https://github.com/recommenders-team/recommenders/blob/main/examples/02_model_content_based_filtering/mmlspark_lightgbm_criteo.ipynb)  
+LightGCN | Collaborative Filtering | Deep learning algorithm which simplifies the design of GCN for predicting implicit feedback. It works in the CPU/GPU environment. | [Deep dive](https://github.com/recommenders-team/recommenders/blob/main/examples/02_model_collaborative_filtering/lightgcn_deep_dive.ipynb)  
+GeoIMC* | Collaborative Filtering | Matrix completion algorithm that takes into account user and item features using Riemannian conjugate gradient optimization and follows a geometric approach. It works in the CPU environment. | [Quick start](https://github.com/recommenders-team/recommenders/blob/main/examples/00_quick_start/geoimc_movielens.ipynb)  
+GRU | Collaborative Filtering | Sequential-based algorithm that aims to capture both long and short-term user preferences using recurrent neural networks. It works in the CPU/GPU environment. | [Quick start](https://github.com/recommenders-team/recommenders/blob/main/examples/00_quick_start/sequential_recsys_amazondataset.ipynb)  
+Multinomial VAE | Collaborative Filtering | Generative model for predicting user/item interactions. It works in the CPU/GPU environment. | [Deep dive](https://github.com/recommenders-team/recommenders/blob/main/examples/02_model_collaborative_filtering/multi_vae_deep_dive.ipynb)  
+Neural Recommendation with Long- and Short-term User Representations (LSTUR)* | Content-Based Filtering | Neural recommendation algorithm for recommending news articles with long- and short-term user interest modeling. It works in the CPU/GPU environment. | [Quick start](https://github.com/recommenders-team/recommenders/blob/main/examples/00_quick_start/lstur_MIND.ipynb)  
+Neural Recommendation with Attentive Multi-View Learning (NAML)* | Content-Based Filtering | Neural recommendation algorithm for recommending news articles with attentive multi-view learning. It works in the CPU/GPU environment. | [Quick start](https://github.com/recommenders-team/recommenders/blob/main/examples/00_quick_start/naml_MIND.ipynb)  
+Neural Collaborative Filtering (NCF) | Collaborative Filtering | Deep learning algorithm with enhanced performance for user/item implicit feedback. It works in the CPU/GPU environment. | [Quick start](https://github.com/recommenders-team/recommenders/blob/main/examples/00_quick_start/ncf_movielens.ipynb) / [Deep dive](https://github.com/recommenders-team/recommenders/blob/main/examples/02_model_collaborative_filtering/ncf_deep_dive.ipynb)  
+Neural Recommendation with Personalized Attention (NPA)* | Content-Based Filtering | Neural recommendation algorithm for recommending news articles with personalized attention network. It works in the CPU/GPU environment. | [Quick start](https://github.com/recommenders-team/recommenders/blob/main/examples/00_quick_start/npa_MIND.ipynb)  
+Neural Recommendation with Multi-Head Self-Attention (NRMS)* | Content-Based Filtering | Neural recommendation algorithm for recommending news articles with multi-head self-attention. It works in the CPU/GPU environment. | [Quick start](https://github.com/recommenders-team/recommenders/blob/main/examples/00_quick_start/nrms_MIND.ipynb)  
+Next Item Recommendation (NextItNet) | Collaborative Filtering | Algorithm based on dilated convolutions and residual network that aims to capture sequential patterns. It considers both user/item interactions and features. It works in the CPU/GPU environment. | [Quick start](https://github.com/recommenders-team/recommenders/blob/main/examples/00_quick_start/sequential_recsys_amazondataset.ipynb)  
+Restricted Boltzmann Machines (RBM) | Collaborative Filtering | Neural network based algorithm for learning the underlying probability distribution for explicit or implicit user/item feedback. It works in the CPU/GPU environment. | [Quick start](https://github.com/recommenders-team/recommenders/blob/main/examples/00_quick_start/rbm_movielens.ipynb) / [Deep dive](https://github.com/recommenders-team/recommenders/blob/main/examples/02_model_collaborative_filtering/rbm_deep_dive.ipynb)  
+Riemannian Low-rank Matrix Completion (RLRMC)* | Collaborative Filtering | Matrix factorization algorithm using Riemannian conjugate gradients optimization with small memory consumption to predict user/item interactions. It works in the CPU environment. | [Quick start](https://github.com/recommenders-team/recommenders/blob/main/examples/00_quick_start/rlrmc_movielens.ipynb)  
+Simple Algorithm for Recommendation (SAR)* | Collaborative Filtering | Similarity-based algorithm for implicit user/item feedback. It works in the CPU environment. | [Quick start](https://github.com/recommenders-team/recommenders/blob/main/examples/00_quick_start/sar_movielens.ipynb) / [Deep dive](https://github.com/recommenders-team/recommenders/blob/main/examples/02_model_collaborative_filtering/sar_deep_dive.ipynb)  
+Self-Attentive Sequential Recommendation (SASRec) | Collaborative Filtering | Transformer based algorithm for sequential recommendation. It works in the CPU/GPU environment. | [Quick start](https://github.com/recommenders-team/recommenders/blob/main/examples/00_quick_start/sasrec_amazon.ipynb)  
+Short-term and Long-term Preference Integrated Recommender (SLi-Rec)* | Collaborative Filtering | Sequential-based algorithm that aims to capture both long and short-term user preferences using attention mechanism, a time-aware controller and a content-aware controller. It works in the CPU/GPU environment. | [Quick start](https://github.com/recommenders-team/recommenders/blob/main/examples/00_quick_start/sequential_recsys_amazondataset.ipynb)  
+Multi-Interest-Aware Sequential User Modeling (SUM)* | Collaborative Filtering | An enhanced memory network-based sequential user model which aims to capture users' multiple interests. It works in the CPU/GPU environment. | [Quick start](https://github.com/recommenders-team/recommenders/blob/main/examples/00_quick_start/sequential_recsys_amazondataset.ipynb)  
+Sequential Recommendation Via Personalized Transformer (SSEPT) | Collaborative Filtering | Transformer based algorithm for sequential recommendation with User embedding. It works in the CPU/GPU environment. | [Quick start](https://github.com/recommenders-team/recommenders/blob/main/examples/00_quick_start/sasrec_amazon.ipynb)  
+Standard VAE | Collaborative Filtering | Generative Model for predicting user/item interactions. It works in the CPU/GPU environment. | [Deep dive](https://github.com/recommenders-team/recommenders/blob/main/examples/02_model_collaborative_filtering/standard_vae_deep_dive.ipynb)  
+Surprise/Singular Value Decomposition (SVD) | Collaborative Filtering | Matrix factorization algorithm for predicting explicit rating feedback in small datasets. It works in the CPU/GPU environment. | [Deep dive](https://github.com/recommenders-team/recommenders/blob/main/examples/02_model_collaborative_filtering/surprise_svd_deep_dive.ipynb)  
+Term Frequency - Inverse Document Frequency (TF-IDF) | Content-Based Filtering | Simple similarity-based algorithm for content-based recommendations with text datasets. It works in the CPU environment. | [Quick start](https://github.com/recommenders-team/recommenders/blob/main/examples/00_quick_start/tfidf_covid.ipynb)  
+Vowpal Wabbit (VW)* | Content-Based Filtering | Fast online learning algorithms, great for scenarios where user features / context are constantly changing. It uses the CPU for online learning. | [Deep dive](https://github.com/recommenders-team/recommenders/blob/main/examples/02_model_content_based_filtering/vowpal_wabbit_deep_dive.ipynb)  
+Wide and Deep | Collaborative Filtering | Deep learning algorithm that can memorize feature interactions and generalize user features. It works in the CPU/GPU environment. | [Quick start](https://github.com/recommenders-team/recommenders/blob/main/examples/00_quick_start/wide_deep_movielens.ipynb)  
+xLearn/Factorization Machine (FM) & Field-Aware FM (FFM) | Collaborative Filtering | Quick and memory efficient algorithm to predict labels with user/item features. It works in the CPU/GPU environment. | [Deep dive](https://github.com/recommenders-team/recommenders/blob/main/examples/02_model_collaborative_filtering/fm_deep_dive.ipynb)  
+**NOTE** : * indicates algorithms invented/contributed by Microsoft.
+Independent or incubating algorithms and utilities are candidates for the [contrib](https://github.com/recommenders-team/recommenders/blob/main/contrib) folder. This will house contributions which may not easily fit into the core repository or need time to refactor or mature the code and add necessary tests.
+Algorithm | Type | Description | Example  
+---|---|---|---  
+SARplus * | Collaborative Filtering | Optimized implementation of SAR for Spark | [Quick start](https://github.com/recommenders-team/recommenders/blob/main/contrib/sarplus/README.md)  
+### Algorithm Comparison
+[](https://github.com/recommenders-team/recommenders/#algorithm-comparison)
+We provide a [benchmark notebook](https://github.com/recommenders-team/recommenders/blob/main/examples/06_benchmarks/movielens.ipynb) to illustrate how different algorithms could be evaluated and compared. In this notebook, the MovieLens dataset is split into training/test sets at a 75/25 ratio using a stratified split. A recommendation model is trained using each of the collaborative filtering algorithms below. We utilize empirical parameter values reported in literature [here](http://mymedialite.net/examples/datasets.html). For ranking metrics we use `k=10` (top 10 recommended items). We run the comparison on a Standard NC6s_v2 [Azure DSVM](https://azure.microsoft.com/en-us/services/virtual-machines/data-science-virtual-machines/) (6 vCPUs, 112 GB memory and 1 P100 GPU). Spark ALS is run in local standalone mode. In this table we show the results on Movielens 100k, running the algorithms for 15 epochs.
+Algo | MAP | nDCG@k | Precision@k | Recall@k | RMSE | MAE | R2 | Explained Variance  
+---|---|---|---|---|---|---|---|---  
+[ALS](https://github.com/recommenders-team/recommenders/blob/main/examples/00_quick_start/als_movielens.ipynb) | 0.004732 | 0.044239 | 0.048462 | 0.017796 | 0.965038 | 0.753001 | 0.255647 | 0.251648  
+[BiVAE](https://github.com/recommenders-team/recommenders/blob/main/examples/02_model_collaborative_filtering/cornac_bivae_deep_dive.ipynb) | 0.146126 | 0.475077 | 0.411771 | 0.219145 | N/A | N/A | N/A | N/A  
+[BPR](https://github.com/recommenders-team/recommenders/blob/main/examples/02_model_collaborative_filtering/cornac_bpr_deep_dive.ipynb) | 0.132478 | 0.441997 | 0.388229 | 0.212522 | N/A | N/A | N/A | N/A  
+[FastAI](https://github.com/recommenders-team/recommenders/blob/main/examples/00_quick_start/fastai_movielens.ipynb) | 0.025503 | 0.147866 | 0.130329 | 0.053824 | 0.943084 | 0.744337 | 0.285308 | 0.287671  
+[LightGCN](https://github.com/recommenders-team/recommenders/blob/main/examples/02_model_collaborative_filtering/lightgcn_deep_dive.ipynb) | 0.088526 | 0.419846 | 0.379626 | 0.144336 | N/A | N/A | N/A | N/A  
+[NCF](https://github.com/recommenders-team/recommenders/blob/main/examples/02_model_collaborative_filtering/ncf_deep_dive.ipynb) | 0.107720 | 0.396118 | 0.347296 | 0.180775 | N/A | N/A | N/A | N/A  
+[SAR](https://github.com/recommenders-team/recommenders/blob/main/examples/00_quick_start/sar_movielens.ipynb) | 0.110591 | 0.382461 | 0.330753 | 0.176385 | 1.253805 | 1.048484 | -0.569363 | 0.030474  
+[SVD](https://github.com/recommenders-team/recommenders/blob/main/examples/02_model_collaborative_filtering/surprise_svd_deep_dive.ipynb) | 0.012873 | 0.095930 | 0.091198 | 0.032783 | 0.938681 | 0.742690 | 0.291967 | 0.291971  
+## Contributing
+[](https://github.com/recommenders-team/recommenders/#contributing)
+This project welcomes contributions and suggestions. Before contributing, please see our [contribution guidelines](https://github.com/recommenders-team/recommenders/blob/main/CONTRIBUTING.md).
+This project adheres to this [Code of Conduct](https://github.com/recommenders-team/recommenders/blob/main/CODE_OF_CONDUCT.md) in order to foster a welcoming and inspiring community for all.
+## Build Status
+[](https://github.com/recommenders-team/recommenders/#build-status)
+These tests are the nightly builds, which compute the asynchronous tests. `main` is our principal branch and `staging` is our development branch. We use [pytest](https://docs.pytest.org/) for testing python utilities in [recommenders](https://github.com/recommenders-team/recommenders/blob/main/recommenders) and the Recommenders [notebook executor](https://github.com/recommenders-team/recommenders/blob/main/recommenders/utils/notebook_utils.py) for the [notebooks](https://github.com/recommenders-team/recommenders/blob/main/examples).
+For more information about the testing pipelines, please see the [test documentation](https://github.com/recommenders-team/recommenders/blob/main/tests/README.md).
+### AzureML Nightly Build Status
+[](https://github.com/recommenders-team/recommenders/#azureml-nightly-build-status)
+The nightly build tests are run daily on AzureML.
+Build Type | Branch | Status | Branch | Status  
+---|---|---|---|---  
+**Linux CPU** | main | [![azureml-cpu-nightly](https://github.com/microsoft/recommenders/actions/workflows/azureml-cpu-nightly.yml/badge.svg?branch=main)](https://github.com/microsoft/recommenders/actions/workflows/azureml-cpu-nightly.yml?query=branch%3Amain) | staging | [![azureml-cpu-nightly](https://github.com/microsoft/recommenders/actions/workflows/azureml-cpu-nightly.yml/badge.svg?branch=staging)](https://github.com/microsoft/recommenders/actions/workflows/azureml-cpu-nightly.yml?query=branch%3Astaging)  
+**Linux GPU** | main | [![azureml-gpu-nightly](https://github.com/microsoft/recommenders/actions/workflows/azureml-gpu-nightly.yml/badge.svg?branch=main)](https://github.com/microsoft/recommenders/actions/workflows/azureml-gpu-nightly.yml?query=branch%3Amain) | staging | [![azureml-gpu-nightly](https://github.com/microsoft/recommenders/actions/workflows/azureml-gpu-nightly.yml/badge.svg?branch=staging)](https://github.com/microsoft/recommenders/actions/workflows/azureml-gpu-nightly.yml?query=branch%3Astaging)  
+**Linux Spark** | main | [![azureml-spark-nightly](https://github.com/microsoft/recommenders/actions/workflows/azureml-spark-nightly.yml/badge.svg?branch=main)](https://github.com/microsoft/recommenders/actions/workflows/azureml-spark-nightly.yml?query=branch%3Amain) | staging | [![azureml-spark-nightly](https://github.com/microsoft/recommenders/actions/workflows/azureml-spark-nightly.yml/badge.svg?branch=staging)](https://github.com/microsoft/recommenders/actions/workflows/azureml-spark-nightly.yml?query=branch%3Astaging)  
+## References
+[](https://github.com/recommenders-team/recommenders/#references)
+  * **FREE COURSE** : M. González-Fierro, "Recommendation Systems: A Practical Introduction", LinkedIn Learning, 2024. [Available on this link](https://www.linkedin.com/learning/recommendation-systems-a-practical-introduction).
+  * D. Li, J. Lian, L. Zhang, K. Ren, D. Lu, T. Wu, X. Xie, "Recommender Systems: Frontiers and Practices", Springer, Beijing, 2024. [Available on this link](https://www.amazon.com/Recommender-Systems-Frontiers-Practices-Dongsheng/dp/9819989639/).
+  * A. Argyriou, M. González-Fierro, and L. Zhang, "Microsoft Recommenders: Best Practices for Production-Ready Recommendation Systems", _WWW 2020: International World Wide Web Conference Taipei_ , 2020. Available online: <https://dl.acm.org/doi/abs/10.1145/3366424.3382692>
+  * S. Graham, J.K. Min, T. Wu, "Microsoft recommenders: tools to accelerate developing recommender systems", _RecSys '19: Proceedings of the 13th ACM Conference on Recommender Systems_ , 2019. Available online: <https://dl.acm.org/doi/10.1145/3298689.3346967>
+  * L. Zhang, T. Wu, X. Xie, A. Argyriou, M. González-Fierro and J. Lian, "Building Production-Ready Recommendation System at Scale", _ACM SIGKDD Conference on Knowledge Discovery and Data Mining 2019 (KDD 2019)_ , 2019.
+
+
+## About
+Best Practices on Recommendation Systems 
+[recommenders-team.github.io/recommenders/intro.html](https://recommenders-team.github.io/recommenders/intro.html "https://recommenders-team.github.io/recommenders/intro.html")
+### Topics
+[ python ](https://github.com/topics/python "Topic: python") [ kubernetes ](https://github.com/topics/kubernetes "Topic: kubernetes") [ data-science ](https://github.com/topics/data-science "Topic: data-science") [ machine-learning ](https://github.com/topics/machine-learning "Topic: machine-learning") [ tutorial ](https://github.com/topics/tutorial "Topic: tutorial") [ ai ](https://github.com/topics/ai "Topic: ai") [ deep-learning ](https://github.com/topics/deep-learning "Topic: deep-learning") [ rating ](https://github.com/topics/rating "Topic: rating") [ jupyter-notebook ](https://github.com/topics/jupyter-notebook "Topic: jupyter-notebook") [ artificial-intelligence ](https://github.com/topics/artificial-intelligence "Topic: artificial-intelligence") [ ranking ](https://github.com/topics/ranking "Topic: ranking") [ recommender ](https://github.com/topics/recommender "Topic: recommender") [ recommendation-system ](https://github.com/topics/recommendation-system "Topic: recommendation-system") [ recommendation-engine ](https://github.com/topics/recommendation-engine "Topic: recommendation-engine") [ recommendation ](https://github.com/topics/recommendation "Topic: recommendation") [ recommendation-algorithm ](https://github.com/topics/recommendation-algorithm "Topic: recommendation-algorithm") [ operationalization ](https://github.com/topics/operationalization "Topic: operationalization")
+### Resources
+[ Readme ](https://github.com/recommenders-team/recommenders/#readme-ov-file)
+### License
+[ MIT license ](https://github.com/recommenders-team/recommenders/#MIT-1-ov-file)
+### Code of conduct
+[ Code of conduct ](https://github.com/recommenders-team/recommenders/#coc-ov-file)
+### Security policy
+[ Security policy ](https://github.com/recommenders-team/recommenders/#security-ov-file)
+[ Activity](https://github.com/recommenders-team/recommenders/activity)
+[ Custom properties](https://github.com/recommenders-team/recommenders/custom-properties)
+### Stars
+[ **20k** stars](https://github.com/recommenders-team/recommenders/stargazers)
+### Watchers
+[ **277** watching](https://github.com/recommenders-team/recommenders/watchers)
+### Forks
+[ **3.2k** forks](https://github.com/recommenders-team/recommenders/forks)
+[ Report repository ](https://github.com/contact/report-content?content_url=https%3A%2F%2Fgithub.com%2Frecommenders-team%2Frecommenders&report=recommenders-team+%28user%29)
+##  [Releases 14](https://github.com/recommenders-team/recommenders/releases)
+[ Recommenders 1.2.1 Latest  Dec 24, 2024 ](https://github.com/recommenders-team/recommenders/releases/tag/1.2.1)
+[+ 13 releases](https://github.com/recommenders-team/recommenders/releases)
+##  [Used by 152](https://github.com/recommenders-team/recommenders/network/dependents)
+[
+  * ![@mkleinegger](https://avatars.githubusercontent.com/u/48431875?s=64&v=4)
+  * ![@planwise-org](https://avatars.githubusercontent.com/u/196480641?s=64&v=4)
+  * ![@thanhnienyeumeo](https://avatars.githubusercontent.com/u/85014256?s=64&v=4)
+  * ![@raliev](https://avatars.githubusercontent.com/u/5392297?s=64&v=4)
+  * ![@BexLeetBox](https://avatars.githubusercontent.com/u/93771670?s=64&v=4)
+  * ![@annresearch](https://avatars.githubusercontent.com/u/196245697?s=64&v=4)
+  * ![@charleslow](https://avatars.githubusercontent.com/u/9164511?s=64&v=4)
+  * ![@DavidVart](https://avatars.githubusercontent.com/u/180160928?s=64&v=4)
+
++ 144  ](https://github.com/recommenders-team/recommenders/network/dependents)
+##  [Contributors 105](https://github.com/recommenders-team/recommenders/graphs/contributors)
+  * [ ![@miguelgfierro](https://avatars.githubusercontent.com/u/3491412?s=64&v=4) ](https://github.com/miguelgfierro)
+  * [ ![@yueguoguo](https://avatars.githubusercontent.com/u/1726448?s=64&v=4) ](https://github.com/yueguoguo)
+  * [ ![@anargyri](https://avatars.githubusercontent.com/u/20682858?s=64&v=4) ](https://github.com/anargyri)
+  * [ ![@pradnyeshjoshi](https://avatars.githubusercontent.com/u/10154413?s=64&v=4) ](https://github.com/pradnyeshjoshi)
+  * [ ![@gramhagen](https://avatars.githubusercontent.com/u/5720537?s=64&v=4) ](https://github.com/gramhagen)
+  * [ ![@loomlike](https://avatars.githubusercontent.com/u/42475935?s=64&v=4) ](https://github.com/loomlike)
+  * [ ![@jreynolds01](https://avatars.githubusercontent.com/u/7650665?s=64&v=4) ](https://github.com/jreynolds01)
+  * [ ![@simonzhaoms](https://avatars.githubusercontent.com/u/43029286?s=64&v=4) ](https://github.com/simonzhaoms)
+  * [ ![@laserprec](https://avatars.githubusercontent.com/u/19534002?s=64&v=4) ](https://github.com/laserprec)
+  * [ ![@nikhilrj](https://avatars.githubusercontent.com/u/4022322?s=64&v=4) ](https://github.com/nikhilrj)
+  * [ ![@SimonYansenZhao](https://avatars.githubusercontent.com/u/6165588?s=64&v=4) ](https://github.com/SimonYansenZhao)
+  * [ ![@WessZumino](https://avatars.githubusercontent.com/u/25653652?s=64&v=4) ](https://github.com/WessZumino)
+  * [ ![@YanZhangADS](https://avatars.githubusercontent.com/u/10565026?s=64&v=4) ](https://github.com/YanZhangADS)
+  * [ ![@jingyanwangms](https://avatars.githubusercontent.com/u/47403504?s=64&v=4) ](https://github.com/jingyanwangms)
+
+
+[+ 91 contributors](https://github.com/recommenders-team/recommenders/graphs/contributors)
+## Languages
+  * [ Python 98.0% ](https://github.com/recommenders-team/recommenders/search?l=python)
+  * Other 2.0%
+
+
+## Footer
+[ ](https://github.com "GitHub") © 2025 GitHub, Inc. 
+### Footer navigation
+  * [Terms](https://docs.github.com/site-policy/github-terms/github-terms-of-service)
+  * [Privacy](https://docs.github.com/site-policy/privacy-policies/github-privacy-statement)
+  * [Security](https://github.com/security)
+  * [Status](https://www.githubstatus.com/)
+  * [Docs](https://docs.github.com/)
+  * [Contact](https://support.github.com?tags=dotcom-footer)
+  * Manage cookies 
+  * Do not share my personal information 
+
+
+You can’t perform that action at this time. 

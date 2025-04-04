@@ -1,0 +1,23 @@
+{
+    "id": "cebdfa9cf64b1bedaadaeda8a4da51b3",
+    "metadata": {
+        "id": "cebdfa9cf64b1bedaadaeda8a4da51b3",
+        "url": "https://www.notion.so/Multimodal-cebdfa9cf64b1bedaadaeda8a4da51b3",
+        "title": "Multimodal",
+        "properties": {
+            "Type": "Leaf"
+        }
+    },
+    "parent_metadata": {
+        "id": "a7aa0b61250ede3d5d2e73d8e9cbf3f4",
+        "url": "",
+        "title": "",
+        "properties": {}
+    },
+    "content": "# Articles\n\n\t- [Multimodality and Large Multimodal Models (LMMs) by Chip Huyen](https://huyenchip.com/2023/10/10/multimodal.html#part_2_multimodal_training)\n\t-",
+    "content_quality_score": 0.1,
+    "summary": null,
+    "child_urls": [
+        "https://huyenchip.com/2023/10/10/multimodal.html#part_2_multimodal_training/"
+    ]
+}

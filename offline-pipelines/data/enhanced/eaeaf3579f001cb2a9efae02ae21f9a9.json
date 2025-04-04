@@ -1,0 +1,58 @@
+{
+    "id": "eaeaf3579f001cb2a9efae02ae21f9a9",
+    "metadata": {
+        "id": "eaeaf3579f001cb2a9efae02ae21f9a9",
+        "url": "https://python.langchain.com/docs/modules/data_connection/retrievers/self_query/",
+        "title": "Page Not Found | 🦜️🔗 LangChain",
+        "properties": {
+            "description": null,
+            "keywords": null,
+            "author": null,
+            "og:image": "https://python.langchain.com/img/brand/theme-image.png",
+            "og:url": "https://python.langchain.com/404.html/",
+            "og:locale": "en",
+            "og:title": "Page Not Found | 🦜️🔗 LangChain",
+            "twitter:card": "summary_large_image",
+            "twitter:image": "https://python.langchain.com/img/brand/theme-image.png"
+        }
+    },
+    "parent_metadata": {
+        "id": "cd97a5cb6360dfa3c130fd5e8afeceb7",
+        "url": "https://www.notion.so/RAG-cd97a5cb6360dfa3c130fd5e8afeceb7",
+        "title": "RAG",
+        "properties": {
+            "Type": [
+                "Leaf"
+            ]
+        }
+    },
+    "content": "[Skip to main content](https://python.langchain.com/docs/modules/data_connection/retrievers/self_query/#__docusaurus_skipToContent_fallback)\n**Join us at[ Interrupt: The Agent AI Conference by LangChain](https://interrupt.langchain.com/) on May 13 & 14 in San Francisco!**\n[![🦜️🔗 LangChain](https://python.langchain.com/img/brand/wordmark.png)![🦜️🔗 LangChain](https://python.langchain.com/img/brand/wordmark-dark.png)](https://python.langchain.com/)[Integrations](https://python.langchain.com/docs/integrations/providers/)[API Reference](https://python.langchain.com/api_reference/)\n[More](https://python.langchain.com/docs/modules/data_connection/retrievers/self_query/)\n  * [Contributing](https://python.langchain.com/docs/contributing/)\n  * [People](https://python.langchain.com/docs/people/)\n  * [Error reference](https://python.langchain.com/docs/troubleshooting/errors/)\n  * [LangSmith](https://docs.smith.langchain.com)\n  * [LangGraph](https://langchain-ai.github.io/langgraph/)\n  * [LangChain Hub](https://smith.langchain.com/hub)\n  * [LangChain JS/TS](https://js.langchain.com)\n\n\n[v0.3](https://python.langchain.com/docs/modules/data_connection/retrievers/self_query/)\n  * [v0.3](https://python.langchain.com/docs/introduction/)\n  * [v0.2](https://python.langchain.com/v0.2/docs/introduction)\n  * [v0.1](https://python.langchain.com/v0.1/docs/get_started/introduction)\n\n\n[💬](https://chat.langchain.com)[](https://github.com/langchain-ai/langchain)\nSearch\n# Page Not Found\nWe could not find what you were looking for.\nPlease contact the owner of the site that linked you to the original URL and let them know their link is broken.\nCommunity\n  * [Twitter](https://twitter.com/LangChainAI)\n\n\nGitHub\n  * [Organization](https://github.com/langchain-ai)\n  * [Python](https://github.com/langchain-ai/langchain)\n  * [JS/TS](https://github.com/langchain-ai/langchainjs)\n\n\nMore\n  * [Homepage](https://langchain.com)\n  * [Blog](https://blog.langchain.dev)\n  * [YouTube](https://www.youtube.com/@LangChain)\n\n\nCopyright © 2025 LangChain, Inc.\n",
+    "content_quality_score": 0.2,
+    "summary": null,
+    "child_urls": [
+        "https://python.langchain.com/docs/modules/data_connection/retrievers/self_query/#__docusaurus_skipToContent_fallback",
+        "https://interrupt.langchain.com/",
+        "https://python.langchain.com/",
+        "https://python.langchain.com/docs/integrations/providers/",
+        "https://python.langchain.com/api_reference/",
+        "https://python.langchain.com/docs/modules/data_connection/retrievers/self_query/",
+        "https://python.langchain.com/docs/contributing/",
+        "https://python.langchain.com/docs/people/",
+        "https://python.langchain.com/docs/troubleshooting/errors/",
+        "https://docs.smith.langchain.com",
+        "https://smith.langchain.com/hub",
+        "https://js.langchain.com",
+        "https://python.langchain.com/docs/introduction/",
+        "https://python.langchain.com/v0.2/docs/introduction",
+        "https://python.langchain.com/v0.1/docs/get_started/introduction",
+        "https://chat.langchain.com",
+        "https://langchain.com",
+        "https://langchain-ai.github.io/langgraph/",
+        "https://github.com/langchain-ai/langchain",
+        "https://twitter.com/LangChainAI",
+        "https://github.com/langchain-ai",
+        "https://github.com/langchain-ai/langchainjs",
+        "https://blog.langchain.dev",
+        "https://www.youtube.com/@LangChain"
+    ]
+}

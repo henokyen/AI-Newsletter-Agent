@@ -1,0 +1,47 @@
+{
+    "id": "f70a39edffb7ce2a003e6aafac2fefd5",
+    "metadata": {
+        "id": "f70a39edffb7ce2a003e6aafac2fefd5",
+        "url": "https://aligneval.com/",
+        "title": "AlignEval: Making Evals Easy, Fun, and Semi-Automated",
+        "properties": {
+            "description": "A prototype tool/game to help you look at your data, label it, evaluate output, and optimize evaluators.",
+            "keywords": null,
+            "author": null,
+            "og:title": "AlignEval: Making Evals Easy, Fun, and Semi-Automated",
+            "og:description": "A prototype tool/game to help you look at your data, label it, evaluate output, and optimize evaluators.",
+            "og:url": "https://aligneval.com",
+            "og:site_name": "AlignEval",
+            "og:locale": "en_US",
+            "og:image": "https://aligneval.com/og-image.jpg",
+            "og:image:secure_url": "https://aligneval.com/og-image.jpg",
+            "og:image:width": "1200",
+            "og:image:height": "630",
+            "og:image:alt": "AlignEval: Upload, Label, Evaluate, Optimize",
+            "og:type": "website",
+            "twitter:card": "summary_large_image",
+            "twitter:creator": "@eugeneyan",
+            "twitter:title": "AlignEval: Making Evals Easy, Fun, and Semi-Automated",
+            "twitter:description": "A prototype tool/game to help you look at your data, label it, evaluate output, and optimize evaluators.",
+            "twitter:image": "https://aligneval.com/og-image.jpg",
+            "twitter:image:secure_url": "https://aligneval.com/og-image.jpg",
+            "twitter:image:alt": "AlignEval: Upload, Label, Evaluate, Optimize"
+        }
+    },
+    "parent_metadata": {
+        "id": "8da6faa70a2e494c0fddcd164b39c2dd",
+        "url": "https://www.notion.so/Evaluate-LLMs-RAG-8da6faa70a2e494c0fddcd164b39c2dd",
+        "title": "Evaluate LLMs & RAG",
+        "properties": {
+            "Type": "Leaf"
+        }
+    },
+    "content": "Loading...\nCreated by [Eugene Yan](https://eugeneyan.com).\n[![X](https://aligneval.com/x.svg)](https://x.com/eugeneyan)[![GitHub](https://aligneval.com/github.svg)](https://github.com/eugeneyan/align-app)\n",
+    "content_quality_score": 0.0,
+    "summary": null,
+    "child_urls": [
+        "https://eugeneyan.com",
+        "https://x.com/eugeneyan",
+        "https://github.com/eugeneyan/align-app"
+    ]
+}

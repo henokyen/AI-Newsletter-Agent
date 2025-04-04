@@ -1,0 +1,100 @@
+•
+NaN / NaN
+Back  [ ](https://www.youtube.com/ "YouTube Home")
+Skip navigation
+Search 
+Search with your voice 
+[ ](https://www.youtube.com/ "YouTube Home")
+Advanced RAG 01: Small-to-Big Retrieval with LlamaIndex
+Search
+Watch later
+Share
+Copy link
+Info
+Shopping
+Tap to unmute
+2x
+If playback doesn't begin shortly, try restarting your device.
+•
+Up next
+LiveUpcoming
+CancelPlay Now
+You're signed out
+Videos you watch may be added to the TV's watch history and influence TV recommendations. To avoid this, cancel and sign in to YouTube on your computer.
+CancelConfirm
+![](https://i.ytimg.com/an/ruSa8hlUAa3aHQ189oOggQ/featured_channel.jpg?v=62c3c26d)
+Sophia Yang
+Subscribe
+Subscribed
+Share
+Include playlist
+An error occurred while retrieving sharing information. Please try again later.
+0:00
+[](https://www.youtube.com/watch?v=LkED9wKI1TY "Next \(SHIFT+n\)")
+0:00 / 9:16•Watch full videoLive
+•
+•
+Scroll for details
+#  Advanced RAG 01: Small-to-Big Retrieval with LlamaIndex
+[![](https://yt3.ggpht.com/W4WMgGDgKT_oK5v-OMwpmmjtSnQhfbS4ijMsGWkCxZyF-JWQHbBCn9brrnwCCeHZyvMVVqo8=s48-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/@SophiaYangDS)
+[Sophia Yang](https://www.youtube.com/@SophiaYangDS)
+Sophia Yang 
+19.7K subscribers
+<__slot-el>
+Subscribe
+<__slot-el>
+Subscribed
+429
+Share
+Download
+Download 
+Save
+13K views1 year ago[#ai](https://www.youtube.com/hashtag/ai)
+13,822 views • Nov 4, 2023 • #ai 
+Show less 
+Two primary techniques: 
+  * Smaller Child Chunks Referring to Bigger Parent Chunks: Fetch smaller chunks during retrieval fi
+
+…...more 
+...more 
+Transcript
+Follow along using the transcript.
+Show transcript
+### [Sophia Yang 19.7K subscribers  ](https://www.youtube.com/@SophiaYangDS)
+[Videos](https://www.youtube.com/channel/UCruSa8hlUAa3aHQ189oOggQ/videos)
+[About](https://www.youtube.com/channel/UCruSa8hlUAa3aHQ189oOggQ/about)
+[Videos](https://www.youtube.com/channel/UCruSa8hlUAa3aHQ189oOggQ/videos)[About](https://www.youtube.com/channel/UCruSa8hlUAa3aHQ189oOggQ/about)[LinkedIn](https://www.youtube.com/redirect?event=Watch_SD_EP&redir_token=QUFFLUhqbktiR1ctSGMwbEhCbktpSkRmc3EzVlBoMnRjZ3xBQ3Jtc0ttZVNwOEVQRncycFpsT0ZSTThWbmxPYzFBR3ZIVWhBdm1tTnFHNGZpLWZRQXIwQnpJcU1nZHE0czZxVHFFc0lwY0pBekxqSWhRdll6d1JaNDZhamhFZUdrVFl3eW4zSUp5VF8xeDlPQWVmZlhrWkdaOA&q=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fsophiamyang%2F)[Twitter](https://www.youtube.com/redirect?event=Watch_SD_EP&redir_token=QUFFLUhqbGl3Z19KZHFLaXdoTnNJWFVNOFRXZllaZDc4QXxBQ3Jtc0tsWldlYkJqZ1RkSnB1SVBqVUMydVphLXNEOUdXLVJOVDBKcW1RaHN5MXpuNkd4SUdKNFVjRFhheTVNT0c3SXI4ZDdyTVJYVS11MGo3dzY3cEJFbm9hTV9jNnJ2b3BtTmRTU1NDLWlRaDJKMDFGVnBrZw&q=https%3A%2F%2Ftwitter.com%2Fsophiamyang)[Discord](https://www.youtube.com/redirect?event=Watch_SD_EP&redir_token=QUFFLUhqbnY2SXFZSWU2bTlJRjUzd1JlMHNQV2xvWjNrUXxBQ3Jtc0trT0lhQWtSaWtYWVZ4WWdHYzh2aXl0REpfZmFGQnF4VEh3QzlNQkpIWmVhOHpKNDlPSmx1MmRVM0ViUExyNjd0amk2cF9iWVF3bnppS2ZOMm1EeW44eUZqcGlNSnlkY29sVTR5QkNEYVQwREc1QWRVVQ&q=https%3A%2F%2Fdiscord.com%2Finvite%2F6BremEf9db)
+Show less 
+[](https://www.youtube.com/hashtag/ai)[#ai](https://www.youtube.com/hashtag/ai)
+# Advanced RAG 01: Small-to-Big Retrieval with LlamaIndex
+13,822 views13K views
+Nov 4, 2023
+429
+Share
+Download
+Download 
+Save
+##  Comments 33
+Top comments  Newest first 
+##  Description
+Advanced RAG 01: Small-to-Big Retrieval with LlamaIndex
+429Likes
+13,822Views
+2023Nov 4
+Two primary techniques: 
+  * Smaller Child Chunks Referring to Bigger Parent Chunks: Fetch smaller chunks during retrieval first, then reference the parent IDs, and return the bigger chunks. 
+  * Sentence Window Retrieval: Fetch a single sentence during retrieval and return a window of text around the sentence. 
+
+🔗 Blog: [ / advanced-rag-01-small-to-big-retrieval ](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbkFEcnRyX3Z2ak13MVJJbi1rSDdKdWRLM0VrQXxBQ3Jtc0tuM3ktUE42ZzBqTGp3ZjJMNDZjVmhONmFRdVNPOEw0ZFVJbm8yWUxYVmJLWkNHNWhjZW1EaExNVFVoNmU4aHRTdU1HTmxmVHVsUlZtcW05WnlCcVZoZWYxM2NmbU95MlpFYlQwRDBjS1JHYzVaTmFudw&q=https%3A%2F%2Fsophiamyang.medium.com%2Fadvanced-rag-01-small-to-big-retrieval-172181b396d4&v=ihSiRrOUwmg) 🔗 Notebook: [https://colab.research.google.com/git...](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa2NMMFU1U3hwWng2RXBUa0JaNHhWcWFHRnNEQXxBQ3Jtc0tuT3dpRUYxY2lERzhtMFZXUFpUaWJYenFLdEZ0RUs1bDNNbFRFQTZ6R0N2cGJzdHBOeHpaM2h1ZzIzeklJbVh2dTd2dk9pQ0FRTk5saVR2d1FkUGZWdmN4YkgzRGVPdzFaUm5HSGxyRzlKLURodlhDaw&q=https%3A%2F%2Fcolab.research.google.com%2Fgithub%2Fsophiamyang%2Fdemos%2Fblob%2Fmain%2Fadvanced_rag_small_to_big.ipynb&v=ihSiRrOUwmg) 🔔 SUBSCRIBE to my channel: [https://www.youtube.com/c/SophiaYangD...](https://www.youtube.com/c/SophiaYangDS?sub_confirmation=1) ⭐ Stay in touch ⭐ 📚 DS/ML Book Club: [http://dsbookclub.github.io/](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbWxfeTlBa3RWVHBoSDhBaHBlWEgySE05U3VpZ3xBQ3Jtc0ttNko4VWh1LU9WQ0JtazBySkhaeFpsV3NZRzI2aUJoVjc1UFNnTkNZWnhKT1BQenhNeVJQQUxMem44NFBCdzd2V2dBSzItQkVXbzFPNV9QSVFFeVZaTzdid0h6b2NEdGRnaTBHZWYzY092bWlFLWFHRQ&q=http%3A%2F%2Fdsbookclub.github.io%2F&v=ihSiRrOUwmg) ▶ YouTube: [ / sophiayangds ](https://youtube.com/SophiaYangDS) ✍️ Medium: [ / sophiamyang ](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbEt6eFYxa0dSU1JhLUtmdHR0cTRKZG1IazBjQXxBQ3Jtc0tsblg4N05lMnJxcGZZTDAxUEZzRVhoWkxsWWhrUWlLV3o2aVBKal9ISjZSVHpwamxjOXRpUDdqblZyOC1GcTNHNVpwR2NKNDlQSHRLUmp1VzhQOFIzbGNIYzlCTkVsQ3EzYzJQNmw4eUJ3SFBJemRVWQ&q=https%3A%2F%2Fsophiamyang.medium.com%2F&v=ihSiRrOUwmg) 🐦 Twitter: [ / sophiamyang ](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa0hjNFA5SERqOGFpRlI2aW1RMW9iSGxvdkN6QXxBQ3Jtc0tuNk91RUNBRm9GUDFWQ0M1WVZ2NGs5R05qUC1JNENEcmw5aEtWTVhMLUUxVHgxbjJGc29BVXd1Tmp6S1VlRHRGdU80cU1CZUk4MEZkYXdwcHhfRTNRakxlOXVkdTQtZ3dwcVY3TFBZYXBtbHR2dnB6bw&q=https%3A%2F%2Ftwitter.com%2Fsophiamyang&v=ihSiRrOUwmg) 🤝 Linkedin: [ / sophiamyang ](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbVoxbm01SmtwQlFNd0hVRUJPY3VmNHF4VEVuQXxBQ3Jtc0trRXNCamZ4TXZWcFdqV3lQd2ZDQUtXSDlIYjZPcndqa2psVW40b3B2cHB2TzRNaWZCZHFicUswNUlJOEFQaHdVOTJjenBLS1hCUXVJbXlNcVNZN0p2bzQ5UlBVS2FvR29hQWhHdk9YNkJDMmVLZnRCMA&q=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fsophiamyang%2F&v=ihSiRrOUwmg) 💚 [#ai](https://www.youtube.com/hashtag/ai)…...more 
+...more Show less 
+Transcript
+Follow along using the transcript.
+Show transcript
+### [Sophia Yang 19.7K subscribers  ](https://www.youtube.com/@SophiaYangDS)
+[Videos](https://www.youtube.com/channel/UCruSa8hlUAa3aHQ189oOggQ/videos)
+[About](https://www.youtube.com/channel/UCruSa8hlUAa3aHQ189oOggQ/about)
+[Videos](https://www.youtube.com/channel/UCruSa8hlUAa3aHQ189oOggQ/videos)[About](https://www.youtube.com/channel/UCruSa8hlUAa3aHQ189oOggQ/about)[LinkedIn](https://www.youtube.com/redirect?event=Watch_SD_EP&redir_token=QUFFLUhqbktiR1ctSGMwbEhCbktpSkRmc3EzVlBoMnRjZ3xBQ3Jtc0ttZVNwOEVQRncycFpsT0ZSTThWbmxPYzFBR3ZIVWhBdm1tTnFHNGZpLWZRQXIwQnpJcU1nZHE0czZxVHFFc0lwY0pBekxqSWhRdll6d1JaNDZhamhFZUdrVFl3eW4zSUp5VF8xeDlPQWVmZlhrWkdaOA&q=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fsophiamyang%2F)[Twitter](https://www.youtube.com/redirect?event=Watch_SD_EP&redir_token=QUFFLUhqbGl3Z19KZHFLaXdoTnNJWFVNOFRXZllaZDc4QXxBQ3Jtc0tsWldlYkJqZ1RkSnB1SVBqVUMydVphLXNEOUdXLVJOVDBKcW1RaHN5MXpuNkd4SUdKNFVjRFhheTVNT0c3SXI4ZDdyTVJYVS11MGo3dzY3cEJFbm9hTV9jNnJ2b3BtTmRTU1NDLWlRaDJKMDFGVnBrZw&q=https%3A%2F%2Ftwitter.com%2Fsophiamyang)[Discord](https://www.youtube.com/redirect?event=Watch_SD_EP&redir_token=QUFFLUhqbnY2SXFZSWU2bTlJRjUzd1JlMHNQV2xvWjNrUXxBQ3Jtc0trT0lhQWtSaWtYWVZ4WWdHYzh2aXl0REpfZmFGQnF4VEh3QzlNQkpIWmVhOHpKNDlPSmx1MmRVM0ViUExyNjd0amk2cF9iWVF3bnppS2ZOMm1EeW44eUZqcGlNSnlkY29sVTR5QkNEYVQwREc1QWRVVQ&q=https%3A%2F%2Fdiscord.com%2Finvite%2F6BremEf9db)
+##  Transcript
+NaN / NaN
+[ ![](https://i.ytimg.com/vi/0J4dsEq8i08/hq720.jpg?sqp=-oaymwEnCOgCEMoBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBpVLz5wFauvzo3fMtjxY6C0lG4Qg) ](https://www.googleadservices.com/pagead/aclk?sa=L&ai=Cg8ZIQIPpZ7--Adaprr4P3omVkQy5tpmDfvq0triDFPbI_MiQIhABIABgybaGh8yjwBeCARdjYS1wdWItNjIxOTgxMTc0NzA0OTM3MaAB9qfZ8z2oAwSqBOMCT9BJ21ELZqyv0EYrA_DfzDr2uvCZ6iQTlwfTVtriOGCq6bnqaMKDHaZsPLZ0CFjzHOBTBaIG47Vfn0kYnSAqHRaKuosk58Y6oItLoY75qV1zV04MyntLbnJJRlCSG2RvLU4OCr1g6P_jlE5r99ATkqm_J_gcWZ2EmVSkILNUi1131QrI1ohZKKj4u4TzrBFsj9tV53WcBvtgzn05e-ZDpVgeST0r72IjhsuAadagTceDoWYCIFQRdTGDYzm51yUKxAmf0BWuB32H_a7mc1PDak02-8mJq6vGKfJC6vsbKhYUKI96vplhsH3v0Re5T2IA2lcjbSFe9hViiOOVkrafI1g82FDv0ptEjxIGUbwxUTVDcDwGw0Gz5_u-pWirAnCAV0DV0VsoKlePerkfzf4fT_1FKzq2BZuvFAT9FBepT7RAcbVabVvg1-oV70wqVvbrxy_EDE5EBugSBO3N6jbrWBOVMIgFq7CMhFCSBQ0IEjDPlvLVhLaHz9ABkgUKCBNoAniIh-PbGJIFBAgDEASgBlWAB_bfqdMYkAcEqAf5sbECqAeAurECqAfywLECqAe4xLECqAelz7ECqAe9zbECqAfnnbECqAfonbECqAfvtbECqAfwtbECqAeCqrECqAeECKgHqNIbqAe2B6gHsdwbqAewm7ECqAeusbECqAfmvLECqAfKurECqAf8y7ECqAf9srECqAf3uLECqAf4uLECqAfNx7ECqAelzLECqAeBxhuoB_yvsQKoB9XOG6gHq8UbqAec3BuoB7ehsQKoB9WpsQKoB961sQKoB-qxsQKoB763sQKoB5m1sQKoB4XBsQKoB-ulsQKoB8qpsQKSCAswSjRkc0VxOGkwOKgIAdIIKAiAQRABGF4yAoICOguAY4DAgICAgICAAkjZoNI1UBRYkO7d962yjAPyCB9jYS15dC1ob3N0LXB1Yi01NzM3OTY5OTc0NjI5ODgzmgkdaHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2ixCScjNEreIuKdyAkXyAmPAZgLAaELfgz3GVMKoE-6CzkIARAFGAYgBigBMBpAAUgAWAtgAGgAcAGIAQCYAQGiAQwKAFgBcAGoAgHYAgKoAQHYAQGAAgGIAgTQCxPaDCYKCxCww5jP8-S4-8gBEgIBAxoNGKuwjIRQII6twdvpBEABSgIQH5oNAROgDQGqDQJVU8gNAbgT____________AbAUAcAVgYCAQNAVAdgVAYAXAYoXFggDGAEgASgBMAE4AUABSAFQAVgBYAKgFwG6FwYoADAAOAHQGAHwGAE&ase=2&gclid=EAIaIQobChMIv97e962yjAMV1pTLAR3eRCXCEAEYASAAEgLmVvD_BwE&num=1&cid=CAASFeRojuQtb6qHZMkDTkqMzR9zom-Xxg&ad_cpn=%5BCPN%5D&sig=AOD64_3bZQqr4KQPrLjYT8jwgugO2cpRXg&adurl=https://www.youtube.com/watch%3Fv%3D0J4dsEq8i08%26gad_source%3D2&ctype=21&video_id=0J4dsEq8i08&client=ca-pub-6219811747049371)
+### [ Experiment tracker built for foundation model training  [neptune_ai](https://www.youtube.com/@neptune_ai) neptune_ai  • • 1.3K views Sponsored ](https://www.googleadservices.com/pagead/aclk?sa=L&ai=Cg8ZIQIPpZ7--Adaprr4P3omVkQy5tpmDfvq0triDFPbI_MiQIhABIABgybaGh8yjwBeCARdjYS1wdWItNjIxOTgxMTc0NzA0OTM3MaAB9qfZ8z2oAwSqBOMCT9BJ21ELZqyv0EYrA_DfzDr2uvCZ6iQTlwfTVtriOGCq6bnqaMKDHaZsPLZ0CFjzHOBTBaIG47Vfn0kYnSAqHRaKuosk58Y6oItLoY75qV1zV04MyntLbnJJRlCSG2RvLU4OCr1g6P_jlE5r99ATkqm_J_gcWZ2EmVSkILNUi1131QrI1ohZKKj4u4TzrBFsj9tV53WcBvtgzn05e-ZDpVgeST0r72IjhsuAadagTceDoWYCIFQRdTGDYzm51yUKxAmf0BWuB32H_a7mc1PDak02-8mJq6vGKfJC6vsbKhYUKI96vplhsH3v0Re5T2IA2lcjbSFe9hViiOOVkrafI1g82FDv0ptEjxIGUbwxUTVDcDwGw0Gz5_u-pWirAnCAV0DV0VsoKlePerkfzf4fT_1FKzq2BZuvFAT9FBepT7RAcbVabVvg1-oV70wqVvbrxy_EDE5EBugSBO3N6jbrWBOVMIgFq7CMhFCSBQ0IEjDPlvLVhLaHz9ABkgUKCBNoAniIh-PbGJIFBAgDEASgBlWAB_bfqdMYkAcEqAf5sbECqAeAurECqAfywLECqAe4xLECqAelz7ECqAe9zbECqAfnnbECqAfonbECqAfvtbECqAfwtbECqAeCqrECqAeECKgHqNIbqAe2B6gHsdwbqAewm7ECqAeusbECqAfmvLECqAfKurECqAf8y7ECqAf9srECqAf3uLECqAf4uLECqAfNx7ECqAelzLECqAeBxhuoB_yvsQKoB9XOG6gHq8UbqAec3BuoB7ehsQKoB9WpsQKoB961sQKoB-qxsQKoB763sQKoB5m1sQKoB4XBsQKoB-ulsQKoB8qpsQKSCAswSjRkc0VxOGkwOKgIAdIIKAiAQRABGF4yAoICOguAY4DAgICAgICAAkjZoNI1UBRYkO7d962yjAPyCB9jYS15dC1ob3N0LXB1Yi01NzM3OTY5OTc0NjI5ODgzmgkdaHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2ixCScjNEreIuKdyAkXyAmPAZgLAaELfgz3GVMKoE-6CzkIARAFGAYgBigBMBpAAUgAWAtgAGgAcAGIAQCYAQGiAQwKAFgBcAGoAgHYAgKoAQHYAQGAAgGIAgTQCxPaDCYKCxCww5jP8-S4-8gBEgIBAxoNGKuwjIRQII6twdvpBEABSgIQH5oNAROgDQGqDQJVU8gNAbgT____________AbAUAcAVgYCAQNAVAdgVAYAXAYoXFggDGAEgASgBMAE4AUABSAFQAVgBYAKgFwG6FwYoADAAOAHQGAHwGAE&ase=2&gclid=EAIaIQobChMIv97e962yjAMV1pTLAR3eRCXCEAEYASAAEgLmVvD_BwE&num=1&cid=CAASFeRojuQtb6qHZMkDTkqMzR9zom-Xxg&ad_cpn=%5BCPN%5D&sig=AOD64_3bZQqr4KQPrLjYT8jwgugO2cpRXg&adurl=https://www.youtube.com/watch%3Fv%3D0J4dsEq8i08%26gad_source%3D2&ctype=21&video_id=0J4dsEq8i08&client=ca-pub-6219811747049371)

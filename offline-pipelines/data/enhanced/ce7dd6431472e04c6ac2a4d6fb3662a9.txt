@@ -1,0 +1,161 @@
+[![Hugging Face's logo](https://huggingface.co/front/assets/huggingface_logo-noborder.svg) Hugging Face](https://huggingface.co/)
+  * [ Models](https://huggingface.co/models)
+  * [ Datasets](https://huggingface.co/datasets)
+  * [ Spaces](https://huggingface.co/spaces)
+  * [ Posts](https://huggingface.co/posts)
+  * [ Docs](https://huggingface.co/docs)
+  * [ Enterprise](https://huggingface.co/enterprise)
+  * [Pricing](https://huggingface.co/pricing)
+  * [Log In](https://huggingface.co/login)
+  * [Sign Up](https://huggingface.co/join)
+
+
+Transformers documentation
+Web server inference
+# Transformers
+🏡 View all docsAWS Trainium & InferentiaAccelerateAmazon SageMakerArgillaAutoTrainBitsandbytesChat UICompetitionsDataset viewerDatasetsDiffusersDistilabelEvaluateGradioHubHub Python LibraryHugging Face Generative AI Services (HUGS)Huggingface.jsInference API (serverless)Inference Endpoints (dedicated)LeaderboardsLightevalOptimumPEFTSafetensorsSentence TransformersTRLTasksText Embeddings InferenceText Generation InferenceTokenizersTransformersTransformers.jssmolagentstimm
+Search documentation
+`⌘K`
+mainv4.50.0v4.49.0v4.48.2v4.47.1v4.46.3v4.45.2v4.44.2v4.43.4v4.42.4v4.41.2v4.40.2v4.39.3v4.38.2v4.37.2v4.36.1v4.35.2v4.34.1v4.33.3v4.32.1v4.31.0v4.30.0v4.29.1v4.28.1v4.27.2v4.26.1v4.25.1v4.24.0v4.23.1v4.22.2v4.21.3v4.20.1v4.19.4v4.18.0v4.17.0v4.16.2v4.15.0v4.14.1v4.13.0v4.12.5v4.11.3v4.10.1v4.9.2v4.8.2v4.7.0v4.6.0v4.5.1v4.4.2v4.3.3v4.2.2v4.1.1v4.0.1v3.5.1v3.4.0v3.3.1v3.2.0v3.1.0v3.0.2v2.11.0v2.10.0v2.9.1v2.8.0v2.7.0v2.6.0v2.5.1v2.4.1v2.3.0v2.2.2v2.1.1v2.0.0v1.2.0v1.1.0v1.0.0doc-builder-html ARDEENESFRHIITJAKOPTTETRZH [ 142,161](https://github.com/huggingface/transformers)
+Get started
+[Transformers ](https://huggingface.co/docs/transformers/en/index)[Installation ](https://huggingface.co/docs/transformers/en/installation)[Quickstart ](https://huggingface.co/docs/transformers/en/quicktour)
+Base classes
+Inference
+Pipeline API
+[Pipeline ](https://huggingface.co/docs/transformers/en/pipeline_tutorial)[Machine learning apps ](https://huggingface.co/docs/transformers/en/pipeline_gradio)[Web server inference ](https://huggingface.co/docs/transformers/en/pipeline_webserver)[Adding a new pipeline ](https://huggingface.co/docs/transformers/en/add_new_pipeline)
+LLMs
+Chat with models
+Optimization
+[Agents ](https://huggingface.co/docs/transformers/en/agents)[Tools ](https://huggingface.co/docs/transformers/en/tools)
+Training
+Quantization
+Export to production
+Resources
+Contribute
+API
+![Hugging Face's logo](https://huggingface.co/front/assets/huggingface_logo-noborder.svg)
+Join the Hugging Face community
+and get access to the augmented documentation experience 
+Collaborate on models, datasets and Spaces 
+Faster examples with accelerated inference 
+Switch between documentation themes 
+[Sign Up](https://huggingface.co/join)
+to get started
+# [](https://huggingface.co/docs/transformers/en/pipeline_webserver#web-server-inference) Web server inference
+A web server is a system that waits for requests and serves them as they come in. This means you can use [Pipeline](https://huggingface.co/docs/transformers/v4.50.0/en/main_classes/pipelines#transformers.Pipeline) as an inference engine on a web server, since you can use an iterator (similar to how you would [iterate over a dataset](https://huggingface.co/docs/transformers/en/pipeline_tutorial#large-datasets)) to handle each incoming request.
+Designing a web server with [Pipeline](https://huggingface.co/docs/transformers/v4.50.0/en/main_classes/pipelines#transformers.Pipeline) is unique though because they’re fundamentally different. Web servers are multiplexed (multithreaded, async, etc.) to handle multiple requests concurrently. [Pipeline](https://huggingface.co/docs/transformers/v4.50.0/en/main_classes/pipelines#transformers.Pipeline) and its underlying model on the other hand are not designed for parallelism because they take a lot of memory. It’s best to give a [Pipeline](https://huggingface.co/docs/transformers/v4.50.0/en/main_classes/pipelines#transformers.Pipeline) all the available resources when they’re running or for a compute intensive job.
+This guide shows how to work around this difference by using a web server to handle the lighter load of receiving and sending requests, and having a single thread to handle the heavier load of running [Pipeline](https://huggingface.co/docs/transformers/v4.50.0/en/main_classes/pipelines#transformers.Pipeline).
+## [](https://huggingface.co/docs/transformers/en/pipeline_webserver#create-a-server) Create a server
+[Starlette](https://www.starlette.io/) is a lightweight framework for building web servers. You can use any other framework you’d like, but you may have to make some changes to the code below.
+Before you begin, make sure Starlette and [uvicorn](http://www.uvicorn.org/) are installed.
+Copied
+```
+!pip install starlette uvicorn
+```
+
+Now you can create a simple web server in a `server.py` file. The key is to only load the model **once** to prevent unnecessary copies of it from consuming memory.
+Create a pipeline to fill in the masked token, `[MASK]`.
+Copied
+```
+from starlette.applications import Starlette
+from starlette.responses import JSONResponse
+from starlette.routing import Route
+from transformers import pipeline
+import asyncio
+async def homepage(request):
+  payload = await request.body()
+  string = payload.decode("utf-8")
+  response_q = asyncio.Queue()
+  await request.app.model_queue.put((string, response_q))
+  output = await response_q.get()
+  return JSONResponse(output)
+async def server_loop(q):
+  pipeline = pipeline(task="fill-mask",model="google-bert/bert-base-uncased")
+  while True:
+    (string, response_q) = await q.get()
+    out = pipeline(string)
+    await response_q.put(out)
+app = Starlette(
+  routes=[
+    Route("/", homepage, methods=["POST"]),
+  ],
+)
+@app.on_event("startup")
+async def startup_event():
+  q = asyncio.Queue()
+  app.model_queue = q
+  asyncio.create_task(server_loop(q))
+```
+
+Start the server with the following command.
+Copied
+```
+uvicorn server:app
+```
+
+Query the server with a POST request.
+Copied
+```
+curl -X POST -d "Paris is the [MASK] of France." http://localhost:8000/
+[{'score': 0.9969332218170166,
+ 'token': 3007,
+ 'token_str': 'capital',
+ 'sequence': 'paris is the capital of france.'},
+ {'score': 0.0005914849461987615,
+ 'token': 2540,
+ 'token_str': 'heart',
+ 'sequence': 'paris is the heart of france.'},
+ {'score': 0.00043787318281829357,
+ 'token': 2415,
+ 'token_str': 'center',
+ 'sequence': 'paris is the center of france.'},
+ {'score': 0.0003378340043127537,
+ 'token': 2803,
+ 'token_str': 'centre',
+ 'sequence': 'paris is the centre of france.'},
+ {'score': 0.00026995912776328623,
+ 'token': 2103,
+ 'token_str': 'city',
+ 'sequence': 'paris is the city of france.'}]
+```
+
+## [](https://huggingface.co/docs/transformers/en/pipeline_webserver#queuing-requests) Queuing requests
+The server’s queuing mechanism can be used for some interesting applications such as dynamic batching. Dynamic batching accumulates several requests first before processing them with [Pipeline](https://huggingface.co/docs/transformers/v4.50.0/en/main_classes/pipelines#transformers.Pipeline).
+The example below is written in pseudocode for readability rather than performance, in particular, you’ll notice that:
+  1. There is no batch size limit.
+  2. The timeout is reset on every queue fetch, so you could end up waiting much longer than the `timeout` value before processing a request. This would also delay the first inference request by that amount of time. The web server always waits 1ms even if the queue is empty, which is inefficient, because that time can be used to start inference. It could make sense though if batching is essential to your use case.
+It would be better to have a single 1ms deadline, instead of resetting it on every fetch.
+
+
+Copied
+```
+(string, rq) = await q.get()
+strings = []
+queues = []
+while True:
+  try:
+    (string, rq) = await asyncio.wait_for(q.get(), timeout=0.001)
+  except asyncio.exceptions.TimeoutError:
+    break
+  strings.append(string)
+  queues.append(rq)
+strings
+outs = pipeline(strings, batch_size=len(strings))
+for rq, out in zip(queues, outs):
+  await rq.put(out)
+```
+
+## [](https://huggingface.co/docs/transformers/en/pipeline_webserver#error-checking) Error checking
+There are many things that can go wrong in production. You could run out-of-memory, out of space, fail to load a model, have an incorrect model configuration, have an incorrect query, and so much more.
+Adding `try...except` statements is helpful for returning these errors to the user for debugging. Keep in mind this could be a security risk if you shouldn’t be revealing certain information.
+## [](https://huggingface.co/docs/transformers/en/pipeline_webserver#circuit-breaking) Circuit breaking
+Try to return a 503 or 504 error when the server is overloaded instead of forcing a user to wait indefinitely.
+It is relatively simple to implement these error types since it’s only a single queue. Take a look at the queue size to determine when to start returning errors before your server fails under load.
+## [](https://huggingface.co/docs/transformers/en/pipeline_webserver#block-the-main-thread) Block the main thread
+PyTorch is not async aware, so computation will block the main thread from running.
+For this reason, it’s better to run PyTorch on its own separate thread or process. When inference of a single request is especially long (more than 1s), it’s even more important because it means every query during inference must wait 1s before even receiving an error.
+## [](https://huggingface.co/docs/transformers/en/pipeline_webserver#dynamic-batching) Dynamic batching
+Dynamic batching can be very effective when used in the correct setting, but it’s not necessary when you’re only passing 1 request at a time (see [batch inference](https://huggingface.co/docs/transformers/en/pipeline_tutorial#batch-inference) for more details).
+[< > Update on GitHub](https://github.com/huggingface/transformers/blob/main/docs/source/en/pipeline_webserver.md)
+[←Machine learning apps](https://huggingface.co/docs/transformers/en/pipeline_gradio) [Adding a new pipeline→](https://huggingface.co/docs/transformers/en/add_new_pipeline)
+[Web server inference](https://huggingface.co/docs/transformers/en/pipeline_webserver#web-server-inference) [Create a server](https://huggingface.co/docs/transformers/en/pipeline_webserver#create-a-server) [Queuing requests](https://huggingface.co/docs/transformers/en/pipeline_webserver#queuing-requests) [Error checking](https://huggingface.co/docs/transformers/en/pipeline_webserver#error-checking) [Circuit breaking](https://huggingface.co/docs/transformers/en/pipeline_webserver#circuit-breaking) [Block the main thread](https://huggingface.co/docs/transformers/en/pipeline_webserver#block-the-main-thread) [Dynamic batching](https://huggingface.co/docs/transformers/en/pipeline_webserver#dynamic-batching)

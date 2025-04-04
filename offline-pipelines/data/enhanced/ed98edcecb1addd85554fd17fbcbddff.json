@@ -1,0 +1,32 @@
+{
+    "id": "ed98edcecb1addd85554fd17fbcbddff",
+    "metadata": {
+        "id": "ed98edcecb1addd85554fd17fbcbddff",
+        "url": "https://www.notion.so/Sources-ed98edcecb1addd85554fd17fbcbddff",
+        "title": "Sources",
+        "properties": {
+            "Type": [
+                "Node"
+            ],
+            "Language": null,
+            "Created": {
+                "id": "tmas",
+                "type": "created_time",
+                "created_time": "2024-10-18T14:29:00.000Z"
+            }
+        }
+    },
+    "parent_metadata": {
+        "id": "12a9835ad7d6e8bfdb7af2c6309df5c3",
+        "url": "",
+        "title": "",
+        "properties": {}
+    },
+    "content": "[https://realpython.com/](https://realpython.com/)\n[https://newsletter.systemdesign.one/](https://newsletter.systemdesign.one/)",
+    "content_quality_score": 0.0,
+    "summary": null,
+    "child_urls": [
+        "https://newsletter.systemdesign.one/",
+        "https://realpython.com/"
+    ]
+}

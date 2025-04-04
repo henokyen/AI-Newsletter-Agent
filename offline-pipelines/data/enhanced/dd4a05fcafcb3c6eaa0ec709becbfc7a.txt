@@ -1,0 +1,250 @@
+[Skip to content](https://github.com/coleam00/ai-agents-masterclass/tree/main/#start-of-content)
+## Navigation Menu
+Toggle navigation
+[ ](https://github.com/)
+[ Sign in ](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fcoleam00%2Fai-agents-masterclass%2Ftree%2Fmain%2F)
+  * Product 
+    * [ GitHub Copilot Write better code with AI  ](https://github.com/features/copilot)
+    * [ Security Find and fix vulnerabilities  ](https://github.com/features/security)
+    * [ Actions Automate any workflow  ](https://github.com/features/actions)
+    * [ Codespaces Instant dev environments  ](https://github.com/features/codespaces)
+    * [ Issues Plan and track work  ](https://github.com/features/issues)
+    * [ Code Review Manage code changes  ](https://github.com/features/code-review)
+    * [ Discussions Collaborate outside of code  ](https://github.com/features/discussions)
+    * [ Code Search Find more, search less  ](https://github.com/features/code-search)
+Explore
+    * [ All features ](https://github.com/features)
+    * [ Documentation ](https://docs.github.com)
+    * [ GitHub Skills ](https://skills.github.com)
+    * [ Blog ](https://github.blog)
+  * Solutions 
+By company size
+    * [ Enterprises ](https://github.com/enterprise)
+    * [ Small and medium teams ](https://github.com/team)
+    * [ Startups ](https://github.com/enterprise/startups)
+    * [ Nonprofits ](https://github.com/solutions/industry/nonprofits)
+By use case
+    * [ DevSecOps ](https://github.com/solutions/use-case/devsecops)
+    * [ DevOps ](https://github.com/solutions/use-case/devops)
+    * [ CI/CD ](https://github.com/solutions/use-case/ci-cd)
+    * [ View all use cases ](https://github.com/solutions/use-case)
+By industry
+    * [ Healthcare ](https://github.com/solutions/industry/healthcare)
+    * [ Financial services ](https://github.com/solutions/industry/financial-services)
+    * [ Manufacturing ](https://github.com/solutions/industry/manufacturing)
+    * [ Government ](https://github.com/solutions/industry/government)
+    * [ View all industries ](https://github.com/solutions/industry)
+[ View all solutions ](https://github.com/solutions)
+  * Resources 
+Topics
+    * [ AI ](https://github.com/resources/articles/ai)
+    * [ DevOps ](https://github.com/resources/articles/devops)
+    * [ Security ](https://github.com/resources/articles/security)
+    * [ Software Development ](https://github.com/resources/articles/software-development)
+    * [ View all ](https://github.com/resources/articles)
+Explore
+    * [ Learning Pathways ](https://resources.github.com/learn/pathways)
+    * [ Events & Webinars ](https://resources.github.com)
+    * [ Ebooks & Whitepapers ](https://github.com/resources/whitepapers)
+    * [ Customer Stories ](https://github.com/customer-stories)
+    * [ Partners ](https://partner.github.com)
+    * [ Executive Insights ](https://github.com/solutions/executive-insights)
+  * Open Source 
+    * [ GitHub Sponsors Fund open source developers  ](https://github.com/sponsors)
+    * [ The ReadME Project GitHub community articles  ](https://github.com/readme)
+Repositories
+    * [ Topics ](https://github.com/topics)
+    * [ Trending ](https://github.com/trending)
+    * [ Collections ](https://github.com/collections)
+  * Enterprise 
+    * [ Enterprise platform AI-powered developer platform  ](https://github.com/enterprise)
+Available add-ons
+    * [ Advanced Security Enterprise-grade security features  ](https://github.com/enterprise/advanced-security)
+    * [ Copilot for business Enterprise-grade AI features  ](https://github.com/features/copilot/copilot-business)
+    * [ Premium Support Enterprise-grade 24/7 support  ](https://github.com/premium-support)
+  * [Pricing](https://github.com/pricing)
+
+
+Search or jump to...
+# Search code, repositories, users, issues, pull requests...
+Search 
+Clear
+[Search syntax tips](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax)
+#  Provide feedback 
+We read every piece of feedback, and take your input very seriously.
+Include my email address so I can be contacted
+Cancel  Submit feedback 
+#  Saved searches 
+## Use saved searches to filter your results more quickly
+Name
+Query
+To see all available qualifiers, see our [documentation](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax). 
+Cancel  Create saved search 
+[ Sign in ](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fcoleam00%2Fai-agents-masterclass%2Ftree%2Fmain%2F)
+[ Sign up ](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E&source=header-repo&source_repo=coleam00%2Fai-agents-masterclass) Reseting focus
+You signed in with another tab or window. [Reload](https://github.com/coleam00/ai-agents-masterclass/tree/main/) to refresh your session. You signed out in another tab or window. [Reload](https://github.com/coleam00/ai-agents-masterclass/tree/main/) to refresh your session. You switched accounts on another tab or window. [Reload](https://github.com/coleam00/ai-agents-masterclass/tree/main/) to refresh your session. Dismiss alert
+{{ message }}
+[ coleam00 ](https://github.com/coleam00) / **[ai-agents-masterclass](https://github.com/coleam00/ai-agents-masterclass) ** Public
+  * [ Notifications ](https://github.com/login?return_to=%2Fcoleam00%2Fai-agents-masterclass) You must be signed in to change notification settings
+  * [ Fork 919 ](https://github.com/login?return_to=%2Fcoleam00%2Fai-agents-masterclass)
+  * [ Star  1.9k ](https://github.com/login?return_to=%2Fcoleam00%2Fai-agents-masterclass)
+
+
+Follow along with my AI Agents Masterclass videos! All of the code I create and use in this series on YouTube will be here for you to use and even build on top of! 
+### License
+[ MIT license ](https://github.com/coleam00/ai-agents-masterclass/blob/main/LICENSE)
+[ 1.9k stars ](https://github.com/coleam00/ai-agents-masterclass/stargazers) [ 919 forks ](https://github.com/coleam00/ai-agents-masterclass/forks) [ Branches ](https://github.com/coleam00/ai-agents-masterclass/branches) [ Tags ](https://github.com/coleam00/ai-agents-masterclass/tags) [ Activity ](https://github.com/coleam00/ai-agents-masterclass/activity)
+[ Star  ](https://github.com/login?return_to=%2Fcoleam00%2Fai-agents-masterclass)
+[ Notifications ](https://github.com/login?return_to=%2Fcoleam00%2Fai-agents-masterclass) You must be signed in to change notification settings
+  * [ Code ](https://github.com/coleam00/ai-agents-masterclass)
+  * [ Issues 28 ](https://github.com/coleam00/ai-agents-masterclass/issues)
+  * [ Pull requests 9 ](https://github.com/coleam00/ai-agents-masterclass/pulls)
+  * [ Actions ](https://github.com/coleam00/ai-agents-masterclass/actions)
+  * [ Projects 0 ](https://github.com/coleam00/ai-agents-masterclass/projects)
+  * [ Security ](https://github.com/coleam00/ai-agents-masterclass/security)
+  * [ Insights ](https://github.com/coleam00/ai-agents-masterclass/pulse)
+
+
+Additional navigation options
+  * [ Code  ](https://github.com/coleam00/ai-agents-masterclass)
+  * [ Issues  ](https://github.com/coleam00/ai-agents-masterclass/issues)
+  * [ Pull requests  ](https://github.com/coleam00/ai-agents-masterclass/pulls)
+  * [ Actions  ](https://github.com/coleam00/ai-agents-masterclass/actions)
+  * [ Projects  ](https://github.com/coleam00/ai-agents-masterclass/projects)
+  * [ Security  ](https://github.com/coleam00/ai-agents-masterclass/security)
+  * [ Insights  ](https://github.com/coleam00/ai-agents-masterclass/pulse)
+
+
+# coleam00/ai-agents-masterclass
+main
+[**1** Branch](https://github.com/coleam00/ai-agents-masterclass/branches)[**0** Tags](https://github.com/coleam00/ai-agents-masterclass/tags)
+[](https://github.com/coleam00/ai-agents-masterclass/branches)[](https://github.com/coleam00/ai-agents-masterclass/tags)
+Go to file
+Code
+## Folders and files
+Name| Name| Last commit message| Last commit date  
+---|---|---|---  
+## Latest commit
+## History
+[42 Commits](https://github.com/coleam00/ai-agents-masterclass/commits/main/)[](https://github.com/coleam00/ai-agents-masterclass/commits/main/)  
+[1-first-agent](https://github.com/coleam00/ai-agents-masterclass/tree/main/1-first-agent "1-first-agent")| [1-first-agent](https://github.com/coleam00/ai-agents-masterclass/tree/main/1-first-agent "1-first-agent")  
+[10-deploy-ai-agent-langserve](https://github.com/coleam00/ai-agents-masterclass/tree/main/10-deploy-ai-agent-langserve "10-deploy-ai-agent-langserve")| [10-deploy-ai-agent-langserve](https://github.com/coleam00/ai-agents-masterclass/tree/main/10-deploy-ai-agent-langserve "10-deploy-ai-agent-langserve")  
+[2-langchain-agent](https://github.com/coleam00/ai-agents-masterclass/tree/main/2-langchain-agent "2-langchain-agent")| [2-langchain-agent](https://github.com/coleam00/ai-agents-masterclass/tree/main/2-langchain-agent "2-langchain-agent")  
+[3-agent-ui](https://github.com/coleam00/ai-agents-masterclass/tree/main/3-agent-ui "3-agent-ui")| [3-agent-ui](https://github.com/coleam00/ai-agents-masterclass/tree/main/3-agent-ui "3-agent-ui")  
+[4-task-management-agent](https://github.com/coleam00/ai-agents-masterclass/tree/main/4-task-management-agent "4-task-management-agent")| [4-task-management-agent](https://github.com/coleam00/ai-agents-masterclass/tree/main/4-task-management-agent "4-task-management-agent")  
+[5-rag-agent](https://github.com/coleam00/ai-agents-masterclass/tree/main/5-rag-agent "5-rag-agent")| [5-rag-agent](https://github.com/coleam00/ai-agents-masterclass/tree/main/5-rag-agent "5-rag-agent")  
+[6-rag-task-agent](https://github.com/coleam00/ai-agents-masterclass/tree/main/6-rag-task-agent "6-rag-task-agent")| [6-rag-task-agent](https://github.com/coleam00/ai-agents-masterclass/tree/main/6-rag-task-agent "6-rag-task-agent")  
+[7-langgraph-agent](https://github.com/coleam00/ai-agents-masterclass/tree/main/7-langgraph-agent "7-langgraph-agent")| [7-langgraph-agent](https://github.com/coleam00/ai-agents-masterclass/tree/main/7-langgraph-agent "7-langgraph-agent")  
+[8-n8n-asana-agent](https://github.com/coleam00/ai-agents-masterclass/tree/main/8-n8n-asana-agent "8-n8n-asana-agent")| [8-n8n-asana-agent](https://github.com/coleam00/ai-agents-masterclass/tree/main/8-n8n-asana-agent "8-n8n-asana-agent")  
+[9-n8n-rag-agent](https://github.com/coleam00/ai-agents-masterclass/tree/main/9-n8n-rag-agent "9-n8n-rag-agent")| [9-n8n-rag-agent](https://github.com/coleam00/ai-agents-masterclass/tree/main/9-n8n-rag-agent "9-n8n-rag-agent")  
+[cost-saving-ai-router](https://github.com/coleam00/ai-agents-masterclass/tree/main/cost-saving-ai-router "cost-saving-ai-router")| [cost-saving-ai-router](https://github.com/coleam00/ai-agents-masterclass/tree/main/cost-saving-ai-router "cost-saving-ai-router")  
+[gohighlevel-saas-backend](https://github.com/coleam00/ai-agents-masterclass/tree/main/gohighlevel-saas-backend "gohighlevel-saas-backend")| [gohighlevel-saas-backend](https://github.com/coleam00/ai-agents-masterclass/tree/main/gohighlevel-saas-backend "gohighlevel-saas-backend")  
+[korvus-simple-rag](https://github.com/coleam00/ai-agents-masterclass/tree/main/korvus-simple-rag "korvus-simple-rag")| [korvus-simple-rag](https://github.com/coleam00/ai-agents-masterclass/tree/main/korvus-simple-rag "korvus-simple-rag")  
+[llama3-function-calling-agent](https://github.com/coleam00/ai-agents-masterclass/tree/main/llama3-function-calling-agent "llama3-function-calling-agent")| [llama3-function-calling-agent](https://github.com/coleam00/ai-agents-masterclass/tree/main/llama3-function-calling-agent "llama3-function-calling-agent")  
+[llm-agent-evaluation-framework](https://github.com/coleam00/ai-agents-masterclass/tree/main/llm-agent-evaluation-framework "llm-agent-evaluation-framework")| [llm-agent-evaluation-framework](https://github.com/coleam00/ai-agents-masterclass/tree/main/llm-agent-evaluation-framework "llm-agent-evaluation-framework")  
+[local-ai-packaged](https://github.com/coleam00/ai-agents-masterclass/tree/main/local-ai-packaged "local-ai-packaged")| [local-ai-packaged](https://github.com/coleam00/ai-agents-masterclass/tree/main/local-ai-packaged "local-ai-packaged")  
+[local-llm-tool-calling](https://github.com/coleam00/ai-agents-masterclass/tree/main/local-llm-tool-calling "local-llm-tool-calling")| [local-llm-tool-calling](https://github.com/coleam00/ai-agents-masterclass/tree/main/local-llm-tool-calling "local-llm-tool-calling")  
+[local-or-managed-llm-rag](https://github.com/coleam00/ai-agents-masterclass/tree/main/local-or-managed-llm-rag "local-or-managed-llm-rag")| [local-or-managed-llm-rag](https://github.com/coleam00/ai-agents-masterclass/tree/main/local-or-managed-llm-rag "local-or-managed-llm-rag")  
+[local-swarm-agent](https://github.com/coleam00/ai-agents-masterclass/tree/main/local-swarm-agent "local-swarm-agent")| [local-swarm-agent](https://github.com/coleam00/ai-agents-masterclass/tree/main/local-swarm-agent "local-swarm-agent")  
+[madlibs](https://github.com/coleam00/ai-agents-masterclass/tree/main/madlibs "madlibs")| [madlibs](https://github.com/coleam00/ai-agents-masterclass/tree/main/madlibs "madlibs")  
+[n8n-langchain-agent-advanced](https://github.com/coleam00/ai-agents-masterclass/tree/main/n8n-langchain-agent-advanced "n8n-langchain-agent-advanced")| [n8n-langchain-agent-advanced](https://github.com/coleam00/ai-agents-masterclass/tree/main/n8n-langchain-agent-advanced "n8n-langchain-agent-advanced")  
+[n8n-langchain-agent](https://github.com/coleam00/ai-agents-masterclass/tree/main/n8n-langchain-agent "n8n-langchain-agent")| [n8n-langchain-agent](https://github.com/coleam00/ai-agents-masterclass/tree/main/n8n-langchain-agent "n8n-langchain-agent")  
+[n8n-rag-pdfs-excel](https://github.com/coleam00/ai-agents-masterclass/tree/main/n8n-rag-pdfs-excel "n8n-rag-pdfs-excel")| [n8n-rag-pdfs-excel](https://github.com/coleam00/ai-agents-masterclass/tree/main/n8n-rag-pdfs-excel "n8n-rag-pdfs-excel")  
+[n8n-streamlit-agent](https://github.com/coleam00/ai-agents-masterclass/tree/main/n8n-streamlit-agent "n8n-streamlit-agent")| [n8n-streamlit-agent](https://github.com/coleam00/ai-agents-masterclass/tree/main/n8n-streamlit-agent "n8n-streamlit-agent")  
+[o1-ai-agent](https://github.com/coleam00/ai-agents-masterclass/tree/main/o1-ai-agent "o1-ai-agent")| [o1-ai-agent](https://github.com/coleam00/ai-agents-masterclass/tree/main/o1-ai-agent "o1-ai-agent")  
+[pydantic-ai](https://github.com/coleam00/ai-agents-masterclass/tree/main/pydantic-ai "pydantic-ai")| [pydantic-ai](https://github.com/coleam00/ai-agents-masterclass/tree/main/pydantic-ai "pydantic-ai")  
+[sql-ai-agent](https://github.com/coleam00/ai-agents-masterclass/tree/main/sql-ai-agent "sql-ai-agent")| [sql-ai-agent](https://github.com/coleam00/ai-agents-masterclass/tree/main/sql-ai-agent "sql-ai-agent")  
+[streamlit-chatbot](https://github.com/coleam00/ai-agents-masterclass/tree/main/streamlit-chatbot "streamlit-chatbot")| [streamlit-chatbot](https://github.com/coleam00/ai-agents-masterclass/tree/main/streamlit-chatbot "streamlit-chatbot")  
+[supabase-n8n-rag-agent](https://github.com/coleam00/ai-agents-masterclass/tree/main/supabase-n8n-rag-agent "supabase-n8n-rag-agent")| [supabase-n8n-rag-agent](https://github.com/coleam00/ai-agents-masterclass/tree/main/supabase-n8n-rag-agent "supabase-n8n-rag-agent")  
+[v0-agent-frontend](https://github.com/coleam00/ai-agents-masterclass/tree/main/v0-agent-frontend "v0-agent-frontend")| [v0-agent-frontend](https://github.com/coleam00/ai-agents-masterclass/tree/main/v0-agent-frontend "v0-agent-frontend")  
+[.gitattributes](https://github.com/coleam00/ai-agents-masterclass/blob/main/.gitattributes ".gitattributes")| [.gitattributes](https://github.com/coleam00/ai-agents-masterclass/blob/main/.gitattributes ".gitattributes")  
+[.gitignore](https://github.com/coleam00/ai-agents-masterclass/blob/main/.gitignore ".gitignore")| [.gitignore](https://github.com/coleam00/ai-agents-masterclass/blob/main/.gitignore ".gitignore")  
+[LICENSE](https://github.com/coleam00/ai-agents-masterclass/blob/main/LICENSE "LICENSE")| [LICENSE](https://github.com/coleam00/ai-agents-masterclass/blob/main/LICENSE "LICENSE")  
+[README.md](https://github.com/coleam00/ai-agents-masterclass/blob/main/README.md "README.md")| [README.md](https://github.com/coleam00/ai-agents-masterclass/blob/main/README.md "README.md")  
+View all files  
+## Repository files navigation
+  * [README](https://github.com/coleam00/ai-agents-masterclass/tree/main/)
+  * [MIT license](https://github.com/coleam00/ai-agents-masterclass/tree/main/)
+
+
+[ ![AI Agents Masterclass](https://camo.githubusercontent.com/c6245efe5a6c4510b164c6e49f55ef6dcddf8f4fbfcd0999b73897d05a8497a2/68747470733a2f2f692e696d6775722e636f6d2f384772327042412e706e67) ](https://www.youtube.com/channel/UCMwVTLZIRRUyyVrkjDpn4pA)
+AI Agents Masterclass[](https://github.com/coleam00/ai-agents-masterclass/tree/main/#ai-agents-masterclass)
+Artificial Intelligence is the #1 thing for all developers to spend their time on now. The problem is, most developers aren't focusing on AI agents, which is the real way to unleash the full power of AI. This is why I'm creating this AI Agents Masterclass - so I can show YOU how to use AI agents to transform businesses and create incredibly powerful software like I've already done many times! Click the image or link above to go to the masterclass on YouTube. 
+[**What are AI Agents?**](https://github.com/coleam00/ai-agents-masterclass/tree/main/#what-are-ai-agents) · [**How this Repo Works**](https://github.com/coleam00/ai-agents-masterclass/tree/main/#how-this-repo-works) · [**Instructions to Follow Along**](https://github.com/coleam00/ai-agents-masterclass/tree/main/#instructions-to-follow-along)
+## What are AI Agents?
+[](https://github.com/coleam00/ai-agents-masterclass/tree/main/#what-are-ai-agents)
+AI agents are simply Large Language Models that have been given the ability to interact with the outside world. They can do things like draft emails, book appointments in your CRM, create tasks in your task management software, and really anything you can dream of! I hope that everything I show here can really help you dream big and create incredible things with AI!
+AI agents can be very powerful without having to create a lot of code. That doesn't mean there isn't room though to create more complex applications to tie together many different agents to accomplish truly incredible things! That's where we'll be heading with this masterclass and I really look forward to it!
+Below is a very basic diagram just to get an idea of what an AI agent looks like:
+[![Trainers Ally LangGraph graph](https://camo.githubusercontent.com/9fa1c160b31faee0870076572e7282e143586daa9497aec03adff8951b6d275a/68747470733a2f2f692e696d6775722e636f6d2f4368526f5638572e706e67)](https://camo.githubusercontent.com/9fa1c160b31faee0870076572e7282e143586daa9497aec03adff8951b6d275a/68747470733a2f2f692e696d6775722e636f6d2f4368526f5638572e706e67)
+## How this Repo Works
+[](https://github.com/coleam00/ai-agents-masterclass/tree/main/#how-this-repo-works)
+Each week there will be a new video for my AI Agents Masterclass! Each video will have its own folder in this repo, starting with [/1-first-agent/](https://github.com/coleam00/ai-agents-masterclass/blob/main/1-first-agent) for the first video in the masterclass where I create our very first AI agent!
+Any folder that starts with a number is for a masterclass video. The other folders are for other content on my YouTube channel. The other content goes very well with the masterclass series (think of it as supplemental material) which is why it is here too!
+The code in each folder will be exactly what I used/created in the accompanying masterclass video.
+## Instructions to Follow Along
+[](https://github.com/coleam00/ai-agents-masterclass/tree/main/#instructions-to-follow-along)
+The below instructions assume you already have Git, Python, and Pip installed. If you do not, you can install [Python + Pip from here](https://www.python.org/downloads/) and [Git from here](https://git-scm.com/).
+To follow along with any of my videos, first clone this GitHub repository, open up a terminal, and change your directory to the folder for the current video you are watching (example: 1st video is [/1-first-agent/](https://github.com/coleam00/ai-agents-masterclass/blob/main/1-first-agent)).
+The below instructions work on any OS - Windows, Linux, or Mac!
+You will need to use the environment variables defined in the .env.example file in the folder (example for the first video: [`1-first-agent/.env.example`](https://github.com/coleam00/ai-agents-masterclass/blob/main/1-first-agent/.env.example)) to set up your API keys and other configuration. Turn the .env.example file into a `.env` file, and supply the necessary environment variables.
+After setting up the .env file, run the below commands to create a Python virtual environment and install the necessary Python packages to run the code from the masterclass. Creating a virtual environment is optional but recommended! Creating a virtual environment for the entire masterclass is a one time thing. Make sure to run the pip install for each video though!
+```
+python -m venv ai-agents-masterclass
+# On Windows:
+.\ai-agents-masterclass\Scripts\activate
+# On MacOS/Linux: 
+source ai-agents-masterclass/bin/activate
+cd 1-first-agent (or whichever folder)
+pip install -r requirements.txt
+```
+
+Then, you can execute the code in the folder with:
+```
+python [script name].py
+```
+
+## About
+Follow along with my AI Agents Masterclass videos! All of the code I create and use in this series on YouTube will be here for you to use and even build on top of! 
+### Resources
+[ Readme ](https://github.com/coleam00/ai-agents-masterclass/tree/main/#readme-ov-file)
+### License
+[ MIT license ](https://github.com/coleam00/ai-agents-masterclass/tree/main/#MIT-1-ov-file)
+[ Activity](https://github.com/coleam00/ai-agents-masterclass/activity)
+### Stars
+[ **1.9k** stars](https://github.com/coleam00/ai-agents-masterclass/stargazers)
+### Watchers
+[ **80** watching](https://github.com/coleam00/ai-agents-masterclass/watchers)
+### Forks
+[ **919** forks](https://github.com/coleam00/ai-agents-masterclass/forks)
+[ Report repository ](https://github.com/contact/report-content?content_url=https%3A%2F%2Fgithub.com%2Fcoleam00%2Fai-agents-masterclass&report=coleam00+%28user%29)
+##  [Releases](https://github.com/coleam00/ai-agents-masterclass/releases)
+No releases published
+##  [Packages 0](https://github.com/users/coleam00/packages?repo_name=ai-agents-masterclass)
+No packages published 
+##  [Contributors 2](https://github.com/coleam00/ai-agents-masterclass/graphs/contributors)
+  * [ ![@coleam00](https://avatars.githubusercontent.com/u/47287758?s=64&v=4) ](https://github.com/coleam00) [ **coleam00** Cole Medin ](https://github.com/coleam00)
+  * [ ![@jeffwiegner](https://avatars.githubusercontent.com/u/56127674?s=64&v=4) ](https://github.com/jeffwiegner) [ **jeffwiegner** ](https://github.com/jeffwiegner)
+
+
+## Languages
+  * [ Python 73.2% ](https://github.com/coleam00/ai-agents-masterclass/search?l=python)
+  * [ JavaScript 21.9% ](https://github.com/coleam00/ai-agents-masterclass/search?l=javascript)
+  * [ TypeScript 4.8% ](https://github.com/coleam00/ai-agents-masterclass/search?l=typescript)
+  * [ CSS 0.1% ](https://github.com/coleam00/ai-agents-masterclass/search?l=css)
+
+
+## Footer
+[ ](https://github.com "GitHub") © 2025 GitHub, Inc. 
+### Footer navigation
+  * [Terms](https://docs.github.com/site-policy/github-terms/github-terms-of-service)
+  * [Privacy](https://docs.github.com/site-policy/privacy-policies/github-privacy-statement)
+  * [Security](https://github.com/security)
+  * [Status](https://www.githubstatus.com/)
+  * [Docs](https://docs.github.com/)
+  * [Contact](https://support.github.com?tags=dotcom-footer)
+  * Manage cookies 
+  * Do not share my personal information 
+
+
+You can’t perform that action at this time. 

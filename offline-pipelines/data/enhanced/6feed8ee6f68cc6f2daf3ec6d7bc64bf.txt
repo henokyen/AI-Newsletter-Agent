@@ -1,0 +1,89 @@
+[Open in app](https://rsci.app.link/?%24canonical_url=https%3A%2F%2Fmedium.com%2Fp%2F59753cb44483&%7Efeature=LoOpenInAppButton&%7Echannel=ShowPostUnderUser&source=post_page---top_nav_layout_nav-----------------------------------------)
+Sign up
+[Sign in](https://medium.com/m/signin?operation=login&redirect=https%3A%2F%2Fmedium.com%2F%40benitomartin%2Fbuilding-a-multimodal-llm-application-with-pymupdf4llm-59753cb44483&source=post_page---top_nav_layout_nav-----------------------global_nav------------------)
+[](https://medium.com/?source=post_page---top_nav_layout_nav-----------------------------------------)
+[Write](https://medium.com/m/signin?operation=register&redirect=https%3A%2F%2Fmedium.com%2Fnew-story&source=---top_nav_layout_nav-----------------------new_post_topnav------------------)
+[](https://medium.com/search?source=post_page---top_nav_layout_nav-----------------------------------------)
+Sign up
+[Sign in](https://medium.com/m/signin?operation=login&redirect=https%3A%2F%2Fmedium.com%2F%40benitomartin%2Fbuilding-a-multimodal-llm-application-with-pymupdf4llm-59753cb44483&source=post_page---top_nav_layout_nav-----------------------global_nav------------------)
+![](https://miro.medium.com/v2/resize:fill:64:64/1*dmbNkD5D-u45r44go_cf0g.png)
+[Home](https://medium.com/?source=post_page--------------------------------------------)
+Following
+Library
+[Your lists](https://medium.com/me/lists?source=post_page--------------------------------------------)[Saved lists](https://medium.com/me/lists/saved?source=post_page--------------------------------------------)[Highlights](https://medium.com/me/list/highlights?source=post_page--------------------------------------------)[Reading history](https://medium.com/me/lists/reading-history?source=post_page--------------------------------------------)
+[Stories](https://medium.com/me/stories/drafts?source=post_page--------------------------------------------)[Stats](https://medium.com/me/stats?source=post_page--------------------------------------------)
+Member-only story
+# Building a Multimodal LLM Application with PyMuPDF4LLM
+[![Benito Martin](https://miro.medium.com/v2/resize:fill:88:88/1*XcfvHkzJtTdRNxpyaw38vg.jpeg)](https://medium.com/@benitomartin?source=post_page---byline--59753cb44483---------------------------------------)
+[Benito Martin](https://medium.com/@benitomartin?source=post_page---byline--59753cb44483---------------------------------------)
+·
+[Follow](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fsubscribe%2Fuser%2Fff277ca02eb5&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40benitomartin%2Fbuilding-a-multimodal-llm-application-with-pymupdf4llm-59753cb44483&user=Benito+Martin&userId=ff277ca02eb5&source=post_page-ff277ca02eb5--byline--59753cb44483---------------------post_header------------------)
+10 min read
+·
+Sep 30, 2024
+[](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fvote%2Fp%2F59753cb44483&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40benitomartin%2Fbuilding-a-multimodal-llm-application-with-pymupdf4llm-59753cb44483&user=Benito+Martin&userId=ff277ca02eb5&source=---header_actions--59753cb44483---------------------clap_footer------------------)
+--
+5
+[](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F59753cb44483&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40benitomartin%2Fbuilding-a-multimodal-llm-application-with-pymupdf4llm-59753cb44483&source=---header_actions--59753cb44483---------------------bookmark_footer------------------)
+Share
+![](https://miro.medium.com/v2/resize:fit:700/1*3Vv7d7iPN0yAlt7wXhHLpg.png)
+Author: Benito Martin
+Extracting text from PDFs is a crucial and often challenging step in many AI, and LLM (Large Language Model) applications. High-quality text extraction plays a key role in improving downstream processes, such as tokenization, embedding creation, or indexing in a vector database, enhancing the overall performance of the application. [PyMuPDF](https://pymupdf.readthedocs.io/en/latest/index.html) is a popular library for this task due to its simplicity, high speed, and reliable text extraction quality.
+In this blog, we will explore a recently launched free library by Artifex (the creators of PyMuPDF) called [PyMuPDF4LLM](https://pymupdf.readthedocs.io/en/latest/pymupdf4llm/index.html). This new library is designed to simplify text extraction from PDFs and is specifically developed for LLM and Retrieval-Augmented Generation (RAG) applications. It offers two key formats:
+  * **pymupdf4llm.to_markdown()** : Extracts content in Markdown format.
+  * **pymupdf4llm.LlamaMarkdownReader()** : Extracts content as a LlamaIndex document object.
+
+
+We will focus on the _to_markdown,_ as it includes several hyperparameters that enable features such as image extraction, making it suitable for both text and multimodal applications.
+Let’s dive in!
+# Main **Features**
+The full set of hyperparameters can be found in the [API documentation](https://pymupdf.readthedocs.io/en/latest/pymupdf4llm/api.html#pymupdf4llm-api). While we’ll cover a few of them in detail, the key features of **PyMuPDF4LLM** can be summarized as:
+  * **Text extraction** : Extracts content in Markdown format.
+  * **Chunking** : Supports adding metadata, tables, and image lists to the extracted content.
+  * **Image extraction** : Provides options to define image size, resolution, and format.
+  * **Image embedding** : Images are embedded directly within the Markdown output.
+  * **Word extraction** : Enables precise extraction of words from the PDF.
+
+
+# Text Extraction
+This is the first step of the process. As shown below, the text is extracted into Markdown format, with the option to specify which pages of the document to extract.
+```
+!pip install -qq pymupdf4llm
+```
+```
+import pymupdf4llmmd_text = pymupdf4llm.to_markdown(doc="/content/document.pdf"…
+```
+
+[](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fvote%2Fp%2F59753cb44483&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40benitomartin%2Fbuilding-a-multimodal-llm-application-with-pymupdf4llm-59753cb44483&user=Benito+Martin&userId=ff277ca02eb5&source=---footer_actions--59753cb44483---------------------clap_footer------------------)
+--
+[](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fvote%2Fp%2F59753cb44483&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40benitomartin%2Fbuilding-a-multimodal-llm-application-with-pymupdf4llm-59753cb44483&user=Benito+Martin&userId=ff277ca02eb5&source=---footer_actions--59753cb44483---------------------clap_footer------------------)
+--
+5
+[](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F59753cb44483&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40benitomartin%2Fbuilding-a-multimodal-llm-application-with-pymupdf4llm-59753cb44483&source=---footer_actions--59753cb44483---------------------bookmark_footer------------------)
+[![Benito Martin](https://miro.medium.com/v2/resize:fill:96:96/1*XcfvHkzJtTdRNxpyaw38vg.jpeg)](https://medium.com/@benitomartin?source=post_page---post_author_info--59753cb44483---------------------------------------)
+[![Benito Martin](https://miro.medium.com/v2/resize:fill:128:128/1*XcfvHkzJtTdRNxpyaw38vg.jpeg)](https://medium.com/@benitomartin?source=post_page---post_author_info--59753cb44483---------------------------------------)
+Follow
+## [Written by Benito Martin](https://medium.com/@benitomartin?source=post_page---post_author_info--59753cb44483---------------------------------------)
+[337 Followers](https://medium.com/@benitomartin/followers?source=post_page---post_author_info--59753cb44483---------------------------------------)
+·[12 Following](https://medium.com/@benitomartin/following?source=post_page---post_author_info--59753cb44483---------------------------------------)
+😎 Passionate Data Scientist, AI & ML Engineer | 👉 Founder Martin Data Solutions | ☎️ Book a Consultation <https://martindatasol.com/consultation>
+Follow
+## Responses (5)
+[](https://policy.medium.com/medium-rules-30e5502c4eb4?source=post_page---post_responses--59753cb44483---------------------------------------)
+![](https://miro.medium.com/v2/resize:fill:32:32/1*dmbNkD5D-u45r44go_cf0g.png)
+Write a response
+[What are your thoughts?](https://medium.com/m/signin?operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40benitomartin%2Fbuilding-a-multimodal-llm-application-with-pymupdf4llm-59753cb44483&source=---post_responses--59753cb44483---------------------respond_sidebar------------------)
+Cancel
+Respond
+Also publish to my profile
+See all responses
+[Help](https://help.medium.com/hc/en-us?source=post_page-----59753cb44483---------------------------------------)
+[Status](https://medium.statuspage.io/?source=post_page-----59753cb44483---------------------------------------)
+[About](https://medium.com/about?autoplay=1&source=post_page-----59753cb44483---------------------------------------)
+[Careers](https://medium.com/jobs-at-medium/work-at-medium-959d1a85284e?source=post_page-----59753cb44483---------------------------------------)
+Press
+[Blog](https://blog.medium.com/?source=post_page-----59753cb44483---------------------------------------)
+[Privacy](https://policy.medium.com/medium-privacy-policy-f03bf92035c9?source=post_page-----59753cb44483---------------------------------------)
+[Rules](https://policy.medium.com/medium-rules-30e5502c4eb4?source=post_page-----59753cb44483---------------------------------------)
+[Terms](https://policy.medium.com/medium-terms-of-service-9db0094a1e0f?source=post_page-----59753cb44483---------------------------------------)
+[Text to speech](https://speechify.com/medium?source=post_page-----59753cb44483---------------------------------------)

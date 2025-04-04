@@ -1,0 +1,47 @@
+{
+    "id": "dbab702e4dd69889dbae8be6ebd0dd44",
+    "metadata": {
+        "id": "dbab702e4dd69889dbae8be6ebd0dd44",
+        "url": "https://colab.google/",
+        "title": "colab.google",
+        "properties": {
+            "description": null,
+            "keywords": null,
+            "author": null,
+            "og:image": "http://0.0.0.0:8080/static/images/share.png",
+            "og:title": "colab.google",
+            "og:site_name": "colab.google",
+            "og:type": "website",
+            "og:url": "http://0.0.0.0:8080/"
+        }
+    },
+    "parent_metadata": {
+        "id": "87b7fe4252cef663fd7cfebadffefc92",
+        "url": "https://www.notion.so/Cloud-Compute-87b7fe4252cef663fd7cfebadffefc92",
+        "title": "Cloud Compute",
+        "properties": {
+            "Type": "Node"
+        }
+    },
+    "content": "[ ![](https://colab.google/static/images/icons/colab.png) ](https://colab.google/) [ ![](https://colab.google/static/images/icons/colab.png) ](https://colab.google/)\n[ Blog ](https://colab.google/blog/)\n[ Release Notes ](https://colab.google/release-notes/)\n[ Notebooks ](https://colab.google/notebooks/)\n[ Resources ](https://colab.google/resources/)\n[Open Colab](https://colab.research.google.com)\n[New Notebook](https://colab.new)\n[Sign Up](https://colab.research.google.com/signup)\n#  Google Colaboratory \nColab is a hosted Jupyter Notebook service that requires no setup to use and provides free access to computing resources, including GPUs and TPUs. Colab is especially well suited to machine learning, data science, and education.\n[ Open Colab ](https://colab.research.google.com) [ New Notebook ](https://colab.new)\nBlog\n##  News and Guidance \nFeatures, updates, and best practices\n[ Read our blog ](https://medium.com/google-colab)\nExplore\n##  Browse Notebooks \nCheck out our catalog of sample notebooks illustrating the power and flexiblity of Colab.\n[ Browse notebooks ](https://colab.google/notebooks/)\n##  Track changes \nRead about product updates, feature additions, bug fixes and other release details.\n[ View release notes ](https://colab.research.google.com/notebooks/relnotes.ipynb)\n##  Dive deeper \nCheck out these resources to learn more about Colab and its ever-expanding ecosystem.\n[ Find resources ](https://colab.google/resources/)\nResponsibilities\n##  Building responsible AI for everyone \nWe’re working to develop artificial intelligence responsibly in order to benefit people and society.\n[ Learn more ](https://ai.google/responsibilities/)\n[ ](https://www.google.com)\n[Privacy](https://www.google.com/intl/en/policies/privacy/) [Terms](https://www.google.com/intl/en/policies/terms/) [About Google](https://about.google/) [Google Products](https://about.google/products/)\n[ Feedback ](https://colab.google/)\n",
+    "content_quality_score": 0.2,
+    "summary": null,
+    "child_urls": [
+        "https://colab.google/",
+        "https://colab.google/blog/",
+        "https://colab.google/release-notes/",
+        "https://colab.google/notebooks/",
+        "https://colab.google/resources/",
+        "https://colab.research.google.com",
+        "https://colab.new",
+        "https://colab.research.google.com/signup",
+        "https://medium.com/google-colab",
+        "https://colab.research.google.com/notebooks/relnotes.ipynb",
+        "https://ai.google/responsibilities/",
+        "https://www.google.com",
+        "https://www.google.com/intl/en/policies/privacy/",
+        "https://www.google.com/intl/en/policies/terms/",
+        "https://about.google/",
+        "https://about.google/products/"
+    ]
+}

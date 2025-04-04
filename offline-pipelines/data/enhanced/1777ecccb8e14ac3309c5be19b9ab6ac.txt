@@ -1,0 +1,358 @@
+[Skip to content](https://github.com/DataTalksClub/mlops-zoomcamp/#start-of-content)
+## Navigation Menu
+Toggle navigation
+[ ](https://github.com/)
+[ Sign in ](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2FDataTalksClub%2Fmlops-zoomcamp%2F)
+  * Product 
+    * [ GitHub Copilot Write better code with AI  ](https://github.com/features/copilot)
+    * [ Security Find and fix vulnerabilities  ](https://github.com/features/security)
+    * [ Actions Automate any workflow  ](https://github.com/features/actions)
+    * [ Codespaces Instant dev environments  ](https://github.com/features/codespaces)
+    * [ Issues Plan and track work  ](https://github.com/features/issues)
+    * [ Code Review Manage code changes  ](https://github.com/features/code-review)
+    * [ Discussions Collaborate outside of code  ](https://github.com/features/discussions)
+    * [ Code Search Find more, search less  ](https://github.com/features/code-search)
+Explore
+    * [ All features ](https://github.com/features)
+    * [ Documentation ](https://docs.github.com)
+    * [ GitHub Skills ](https://skills.github.com)
+    * [ Blog ](https://github.blog)
+  * Solutions 
+By company size
+    * [ Enterprises ](https://github.com/enterprise)
+    * [ Small and medium teams ](https://github.com/team)
+    * [ Startups ](https://github.com/enterprise/startups)
+    * [ Nonprofits ](https://github.com/solutions/industry/nonprofits)
+By use case
+    * [ DevSecOps ](https://github.com/solutions/use-case/devsecops)
+    * [ DevOps ](https://github.com/solutions/use-case/devops)
+    * [ CI/CD ](https://github.com/solutions/use-case/ci-cd)
+    * [ View all use cases ](https://github.com/solutions/use-case)
+By industry
+    * [ Healthcare ](https://github.com/solutions/industry/healthcare)
+    * [ Financial services ](https://github.com/solutions/industry/financial-services)
+    * [ Manufacturing ](https://github.com/solutions/industry/manufacturing)
+    * [ Government ](https://github.com/solutions/industry/government)
+    * [ View all industries ](https://github.com/solutions/industry)
+[ View all solutions ](https://github.com/solutions)
+  * Resources 
+Topics
+    * [ AI ](https://github.com/resources/articles/ai)
+    * [ DevOps ](https://github.com/resources/articles/devops)
+    * [ Security ](https://github.com/resources/articles/security)
+    * [ Software Development ](https://github.com/resources/articles/software-development)
+    * [ View all ](https://github.com/resources/articles)
+Explore
+    * [ Learning Pathways ](https://resources.github.com/learn/pathways)
+    * [ Events & Webinars ](https://resources.github.com)
+    * [ Ebooks & Whitepapers ](https://github.com/resources/whitepapers)
+    * [ Customer Stories ](https://github.com/customer-stories)
+    * [ Partners ](https://partner.github.com)
+    * [ Executive Insights ](https://github.com/solutions/executive-insights)
+  * Open Source 
+    * [ GitHub Sponsors Fund open source developers  ](https://github.com/sponsors)
+    * [ The ReadME Project GitHub community articles  ](https://github.com/readme)
+Repositories
+    * [ Topics ](https://github.com/topics)
+    * [ Trending ](https://github.com/trending)
+    * [ Collections ](https://github.com/collections)
+  * Enterprise 
+    * [ Enterprise platform AI-powered developer platform  ](https://github.com/enterprise)
+Available add-ons
+    * [ Advanced Security Enterprise-grade security features  ](https://github.com/enterprise/advanced-security)
+    * [ Copilot for business Enterprise-grade AI features  ](https://github.com/features/copilot/copilot-business)
+    * [ Premium Support Enterprise-grade 24/7 support  ](https://github.com/premium-support)
+  * [Pricing](https://github.com/pricing)
+
+
+Search or jump to...
+# Search code, repositories, users, issues, pull requests...
+Search 
+Clear
+[Search syntax tips](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax)
+#  Provide feedback 
+We read every piece of feedback, and take your input very seriously.
+Include my email address so I can be contacted
+Cancel  Submit feedback 
+#  Saved searches 
+## Use saved searches to filter your results more quickly
+Name
+Query
+To see all available qualifiers, see our [documentation](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax). 
+Cancel  Create saved search 
+[ Sign in ](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2FDataTalksClub%2Fmlops-zoomcamp%2F)
+[ Sign up ](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E&source=header-repo&source_repo=DataTalksClub%2Fmlops-zoomcamp) Reseting focus
+You signed in with another tab or window. [Reload](https://github.com/DataTalksClub/mlops-zoomcamp/) to refresh your session. You signed out in another tab or window. [Reload](https://github.com/DataTalksClub/mlops-zoomcamp/) to refresh your session. You switched accounts on another tab or window. [Reload](https://github.com/DataTalksClub/mlops-zoomcamp/) to refresh your session. Dismiss alert
+{{ message }}
+[ DataTalksClub ](https://github.com/DataTalksClub) / **[mlops-zoomcamp](https://github.com/DataTalksClub/mlops-zoomcamp) ** Public
+  * [ Notifications ](https://github.com/login?return_to=%2FDataTalksClub%2Fmlops-zoomcamp) You must be signed in to change notification settings
+  * [ Fork 2.3k ](https://github.com/login?return_to=%2FDataTalksClub%2Fmlops-zoomcamp)
+  * [ Star  11.7k ](https://github.com/login?return_to=%2FDataTalksClub%2Fmlops-zoomcamp)
+
+
+Free MLOps course from DataTalks.Club 
+[ 11.7k stars ](https://github.com/DataTalksClub/mlops-zoomcamp/stargazers) [ 2.3k forks ](https://github.com/DataTalksClub/mlops-zoomcamp/forks) [ Branches ](https://github.com/DataTalksClub/mlops-zoomcamp/branches) [ Tags ](https://github.com/DataTalksClub/mlops-zoomcamp/tags) [ Activity ](https://github.com/DataTalksClub/mlops-zoomcamp/activity)
+[ Star  ](https://github.com/login?return_to=%2FDataTalksClub%2Fmlops-zoomcamp)
+[ Notifications ](https://github.com/login?return_to=%2FDataTalksClub%2Fmlops-zoomcamp) You must be signed in to change notification settings
+  * [ Code ](https://github.com/DataTalksClub/mlops-zoomcamp)
+  * [ Issues 4 ](https://github.com/DataTalksClub/mlops-zoomcamp/issues)
+  * [ Pull requests 3 ](https://github.com/DataTalksClub/mlops-zoomcamp/pulls)
+  * [ Actions ](https://github.com/DataTalksClub/mlops-zoomcamp/actions)
+  * [ Projects 0 ](https://github.com/DataTalksClub/mlops-zoomcamp/projects)
+  * [ Security ](https://github.com/DataTalksClub/mlops-zoomcamp/security)
+  * [ Insights ](https://github.com/DataTalksClub/mlops-zoomcamp/pulse)
+
+
+Additional navigation options
+  * [ Code  ](https://github.com/DataTalksClub/mlops-zoomcamp)
+  * [ Issues  ](https://github.com/DataTalksClub/mlops-zoomcamp/issues)
+  * [ Pull requests  ](https://github.com/DataTalksClub/mlops-zoomcamp/pulls)
+  * [ Actions  ](https://github.com/DataTalksClub/mlops-zoomcamp/actions)
+  * [ Projects  ](https://github.com/DataTalksClub/mlops-zoomcamp/projects)
+  * [ Security  ](https://github.com/DataTalksClub/mlops-zoomcamp/security)
+  * [ Insights  ](https://github.com/DataTalksClub/mlops-zoomcamp/pulse)
+
+
+# DataTalksClub/mlops-zoomcamp
+main
+[Branches](https://github.com/DataTalksClub/mlops-zoomcamp/branches)[Tags](https://github.com/DataTalksClub/mlops-zoomcamp/tags)
+[](https://github.com/DataTalksClub/mlops-zoomcamp/branches)[](https://github.com/DataTalksClub/mlops-zoomcamp/tags)
+Go to file
+Code
+## Folders and files
+Name| Name| Last commit message| Last commit date  
+---|---|---|---  
+## Latest commit
+## History
+[509 Commits](https://github.com/DataTalksClub/mlops-zoomcamp/commits/main/)[](https://github.com/DataTalksClub/mlops-zoomcamp/commits/main/)  
+[.github/workflows](https://github.com/DataTalksClub/mlops-zoomcamp/tree/main/.github/workflows "This path skips through empty directories")| [.github/workflows](https://github.com/DataTalksClub/mlops-zoomcamp/tree/main/.github/workflows "This path skips through empty directories")  
+[01-intro](https://github.com/DataTalksClub/mlops-zoomcamp/tree/main/01-intro "01-intro")| [01-intro](https://github.com/DataTalksClub/mlops-zoomcamp/tree/main/01-intro "01-intro")  
+[02-experiment-tracking](https://github.com/DataTalksClub/mlops-zoomcamp/tree/main/02-experiment-tracking "02-experiment-tracking")| [02-experiment-tracking](https://github.com/DataTalksClub/mlops-zoomcamp/tree/main/02-experiment-tracking "02-experiment-tracking")  
+[03-orchestration](https://github.com/DataTalksClub/mlops-zoomcamp/tree/main/03-orchestration "03-orchestration")| [03-orchestration](https://github.com/DataTalksClub/mlops-zoomcamp/tree/main/03-orchestration "03-orchestration")  
+[04-deployment](https://github.com/DataTalksClub/mlops-zoomcamp/tree/main/04-deployment "04-deployment")| [04-deployment](https://github.com/DataTalksClub/mlops-zoomcamp/tree/main/04-deployment "04-deployment")  
+[05-monitoring](https://github.com/DataTalksClub/mlops-zoomcamp/tree/main/05-monitoring "05-monitoring")| [05-monitoring](https://github.com/DataTalksClub/mlops-zoomcamp/tree/main/05-monitoring "05-monitoring")  
+[06-best-practices](https://github.com/DataTalksClub/mlops-zoomcamp/tree/main/06-best-practices "06-best-practices")| [06-best-practices](https://github.com/DataTalksClub/mlops-zoomcamp/tree/main/06-best-practices "06-best-practices")  
+[07-project](https://github.com/DataTalksClub/mlops-zoomcamp/tree/main/07-project "07-project")| [07-project](https://github.com/DataTalksClub/mlops-zoomcamp/tree/main/07-project "07-project")  
+[cohorts](https://github.com/DataTalksClub/mlops-zoomcamp/tree/main/cohorts "cohorts")| [cohorts](https://github.com/DataTalksClub/mlops-zoomcamp/tree/main/cohorts "cohorts")  
+[generate](https://github.com/DataTalksClub/mlops-zoomcamp/tree/main/generate "generate")| [generate](https://github.com/DataTalksClub/mlops-zoomcamp/tree/main/generate "generate")  
+[images](https://github.com/DataTalksClub/mlops-zoomcamp/tree/main/images "images")| [images](https://github.com/DataTalksClub/mlops-zoomcamp/tree/main/images "images")  
+[.gitignore](https://github.com/DataTalksClub/mlops-zoomcamp/blob/main/.gitignore ".gitignore")| [.gitignore](https://github.com/DataTalksClub/mlops-zoomcamp/blob/main/.gitignore ".gitignore")  
+[README.md](https://github.com/DataTalksClub/mlops-zoomcamp/blob/main/README.md "README.md")| [README.md](https://github.com/DataTalksClub/mlops-zoomcamp/blob/main/README.md "README.md")  
+[after-sign-up.md](https://github.com/DataTalksClub/mlops-zoomcamp/blob/main/after-sign-up.md "after-sign-up.md")| [after-sign-up.md](https://github.com/DataTalksClub/mlops-zoomcamp/blob/main/after-sign-up.md "after-sign-up.md")  
+[asking-questions.md](https://github.com/DataTalksClub/mlops-zoomcamp/blob/main/asking-questions.md "asking-questions.md")| [asking-questions.md](https://github.com/DataTalksClub/mlops-zoomcamp/blob/main/asking-questions.md "asking-questions.md")  
+[certificate.md](https://github.com/DataTalksClub/mlops-zoomcamp/blob/main/certificate.md "certificate.md")| [certificate.md](https://github.com/DataTalksClub/mlops-zoomcamp/blob/main/certificate.md "certificate.md")  
+[learning-in-public.md](https://github.com/DataTalksClub/mlops-zoomcamp/blob/main/learning-in-public.md "learning-in-public.md")| [learning-in-public.md](https://github.com/DataTalksClub/mlops-zoomcamp/blob/main/learning-in-public.md "learning-in-public.md")  
+View all files  
+## Repository files navigation
+  * [README](https://github.com/DataTalksClub/mlops-zoomcamp/)
+
+
+[![MLOps Zoomcamp](https://github.com/DataTalksClub/mlops-zoomcamp/raw/main/images/IMG_20230323_134059_927.png)](https://github.com/DataTalksClub/mlops-zoomcamp/blob/main/images/IMG_20230323_134059_927.png)
+#  **MLOps Zoomcamp: A Free 9-Week Course on Productionizing ML Services**
+[](https://github.com/DataTalksClub/mlops-zoomcamp/#----mlops-zoomcamp-a-free-9-week-course-on-productionizing-ml-services)
+MLOps (machine learning operations) is becoming a must-know skill for many data professionals. Master the fundamentals of MLOps, from training and experimentation to deployment and monitoring. 
+[![](https://user-images.githubusercontent.com/875246/185755203-17945fd1-6b64-46f2-8377-1011dcb1a444.png)](https://airtable.com/shrCb8y6eTbPKwSTL)
+[Join Slack](https://datatalks.club/slack.html) • [#course-mlops-zoomcamp Channel](https://app.slack.com/client/T01ATQK62F8/C01FABYF2RG) • [Telegram Announcements](https://t.me/dtc_courses) • [Course Playlist](https://www.youtube.com/playlist?list=PL3MmuxUbc_hIUISrluw_A7wDSmfOhErJK) • [FAQ](https://docs.google.com/document/d/19bnYs80DwuUimHM65UV3sylsCn2j1vziPOwzBwQrebw/edit?usp=sharing) • [Tweet about the Course](https://ctt.ac/fH67W)
+## How to Take MLOps Zoomcamp
+[](https://github.com/DataTalksClub/mlops-zoomcamp/#how-to-take-mlops-zoomcamp)
+### 2025 Cohort
+[](https://github.com/DataTalksClub/mlops-zoomcamp/#2025-cohort)
+  * **Start Date** : May 5, 2025
+  * **Register Here** : [Sign up](https://airtable.com/shrCb8y6eTbPKwSTL)
+  * **Stay Updated** : Subscribe to our [Google Calendar](https://calendar.google.com/calendar/?cid=M3Jzbmg0ZDA2aHVsY2M1ZjcyNDJtODNyMTRAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ) (Desktop only)
+
+
+### Self-Paced Learning
+[](https://github.com/DataTalksClub/mlops-zoomcamp/#self-paced-learning)
+All course materials are freely available for independent study. Follow these steps:
+  1. Watch the course videos.
+  2. Join the [Slack community](https://datatalks.club/slack.html).
+  3. Refer to the [FAQ document](https://docs.google.com/document/d/12TlBfhIiKtyBv8RnsoJR6F72bkPDGEvPOItJIxaEzE0/edit) for guidance.
+
+
+## Syllabus
+[](https://github.com/DataTalksClub/mlops-zoomcamp/#syllabus)
+The course consists of structured modules, hands-on workshops, and a final project to reinforce your learning. Each module introduces core MLOps concepts and tools.
+### Prerequisites
+[](https://github.com/DataTalksClub/mlops-zoomcamp/#prerequisites)
+To get the most out of this course, you should have prior experience with:
+  * Python
+  * Docker
+  * Command line basics
+  * Machine learning (e.g., through [ML Zoomcamp](https://github.com/alexeygrigorev/mlbookcamp-code/tree/master/course-zoomcamp))
+  * 1+ year of programming experience
+
+
+### Modules
+[](https://github.com/DataTalksClub/mlops-zoomcamp/#modules)
+#### [Module 1: Introduction](https://github.com/DataTalksClub/mlops-zoomcamp/blob/main/01-intro)
+[](https://github.com/DataTalksClub/mlops-zoomcamp/#module-1-introduction)
+  * What is MLOps?
+  * MLOps maturity model
+  * NY Taxi dataset (our running example)
+  * Why MLOps is essential
+  * Course structure & environment setup
+  * Homework
+
+
+#### [Module 2: Experiment Tracking & Model Management](https://github.com/DataTalksClub/mlops-zoomcamp/blob/main/02-experiment-tracking)
+[](https://github.com/DataTalksClub/mlops-zoomcamp/#module-2-experiment-tracking--model-management)
+  * Introduction to experiment tracking
+  * MLflow basics
+  * Model saving and loading
+  * Model registry
+  * Hands-on MLflow exercises
+  * Homework
+
+
+#### [Module 3: Orchestration & ML Pipelines](https://github.com/DataTalksClub/mlops-zoomcamp/blob/main/03-orchestration)
+[](https://github.com/DataTalksClub/mlops-zoomcamp/#module-3-orchestration--ml-pipelines)
+  * Workflow orchestration
+  * Using Mage for ML pipelines
+  * Homework
+
+
+#### [Module 4: Model Deployment](https://github.com/DataTalksClub/mlops-zoomcamp/blob/main/04-deployment)
+[](https://github.com/DataTalksClub/mlops-zoomcamp/#module-4-model-deployment)
+  * Deployment strategies: online (web, streaming) vs. offline (batch)
+  * Deploying with Flask (web service)
+  * Streaming deployment with AWS Kinesis & Lambda
+  * Batch scoring for offline processing
+  * Homework
+
+
+#### [Module 5: Model Monitoring](https://github.com/DataTalksClub/mlops-zoomcamp/blob/main/05-monitoring)
+[](https://github.com/DataTalksClub/mlops-zoomcamp/#module-5-model-monitoring)
+  * Monitoring ML-based services
+  * Web service monitoring with Prometheus, Evidently, and Grafana
+  * Batch job monitoring with Prefect, MongoDB, and Evidently
+  * Homework
+
+
+#### [Module 6: Best Practices](https://github.com/DataTalksClub/mlops-zoomcamp/blob/main/06-best-practices)
+[](https://github.com/DataTalksClub/mlops-zoomcamp/#module-6-best-practices)
+  * Unit and integration testing
+  * Linting, formatting, and pre-commit hooks
+  * CI/CD with GitHub Actions
+  * Infrastructure as Code (Terraform)
+  * Homework
+
+
+#### [Final Project](https://github.com/DataTalksClub/mlops-zoomcamp/blob/main/07-project)
+[](https://github.com/DataTalksClub/mlops-zoomcamp/#final-project)
+  * End-to-end project integrating all course concepts
+
+
+## Community & Support
+[](https://github.com/DataTalksClub/mlops-zoomcamp/#community--support)
+### **Getting Help on Slack**
+[](https://github.com/DataTalksClub/mlops-zoomcamp/#getting-help-on-slack)
+Join the [`#course-mlops-zoomcamp`](https://app.slack.com/client/T01ATQK62F8/C02R98X7DS9) channel on [DataTalks.Club Slack](https://datatalks.club/slack.html) for discussions, troubleshooting, and networking.
+To keep discussions organized:
+  * Follow [our guidelines](https://github.com/DataTalksClub/mlops-zoomcamp/blob/main/asking-questions.md) when posting questions.
+  * Review the [community guidelines](https://datatalks.club/slack/guidelines.html).
+
+
+## Meet the Instructors
+[](https://github.com/DataTalksClub/mlops-zoomcamp/#meet-the-instructors)
+  * **Cristian Martinez**
+  * **Tommy Dang**
+  * **Alexey Grigorev**
+  * **Emeli Dral**
+  * **Sejal Vaidya**
+
+
+## Other Free Courses from DataTalks.Club
+[](https://github.com/DataTalksClub/mlops-zoomcamp/#other-free-courses-from-datatalksclub)
+  * [Machine Learning Zoomcamp](http://mlzoomcamp.com) – 4-month ML Engineering course
+  * [Data Engineering Zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp/) – 9-week Data Engineering course
+  * [LLM Zoomcamp](https://github.com/DataTalksClub/llm-zoomcamp)
+  * [Stock Market Analytics Zoomcamp](https://github.com/DataTalksClub/stock-markets-analytics-zoomcamp)
+
+
+## FAQ
+[](https://github.com/DataTalksClub/mlops-zoomcamp/#faq)
+**How can I prepare for the course?**
+  * If you’re new to **Flask** or **Docker** , check out: 
+    * [ML Zoomcamp: Module 5](https://github.com/alexeygrigorev/mlbookcamp-code/tree/master/course-zoomcamp/05-deployment)
+    * [Docker section](https://github.com/DataTalksClub/data-engineering-zoomcamp/tree/main/01-docker-terraform/2_docker_sql) from Data Engineering Zoomcamp
+  * If you’re new to **machine learning** , start with: 
+    * [ML Zoomcamp: Module 1](https://github.com/alexeygrigorev/mlbookcamp-code/tree/master/course-zoomcamp/01-intro) for an overview
+    * [Module 3](https://github.com/alexeygrigorev/mlbookcamp-code/tree/master/course-zoomcamp/03-classification) for Scikit-Learn basics (used in this course)
+    * [Module 6](https://github.com/alexeygrigorev/mlbookcamp-code/tree/master/course-zoomcamp/06-trees) for XGBoost (optional but helpful)
+
+
+**I registered but didn’t receive an invite. Is this normal?** Yes, invites aren’t automated. You’ll receive an email eventually.
+To stay updated:
+  * Join the `#course-mlops-zoomcamp` channel on [Slack](https://datatalks.club/slack.html)
+  * Subscribe to our [YouTube channel](https://youtube.com/c/datatalksclub)
+
+
+## Sponsors & Supporters
+[](https://github.com/DataTalksClub/mlops-zoomcamp/#sponsors--supporters)
+A special thanks to our course sponsors for making this initiative possible!
+[ ![](https://github.com/DataTalksClub/data-engineering-zoomcamp/raw/main/images/mage.svg) ](https://mage.ai/)
+Interested in supporting our community? Reach out to alexey@datatalks.club.
+## About DataTalks.Club
+[](https://github.com/DataTalksClub/mlops-zoomcamp/#about-datatalksclub)
+[![DataTalks.Club](https://private-user-images.githubusercontent.com/71337024/409034468-1243a44a-84c8-458d-9439-aaf6f3a32d89.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDMzNTY4OTAsIm5iZiI6MTc0MzM1NjU5MCwicGF0aCI6Ii83MTMzNzAyNC80MDkwMzQ0NjgtMTI0M2E0NGEtODRjOC00NThkLTk0MzktYWFmNmYzYTMyZDg5LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAzMzAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMzMwVDE3NDMxMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTYwMDQwODRmZjJlYWEzYTRkYzE0ODQxM2QzMTU4OTI2ODhiYTEzM2FjZDFmZTU2NTMxZjUxODFmNWEzODk3ZjAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.VlHXm-pcaYKOqD3RsxSHcuZlIyNjrPSruaT6LZ-_ns8)](https://private-user-images.githubusercontent.com/71337024/409034468-1243a44a-84c8-458d-9439-aaf6f3a32d89.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDMzNTY4OTAsIm5iZiI6MTc0MzM1NjU5MCwicGF0aCI6Ii83MTMzNzAyNC80MDkwMzQ0NjgtMTI0M2E0NGEtODRjOC00NThkLTk0MzktYWFmNmYzYTMyZDg5LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAzMzAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMzMwVDE3NDMxMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTYwMDQwODRmZjJlYWEzYTRkYzE0ODQxM2QzMTU4OTI2ODhiYTEzM2FjZDFmZTU2NTMxZjUxODFmNWEzODk3ZjAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.VlHXm-pcaYKOqD3RsxSHcuZlIyNjrPSruaT6LZ-_ns8)
+[DataTalks.Club](https://datatalks.club/) is a global online community of data enthusiasts. It's a place to discuss data, learn, share knowledge, ask and answer questions, and support each other. 
+[Website](https://datatalks.club/) • [Join Slack Community](https://datatalks.club/slack.html) • [Newsletter](https://us19.campaign-archive.com/home/?u=0d7822ab98152f5afc118c176&id=97178021aa) • [Upcoming Events](http://lu.ma/dtc-events) • [Google Calendar](https://calendar.google.com/calendar/?cid=ZjhxaWRqbnEwamhzY3A4ODA5azFlZ2hzNjBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ) • [YouTube](https://www.youtube.com/@DataTalksClub/featured) • [GitHub](https://github.com/DataTalksClub) • [LinkedIn](https://www.linkedin.com/company/datatalks-club/) • [Twitter](https://twitter.com/DataTalksClub)
+All the activity at DataTalks.Club mainly happens on [Slack](https://datatalks.club/slack.html). We post updates there and discuss different aspects of data, career questions, and more.
+At DataTalksClub, we organize online events, community activities, and free courses. You can learn more about what we do at [DataTalksClub Community Navigation](https://www.notion.so/DataTalksClub-Community-Navigation-bf070ad27ba44bf6bbc9222082f0e5a8?pvs=21).
+## About
+Free MLOps course from DataTalks.Club 
+### Topics
+[ machine-learning ](https://github.com/topics/machine-learning "Topic: machine-learning") [ model-deployment ](https://github.com/topics/model-deployment "Topic: model-deployment") [ mlops ](https://github.com/topics/mlops "Topic: mlops") [ model-monitoring ](https://github.com/topics/model-monitoring "Topic: model-monitoring") [ workflow-orchestration ](https://github.com/topics/workflow-orchestration "Topic: workflow-orchestration")
+### Resources
+[ Readme ](https://github.com/DataTalksClub/mlops-zoomcamp/#readme-ov-file)
+[ Activity](https://github.com/DataTalksClub/mlops-zoomcamp/activity)
+[ Custom properties](https://github.com/DataTalksClub/mlops-zoomcamp/custom-properties)
+### Stars
+[ **11.7k** stars](https://github.com/DataTalksClub/mlops-zoomcamp/stargazers)
+### Watchers
+[ **194** watching](https://github.com/DataTalksClub/mlops-zoomcamp/watchers)
+### Forks
+[ **2.3k** forks](https://github.com/DataTalksClub/mlops-zoomcamp/forks)
+[ Report repository ](https://github.com/contact/report-content?content_url=https%3A%2F%2Fgithub.com%2FDataTalksClub%2Fmlops-zoomcamp&report=DataTalksClub+%28user%29)
+##  [Releases](https://github.com/DataTalksClub/mlops-zoomcamp/releases)
+No releases published
+##  [Packages 0](https://github.com/orgs/DataTalksClub/packages?repo_name=mlops-zoomcamp)
+No packages published 
+##  [Contributors 91](https://github.com/DataTalksClub/mlops-zoomcamp/graphs/contributors)
+  * [ ![@alexeygrigorev](https://avatars.githubusercontent.com/u/875246?s=64&v=4) ](https://github.com/alexeygrigorev)
+  * [ ![@kvnkho](https://avatars.githubusercontent.com/u/32503212?s=64&v=4) ](https://github.com/kvnkho)
+  * [ ![@SVizor42](https://avatars.githubusercontent.com/u/55026550?s=64&v=4) ](https://github.com/SVizor42)
+  * [ ![@mac2bua](https://avatars.githubusercontent.com/u/1063772?s=64&v=4) ](https://github.com/mac2bua)
+  * [ ![@sejalv](https://avatars.githubusercontent.com/u/9307691?s=64&v=4) ](https://github.com/sejalv)
+  * [ ![@ayoub-berdeddouch](https://avatars.githubusercontent.com/u/24941662?s=64&v=4) ](https://github.com/ayoub-berdeddouch)
+  * [ ![@bsenst](https://avatars.githubusercontent.com/u/8211411?s=64&v=4) ](https://github.com/bsenst)
+  * [ ![@emeli-dral](https://avatars.githubusercontent.com/u/22995068?s=64&v=4) ](https://github.com/emeli-dral)
+  * [ ![@particle1331](https://avatars.githubusercontent.com/u/54845098?s=64&v=4) ](https://github.com/particle1331)
+  * [ ![@Qfl3x](https://avatars.githubusercontent.com/u/20775896?s=64&v=4) ](https://github.com/Qfl3x)
+  * [ ![@mleiwe](https://avatars.githubusercontent.com/u/29621219?s=64&v=4) ](https://github.com/mleiwe)
+  * [ ![@BPrasad123](https://avatars.githubusercontent.com/u/35586125?s=64&v=4) ](https://github.com/BPrasad123)
+  * [ ![@Nakulbajaj101](https://avatars.githubusercontent.com/u/39689744?s=64&v=4) ](https://github.com/Nakulbajaj101)
+  * [ ![@balapriyac](https://avatars.githubusercontent.com/u/47279635?s=64&v=4) ](https://github.com/balapriyac)
+
+
+[+ 77 contributors](https://github.com/DataTalksClub/mlops-zoomcamp/graphs/contributors)
+## Languages
+  * [ Jupyter Notebook 99.1% ](https://github.com/DataTalksClub/mlops-zoomcamp/search?l=jupyter-notebook)
+  * Other 0.9%
+
+
+## Footer
+[ ](https://github.com "GitHub") © 2025 GitHub, Inc. 
+### Footer navigation
+  * [Terms](https://docs.github.com/site-policy/github-terms/github-terms-of-service)
+  * [Privacy](https://docs.github.com/site-policy/privacy-policies/github-privacy-statement)
+  * [Security](https://github.com/security)
+  * [Status](https://www.githubstatus.com/)
+  * [Docs](https://docs.github.com/)
+  * [Contact](https://support.github.com?tags=dotcom-footer)
+  * Manage cookies 
+  * Do not share my personal information 
+
+
+You can’t perform that action at this time. 

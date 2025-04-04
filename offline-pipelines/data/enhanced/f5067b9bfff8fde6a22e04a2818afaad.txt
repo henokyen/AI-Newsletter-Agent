@@ -1,0 +1,13 @@
+We'll be at NVIDIA GTC 2025! Want to develop AI products 80% faster? [Book a time with our team.](https://lightning.ai/)
+Learn more
+[![Lightning.AI Logo](https://lightning.ai/static/media/logo-dark.82b2cc7df5d987ca34bf210ac51cf827.svg)](https://lightning.ai/)
+Login
+Start free
+[![Lightning.AI Logo With Text](https://lightning.ai/static/media/logo-with-text-dark.bdcfdf86bccb9812ed1d3ec873e9e771.svg)](https://lightning.ai/)
+[![Join us on Discord](https://pl-bolts-doc-images.s3.us-east-2.amazonaws.com/app-2/discord-icon.svg)](https://discord.gg/MWAEvnC5fU)[![Follow us on Twitter](https://lightning.ai/static/media/icon-social-twitter.727156ae251aac8e8ad0721874a5b8cf.svg)](https://x.com/LightningAI)[![Connect with us on LinkedIn](https://lightning.ai/static/media/icon-social-linkedin.d050b1bb25a6b8eceb406da4d44f7435.svg)](https://www.linkedin.com/company/pytorch-lightning/)[![Watch our YouTube channel](https://lightning.ai/static/media/icon-social-youtube.449171b2016a0e612af033acd2ff9823.svg)](https://www.youtube.com/c/PyTorchLightning)
+About
+[About Lightning AI](https://lightning.ai/about)[Pricing](https://lightning.ai/pricing/)[Terms of Service](https://lightning.ai/pages/policies/terms-of-service/)[Privacy Policy](https://lightning.ai/pages/policies/privacy-policy/)
+Community
+[r/LightningAI](https://www.reddit.com/r/lightningAI/)[GitHub](https://github.com/Lightning-AI/lightning)[Resources](https://lightning.ai/pages/resources/)[AI Education](https://lightning.ai/pages/ai-education/)[Careers](https://lightning.ai/careers)
+Docs
+[Lightning AI Studio](https://lightning.ai/docs/overview/studios/)[PyTorch Lightning](https://lightning.ai/docs/pytorch/stable)[LitServe](https://lightning.ai/docs/fabric/stable)[Fabric](https://lightning.ai/docs/litserve/stable)[LitGPT](https://github.com/Lightning-AI/litgpt/blob/main/tutorials/0_to_litgpt.md)[TorchMetrics](https://lightning.ai/docs/torchmetrics/stable)[Thunder](https://lightning-thunder.readthedocs.io/en/stable/)

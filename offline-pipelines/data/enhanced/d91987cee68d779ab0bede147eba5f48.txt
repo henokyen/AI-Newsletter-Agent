@@ -1,0 +1,415 @@
+![Scarf analytics pixel](https://static.scarf.sh/a.png?x-pxid=11380eed-0b59-4a21-a150-f1e01433748c)
+![](https://framerusercontent.com/images/MxHOKJYhpgweFt4KNY5u5Ao6Lm8.jpg)
+[![](https://framerusercontent.com/images/plcQevjrOYnyriuGw90NfQBPoQ.jpg)](https://unstructured.io/)
+[For Enterprise](https://unstructured.io/enterprise)
+[For Developers](https://unstructured.io/developers)
+[Webinars](https://unstructured.io/webinars)
+[Blog](https://unstructured.io/blog)
+[Docs](https://docs.unstructured.io/welcome)
+[Login](http://platform.unstructured.io/)
+[Schedule a demo](https://unstructured.io/contact)
+[Get Started](https://unstructured.io/developers#get-started)
+[![](https://framerusercontent.com/images/plcQevjrOYnyriuGw90NfQBPoQ.jpg)](https://unstructured.io/)
+[![](https://framerusercontent.com/images/plcQevjrOYnyriuGw90NfQBPoQ.jpg)](https://unstructured.io/)
+🎉
+[#24 on Fast Company’s Most Innovative Companies List!](https://www.fastcompany.com/91270777/unstructured-most-innovative-companies-2025)
+🎉
+[#24 on FastCo's Most Innovative Companies List!](https://www.fastcompany.com/91270777/unstructured-most-innovative-companies-2025)
+# ETL
+# ETL
+# for
+# for
+# GenAI data.
+# GenAI data.
+Transform complex, unstructured data into clean, structured data. Securely. Continuously. Effortlessly.
+Transform complex, unstructured data into clean, structured data. Securely. Continuously. Effortlessly.
+[Get Started](https://unstructured.io/developers#get-started)
+[Contact Sales](https://unstructured.io/contact)
+### The Fastest Way To AI-Ready Data
+### The Fastest Way To AI-Ready Data
+### The Fastest Way To AI-Ready Data
+# Trusted by
+# 73%
+# of
+# the Fortune 1000
+# Trusted by
+# 73%
+# of
+# the Fortune 1000
+# Trusted by
+# 73%
+# of
+# the Fortune 1000
+### We Orchestrate, You Innovate
+### We Orchestrate, You Innovate
+ETL
+ETL
+ETL
+so much more.
+so much more.
+so much
+more.
+Security and compliance? Built in. Role-based access? Handled. We take care of all the things that slow teams down so you can focus on unlocking the full potential of your data.
+### Extract
+35+ Connectors
+Multi-Source Configuration
+24/7 Connector Maintenance
+Your data isn’t sitting in a neat spreadsheet—it’s scattered across emails, PDFs, and messy databases. We extract it all from 35+ sources and 64+ file types so your data is always ready.
+### Transform
+64+ File Types
+Chunking, Enrichment, Embedding
+Open AI, Anthropic, + more integrations
+We parse, chunk, embed, and enrich to get your data AI-ready. With fast speeds, and seamless partner integrations, our transformation is optimized for any destination.
+### Load
+30+ Destinations
+Clean JSON Output 
+24/7 Connector Maintenance
+Clean data is half the battle—getting it where it needs to go is just as critical. We seamlessly load your data into 30+ graph and vector databases so it’s instantly usable for GenAI.
+### Plus
+3rd-party Integrations
+Multi-source Configuration
+Security & Compliance
+With smart-routing, reliable connectors, and enterprise-grade security, we take the headache out of data transformation. Instead of stitching together scattered tools, you get a scalable solution that’s powerful and easy to use.
+### Extract
+35+ Connectors
+Multi-Source Configuration
+24/7 Connector Maintenance
+Your data isn’t sitting in a neat spreadsheet—it’s scattered across emails, PDFs, and messy databases. We extract it all from 35+ sources and 64+ file types so your data is always ready.
+### Transform
+64+ File Types
+Chunking, Enrichment, Embedding
+Open AI, Anthropic, + more integrations
+We parse, chunk, embed, and enrich to get your data AI-ready. With fast speeds, and seamless partner integrations, our transformation is optimized for any destination.
+### Load
+30+ Destinations
+Clean JSON Output 
+24/7 Connector Maintenance
+Clean data is half the battle—getting it where it needs to go is just as critical. We seamlessly load your data into 30+ graph and vector databases so it’s instantly usable for GenAI.
+### Plus
+3rd-party Integrations
+Multi-source Configuration
+Security & Compliance
+With smart-routing, reliable connectors, and enterprise-grade security, we take the headache out of data transformation. Instead of stitching together scattered tools, you get a scalable solution that’s powerful and easy to use.
+### Extract
+35+ Connectors
+Multi-Source Configuration
+24/7 Connector Maintenance
+Your data isn’t sitting in a neat spreadsheet—it’s scattered across emails, PDFs, and messy databases. We extract it all from 35+ sources and 64+ file types so your data is always ready.
+### Transform
+64+ File Types
+Chunking, Enrichment, Embedding
+Open AI, Anthropic, + more integrations
+We parse, chunk, embed, and enrich to get your data AI-ready. With fast speeds, and seamless partner integrations, our transformation is optimized for any destination.
+### Load
+30+ Destinations
+Clean JSON Output 
+24/7 Connector Maintenance
+Clean data is half the battle—getting it where it needs to go is just as critical. We seamlessly load your data into 30+ graph and vector databases so it’s instantly usable for GenAI.
+### Plus
+3rd-party Integrations
+Multi-source Configuration
+Security & Compliance
+With smart-routing, reliable connectors, and enterprise-grade security, we take the headache out of data transformation. Instead of stitching together scattered tools, you get a scalable solution that’s powerful and easy to use.
+### Every Source, Every Destination
+### Every Source, Every Destination
+Built to connect. Designed to scale.
+Built to connect. Designed to scale.
+Built to connect. Designed to scale.
+With 35+ connectors and limitless customizable workflow configurations, we seamlessly integrate your entire enterprise data ecosystem while removing the headache of managing brittle custom integrations. The data just flows. Uninterrupted.
+  * ![](https://framerusercontent.com/images/fyb7OA4gs9Ytq78q4Wj5n8.jpg)
+Astra DB
+  * ![](https://framerusercontent.com/images/hj6LypgqdVGUhRwSl0XmHoFQ8.jpg)
+Azure Blob Storage
+  * ![](https://framerusercontent.com/images/plMUyVEQTjmAsWV5slnkMzsO34.jpg)
+Biomed
+  * ![](https://framerusercontent.com/images/B4qRBdisZMpssELnr1fsH0s1A.jpg)
+Box
+  * ![](https://framerusercontent.com/images/pBw5iOwULVD94ljM2vkOuSyplk.jpg)
+Confluence
+  * ![](https://framerusercontent.com/images/V8O29vekqPRs9WWpLBtuziaosmI.jpg)
+Couchbase
+  * ![](https://framerusercontent.com/images/LZ6Hw6PJ0XMAY44UxlYUELVtoiA.jpg)
+Databricks Volumes
+  * ![](https://framerusercontent.com/images/lfKC1U1iRq1J1gkejeLCs91OfY4.jpg)
+Delta table
+  * ![](https://framerusercontent.com/images/eFescvhNG0axzlMlDKbU10plWN8.jpg)
+Discord
+  * ![](https://framerusercontent.com/images/endtZ054CieQe2rrHaeLuRZym0.jpg)
+Dropbox
+  * ![](https://framerusercontent.com/images/V9duJxHmXXytWDOtsINQOJ4JHEg.jpg)
+Elasticsearch
+
+
+  * ![](https://framerusercontent.com/images/jGAGwQZIdAkYDpOhVqazDpgpPv0.jpg)
+GitHub
+  * ![](https://framerusercontent.com/images/jGAGwQZIdAkYDpOhVqazDpgpPv0.jpg)
+GitLab
+  * ![](https://framerusercontent.com/images/koxTkGWyus1kzkYNT8VDnubjQ.jpg)
+Google Cloud Storage
+  * ![](https://framerusercontent.com/images/GcgventIgUvfLiohNZ3x0dVGopY.jpg)
+Google Drive
+  * ![](https://framerusercontent.com/images/pahit3nsMFfpqsLQesBwzXxtD6k.jpg)
+HubSpot
+  * ![](https://framerusercontent.com/images/5SccKZ6fRupVDd5Yr3iy9ei4.jpg)
+Jira
+  * ![](https://framerusercontent.com/images/NBEEboBrbevQOsOYYuyC81AFu4.jpg)
+Kafka
+  * ![](https://framerusercontent.com/images/cAgAx0iA8ylep9P6kxuwXXFk.jpg)
+MongoDB
+  * ![](https://framerusercontent.com/images/Ms1Lkhj335HksbnS5XS3LWZnnU.jpg)
+Notion
+  * ![](https://framerusercontent.com/images/TWHmZvPxz5fVm9NBxgtlwqk.jpg)
+OneDrive
+  * ![](https://framerusercontent.com/images/n5RrLz2VuY3WxTfgr2cYHBcMlI.jpg)
+OpenSearch
+  * ![](https://framerusercontent.com/images/fB8AlIeZwqfo5nVpW8o6Gc1vd0.jpg)
+Outlook
+
+
+  * ![](https://framerusercontent.com/images/jnSe0WPHRmA3kyUMwCkn9Yw95xA.jpg)
+PostgreSQL
+  * ![](https://framerusercontent.com/images/NYdRIcyNLEvrG1r30MBXbjcALiU.jpg)
+Reddit
+  * ![](https://framerusercontent.com/images/mxE55mcXo0bsb5qOI0vk2xfaKE.jpg)
+S3
+  * ![](https://framerusercontent.com/images/bQyVaHl2NIvQHak8EipETOH7wz8.jpg)
+Salesforce
+  * ![](https://framerusercontent.com/images/nX5qme2C4uGUKtNHsozOYzXl97o.jpg)
+SFTP
+  * ![](https://framerusercontent.com/images/Cd5BE16IsqbOuKQXn7OmOR8nnaI.jpg)
+SharePoint
+  * ![](https://framerusercontent.com/images/Zm4u10OvJbu9bVYj0TF1AjqFdfE.jpg)
+SingleStore
+  * ![](https://framerusercontent.com/images/rLyDZAdNJj4C2gy36zHu6clauI.jpg)
+Slack
+  * ![](https://framerusercontent.com/images/BjpLQ4zk00vz72cGcgmZf74HHLA.jpg)
+SnowFlake
+  * ![](https://framerusercontent.com/images/BCPZeK0BBGMyz4mTMs0CClRNE.jpg)
+SQLite
+  * ![](https://framerusercontent.com/images/MwsVGQ8F4P9JpQhfXJBM54tcog.jpg)
+Wikipedia
+
+
+### Are You Building A Rat's Nest?
+### Are You Building A Rat's Nest?
+### Are You Building A Rat's Nest?
+## Just because you can build it yourself, doesn’t mean you should.
+## Just because you can build it yourself, doesn’t mean you should.
+Building your own data processing pipeline starts simple—but scaling it is another story. What begins as a few scripts and connectors quickly turns into a tangled mess of never-ending fixes and updates. We replace the DIY rat’s nest so you can focus on AI innovations.
+[Contact Us](https://unstructured.io/contact)
+### Works With AI Tools You Love
+### Works With AI Tools You Love
+### Works With AI Tools You Love
+## Your favorite plugins, all in one place.
+## Your favorite plugins, all in one place.
+Whether it’s parsing, chunking, enrichment, or embedding, we seamlessly integrate with your favorite providers—like AWS Bedrock, Anthropic, OpenAI, and more. No more custom code or brittle pipelines—just plug, play, and adapt as new models emerge.
+Whether it’s parsing, chunking, enrichment, or embedding, we seamlessly integrate with your favorite providers—like AWS Bedrock, Anthropic, OpenAI, and more. No more custom code or brittle pipelines—just plug, play, and adapt as new models emerge.
+Whether it’s parsing, chunking, enrichment, or embedding, we seamlessly integrate with your favorite providers—like AWS Bedrock, Anthropic, OpenAI, and more. No more custom code or brittle pipelines—just plug, play, and adapt as new models emerge.
+### UI or API
+### UI or API
+### UI or API
+## Interface options for everyone.
+## Interface options for everyone.
+# [UnstructuredUI![](https://framerusercontent.com/images/sfrwVvfIN7kRVNCFvdTTMHfxCU.jpg)Get Started](https://unstructured.io/developers#get-started)
+# [UnstructuredUI![](https://framerusercontent.com/images/sfrwVvfIN7kRVNCFvdTTMHfxCU.jpg)Get Started](https://unstructured.io/developers#get-started)
+# [UnstructuredUI![](https://framerusercontent.com/images/sfrwVvfIN7kRVNCFvdTTMHfxCU.jpg)Get Started](https://unstructured.io/developers#get-started)
+# [UnstructuredAPI![](https://framerusercontent.com/images/i3nEMOmkGqhmjs368D4HUKIQ1i8.jpg)Get Started](https://docs.unstructured.io/api-reference/overview)
+# [UnstructuredAPI![](https://framerusercontent.com/images/i3nEMOmkGqhmjs368D4HUKIQ1i8.jpg)Get Started](https://docs.unstructured.io/api-reference/overview)
+# [UnstructuredAPI![](https://framerusercontent.com/images/i3nEMOmkGqhmjs368D4HUKIQ1i8.jpg)Get Started](https://docs.unstructured.io/api-reference/overview)
+Do you like to get hands-on with code? Or do you prefer a DAG experience? With Unstructured, you’ve got options. Our UI makes it easy for teams to process and transform data without heavy coding, while the API gives engineers the flexibility and control they need. However you work, we’ve got you covered.
+Do you like to get hands-on with code? Or do you prefer a DAG experience? With Unstructured, you’ve got options. Our UI makes it easy for teams to process and transform data without heavy coding, while the API gives engineers the flexibility and control they need. However you work, we’ve got you covered.
+Do you like to get hands-on with code? Or do you prefer a DAG experience? With Unstructured, you’ve got options. Our UI makes it easy for teams to process and transform data without heavy coding, while the API gives engineers the flexibility and control they need. However you work, we’ve got you covered.
+### Your Database, Our Pre-Processing
+### Your Database, Our Pre-Processing
+Data delivered to your doorstep.
+Data delivered to your doorstep.
+If you’re already storing your data with one of our trusted partners, integrating Unstructured into your preprocessing workflow is effortless. Get started with one of our partner setup guides and you'll be up and running in no time.
+  * [![Databricks](https://framerusercontent.com/images/HiLz2TkvcK2tgItxIbJVkfAn0Yo.jpg)Start Connecting](https://docs.unstructured.io/ui/destinations/databricks-delta-table)
+  * [![IBM](https://framerusercontent.com/images/eul7ft7k5uPSt3LkRBpOVIdUlS8.jpg)Start Connecting](https://docs.unstructured.io/ui/destinations/milvus)
+  * [![PostgreSQL](https://framerusercontent.com/images/YGpZrVPVxRYGIjZDCu8sUSQJUf8.jpg)Start Connecting](https://docs.unstructured.io/ui/destinations/postgresql)
+  * [![MongoDB](https://framerusercontent.com/images/MMjkksaYj5wy09y6nadT7ONlls.jpg)Start Connecting](https://docs.unstructured.io/ui/destinations/mongodb)
+  * [![redis](https://framerusercontent.com/images/DK9maA1uYDJqYqSs3WGJcuqIvA0.jpg)Start Connecting](https://docs.unstructured.io/ui/destinations/redis)
+  * [![redis](https://framerusercontent.com/images/ts5mrDUjPbLo1nEb8UlorZPEYQ.jpg)Start Connecting](https://docs.unstructured.io/ui/destinations/elasticsearch)
+  * [![weaviate](https://framerusercontent.com/images/MNf6WhUzSvgk5hJBhklJxVs4hI.jpg)Start Connecting](https://docs.unstructured.io/ui/destinations/weaviate)
+  * [![pinecone](https://framerusercontent.com/images/UdOZlEGNRNCKHwMDdw3e1yvfp0.jpg)Start Connecting](https://docs.unstructured.io/ui/destinations/pinecone)
+
+![](https://framerusercontent.com/images/6tTbkXggWgQCAJ4DO2QEdXXmgM.svg)![](https://framerusercontent.com/images/11KSGbIZoRSg4pjdnUoif6MKHI.svg)
+  * [![Databricks](https://framerusercontent.com/images/HiLz2TkvcK2tgItxIbJVkfAn0Yo.jpg)Start Connecting](https://docs.unstructured.io/ui/destinations/databricks-delta-table)
+  * [![IBM](https://framerusercontent.com/images/eul7ft7k5uPSt3LkRBpOVIdUlS8.jpg)Start Connecting](https://docs.unstructured.io/ui/destinations/milvus)
+  * [![PostgreSQL](https://framerusercontent.com/images/YGpZrVPVxRYGIjZDCu8sUSQJUf8.jpg)Start Connecting](https://docs.unstructured.io/ui/destinations/postgresql)
+  * [![MongoDB](https://framerusercontent.com/images/MMjkksaYj5wy09y6nadT7ONlls.jpg)Start Connecting](https://docs.unstructured.io/ui/destinations/mongodb)
+  * [![redis](https://framerusercontent.com/images/DK9maA1uYDJqYqSs3WGJcuqIvA0.jpg)Start Connecting](https://docs.unstructured.io/ui/destinations/redis)
+  * [![redis](https://framerusercontent.com/images/ts5mrDUjPbLo1nEb8UlorZPEYQ.jpg)Start Connecting](https://docs.unstructured.io/ui/destinations/elasticsearch)
+  * [![weaviate](https://framerusercontent.com/images/MNf6WhUzSvgk5hJBhklJxVs4hI.jpg)Start Connecting](https://docs.unstructured.io/ui/destinations/weaviate)
+  * [![pinecone](https://framerusercontent.com/images/UdOZlEGNRNCKHwMDdw3e1yvfp0.jpg)Start Connecting](https://docs.unstructured.io/ui/destinations/pinecone)
+
+![](https://framerusercontent.com/images/6tTbkXggWgQCAJ4DO2QEdXXmgM.svg)![](https://framerusercontent.com/images/11KSGbIZoRSg4pjdnUoif6MKHI.svg)
+  * [![Databricks](https://framerusercontent.com/images/HiLz2TkvcK2tgItxIbJVkfAn0Yo.jpg)Start Connecting](https://docs.unstructured.io/ui/destinations/databricks-delta-table)
+  * [![IBM](https://framerusercontent.com/images/eul7ft7k5uPSt3LkRBpOVIdUlS8.jpg)Start Connecting](https://docs.unstructured.io/ui/destinations/milvus)
+  * [![PostgreSQL](https://framerusercontent.com/images/YGpZrVPVxRYGIjZDCu8sUSQJUf8.jpg)Start Connecting](https://docs.unstructured.io/ui/destinations/postgresql)
+  * [![MongoDB](https://framerusercontent.com/images/MMjkksaYj5wy09y6nadT7ONlls.jpg)Start Connecting](https://docs.unstructured.io/ui/destinations/mongodb)
+  * [![redis](https://framerusercontent.com/images/DK9maA1uYDJqYqSs3WGJcuqIvA0.jpg)Start Connecting](https://docs.unstructured.io/ui/destinations/redis)
+  * [![redis](https://framerusercontent.com/images/ts5mrDUjPbLo1nEb8UlorZPEYQ.jpg)Start Connecting](https://docs.unstructured.io/ui/destinations/elasticsearch)
+  * [![weaviate](https://framerusercontent.com/images/MNf6WhUzSvgk5hJBhklJxVs4hI.jpg)Start Connecting](https://docs.unstructured.io/ui/destinations/weaviate)
+  * [![pinecone](https://framerusercontent.com/images/UdOZlEGNRNCKHwMDdw3e1yvfp0.jpg)Start Connecting](https://docs.unstructured.io/ui/destinations/pinecone)
+
+![](https://framerusercontent.com/images/6tTbkXggWgQCAJ4DO2QEdXXmgM.svg)![](https://framerusercontent.com/images/11KSGbIZoRSg4pjdnUoif6MKHI.svg)
+## Industry-awarded,enterprise-trusted.
+## Enterprise ETL for GenAI
+Recognized as the leader in enterprise data infrastructure, Unstructured is transforming how businesses unlock value from unstructured data. Named to Fast Company’s Most Innovative Companies, Forbes AI50, CB Insights AI 100, and Gartner Cool Vendor.
+Recognized as the leader in enterprise data infrastructure, Unstructured is transforming how businesses unlock value from unstructured data. Named to Fast Company’s Most Innovative Companies, Forbes AI50, CB Insights AI 100, and Gartner Cool Vendor.
+Top 100
+AI Companies
+Most Innovative
+Company
+Top 50
+AI Companies
+Cool Vendor
+2024
+[Get Started](https://unstructured.io/contact)
+Top 100
+AI Companies
+Most Innovative
+Company
+Top 50
+AI Companies
+Cool Vendor
+2024
+Top 100
+AI Companies
+Most Innovative
+Company
+Top 50
+AI Companies
+Cool Vendor
+2024
+## Industry-awarded,enterprise-trusted.
+Recognized as the leader in enterprise data infrastructure, Unstructured is transforming how businesses unlock value from unstructured data. Named to Fast Company’s Most Innovative Companies, Forbes AI50, CB Insights AI 100, and Gartner Cool Vendor.
+Top 100
+AI Companies
+Most Innovative
+Company
+Top 50
+AI Companies
+Cool Vendor
+2024
+[Get Started](https://unstructured.io/contact)
+Top 100
+AI Companies
+Most Innovative
+Company
+Top 50
+AI Companies
+Cool Vendor
+2024
+Top 100
+AI Companies
+Most Innovative
+Company
+Top 50
+AI Companies
+Cool Vendor
+2024
+# Ready for a demo?
+# Ready for a demo?
+# Ready for a demo?
+See how Unstructured simplifies data workflows, reduces engineering effort, and scales effortlessly. Get a live demo today.
+See how Unstructured simplifies data workflows, reduces engineering effort, and scales effortlessly. Get a live demo today.
+See how Unstructured simplifies data workflows, reduces engineering effort, and scales effortlessly. Get a live demo today.
+[Book a Demo](https://unstructured.io/contact)
+![](https://framerusercontent.com/images/4jXUyYyiGBnGaFF2o98FU6nw6ls.jpg)
+![](https://framerusercontent.com/images/jYw94uZLCAR7RGdh9dSSnxhZEw.png?scale-down-to=1024)
+![](https://framerusercontent.com/images/l2rhpuuEycUaeSavbLYX2JeEs.png?scale-down-to=512)
+![](https://framerusercontent.com/images/ONlBsBdVq4PpUkR4JUJxCpa6w.png?scale-down-to=512)
+![](https://framerusercontent.com/images/4jXUyYyiGBnGaFF2o98FU6nw6ls.jpg)
+![](https://framerusercontent.com/images/jYw94uZLCAR7RGdh9dSSnxhZEw.png?scale-down-to=1024)
+![](https://framerusercontent.com/images/l2rhpuuEycUaeSavbLYX2JeEs.png?scale-down-to=512)
+![](https://framerusercontent.com/images/ONlBsBdVq4PpUkR4JUJxCpa6w.png?scale-down-to=512)
+![](https://framerusercontent.com/images/4jXUyYyiGBnGaFF2o98FU6nw6ls.jpg)
+![](https://framerusercontent.com/images/jYw94uZLCAR7RGdh9dSSnxhZEw.png?scale-down-to=1024)
+![](https://framerusercontent.com/images/l2rhpuuEycUaeSavbLYX2JeEs.png?scale-down-to=512)
+![](https://framerusercontent.com/images/ONlBsBdVq4PpUkR4JUJxCpa6w.png?scale-down-to=512)
+### Join The Community
+Connect with us
+If you’d like to learn more, just jump into one of our communities. Whether you’re looking for support, collaboration, or just want to connect with others who share your passion for AI and data, we’ve got a place for you.
+[SlackJoin Us](https://short.unstructured.io/pzw05l7)
+[GitHubStar Us](https://github.com/Unstructured-IO)
+[Hugging FaceFollow Us](https://huggingface.co/unstructuredio)
+### Join The Community
+Connect with us
+If you’d like to learn more, just jump into one of our communities. Whether you’re looking for support, collaboration, or just want to connect with others who share your passion for AI and data, we’ve got a place for you.
+[SlackJoin Us](https://short.unstructured.io/pzw05l7)
+[GitHubStar Us](https://github.com/Unstructured-IO)
+[Hugging FaceFollow Us](https://huggingface.co/unstructuredio)
+### Join The Community
+Connect with us
+If you’d like to learn more, just jump into one of our communities. Whether you’re looking for support, collaboration, or just want to connect with others who share your passion for AI and data, we’ve got a place for you.
+[SlackJoin Us](https://short.unstructured.io/pzw05l7)
+[GitHubStar Us](https://github.com/Unstructured-IO)
+[Hugging FaceFollow Us](https://huggingface.co/unstructuredio)
+Unstructured
+ETL for LLMs
+![](https://framerusercontent.com/images/FYzuK9qI5u6DbgYb4YyW66SG4Tw.png?scale-down-to=512)
+GDPR
+Visit Unstructured’s [Trust Portal](https://app.drata.com/trust/52570362-75fa-4897-80ce-d348e236d395) to learn more.
+QuickLinks
+[For Enterprise](https://unstructured.io/enterprise)
+[For Developers](https://unstructured.io/developers)
+[Webinars](https://unstructured.io/webinars)
+[Pricing](https://unstructured.io/developers#pricing)
+[Docs](https://docs.unstructured.io/welcome)
+[Insights](https://unstructured.io/insights)
+[Blog](https://unstructured.io/blog)
+[Careers](https://unstructured.io/careers)
+[Press](https://unstructured.io/press)
+Lets chat!
+hello@unstructured.io
+[](https://twitter.com/UnstructuredIO?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)[](https://www.linkedin.com/company/unstructuredio/)[](https://short.unstructured.io/pzw05l7)[](https://www.youtube.com/@unstructuredio)
+Join our newsletter
+Email
+[Privacy Policy](https://unstructured.io/privacy-policy)
+Copyright © 2025 Unstructured
+Unstructured
+ETL for LLMs
+![](https://framerusercontent.com/images/FYzuK9qI5u6DbgYb4YyW66SG4Tw.png?scale-down-to=512)
+GDPR
+Visit Unstructured’s [Trust Portal](https://app.drata.com/trust/52570362-75fa-4897-80ce-d348e236d395) to learn more.
+QuickLinks
+[For Enterprise](https://unstructured.io/enterprise)
+[For Developers](https://unstructured.io/developers)
+[Webinars](https://unstructured.io/webinars)
+[Pricing](https://unstructured.io/developers#pricing)
+[Docs](https://docs.unstructured.io/welcome)
+[Insights](https://unstructured.io/insights)
+[Blog](https://unstructured.io/blog)
+[Careers](https://unstructured.io/careers)
+[Press](https://unstructured.io/press)
+Lets chat!
+hello@unstructured.io
+[](https://twitter.com/UnstructuredIO?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)[](https://www.linkedin.com/company/unstructuredio/)[](https://short.unstructured.io/pzw05l7)[](https://www.youtube.com/@unstructuredio)
+Join our newsletter
+Email
+[Privacy Policy](https://unstructured.io/privacy-policy)
+Copyright © 2025 Unstructured
+Unstructured
+ETL for LLMs
+![](https://framerusercontent.com/images/FYzuK9qI5u6DbgYb4YyW66SG4Tw.png?scale-down-to=512)
+GDPR
+Visit Unstructured’s [Trust Portal](https://app.drata.com/trust/52570362-75fa-4897-80ce-d348e236d395) to learn more.
+QuickLinks
+[For Enterprise](https://unstructured.io/enterprise)
+[For Developers](https://unstructured.io/developers)
+[Webinars](https://unstructured.io/webinars)
+[Pricing](https://unstructured.io/developers#pricing)
+[Docs](https://docs.unstructured.io/welcome)
+[Insights](https://unstructured.io/insights)
+[Blog](https://unstructured.io/blog)
+[Careers](https://unstructured.io/careers)
+[Press](https://unstructured.io/press)
+Lets chat!
+hello@unstructured.io
+[](https://twitter.com/UnstructuredIO?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)[](https://www.linkedin.com/company/unstructuredio/)[](https://short.unstructured.io/pzw05l7)[](https://www.youtube.com/@unstructuredio)
+Join our newsletter
+Email
+[Privacy Policy](https://unstructured.io/privacy-policy)
+Copyright © 2025 Unstructured

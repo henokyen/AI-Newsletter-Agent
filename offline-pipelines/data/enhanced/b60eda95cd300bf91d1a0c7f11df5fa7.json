@@ -1,0 +1,30 @@
+{
+    "id": "b60eda95cd300bf91d1a0c7f11df5fa7",
+    "metadata": {
+        "id": "b60eda95cd300bf91d1a0c7f11df5fa7",
+        "url": "https://www.notion.so/Media-Codecs-b60eda95cd300bf91d1a0c7f11df5fa7",
+        "title": "Media Codecs",
+        "properties": {
+            "Tags": [],
+            "Created": {
+                "id": "XI%60x",
+                "type": "created_time",
+                "created_time": "2023-09-06T12:36:00.000Z"
+            }
+        }
+    },
+    "parent_metadata": {
+        "id": "9701dbb3d0f7eafe22ad1cbeba66756e",
+        "url": "",
+        "title": "",
+        "properties": {}
+    },
+    "content": "- [https://developer.mozilla.org/en-US/docs/Web/Media/Formats/Audio_codecs](https://developer.mozilla.org/en-US/docs/Web/Media/Formats/Audio_codecs)\n- [https://developer.mozilla.org/en-US/docs/Web/Media/Formats/Video_codecs](https://developer.mozilla.org/en-US/docs/Web/Media/Formats/Video_codecs)\n- [https://developer.mozilla.org/en-US/docs/Web/Media/Formats/Containers](https://developer.mozilla.org/en-US/docs/Web/Media/Formats/Containers)",
+    "content_quality_score": 0.0,
+    "summary": null,
+    "child_urls": [
+        "https://developer.mozilla.org/en-US/docs/Web/Media/Formats/Audio_codecs/",
+        "https://developer.mozilla.org/en-US/docs/Web/Media/Formats/Containers/",
+        "https://developer.mozilla.org/en-US/docs/Web/Media/Formats/Video_codecs/"
+    ]
+}

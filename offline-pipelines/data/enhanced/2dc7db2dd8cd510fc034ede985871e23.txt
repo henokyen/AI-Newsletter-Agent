@@ -1,0 +1,68 @@
+[![Common Crawl Logo](https://cdn.prod.website-files.com/6479b8d98bf5dcb4a69c4f31/649b5869af56f6df617cfb1f_CC_Logo_Blue_Auto.svg)](https://commoncrawl.org/)
+  * The Data
+[Overview](https://commoncrawl.org/overview)[Web Graphs](https://commoncrawl.org/web-graphs)[Latest Crawl](https://commoncrawl.org/latest-crawl)[Crawl Stats](https://commoncrawl.github.io/cc-crawl-statistics/)[Graph Stats](https://commoncrawl.github.io/cc-webgraph-statistics/)[Errata](https://commoncrawl.org/errata)
+  * Resources
+[Get Started](https://commoncrawl.org/get-started)[AI Agent](https://commoncrawl.org/ai-agent)[Blog](https://commoncrawl.org/blog)[Examples](https://commoncrawl.org/examples)[Use Cases](https://commoncrawl.org/use-cases)[CCBot](https://commoncrawl.org/ccbot)[Infra Status](https://status.commoncrawl.org)[FAQ](https://commoncrawl.org/faq)
+  * Community
+[Research Papers](https://commoncrawl.org/research-papers)[Mailing List Archive](https://groups.google.com/g/common-crawl)[Hugging Face](https://huggingface.co/commoncrawl)[Discord](https://discord.gg/njaVFh7avF)[Collaborators](https://commoncrawl.org/collaborators)
+  * About
+[Team](https://commoncrawl.org/team)[Jobs](https://commoncrawl.org/jobs)[Mission](https://commoncrawl.org/mission)[Impact](https://commoncrawl.org/impact)[Privacy Policy](https://commoncrawl.org/privacy-policy)[Terms of Use](https://commoncrawl.org/terms-of-use)
+  * Search
+  * [Contact Us](https://commoncrawl.org/contact-us)
+
+
+# Common Crawl maintains a free, open repository of web crawl data that can be used by anyone.
+# Common Crawl is a 501(c)(3) non–profit founded in 2007.‍We make wholesale extraction, transformation and analysis of open web data accessible to researchers.
+[Overview](https://commoncrawl.org/overview)
+## Over 250 billion pages spanning 18 years.
+## Free and open corpus since 2007.
+## Cited in over 10,000 research papers.
+## 3–5 billion new pages added each month.
+### Featured Papers:
+#### [Research on Free Expression OnlineJeffrey Knockel, Jakub Dalek, Noura Aljizawi, Mohamed Ahmed, Levi Meletti, and Justin LauBanned Books: Analysis of Censorship on Amazon.com](https://citizenlab.ca/2024/11/analysis-of-censorship-on-amazon-com/)
+#### [Analyzing the Australian Web with Web Graphs: Harmonic Centrality at the Domain LevelXian Gong, Paul X. McCarthy, Marian-Andrei Rizoiu, Paolo BoldiHarmony in the Australian Domain Space](https://arxiv.org/pdf/2404.10006)
+#### [The Dangers of Hijacked HyperlinksKevin Saric, Felix Savins, Gowri Sankar Ramachandran, Raja Jurdak, Surya NepalHyperlink Hijacking: Exploiting Erroneous URL Links to Phantom Domains](https://dl.acm.org/doi/10.1145/3589334.3645510)
+#### [Enhancing Computational AnalysisZhihong Shao, Peiyi Wang, Qihao Zhu, Runxin Xu, Junxiao Song, Mingchuan Zhang, Y.K. Li, Y. Wu, Daya GuoDeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models](https://arxiv.org/abs/2402.03300)
+#### [Computation and LanguageAsier Gutiérrez-Fandiño, David Pérez-Fernández, Jordi Armengol-Estapé, David Griol, Zoraida CallejasesCorpius: A Massive Spanish Crawling Corpus](https://arxiv.org/abs/2206.15147)
+#### [The Web as a Graph (Master's Thesis)Marius Løvold Jørgensen, UiT Norges Arktiske Universitet BacklinkDB: A Purpose-Built Backlink Database Management System](https://munin.uit.no/handle/10037/28861)
+#### [Internet Security: Phishing WebsitesAsadullah Safi, Satwinder SinghA Systematic Literature Review on Phishing Website Detection Techniques](https://doi.org/10.1016/j.jksuci.2023.01.004)
+[More on Google Scholar](https://scholar.google.com/scholar?q=common+crawl)[Curated BibTeX Dataset](https://github.com/commoncrawl/cc-citations/)
+### Latest Blog Post:
+[![Submission to the UK’s Copyright and AI Consultation](https://cdn.prod.website-files.com/647b1c7a9990bad2048d3711/64eb2e14ae5e8c4c70ec5392_news2.webp)](https://commoncrawl.org/blog/submission-to-the-uks-copyright-and-ai-consultation)
+[News](https://commoncrawl.org/)### [Submission to the UK’s Copyright and AI Consultation](https://commoncrawl.org/blog/submission-to-the-uks-copyright-and-ai-consultation)
+Read our submission to the UK government's Copyright and AI consultation, supporting a legal exception for text and data mining (TDM) while respecting creators’ rights.
+![Common Crawl builds and maintains an open repository of web crawl data that can be accessed and analyzed by anyone.](https://cdn.prod.website-files.com/647b1c7a9990bad2048d3711/64e1481c88168f56d3a58898_648de3e6dfa993c0af776fcf_Common_Crawl_Rev3_LPX_Color%20Icon.svg)
+Common Crawl Foundation
+Common Crawl builds and maintains an open repository of web crawl data that can be accessed and analyzed by anyone.
+[![Common Crawl Logo](https://cdn.prod.website-files.com/6479b8d98bf5dcb4a69c4f31/649b5869af56f6df617cfb1f_CC_Logo_Blue_Auto.svg)](https://commoncrawl.org/)
+## The Data
+### [Overview](https://commoncrawl.org/overview)
+### [Web Graphs](https://commoncrawl.org/web-graphs)
+### [Latest Crawl](https://commoncrawl.org/latest-crawl)
+### [Crawl Stats](https://commoncrawl.github.io/cc-crawl-statistics/)
+### [Graph Stats](https://commoncrawl.github.io/cc-webgraph-statistics/)
+### [Errata](https://commoncrawl.org/errata)
+## Resources
+### [Get Started](https://commoncrawl.org/get-started)
+### [AI Agent](https://commoncrawl.org/ai-agent)
+### [Blog](https://commoncrawl.org/blog)
+### [Examples](https://commoncrawl.org/examples)
+### [Use Cases](https://commoncrawl.org/use-cases)
+### [CCBot](https://commoncrawl.org/ccbot)
+### [Infra Status](https://status.commoncrawl.org)
+### [FAQ](https://commoncrawl.org/faq)
+## Community
+### [Research Papers](https://commoncrawl.org/research-papers)
+### [Mailing List Archive](https://groups.google.com/g/common-crawl)
+### [Hugging Face](https://huggingface.co/commoncrawl)
+### [Discord](https://discord.gg/njaVFh7avF)
+### [Collaborators](https://commoncrawl.org/collaborators)
+## About
+### [Team](https://commoncrawl.org/team)
+### [Jobs](https://commoncrawl.org/jobs)
+### [Mission](https://commoncrawl.org/mission)
+### [Impact](https://commoncrawl.org/impact)
+### [Privacy Policy](https://commoncrawl.org/privacy-policy)
+### [Terms of Use](https://commoncrawl.org/terms-of-use)
+[![Twitter Logo](https://cdn.prod.website-files.com/6479b8d98bf5dcb4a69c4f31/6675a2f3394182102f502e32_twitter-x.svg)](https://x.com/commoncrawl)[![LinkedIn Logo](https://cdn.prod.website-files.com/6479b8d98bf5dcb4a69c4f31/6493999d57ad8123b314b6cf_linkedin%20\(1\).svg)](https://www.linkedin.com/company/common-crawl/)[![LinkedIn Logo](https://cdn.prod.website-files.com/6479b8d98bf5dcb4a69c4f31/6602100396780a14617cc8ab_discord.svg)](https://discord.gg/njaVFh7avF)
+© 2025 Common Crawl

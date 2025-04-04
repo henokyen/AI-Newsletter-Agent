@@ -1,0 +1,291 @@
+•
+NaN / NaN
+Back  [ ](https://www.youtube.com/ "YouTube Home")
+Skip navigation
+Search 
+Search with your voice 
+[Sign in](https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252F%2540MLOps&hl=en&ec=65620)
+[ ](https://www.youtube.com/ "YouTube Home")
+![](https://yt3.googleusercontent.com/FG3xmK9OqR-UM-ZjtR5MqYdAcWvImbbzdkHqzI6mxssLbx6qgdrQIv2q2T6QDH8Rpar8KxS6CFg=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)
+![](https://yt3.googleusercontent.com/ytc/AIdro_mvBp_kIcK5Fw4HoYXEx5q2R6isf_0ZQRy5JyIoE-UWjQ=s160-c-k-c0x00ffffff-no-rj)
+# MLOps.community
+@MLOps
+•
+28.9K subscribers•1.1K videos
+The MLOps Community fills the swiftly growing need to share real-world Machine Learning Operations best practices from engineers in the field. While MLOps shares a lot of ground with DevOps, the differences are as big as the similarities. We needed a community laser-focused on solving the unique challenges we deal with every day building production AI/ML pipelines. ...more...more[go.mlops.community/slack](https://www.youtube.com/redirect?event=channel_header&redir_token=QUFFLUhqbkVjaTZpdUhkMGE4RHdYbWdlUGlDLVExMGRmZ3xBQ3Jtc0tsUGx4cENrUUdOQlZObkxnaUR1VzRhUWpFUmhUS1V5MDhRb1F3bm5EMTFnRmpORkc3NXdkenc2bzlGaGlGM0pXY1pCNXZOY0FHWXN5REV0RVpsNHhkaEE5VWoxSkJaWXFNZzRfZUJaTDR6aXRoTXhqWQ&q=https%3A%2F%2Fgo.mlops.community%2Fslack)[and 2 more links](javascript:void\(0\);)
+Subscribe
+Home
+Videos
+Shorts
+Live
+Podcasts
+Playlists
+Posts
+Search
+[The Challenge with AI Voice Agents](https://www.youtube.com/watch?v=IuRlGCBSqR8)
+•
+•
+1,263 views 1 month ago
+Agents in Production Series - Episode Two // Abstract Demetrios, Paul, and Floris explore the latest in Voice AI agents. They discuss real-time voice interactions, OpenAI's real-time Voice API, and real-world deployment challenges. Paul shares insights from iFood’s voice AI tests in Brazil, while Floris highlights technical hurdles like turn detection and language processing. The episode covers broader applications in healthcare and customer service, emphasizing continuous learning and open-source innovation in Voice AI. Guest speakers: Paul van der Boor - VP AI at Prosus Group Floris Fok - AI Engineer at Prosus Group Host: Demetrios Brinkmann - Founder of MLOps Community ~~~~~~~~ ✌️Connect With Us ✌️ ~~~~~~~ Catch all episodes, blogs, newsletters, and more: [https://go.mlops.community/TYExplore](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbFJuYmlpWVQ0UmhoN3JJbExHb0hEeWJkQ3BkUXxBQ3Jtc0tscVhwNy1VV0FHR3hRX1RIeXNfa3hfTDFtTDJXSEE4MlhuenNMSG9UeEViZ0ZETkZabnlMMVI0RTJzVnJHdXZVcXdFRFI5Um5obktnMWRqVlVYQU90TVMtWW5QS2lzN2sxb0Z3M214MXY5NWszZ3NwOA&q=https%3A%2F%2Fgo.mlops.community%2FTYExplore) Join our slack community [[https://go.mlops.community/slack](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa2czT1IwODl4WDJCTDRwRFdxVkUtcDh1SjVmZ3xBQ3Jtc0tsWDg0NC11VnFLTTVWN1MwODZjWUU2MXNVTUYzRmlmWm0tNGpwWThBLV91ZE1OUVJyWE5aQlJ1Y0dZeGVFbmNxUThtcGk2THNEWFNqbUhSX25tcTk3M2hpM0pmdWRZNmtQQXlGZ0szaVlDOXZRZlVnZw&q=https%3A%2F%2Fgo.mlops.community%2Fslack)] Follow us on X/Twitter [@mlopscommunity]([https://x.com/mlopscommunity](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqblY5eTZlX2VxaktDY0lSQ3RrOHl6ZlYwYUxtd3xBQ3Jtc0tsT3JPMHFpTl9kbjFvSndwU0lYeFJndnhZVERkWU1TQ3pzN0c1TElUZ3ZmcmY0LWlydVN5NGdaelNlSTJVUTA1QnRoZEpsaHBFZkNXX0wtNVpvbkR2R3pOMGhpUUpSQkF4bHdkTWdMbm9zNEVMUVVlZw&q=https%3A%2F%2Fx.com%2Fmlopscommunity)) or [LinkedIn]([https://go.mlops.community/linkedin](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbVhSdlppcC1qX2FGWGg3VGktcWg1SEhGVGVTZ3xBQ3Jtc0ttNGpvTkctc2FGZUVuR2NIdkxCby03NXRXQmJYVmdDYTI2ZFJCSjYzdXpHUHZwQ0Q0Mmdwc29DSHhHcWltQkM2TDNZbC1HNlFoUjZidWtNajRJQW1ZdFpXQ0g4WmpQZTU3SXNDVnU1cDVEeDRzR1l6bw&q=https%3A%2F%2Fgo.mlops.community%2Flinkedin))] Sign up for the next meetup: [[https://go.mlops.community/register](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa2RUOGk5am5vM3p3R3lOaGs5Ti1LMFdDWkEyUXxBQ3Jtc0trZ05UNWlxcUVZUHc4c0JjZXJ6dVpKc09zMlV1akZUM0VWQXdNek1xYTM3bVEzUDRMSW9XUHBoRDJ0S3BwRGZwV1hKOTFuT2RHSjlnbUF5eHNRTHRtNUtrQVJGR1BMR3NoNGxWcHNtcmpaSWo3UkxBSQ&q=https%3A%2F%2Fgo.mlops.community%2Fregister)] MLOps Swag/Merch: [[https://shop.mlops.community/](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbHFuVlVmazhEU01HNF9aTThDa1NrM3BRZXZmUXxBQ3Jtc0trNy1za0xYUzJWc3VRekFwa2FpRVFDWmxBRnBraWFqSTZKZGVnNllLRXhVYmUzWVU3bXZqMmJjUzJrRmJNT003RENQMkNqVjJpME92a0xjeUozR2VLY3d5MDM1aVliU2FsYVNJT0hYMkNtRVZGRXlYaw&q=https%3A%2F%2Fshop.mlops.community%2F)] Connect with Demetrios on LinkedIn: /dpbrinkm
+[Read more](https://www.youtube.com/watch?v=IuRlGCBSqR8)
+## 
+[ ](https://www.youtube.com/@MLOps/videos?view=0&sort=p&shelf_id=1 "Popular videos")
+[ Popular videos ](https://www.youtube.com/@MLOps/videos?view=0&sort=p&shelf_id=1)
+[ 58:23 58:23 Now playing ](https://www.youtube.com/watch?v=lh9CNRDqKBk)
+### [System Design for Recommendations and Search // Eugene Yan // MLOps Meetup #78](https://www.youtube.com/watch?v=lh9CNRDqKBk "System Design for Recommendations and Search // Eugene Yan // MLOps Meetup #78")
+77K views3 years ago
+[ 30:25 30:25 Now playing ](https://www.youtube.com/watch?v=mYRqvB1_gRk)
+### [Exploring the Latency/Throughput & Cost Space for LLM Inference // Timothée Lacroix // CTO Mistral](https://www.youtube.com/watch?v=mYRqvB1_gRk "Exploring the Latency/Throughput & Cost Space for LLM Inference // Timothée Lacroix // CTO Mistral")
+20K views1 year ago
+[ 35:23 35:23 Now playing ](https://www.youtube.com/watch?v=spamOhG7BOA)
+### [Building LLM Applications for Production // Chip Huyen // LLMs in Prod Conference](https://www.youtube.com/watch?v=spamOhG7BOA "Building LLM Applications for Production // Chip Huyen // LLMs in Prod Conference")
+18K views1 year ago
+[ 22:48 22:48 Now playing ](https://www.youtube.com/watch?v=YRYxsb_VLhI)
+### [Why Pydantic AI is the Future of AI Agents](https://www.youtube.com/watch?v=YRYxsb_VLhI "Why Pydantic AI is the Future of AI Agents")
+16K views3 months ago
+[ 1:57:24 1:57:24 Now playing ](https://www.youtube.com/watch?v=s8Jj9gzQ3xA)
+### [Building an ML Platform from Scratch: Live Coding Session // Alon Gubkin // MLOps Meetup #67](https://www.youtube.com/watch?v=s8Jj9gzQ3xA "Building an ML Platform from Scratch: Live Coding Session // Alon Gubkin // MLOps Meetup #67")
+15K views3 years ago
+[ 24:49 24:49 Now playing ](https://www.youtube.com/watch?v=rd-J3hmycQs)
+### [Generative Interfaces Beyond Chat // Linus Lee // LLMs in Production Conference](https://www.youtube.com/watch?v=rd-J3hmycQs "Generative Interfaces Beyond Chat // Linus Lee // LLMs in Production Conference")
+15K views1 year ago
+##  Shorts
+[](https://www.youtube.com/shorts/ZNCapdxmYJs)
+### [Creating an Inclusive AI Culture](https://www.youtube.com/shorts/ZNCapdxmYJs "Creating an Inclusive AI Culture")
+129 views
+[](https://www.youtube.com/shorts/RXNFhzADBEk)
+### [The Future of AI: Progressing for Humanity's Benefit](https://www.youtube.com/shorts/RXNFhzADBEk "The Future of AI: Progressing for Humanity's Benefit")
+44 views
+[](https://www.youtube.com/shorts/yzXntrwuo2w)
+### [AI's Role in Redefining Work Dynamics](https://www.youtube.com/shorts/yzXntrwuo2w "AI's Role in Redefining Work Dynamics")
+77 views
+[](https://www.youtube.com/shorts/WqR62QjaIQc)
+### [Open Source Unity Tackling Challenges Together!](https://www.youtube.com/shorts/WqR62QjaIQc "Open Source Unity Tackling Challenges Together!")
+37 views
+[](https://www.youtube.com/shorts/kO1UUcRnXVU)
+### [AI Breakthrough: Models Are Now 'Ridiculously Good'](https://www.youtube.com/shorts/kO1UUcRnXVU "AI Breakthrough: Models Are Now 'Ridiculously Good'")
+543 views
+[](https://www.youtube.com/shorts/Jo_BdLrLwBU)
+### [Surviving the Business Jungle: Are You Ready?](https://www.youtube.com/shorts/Jo_BdLrLwBU "Surviving the Business Jungle: Are You Ready?")
+517 views
+## 
+[ ](https://www.youtube.com/playlist?list=PL3vkEKxWd-ut8z29en9gIluPXkMM3ISIr "Machine Learning in production")
+[ Machine Learning in production ](https://www.youtube.com/playlist?list=PL3vkEKxWd-ut8z29en9gIluPXkMM3ISIr)
+[Play all](https://www.youtube.com/watch?v=VJ0k0C1mGdg&list=PL3vkEKxWd-ut8z29en9gIluPXkMM3ISIr)
+not your average conversations with some of the greatest practitioners out there using machine learning to benefit their organizations
+[ 56:04 56:04 Now playing ](https://www.youtube.com/watch?v=VJ0k0C1mGdg)
+### [Holistic Evaluation of Generative AI Systems // Jineet Doshi // MLOps Podcast #280](https://www.youtube.com/watch?v=VJ0k0C1mGdg "Holistic Evaluation of Generative AI Systems // Jineet Doshi // MLOps Podcast #280")
+[MLOps.community](https://www.youtube.com/@MLOps)
+MLOps.community 
+594 views3 months ago
+[ 1:15:25 1:15:25 Now playing ](https://www.youtube.com/watch?v=pF8zTI867EI)
+### [Unleashing Unconstrained News Knowledge Graphs to Combat Misinformation // Robert Caulk // #279](https://www.youtube.com/watch?v=pF8zTI867EI "Unleashing Unconstrained News Knowledge Graphs to Combat Misinformation // Robert Caulk // #279")
+[MLOps.community](https://www.youtube.com/@MLOps)
+MLOps.community 
+309 views3 months ago
+[ 49:48 49:48 Now playing ](https://www.youtube.com/watch?v=PYU1uX5l29c)
+### [LLM Distillation and Compression](https://www.youtube.com/watch?v=PYU1uX5l29c "LLM Distillation and Compression")
+[MLOps.community](https://www.youtube.com/@MLOps)
+MLOps.community 
+402 views3 months ago
+[ 55:26 55:26 Now playing ](https://www.youtube.com/watch?v=JO8bWCsfPnE)
+### [PyTorch for Control Systems and Decision Making // Vincent Moens // MLOps Podcast #276](https://www.youtube.com/watch?v=JO8bWCsfPnE "PyTorch for Control Systems and Decision Making // Vincent Moens // MLOps Podcast #276")
+[MLOps.community](https://www.youtube.com/@MLOps)
+MLOps.community 
+396 views3 months ago
+[ 57:02 57:02 Now playing ](https://www.youtube.com/watch?v=G0mn1W3bEXo)
+### [AI-Driven Code: Navigating Due Diligence & Transparency in MLOps // Matt van Itallie // Podcast #275](https://www.youtube.com/watch?v=G0mn1W3bEXo "AI-Driven Code: Navigating Due Diligence & Transparency in MLOps // Matt van Itallie // Podcast #275")
+[MLOps.community](https://www.youtube.com/@MLOps)
+MLOps.community 
+195 views4 months ago
+[ 57:44 57:44 Now playing ](https://www.youtube.com/watch?v=i-Vo0AlaR7g)
+### [How to Optimize Large AI Models with PyTorch](https://www.youtube.com/watch?v=i-Vo0AlaR7g "How to Optimize Large AI Models with PyTorch")
+[MLOps.community](https://www.youtube.com/@MLOps)
+MLOps.community 
+357 views4 months ago
+## 
+[ ](https://www.youtube.com/@MLOps/videos?view=2&sort=dd&live_view=503&shelf_id=4 "Past live streams")
+[ Past live streams ](https://www.youtube.com/@MLOps/videos?view=2&sort=dd&live_view=503&shelf_id=4)
+[ 55:39 55:39 Now playing ](https://www.youtube.com/watch?v=W6hpEO80q20&pp=0gcJCXcA-SJGOe9V)
+### [Comparing ZenML, Metaflow, and all the other DAG tools](https://www.youtube.com/watch?v=W6hpEO80q20&pp=0gcJCXcA-SJGOe9V "Comparing ZenML, Metaflow, and all the other DAG tools")
+318 viewsStreamed 2 days ago
+[ 2:07:08 2:07:08 Now playing ](https://www.youtube.com/watch?v=ioCIpbAKl_M)
+### [AI in Production 2025 | Keynote](https://www.youtube.com/watch?v=ioCIpbAKl_M "AI in Production 2025 | Keynote")
+741 viewsStreamed 2 weeks ago
+[ 1:09:51 1:09:51 Now playing ](https://www.youtube.com/watch?v=Ja3t2NtDQfo)
+### [Scaling your data and AI from 0-100 with open source](https://www.youtube.com/watch?v=Ja3t2NtDQfo "Scaling your data and AI from 0-100 with open source")
+385 viewsStreamed 1 month ago
+[ 1:46:08 1:46:08 Now playing ](https://www.youtube.com/watch?v=9LxsViICsJo)
+### [Building an ML Platform from scratch](https://www.youtube.com/watch?v=9LxsViICsJo "Building an ML Platform from scratch")
+917 viewsStreamed 3 months ago
+[ 1:18:58 1:18:58 Now playing ](https://www.youtube.com/watch?v=6Ivmza-3mVM)
+### [Exploring SQLmesh](https://www.youtube.com/watch?v=6Ivmza-3mVM "Exploring SQLmesh")
+888 viewsStreamed 3 months ago
+[ 28:30 28:30 Now playing ](https://www.youtube.com/watch?v=vYxI2pXWp-E)
+### [Why We Need More Data Science Podcasts](https://www.youtube.com/watch?v=vYxI2pXWp-E "Why We Need More Data Science Podcasts")
+69 viewsStreamed 4 months ago
+## 
+[ ](https://www.youtube.com/playlist?list=PL3vkEKxWd-usFkc3977ZeexYXS3GgDVSO "LLM in Production - Part III")
+[ LLM in Production - Part III ](https://www.youtube.com/playlist?list=PL3vkEKxWd-usFkc3977ZeexYXS3GgDVSO)
+[Play all](https://www.youtube.com/watch?v=IRmvIrSpUlE&list=PL3vkEKxWd-usFkc3977ZeexYXS3GgDVSO)
+[ 59:42 59:42 Now playing ](https://www.youtube.com/watch?v=IRmvIrSpUlE)
+### [LLMs in Production - Part III](https://www.youtube.com/watch?v=IRmvIrSpUlE "LLMs in Production - Part III")
+[MLOps.community](https://www.youtube.com/@MLOps)
+MLOps.community 
+Streamed 1 year ago
+Members only
+[ 29:04 29:04 Now playing ](https://www.youtube.com/watch?v=IYuW2Ez4V2M)
+### [Finetuning Open-Source LLMs // Sebastian Raschka // LLMs in Production Conference 3 Keynote 1](https://www.youtube.com/watch?v=IYuW2Ez4V2M "Finetuning Open-Source LLMs // Sebastian Raschka // LLMs in Production Conference 3 Keynote 1")
+[MLOps.community](https://www.youtube.com/@MLOps)
+MLOps.community 
+3.4K views1 year ago
+[ 18:54 18:54 Now playing ](https://www.youtube.com/watch?v=Jailr5z3AeE)
+### [What Drives GenAI Development in the Next 3 Years // Euro Beinat // LLMs in Production Conference 3](https://www.youtube.com/watch?v=Jailr5z3AeE "What Drives GenAI Development in the Next 3 Years // Euro Beinat // LLMs in Production Conference 3")
+[MLOps.community](https://www.youtube.com/@MLOps)
+MLOps.community 
+549 views1 year ago
+[ 30:46 30:46 Now playing ](https://www.youtube.com/watch?v=Q9wpSwUOrEU)
+### [Fireside Chat with LLM Startups // LLMs in Production Conference 3](https://www.youtube.com/watch?v=Q9wpSwUOrEU "Fireside Chat with LLM Startups // LLMs in Production Conference 3")
+[MLOps.community](https://www.youtube.com/@MLOps)
+MLOps.community 
+552 views1 year ago
+[ 1:03:04 1:03:04 Now playing ](https://www.youtube.com/watch?v=mTVNE0Sw5vI)
+### [Automating Data Annotation with LLMs // LLMs in Production Conference 3 Workshop1](https://www.youtube.com/watch?v=mTVNE0Sw5vI "Automating Data Annotation with LLMs // LLMs in Production Conference 3 Workshop1")
+[MLOps.community](https://www.youtube.com/@MLOps)
+MLOps.community 
+3K views1 year ago
+[ 31:01 31:01 Now playing ](https://www.youtube.com/watch?v=x8HPBanS0Dc)
+### [AI in Education Fireside Chat // LLMs in Production Conference 3](https://www.youtube.com/watch?v=x8HPBanS0Dc "AI in Education Fireside Chat // LLMs in Production Conference 3")
+[MLOps.community](https://www.youtube.com/@MLOps)
+MLOps.community 
+398 views1 year ago
+## 
+[ ](https://www.youtube.com/playlist?list=PL3vkEKxWd-uupBSWL-DbVJuCMqXO9Z3Z4 "LLM in Production - Part II")
+[ LLM in Production - Part II ](https://www.youtube.com/playlist?list=PL3vkEKxWd-uupBSWL-DbVJuCMqXO9Z3Z4)
+[Play all](https://www.youtube.com/watch?v=3XNUxwk1M6Y&list=PL3vkEKxWd-uupBSWL-DbVJuCMqXO9Z3Z4&pp=0gcJCSgEgXWwhyeT)
+[ 37:21 37:21 Now playing ](https://www.youtube.com/watch?v=3XNUxwk1M6Y)
+### [LLMs in Production Conference - Part II](https://www.youtube.com/watch?v=3XNUxwk1M6Y "LLMs in Production Conference - Part II")
+[MLOps.community](https://www.youtube.com/@MLOps)
+MLOps.community 
+3.7K viewsStreamed 1 year ago
+[ 31:01 31:01 Now playing ](https://www.youtube.com/watch?v=E9D3yg0kpQg)
+### [The Emerging Toolkit for Reliable, High-quality LLM Applications // Matei Zaharia //LLMs in Prod Con](https://www.youtube.com/watch?v=E9D3yg0kpQg "The Emerging Toolkit for Reliable, High-quality LLM Applications // Matei Zaharia //LLMs in Prod Con")
+[MLOps.community](https://www.youtube.com/@MLOps)
+MLOps.community 
+4.4K views1 year ago
+[ 35:23 35:23 Now playing ](https://www.youtube.com/watch?v=spamOhG7BOA)
+### [Building LLM Applications for Production // Chip Huyen // LLMs in Prod Conference](https://www.youtube.com/watch?v=spamOhG7BOA "Building LLM Applications for Production // Chip Huyen // LLMs in Prod Conference")
+[MLOps.community](https://www.youtube.com/@MLOps)
+MLOps.community 
+18K views1 year ago
+[ 36:23 36:23 Now playing ](https://www.youtube.com/watch?v=cntxC3g22oU)
+### [Large Model Training and Inference with DeepSpeed // Samyam Rajbhandari // LLMs in Prod Conference](https://www.youtube.com/watch?v=cntxC3g22oU "Large Model Training and Inference with DeepSpeed // Samyam Rajbhandari // LLMs in Prod Conference")
+[MLOps.community](https://www.youtube.com/@MLOps)
+MLOps.community 
+8.2K views1 year ago
+[ 28:45 28:45 Now playing ](https://www.youtube.com/watch?v=E0929WqB72k)
+### [LLMs as Intelligent Assistants // Sarah Aerni // LLMs in Prod Conference Part 2](https://www.youtube.com/watch?v=E0929WqB72k "LLMs as Intelligent Assistants // Sarah Aerni // LLMs in Prod Conference Part 2")
+[MLOps.community](https://www.youtube.com/@MLOps)
+MLOps.community 
+906 views1 year ago
+[ 29:58 29:58 Now playing ](https://www.youtube.com/watch?v=tchI22onVYE)
+### [Using Vector Databases: Practical Advice for Production // Sam Partee // LLMs in Prod Conference](https://www.youtube.com/watch?v=tchI22onVYE "Using Vector Databases: Practical Advice for Production // Sam Partee // LLMs in Prod Conference")
+[MLOps.community](https://www.youtube.com/@MLOps)
+MLOps.community 
+2.9K views1 year ago
+## 
+[ ](https://www.youtube.com/playlist?list=PL3vkEKxWd-us5YvvuvYkjP_QGlgUq3tpA "LLM in Production")
+[ LLM in Production ](https://www.youtube.com/playlist?list=PL3vkEKxWd-us5YvvuvYkjP_QGlgUq3tpA)
+[Play all](https://www.youtube.com/watch?v=rpjLTHrl-S4&list=PL3vkEKxWd-us5YvvuvYkjP_QGlgUq3tpA)
+Large Language models have taken the world by storm and we are on a mission to see how they can actually be used in production to generate business value for your organization.
+[ 57:21 57:21 Now playing ](https://www.youtube.com/watch?v=rpjLTHrl-S4)
+### [Large Language Models in Production Round-table Conversation](https://www.youtube.com/watch?v=rpjLTHrl-S4 "Large Language Models in Production Round-table Conversation")
+[MLOps.community](https://www.youtube.com/@MLOps)
+MLOps.community 
+11K views2 years ago
+[ 36:47 36:47 Now playing ](https://www.youtube.com/watch?v=-oDgV6q6KtI)
+### [Solving the Last Mile Problem of Foundation Models with Data-Centric AI //Alex Ratner // LLM in Prod](https://www.youtube.com/watch?v=-oDgV6q6KtI "Solving the Last Mile Problem of Foundation Models with Data-Centric AI //Alex Ratner // LLM in Prod")
+[MLOps.community](https://www.youtube.com/@MLOps)
+MLOps.community 
+2.9K views1 year ago
+[ 33:56 33:56 Now playing ](https://www.youtube.com/watch?v=XpeC1dqfiNo)
+### [Want High Performing LLMs? Hint: It is All About Your Data // Vikram Chatterji // LLMs in Prod Con](https://www.youtube.com/watch?v=XpeC1dqfiNo "Want High Performing LLMs? Hint: It is All About Your Data // Vikram Chatterji // LLMs in Prod Con")
+[MLOps.community](https://www.youtube.com/@MLOps)
+MLOps.community 
+1.4K views1 year ago
+[ 37:19 37:19 Now playing ](https://www.youtube.com/watch?v=0j0EtPDunyY)
+### [Challenges and Opportunities in Building Data Science Solutions with LLMs // QuantumBlack Roundtable](https://www.youtube.com/watch?v=0j0EtPDunyY "Challenges and Opportunities in Building Data Science Solutions with LLMs // QuantumBlack Roundtable")
+[MLOps.community](https://www.youtube.com/@MLOps)
+MLOps.community 
+1.2K views1 year ago
+[ 13:10 13:10 Now playing ](https://www.youtube.com/watch?v=GJDN8u3Y-T4)
+### [Vector Databases and Large Language Models // Samuel Partee // LLMs in Production Conference](https://www.youtube.com/watch?v=GJDN8u3Y-T4 "Vector Databases and Large Language Models // Samuel Partee // LLMs in Production Conference")
+[MLOps.community](https://www.youtube.com/@MLOps)
+MLOps.community 
+8.6K views1 year ago
+[ 29:55 29:55 Now playing ](https://www.youtube.com/watch?v=tkL2c-16fXc)
+### [DevTools for Language Models: Unlocking the Future of AI-Driven Applications // Diego Oppenheimer](https://www.youtube.com/watch?v=tkL2c-16fXc "DevTools for Language Models: Unlocking the Future of AI-Driven Applications // Diego Oppenheimer")
+[MLOps.community](https://www.youtube.com/@MLOps)
+MLOps.community 
+1.8K views1 year ago
+## 
+[ Community extended ](https://www.youtube.com/@MLOps/)
+[ MLOps Clips 434 subscribers ](https://www.youtube.com/@mlopsclips)
+Subscribe
+[ MLOps IRL 759 subscribers ](https://www.youtube.com/@mlopsirl2055)
+Subscribe
+## 
+[ ](https://www.youtube.com/playlist?list=PL3vkEKxWd-uuBNi2OanYo1A34yzvGuUje "MLOps Meetups")
+[ MLOps Meetups ](https://www.youtube.com/playlist?list=PL3vkEKxWd-uuBNi2OanYo1A34yzvGuUje)
+[Play all](https://www.youtube.com/watch?v=qGC7eNHAL-k&list=PL3vkEKxWd-uuBNi2OanYo1A34yzvGuUje)
+[ 58:58 58:58 Now playing ](https://www.youtube.com/watch?v=qGC7eNHAL-k)
+### [Declarative MLOps - Streamlining Model Serving on Kubernetes // Rahul Parundekar// MLOps Meetup #123](https://www.youtube.com/watch?v=qGC7eNHAL-k "Declarative MLOps - Streamlining Model Serving on Kubernetes // Rahul Parundekar// MLOps Meetup #123")
+[MLOps.community](https://www.youtube.com/@MLOps)
+MLOps.community 
+2.3K views1 year ago
+[ 42:07 42:07 Now playing ](https://www.youtube.com/watch?v=PC5fbgTt4hQ)
+### [Tecton 0.6: Notebook-driven Development // Jason Dunne // MLOps Meetup #122](https://www.youtube.com/watch?v=PC5fbgTt4hQ "Tecton 0.6: Notebook-driven Development // Jason Dunne // MLOps Meetup #122")
+[MLOps.community](https://www.youtube.com/@MLOps)
+MLOps.community 
+406 views1 year ago
+[ 49:21 49:21 Now playing ](https://www.youtube.com/watch?v=BguZxv5ezb4)
+### [The 7 Lines of Code You Need to Run Faster Real-time Inference // Adrian Boguszewski // Meetup #121](https://www.youtube.com/watch?v=BguZxv5ezb4 "The 7 Lines of Code You Need to Run Faster Real-time Inference // Adrian Boguszewski // Meetup #121")
+[MLOps.community](https://www.youtube.com/@MLOps)
+MLOps.community 
+568 views2 years ago
+[ 49:56 49:56 Now playing ](https://www.youtube.com/watch?v=MBKFdy_URpg)
+### [Let's Talk About Raw Documents // Crag Wolfe // MLOps Meetup #120](https://www.youtube.com/watch?v=MBKFdy_URpg "Let's Talk About Raw Documents // Crag Wolfe // MLOps Meetup #120")
+[MLOps.community](https://www.youtube.com/@MLOps)
+MLOps.community 
+337 views2 years ago
+[ 54:57 54:57 Now playing ](https://www.youtube.com/watch?v=8TIJx7jjL7g)
+### [Team Aurora: Accelerating ML with Kubeflow // Ankit, Vinay, and Maurizio // MLOps Meetup #119](https://www.youtube.com/watch?v=8TIJx7jjL7g "Team Aurora: Accelerating ML with Kubeflow // Ankit, Vinay, and Maurizio // MLOps Meetup #119")
+[MLOps.community](https://www.youtube.com/@MLOps)
+MLOps.community 
+765 views2 years ago
+[ 56:42 56:42 Now playing ](https://www.youtube.com/watch?v=6eEZ97ZblNM)
+### [The Motivation for MLOps // Steven Fines // MLOps Meetup #118](https://www.youtube.com/watch?v=6eEZ97ZblNM "The Motivation for MLOps // Steven Fines // MLOps Meetup #118")
+[MLOps.community](https://www.youtube.com/@MLOps)
+MLOps.community 
+496 views2 years ago
+## 
+[ AI Agents ](https://www.youtube.com/@MLOps/)
+[5 videos](https://www.youtube.com/watch?v=lRGldru7ohU&list=PL3vkEKxWd-usV91HnmrNlXiv8hc8-Mt-2)
+### [Agents in Production [Limited Series]](https://www.youtube.com/watch?v=lRGldru7ohU&list=PL3vkEKxWd-usV91HnmrNlXiv8hc8-Mt-2)
+[MLOps.community](https://www.youtube.com/@MLOps) • [Playlist](https://www.youtube.com/@MLOps)
+[View full playlist](https://www.youtube.com/playlist?list=PL3vkEKxWd-usV91HnmrNlXiv8hc8-Mt-2)
+[25 videos](https://www.youtube.com/watch?v=RvRI-ZYcSeg&list=PL3vkEKxWd-uuYq9WJwqI4zDZZs5ZjJdk6)
+### [Agents in Production 2024](https://www.youtube.com/watch?v=RvRI-ZYcSeg&list=PL3vkEKxWd-uuYq9WJwqI4zDZZs5ZjJdk6)
+[MLOps.community](https://www.youtube.com/@MLOps) • [Playlist](https://www.youtube.com/@MLOps)
+[View full playlist](https://www.youtube.com/playlist?list=PL3vkEKxWd-uuYq9WJwqI4zDZZs5ZjJdk6)
+[49 videos](https://www.youtube.com/watch?v=WIIOiTKwRdI&list=PL3vkEKxWd-ut4FJbuFzm_1JrLhdsFec3-)
+### [AI in Production Conference](https://www.youtube.com/watch?v=WIIOiTKwRdI&list=PL3vkEKxWd-ut4FJbuFzm_1JrLhdsFec3-)
+[MLOps.community](https://www.youtube.com/@MLOps) • [Playlist](https://www.youtube.com/@MLOps)
+[View full playlist](https://www.youtube.com/playlist?list=PL3vkEKxWd-ut4FJbuFzm_1JrLhdsFec3-)
+[17 videos](https://www.youtube.com/watch?v=AQogSJu1TdQ&list=PL3vkEKxWd-usWvNyozGIjtHz9K5Htyrg0)
+### [Agent Hour](https://www.youtube.com/watch?v=AQogSJu1TdQ&list=PL3vkEKxWd-usWvNyozGIjtHz9K5Htyrg0)
+[MLOps.community](https://www.youtube.com/@MLOps) • [Playlist](https://www.youtube.com/@MLOps)
+[View full playlist](https://www.youtube.com/playlist?list=PL3vkEKxWd-usWvNyozGIjtHz9K5Htyrg0)
+![](https://www.youtube.com/pagead/viewthroughconversion/962985656/?backend=innertube&cname=1&cver=2_20250327_01_00&data=backend%3Dinnertube%3Bcname%3D1%3Bcver%3D2_20250327_01_00%3Bptype%3Dcview%3Btype%3Dcview%3Butuid%3DG6qpjVnBTTT8wLGBygANOQ&foc_id=G6qpjVnBTTT8wLGBygANOQ&label=followon_cvisit&ptype=cview&utuid=G6qpjVnBTTT8wLGBygANOQ)
+…
+NaN / NaN

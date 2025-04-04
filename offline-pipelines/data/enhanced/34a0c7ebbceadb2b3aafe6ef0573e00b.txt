@@ -1,0 +1,600 @@
+[Skip to content](https://github.com/dottxt-ai/outlines/#start-of-content)
+## Navigation Menu
+Toggle navigation
+[ ](https://github.com/)
+[ Sign in ](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fdottxt-ai%2Foutlines%2F)
+  * Product 
+    * [ GitHub Copilot Write better code with AI  ](https://github.com/features/copilot)
+    * [ Security Find and fix vulnerabilities  ](https://github.com/features/security)
+    * [ Actions Automate any workflow  ](https://github.com/features/actions)
+    * [ Codespaces Instant dev environments  ](https://github.com/features/codespaces)
+    * [ Issues Plan and track work  ](https://github.com/features/issues)
+    * [ Code Review Manage code changes  ](https://github.com/features/code-review)
+    * [ Discussions Collaborate outside of code  ](https://github.com/features/discussions)
+    * [ Code Search Find more, search less  ](https://github.com/features/code-search)
+Explore
+    * [ All features ](https://github.com/features)
+    * [ Documentation ](https://docs.github.com)
+    * [ GitHub Skills ](https://skills.github.com)
+    * [ Blog ](https://github.blog)
+  * Solutions 
+By company size
+    * [ Enterprises ](https://github.com/enterprise)
+    * [ Small and medium teams ](https://github.com/team)
+    * [ Startups ](https://github.com/enterprise/startups)
+    * [ Nonprofits ](https://github.com/solutions/industry/nonprofits)
+By use case
+    * [ DevSecOps ](https://github.com/solutions/use-case/devsecops)
+    * [ DevOps ](https://github.com/solutions/use-case/devops)
+    * [ CI/CD ](https://github.com/solutions/use-case/ci-cd)
+    * [ View all use cases ](https://github.com/solutions/use-case)
+By industry
+    * [ Healthcare ](https://github.com/solutions/industry/healthcare)
+    * [ Financial services ](https://github.com/solutions/industry/financial-services)
+    * [ Manufacturing ](https://github.com/solutions/industry/manufacturing)
+    * [ Government ](https://github.com/solutions/industry/government)
+    * [ View all industries ](https://github.com/solutions/industry)
+[ View all solutions ](https://github.com/solutions)
+  * Resources 
+Topics
+    * [ AI ](https://github.com/resources/articles/ai)
+    * [ DevOps ](https://github.com/resources/articles/devops)
+    * [ Security ](https://github.com/resources/articles/security)
+    * [ Software Development ](https://github.com/resources/articles/software-development)
+    * [ View all ](https://github.com/resources/articles)
+Explore
+    * [ Learning Pathways ](https://resources.github.com/learn/pathways)
+    * [ Events & Webinars ](https://resources.github.com)
+    * [ Ebooks & Whitepapers ](https://github.com/resources/whitepapers)
+    * [ Customer Stories ](https://github.com/customer-stories)
+    * [ Partners ](https://partner.github.com)
+    * [ Executive Insights ](https://github.com/solutions/executive-insights)
+  * Open Source 
+    * [ GitHub Sponsors Fund open source developers  ](https://github.com/sponsors)
+    * [ The ReadME Project GitHub community articles  ](https://github.com/readme)
+Repositories
+    * [ Topics ](https://github.com/topics)
+    * [ Trending ](https://github.com/trending)
+    * [ Collections ](https://github.com/collections)
+  * Enterprise 
+    * [ Enterprise platform AI-powered developer platform  ](https://github.com/enterprise)
+Available add-ons
+    * [ Advanced Security Enterprise-grade security features  ](https://github.com/enterprise/advanced-security)
+    * [ Copilot for business Enterprise-grade AI features  ](https://github.com/features/copilot/copilot-business)
+    * [ Premium Support Enterprise-grade 24/7 support  ](https://github.com/premium-support)
+  * [Pricing](https://github.com/pricing)
+
+
+Search or jump to...
+# Search code, repositories, users, issues, pull requests...
+Search 
+Clear
+[Search syntax tips](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax)
+#  Provide feedback 
+We read every piece of feedback, and take your input very seriously.
+Include my email address so I can be contacted
+Cancel  Submit feedback 
+#  Saved searches 
+## Use saved searches to filter your results more quickly
+Name
+Query
+To see all available qualifiers, see our [documentation](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax). 
+Cancel  Create saved search 
+[ Sign in ](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fdottxt-ai%2Foutlines%2F)
+[ Sign up ](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E&source=header-repo&source_repo=dottxt-ai%2Foutlines) Reseting focus
+You signed in with another tab or window. [Reload](https://github.com/dottxt-ai/outlines/) to refresh your session. You signed out in another tab or window. [Reload](https://github.com/dottxt-ai/outlines/) to refresh your session. You switched accounts on another tab or window. [Reload](https://github.com/dottxt-ai/outlines/) to refresh your session. Dismiss alert
+{{ message }}
+[ dottxt-ai ](https://github.com/dottxt-ai) / **[outlines](https://github.com/dottxt-ai/outlines) ** Public
+  * [ Notifications ](https://github.com/login?return_to=%2Fdottxt-ai%2Foutlines) You must be signed in to change notification settings
+  * [ Fork 576 ](https://github.com/login?return_to=%2Fdottxt-ai%2Foutlines)
+  * [ Star  11.2k ](https://github.com/login?return_to=%2Fdottxt-ai%2Foutlines)
+
+
+Structured Text Generation 
+[dottxt-ai.github.io/outlines/](https://dottxt-ai.github.io/outlines/ "https://dottxt-ai.github.io/outlines/")
+### License
+[ Apache-2.0 license ](https://github.com/dottxt-ai/outlines/blob/main/LICENSE)
+[ 11.2k stars ](https://github.com/dottxt-ai/outlines/stargazers) [ 576 forks ](https://github.com/dottxt-ai/outlines/forks) [ Branches ](https://github.com/dottxt-ai/outlines/branches) [ Tags ](https://github.com/dottxt-ai/outlines/tags) [ Activity ](https://github.com/dottxt-ai/outlines/activity)
+[ Star  ](https://github.com/login?return_to=%2Fdottxt-ai%2Foutlines)
+[ Notifications ](https://github.com/login?return_to=%2Fdottxt-ai%2Foutlines) You must be signed in to change notification settings
+  * [ Code ](https://github.com/dottxt-ai/outlines)
+  * [ Issues 165 ](https://github.com/dottxt-ai/outlines/issues)
+  * [ Pull requests 36 ](https://github.com/dottxt-ai/outlines/pulls)
+  * [ Discussions ](https://github.com/dottxt-ai/outlines/discussions)
+  * [ Actions ](https://github.com/dottxt-ai/outlines/actions)
+  * [ Projects 0 ](https://github.com/dottxt-ai/outlines/projects)
+  * [ Security ](https://github.com/dottxt-ai/outlines/security)
+  * [ Insights ](https://github.com/dottxt-ai/outlines/pulse)
+
+
+Additional navigation options
+  * [ Code  ](https://github.com/dottxt-ai/outlines)
+  * [ Issues  ](https://github.com/dottxt-ai/outlines/issues)
+  * [ Pull requests  ](https://github.com/dottxt-ai/outlines/pulls)
+  * [ Discussions  ](https://github.com/dottxt-ai/outlines/discussions)
+  * [ Actions  ](https://github.com/dottxt-ai/outlines/actions)
+  * [ Projects  ](https://github.com/dottxt-ai/outlines/projects)
+  * [ Security  ](https://github.com/dottxt-ai/outlines/security)
+  * [ Insights  ](https://github.com/dottxt-ai/outlines/pulse)
+
+
+# dottxt-ai/outlines
+main
+[**8** Branches](https://github.com/dottxt-ai/outlines/branches)[**64** Tags](https://github.com/dottxt-ai/outlines/tags)
+[](https://github.com/dottxt-ai/outlines/branches)[](https://github.com/dottxt-ai/outlines/tags)
+Go to file
+Code
+## Folders and files
+Name| Name| Last commit message| Last commit date  
+---|---|---|---  
+## Latest commit
+[![rlouf](https://avatars.githubusercontent.com/u/3885044?v=4&size=40)](https://github.com/rlouf)[rlouf](https://github.com/dottxt-ai/outlines/commits?author=rlouf)[Remove all issue templates except bug reports](https://github.com/dottxt-ai/outlines/commit/fc6192f5d6ec67c4cb0ce9b3f5b96e04aa5f8931)Mar 15, 2025[fc6192f](https://github.com/dottxt-ai/outlines/commit/fc6192f5d6ec67c4cb0ce9b3f5b96e04aa5f8931) · Mar 15, 2025
+## History
+[843 Commits](https://github.com/dottxt-ai/outlines/commits/main/)[](https://github.com/dottxt-ai/outlines/commits/main/)  
+[.devcontainer](https://github.com/dottxt-ai/outlines/tree/main/.devcontainer ".devcontainer")| [.devcontainer](https://github.com/dottxt-ai/outlines/tree/main/.devcontainer ".devcontainer")| [add DevContainer configuration file](https://github.com/dottxt-ai/outlines/commit/69418daf0c176bfbb2fe4c271c12359b7cb414f3 "add DevContainer configuration file")| Feb 6, 2025  
+[.github](https://github.com/dottxt-ai/outlines/tree/main/.github ".github")| [.github](https://github.com/dottxt-ai/outlines/tree/main/.github ".github")| [Remove all issue templates except bug reports](https://github.com/dottxt-ai/outlines/commit/fc6192f5d6ec67c4cb0ce9b3f5b96e04aa5f8931 "Remove all issue templates except bug reports")| Mar 15, 2025  
+[.vscode](https://github.com/dottxt-ai/outlines/tree/main/.vscode ".vscode")| [.vscode](https://github.com/dottxt-ai/outlines/tree/main/.vscode ".vscode")| [Add a few dotfiles to improve newcomers' experience (](https://github.com/dottxt-ai/outlines/commit/1842fe784085deb1bde0c197685b9702b1920429 "Add a few dotfiles to improve newcomers' experience \(#1368\)")[#1368](https://github.com/dottxt-ai/outlines/pull/1368)[)](https://github.com/dottxt-ai/outlines/commit/1842fe784085deb1bde0c197685b9702b1920429 "Add a few dotfiles to improve newcomers' experience \(#1368\)")| Feb 5, 2025  
+[benchmarks](https://github.com/dottxt-ai/outlines/tree/main/benchmarks "benchmarks")| [benchmarks](https://github.com/dottxt-ai/outlines/tree/main/benchmarks "benchmarks")| [add mps to processor benchmark](https://github.com/dottxt-ai/outlines/commit/6a8612bd10525e95a62d9f9c727d3e54d0723f1a "add mps to processor benchmark")| Jan 2, 2025  
+[docs](https://github.com/dottxt-ai/outlines/tree/main/docs "docs")| [docs](https://github.com/dottxt-ai/outlines/tree/main/docs "docs")| [Fix capitalization in installation.md](https://github.com/dottxt-ai/outlines/commit/433581ace44a045faa47c2fea3ecb05d8f1063f8 "Fix capitalization in installation.md")| Mar 10, 2025  
+[examples](https://github.com/dottxt-ai/outlines/tree/main/examples "examples")| [examples](https://github.com/dottxt-ai/outlines/tree/main/examples "examples")| [Format files and fix numerous `mypy` warnings, thanks to `ruff`](https://github.com/dottxt-ai/outlines/commit/8a06251aa91b6923116a6253d1c902a9d472a05c "Format files and fix numerous `mypy` warnings, thanks to `ruff`
+Left to fix:
+  outlines/models/exllamav2.py:356: error: Argument 3 to "ExLlamaV2Model" has incompatible type "int | None"; expected "int" \[arg-type\]
+  outlines/generate/format.py:36: error: Incompatible types in assignment \(expression has type "str", variable has type "Regex"\) \[assignment\]")| Mar 3, 2025  
+[outlines](https://github.com/dottxt-ai/outlines/tree/main/outlines "outlines")| [outlines](https://github.com/dottxt-ai/outlines/tree/main/outlines "outlines")| [fix schema schema issue](https://github.com/dottxt-ai/outlines/commit/9dd927d5fdb3b39560092d2a9881a7bdc7dc374f "fix schema schema issue")| Mar 7, 2025  
+[tests](https://github.com/dottxt-ai/outlines/tree/main/tests "tests")| [tests](https://github.com/dottxt-ai/outlines/tree/main/tests "tests")| [Update the quantifiers factory functions](https://github.com/dottxt-ai/outlines/commit/3ca64b325171e99a85c9ef98af53d8666397195c "Update the quantifiers factory functions")| Mar 4, 2025  
+[.editorconfig](https://github.com/dottxt-ai/outlines/blob/main/.editorconfig ".editorconfig")| [.editorconfig](https://github.com/dottxt-ai/outlines/blob/main/.editorconfig ".editorconfig")| [Add a few dotfiles to improve newcomers' experience (](https://github.com/dottxt-ai/outlines/commit/1842fe784085deb1bde0c197685b9702b1920429 "Add a few dotfiles to improve newcomers' experience \(#1368\)")[#1368](https://github.com/dottxt-ai/outlines/pull/1368)[)](https://github.com/dottxt-ai/outlines/commit/1842fe784085deb1bde0c197685b9702b1920429 "Add a few dotfiles to improve newcomers' experience \(#1368\)")| Feb 5, 2025  
+[.gitignore](https://github.com/dottxt-ai/outlines/blob/main/.gitignore ".gitignore")| [.gitignore](https://github.com/dottxt-ai/outlines/blob/main/.gitignore ".gitignore")| [Add a few dotfiles to improve newcomers' experience (](https://github.com/dottxt-ai/outlines/commit/1842fe784085deb1bde0c197685b9702b1920429 "Add a few dotfiles to improve newcomers' experience \(#1368\)")[#1368](https://github.com/dottxt-ai/outlines/pull/1368)[)](https://github.com/dottxt-ai/outlines/commit/1842fe784085deb1bde0c197685b9702b1920429 "Add a few dotfiles to improve newcomers' experience \(#1368\)")| Feb 5, 2025  
+[.pre-commit-config.yaml](https://github.com/dottxt-ai/outlines/blob/main/.pre-commit-config.yaml ".pre-commit-config.yaml")| [.pre-commit-config.yaml](https://github.com/dottxt-ai/outlines/blob/main/.pre-commit-config.yaml ".pre-commit-config.yaml")| [Add a few dotfiles to improve newcomers' experience (](https://github.com/dottxt-ai/outlines/commit/1842fe784085deb1bde0c197685b9702b1920429 "Add a few dotfiles to improve newcomers' experience \(#1368\)")[#1368](https://github.com/dottxt-ai/outlines/pull/1368)[)](https://github.com/dottxt-ai/outlines/commit/1842fe784085deb1bde0c197685b9702b1920429 "Add a few dotfiles to improve newcomers' experience \(#1368\)")| Feb 5, 2025  
+[.pydocstyle](https://github.com/dottxt-ai/outlines/blob/main/.pydocstyle ".pydocstyle")| [.pydocstyle](https://github.com/dottxt-ai/outlines/blob/main/.pydocstyle ".pydocstyle")| [Add a few dotfiles to improve newcomers' experience (](https://github.com/dottxt-ai/outlines/commit/1842fe784085deb1bde0c197685b9702b1920429 "Add a few dotfiles to improve newcomers' experience \(#1368\)")[#1368](https://github.com/dottxt-ai/outlines/pull/1368)[)](https://github.com/dottxt-ai/outlines/commit/1842fe784085deb1bde0c197685b9702b1920429 "Add a few dotfiles to improve newcomers' experience \(#1368\)")| Feb 5, 2025  
+[.readthedocs.yaml](https://github.com/dottxt-ai/outlines/blob/main/.readthedocs.yaml ".readthedocs.yaml")| [.readthedocs.yaml](https://github.com/dottxt-ai/outlines/blob/main/.readthedocs.yaml ".readthedocs.yaml")| [Add ReadTheDocs configuration](https://github.com/dottxt-ai/outlines/commit/773aaa6b3844917036ecac9532c748dae9a3e1a4 "Add ReadTheDocs configuration")| May 4, 2023  
+[Dockerfile](https://github.com/dottxt-ai/outlines/blob/main/Dockerfile "Dockerfile")| [Dockerfile](https://github.com/dottxt-ai/outlines/blob/main/Dockerfile "Dockerfile")| [Update Dockerfile to Multi-Stage](https://github.com/dottxt-ai/outlines/commit/5d64b23e7f75357050f4ef30b9e2fcaa4d9b741d "Update Dockerfile to Multi-Stage")| Feb 5, 2025  
+[LICENSE](https://github.com/dottxt-ai/outlines/blob/main/LICENSE "LICENSE")| [LICENSE](https://github.com/dottxt-ai/outlines/blob/main/LICENSE "LICENSE")| [Add authors and date to licence](https://github.com/dottxt-ai/outlines/commit/68b71ae810e0d6815a83df525da6d707cd4e971a "Add authors and date to licence")| Dec 7, 2023  
+[README.md](https://github.com/dottxt-ai/outlines/blob/main/README.md "README.md")| [README.md](https://github.com/dottxt-ai/outlines/blob/main/README.md "README.md")| [Improve the README](https://github.com/dottxt-ai/outlines/commit/ce27432021b502a4db1ec8740caac0b5c3c8e278 "Improve the README")| Feb 24, 2025  
+[environment.yml](https://github.com/dottxt-ai/outlines/blob/main/environment.yml "environment.yml")| [environment.yml](https://github.com/dottxt-ai/outlines/blob/main/environment.yml "environment.yml")| [Correct pathways, update site color, front page fixes (](https://github.com/dottxt-ai/outlines/commit/0b9a3f1378c62449472cd6430d18eab9ac39c2bd "Correct pathways, update site color, front page fixes \(#1146\)
+Follow up to #1143 and moving the repo to dottxt-ai. 
+- A lot of our links were broken because they pointed to the old site.
+- We changed the logo and the color but it wasn't fully integrated
+across the site.
+I fixed these, and made some improvements to the front page so that it's
+a little cleaner.
+New mobile/desktop views
+
+!\[image\]\(https://github.com/user-attachments/assets/9c068733-9cbc-4864-a5cd-763cb7403fa5\)
+!\[image\]\(https://github.com/user-attachments/assets/ddc5c638-6129-439d-8645-403af1ec9acf\)
+Current for reference
+
+!\[image\]\(https://github.com/user-attachments/assets/2bcebe41-a4db-4fba-9a0e-d8adfaf8b1f9\)
+GitHub contributors are still available off the welcome page: 
+!\[image\]\(https://github.com/user-attachments/assets/ce4b21e6-2969-47f6-b351-19cf91759868\)")[#1146](https://github.com/dottxt-ai/outlines/pull/1146)[)](https://github.com/dottxt-ai/outlines/commit/0b9a3f1378c62449472cd6430d18eab9ac39c2bd "Correct pathways, update site color, front page fixes \(#1146\)
+Follow up to #1143 and moving the repo to dottxt-ai. 
+- A lot of our links were broken because they pointed to the old site.
+- We changed the logo and the color but it wasn't fully integrated
+across the site.
+I fixed these, and made some improvements to the front page so that it's
+a little cleaner.
+New mobile/desktop views
+
+!\[image\]\(https://github.com/user-attachments/assets/9c068733-9cbc-4864-a5cd-763cb7403fa5\)
+!\[image\]\(https://github.com/user-attachments/assets/ddc5c638-6129-439d-8645-403af1ec9acf\)
+Current for reference
+
+!\[image\]\(https://github.com/user-attachments/assets/2bcebe41-a4db-4fba-9a0e-d8adfaf8b1f9\)
+GitHub contributors are still available off the welcome page: 
+!\[image\]\(https://github.com/user-attachments/assets/ce4b21e6-2969-47f6-b351-19cf91759868\)")| Sep 13, 2024  
+[flake.lock](https://github.com/dottxt-ai/outlines/blob/main/flake.lock "flake.lock")| [flake.lock](https://github.com/dottxt-ai/outlines/blob/main/flake.lock "flake.lock")| [Add nix configs and uv lock file](https://github.com/dottxt-ai/outlines/commit/ac49f578f046a1d6106ddcdf5b2276c45754286c "Add nix configs and uv lock file")| Feb 17, 2025  
+[flake.nix](https://github.com/dottxt-ai/outlines/blob/main/flake.nix "flake.nix")| [flake.nix](https://github.com/dottxt-ai/outlines/blob/main/flake.nix "flake.nix")| [Add nix configs and uv lock file](https://github.com/dottxt-ai/outlines/commit/ac49f578f046a1d6106ddcdf5b2276c45754286c "Add nix configs and uv lock file")| Feb 17, 2025  
+[mkdocs.yml](https://github.com/dottxt-ai/outlines/blob/main/mkdocs.yml "mkdocs.yml")| [mkdocs.yml](https://github.com/dottxt-ai/outlines/blob/main/mkdocs.yml "mkdocs.yml")| [Fix documentation ToC](https://github.com/dottxt-ai/outlines/commit/eced2ceb275f2edfffc8ace64b70b5d590d38fcd "Fix documentation ToC")| Feb 24, 2025  
+[pyproject.toml](https://github.com/dottxt-ai/outlines/blob/main/pyproject.toml "pyproject.toml")| [pyproject.toml](https://github.com/dottxt-ai/outlines/blob/main/pyproject.toml "pyproject.toml")| [Remove `pre-commit` runtime dependency](https://github.com/dottxt-ai/outlines/commit/e91a64c40bef28da70bd183736458c717d58a050 "Remove `pre-commit` runtime dependency")| Mar 3, 2025  
+[requirements-doc.txt](https://github.com/dottxt-ai/outlines/blob/main/requirements-doc.txt "requirements-doc.txt")| [requirements-doc.txt](https://github.com/dottxt-ai/outlines/blob/main/requirements-doc.txt "requirements-doc.txt")| [Version the Documentation](https://github.com/dottxt-ai/outlines/commit/ef4e819102cb3f94efb85dd8d510c09edabc36a5 "Version the Documentation")| Oct 7, 2024  
+[setup.cfg](https://github.com/dottxt-ai/outlines/blob/main/setup.cfg "setup.cfg")| [setup.cfg](https://github.com/dottxt-ai/outlines/blob/main/setup.cfg "setup.cfg")| [Move pytest configuration to pyproject.toml](https://github.com/dottxt-ai/outlines/commit/6b3a5c1586dcd33eb0772b3f0bc53efbc91deb85 "Move pytest configuration to pyproject.toml")| Mar 29, 2023  
+[shell.nix](https://github.com/dottxt-ai/outlines/blob/main/shell.nix "shell.nix")| [shell.nix](https://github.com/dottxt-ai/outlines/blob/main/shell.nix "shell.nix")| [Add nix configs and uv lock file](https://github.com/dottxt-ai/outlines/commit/ac49f578f046a1d6106ddcdf5b2276c45754286c "Add nix configs and uv lock file")| Feb 17, 2025  
+[uv.lock](https://github.com/dottxt-ai/outlines/blob/main/uv.lock "uv.lock")| [uv.lock](https://github.com/dottxt-ai/outlines/blob/main/uv.lock "uv.lock")| [Add nix configs and uv lock file](https://github.com/dottxt-ai/outlines/commit/ac49f578f046a1d6106ddcdf5b2276c45754286c "Add nix configs and uv lock file")| Feb 17, 2025  
+View all files  
+## Repository files navigation
+  * [README](https://github.com/dottxt-ai/outlines/)
+  * [Apache-2.0 license](https://github.com/dottxt-ai/outlines/)
+
+
+[![Outlines Logo](https://github.com/dottxt-ai/outlines/raw/main/docs/assets/images/logo.png)](https://github.com/dottxt-ai/outlines/blob/main/docs/assets/images/logo.png)
+🗒️ _Make LLMs speak the language of every application._ 🗒️
+Made with ❤👷️ by the team at [.txt](https://dottxt.co).
+[![Documentation](https://camo.githubusercontent.com/499a9db83be7dabab071235ffea8709129acf4568c201d6031ee4103b2f9b5e6/68747470733a2f2f696d672e736869656c64732e696f2f72656164746865646f63732f6f75746c696e6573)](https://dottxt-ai.github.io/outlines/latest/welcome/) [![Contributors](https://camo.githubusercontent.com/35942007797e41137baa0e828b241c6edf5f40b40bf817856005e4c5ff60ccca/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f636f6e7472696275746f72732f646f747478742d61692f6f75746c696e65733f7374796c653d666c61742d737175617265266c6f676f3d676974687562266c6f676f436f6c6f723d776869746526636f6c6f723d454345464634)](https://github.com/dottxt-ai/outlines/graphs/contributors) [![Downloads](https://camo.githubusercontent.com/6418dba5532d571c1f0d73b9528988c8b1249ec2542779dff024b398ecef5084/68747470733a2f2f696d672e736869656c64732e696f2f707970692f646d2f6f75746c696e65733f636f6c6f723d383941433642266c6f676f3d707974686f6e266c6f676f436f6c6f723d7768697465267374796c653d666c61742d737175617265)](https://pypistats.org/packages/outlines) [![Discord](https://camo.githubusercontent.com/ff249d8f05f8a37d82860d11f4af860563511909b5844670741a6ebec7e6195a/68747470733a2f2f696d672e736869656c64732e696f2f646973636f72642f313138323331363232353238343535343739333f636f6c6f723d383141314331266c6f676f3d646973636f7264266c6f676f436f6c6f723d7768697465267374796c653d666c61742d737175617265)](https://discord.gg/R9DSu34mGd)
+[Youtube channel](https://www.youtube.com/@dottxt-ai) | [.txt blog](https://blog.dottxt.co/) | [Twitter](https://twitter.com/dottxtai)
+```
+pip install outlines
+```
+
+First time here? Go to our [setup guide](https://dottxt-ai.github.io/outlines/latest/welcome/)
+## Features
+[](https://github.com/dottxt-ai/outlines/#features)
+  * 🤖 [Multiple model integrations](https://dottxt-ai.github.io/outlines/latest/installation): OpenAI, transformers, llama.cpp, exllama2, mamba
+  * 🔥 Fast [JSON generation](https://github.com/dottxt-ai/outlines/#efficient-json-generation-following-a-pydantic-model) following a JSON schema or a Pydantic model
+  * 🚄 [Multiple choices](https://github.com/dottxt-ai/outlines/#multiple-choices), [type constraints](https://github.com/dottxt-ai/outlines/#type-constraint) and dynamic stopping
+  * 📝 Generate text that follows a [regex](https://github.com/dottxt-ai/outlines/#efficient-regex-structured-generation) or a [context-free grammar](https://github.com/dottxt-ai/outlines/#using-context-free-grammars-to-guide-generation)
+  * 🖍️ Simple and powerful prompting primitives based on the [Jinja templating engine](https://jinja.palletsprojects.com/)
+  * 🚀 [Serve with vLLM](https://dottxt-ai.github.io/outlines/latest/reference/serve/vllm), with official Docker image, [`outlinesdev/outlines`](https://hub.docker.com/r/outlinesdev/outlines)!
+
+
+Outlines has new releases and features coming every week. Make sure to ⭐ star and 👀 watch this repository, follow [@dottxtai](https://twitter.com/dottxtai) to stay up to date!
+## Why should I use structured generation?
+[](https://github.com/dottxt-ai/outlines/#why-should-i-use-structured-generation)
+  * It doesn't add any overhead during inference (cost-free)
+  * It allows Open Source models to beat closed source models ([Mistral](https://x.com/dottxtai/status/1797692104023363765), [GPT-4](https://x.com/dottxtai/status/1798443290913853770))
+  * [It speeds up inference](http://blog.dottxt.co/coalescence.html)
+  * [It improves the performance of base models (GSM8K)](http://blog.dottxt.co/performance-gsm8k.html)
+  * [It improves the performance of finetuned models (CoNNL)](https://predibase.com/blog/lorax-outlines-better-json-extraction-with-structured-generation-and-lora)
+  * [It improves model efficiency (less examples needed)](https://huggingface.co/blog/evaluation-structured-outputs)
+
+
+## .txt company
+[](https://github.com/dottxt-ai/outlines/#txt-company)
+[![Outlines Logo](https://github.com/dottxt-ai/outlines/raw/main/docs/assets/images/dottxt.png)](https://github.com/dottxt-ai/outlines/blob/main/docs/assets/images/dottxt.png)
+We started a company to keep pushing the boundaries of structured generation. Learn more about [.txt](https://twitter.com/dottxtai), and [give our .json API a try](https://h1xbpbfsf0w.typeform.com/to/ZgBCvJHF) if you need a hosted solution ✨
+## Structured generation
+[](https://github.com/dottxt-ai/outlines/#structured-generation)
+The first step towards reliability of systems that include large language models is to ensure that there is a well-defined interface between their output and user-defined code. **Outlines** provides ways to control the generation of language models to make their output more predictable.
+The following methods of structured generation are supported:
+  * [Multiple choices](https://github.com/dottxt-ai/outlines/#multiple-choices)
+  * [Type constraints](https://github.com/dottxt-ai/outlines/#type-constraint)
+  * [Efficient regex-structured generation](https://github.com/dottxt-ai/outlines/#efficient-regex-structured-generation)
+  * [Efficient JSON generation following a Pydantic model](https://github.com/dottxt-ai/outlines/#efficient-json-generation-following-a-pydantic-model)
+  * [Using context-free grammars to guide generation](https://github.com/dottxt-ai/outlines/#using-context-free-grammars-to-guide-generation)
+  * [Open functions](https://github.com/dottxt-ai/outlines/#open-functions)
+
+
+### Chat template tokens
+[](https://github.com/dottxt-ai/outlines/#chat-template-tokens)
+Outlines does not manage chat templating tokens when using instruct models. You must apply the chat template tokens to the prompt yourself. Chat template tokens are not needed for base models.
+Please see [the documentation](https://dottxt-ai.github.io/outlines/latest/reference/chat_templating) on chat templating for more.
+### Multiple choices
+[](https://github.com/dottxt-ai/outlines/#multiple-choices)
+You can reduce the completion to a choice between multiple possibilities:
+```
+import outlines
+model_name = "HuggingFaceTB/SmolLM2-360M-Instruct"
+model = outlines.models.transformers(model_name)
+# You must apply the chat template tokens to the prompt!
+# See below for an example.
+prompt = """
+<|im_start|>system
+You extract information from text.
+<|im_end|>
+<|im_start|>user
+What food does the following text describe?
+Text: I really really really want pizza.
+<|im_end|>
+<|im_start|>assistant
+"""
+generator = outlines.generate.choice(model, ["Pizza", "Pasta", "Salad", "Dessert"])
+answer = generator(prompt)
+# Likely answer: Pizza
+```
+
+You can also pass in choices with an `Enum`:
+```
+from enum import Enum
+class Food(str, Enum):
+  pizza = "Pizza"
+  pasta = "Pasta"
+  salad = "Salad"
+  dessert = "Dessert"
+generator = outlines.generate.choice(model, Food)
+answer = generator(prompt)
+# Likely answer: Pizza
+```
+
+### Type constraints
+[](https://github.com/dottxt-ai/outlines/#type-constraints)
+You can instruct the model to only return integers or floats:
+```
+import outlines
+model = outlines.models.transformers("WizardLM/WizardMath-7B-V1.1")
+prompt = "<s>result of 9 + 9 = 18</s><s>result of 1 + 2 = "
+answer = outlines.generate.format(model, int)(prompt)
+print(answer)
+# 3
+prompt = "sqrt(2)="
+generator = outlines.generate.format(model, float)
+answer = generator(prompt, max_tokens=10)
+print(answer)
+# 1.41421356
+```
+
+### Efficient regex-structured generation
+[](https://github.com/dottxt-ai/outlines/#efficient-regex-structured-generation)
+Outlines also comes with fast regex-structured generation. In fact, the `choice` and `format` functions above all use regex-structured generation under the hood:
+```
+import outlines
+model = outlines.models.transformers("microsoft/Phi-3-mini-4k-instruct")
+prompt = """
+<|im_start|>system You are a helpful assistant.
+<|im_end|>
+<|im_start|>user
+What is an IP address of the Google DNS servers?
+<|im_end|>
+<|im_start|>assistant
+The IP address of a Google DNS server is
+"""
+generator = outlines.generate.text(model)
+unstructured = generator(prompt, max_tokens=30)
+generator = outlines.generate.regex(
+  model,
+  r"((25[0-5]|2[0-4]\d|[01]?\d\d?)\.){3}(25[0-5]|2[0-4]\d|[01]?\d\d?)",
+  sampler=outlines.samplers.greedy(),
+)
+structured = generator(prompt, max_tokens=30)
+print(unstructured)
+# 8.8.8.8
+#
+# <|im_end|>
+print(structured)
+# 8.8.8.8
+```
+
+Unlike other libraries, regex-structured generation in Outlines is almost as fast as non-structured generation.
+### Efficient JSON generation following a Pydantic model
+[](https://github.com/dottxt-ai/outlines/#efficient-json-generation-following-a-pydantic-model)
+Outlines users can guide the generation process so the output is _guaranteed_ to follow a [JSON schema](https://json-schema.org/) or [Pydantic model](https://docs.pydantic.dev/latest/):
+```
+from enum import Enum
+from pydantic import BaseModel, constr
+import outlines
+class Weapon(str, Enum):
+  sword = "sword"
+  axe = "axe"
+  mace = "mace"
+  spear = "spear"
+  bow = "bow"
+  crossbow = "crossbow"
+
+class Armor(str, Enum):
+  leather = "leather"
+  chainmail = "chainmail"
+  plate = "plate"
+
+class Character(BaseModel):
+  name: constr(max_length=10)
+  age: int
+  armor: Armor
+  weapon: Weapon
+  strength: int
+
+model = outlines.models.transformers("microsoft/Phi-3-mini-4k-instruct")
+# Construct structured sequence generator
+generator = outlines.generate.json(model, Character)
+# Draw a sample
+seed = 789001
+character = generator("Give me a character description", seed=seed)
+print(repr(character))
+# Character(name='Anderson', age=28, armor=<Armor.chainmail: 'chainmail'>, weapon=<Weapon.sword: 'sword'>, strength=8)
+character = generator("Give me an interesting character description")
+print(repr(character))
+# Character(name='Vivian Thr', age=44, armor=<Armor.plate: 'plate'>, weapon=<Weapon.crossbow: 'crossbow'>, strength=125)
+```
+
+The method works with union types, optional types, arrays, nested schemas, etc. Some field constraints are [not supported yet](https://github.com/dottxt-ai/outlines/issues/215), but everything else should work.
+### Efficient JSON generation following a JSON Schema
+[](https://github.com/dottxt-ai/outlines/#efficient-json-generation-following-a-json-schema)
+Sometimes you just want to be able to pass a JSON Schema instead of a Pydantic model. We've got you covered:
+```
+import outlines
+schema = '''{
+  "title": "Character",
+  "type": "object",
+  "properties": {
+    "name": {
+      "title": "Name",
+      "maxLength": 10,
+      "type": "string"
+    },
+    "age": {
+      "title": "Age",
+      "type": "integer"
+    },
+    "armor": {"$ref": "#/definitions/Armor"},
+    "weapon": {"$ref": "#/definitions/Weapon"},
+    "strength": {
+      "title": "Strength",
+      "type": "integer"
+    }
+  },
+  "required": ["name", "age", "armor", "weapon", "strength"],
+  "definitions": {
+    "Armor": {
+      "title": "Armor",
+      "description": "An enumeration.",
+      "enum": ["leather", "chainmail", "plate"],
+      "type": "string"
+    },
+    "Weapon": {
+      "title": "Weapon",
+      "description": "An enumeration.",
+      "enum": ["sword", "axe", "mace", "spear", "bow", "crossbow"],
+      "type": "string"
+    }
+  }
+}'''
+model = outlines.models.transformers("microsoft/Phi-3-mini-4k-instruct")
+generator = outlines.generate.json(model, schema)
+character = generator("Give me a character description")
+```
+
+### Using context-free grammars to guide generation
+[](https://github.com/dottxt-ai/outlines/#using-context-free-grammars-to-guide-generation)
+Formal grammars rule the world, and Outlines makes them rule LLMs too. You can pass any context-free grammar in the EBNF format and Outlines will generate an output that is valid to this grammar:
+```
+import outlines
+arithmetic_grammar = """
+  ?start: expression
+  ?expression: term (("+" | "-") term)*
+  ?term: factor (("*" | "/") factor)*
+  ?factor: NUMBER
+      | "-" factor
+      | "(" expression ")"
+  %import common.NUMBER
+"""
+model = outlines.models.transformers("WizardLM/WizardMath-7B-V1.1")
+generator = outlines.generate.cfg(model, arithmetic_grammar)
+sequence = generator("Alice had 4 apples and Bob ate 2. Write an expression for Alice's apples:")
+print(sequence)
+# (8-2)
+```
+
+This was a very simple grammar, and you can use `outlines.generate.cfg` to generate syntactically valid Python, SQL, and much more than this. Any kind of structured text, really. All you have to do is search for "X EBNF grammar" on the web, and take a look at the [Outlines `grammars` module](https://github.com/dottxt-ai/outlines/tree/main/outlines/grammars).
+### Open functions
+[](https://github.com/dottxt-ai/outlines/#open-functions)
+Outlines can infer the structure of the output from the signature of a function. The result is a dictionary, and can be passed directly to the function using the usual dictionary expansion syntax `**`:
+```
+import outlines
+
+def add(a: int, b: int):
+  return a + b
+model = outlines.models.transformers("WizardLM/WizardMath-7B-V1.1")
+generator = outlines.generate.json(model, add)
+result = generator("Return json with two integers named a and b respectively. a is odd and b even.")
+print(add(**result))
+# 3
+```
+
+A great advantage of passing functions directly to specify the structure is that the structure of the LLM will change with the function's definition. No need to change the code at several places!
+You can also embed various functions into an enum to generate params:
+```
+from enum import Enum
+from functools import partial
+import outlines
+
+def add(a: int, b: int) -> int:
+  return a + b
+def mul(c: float, d: float) -> float:
+  return c * d
+class Operation(Enum):
+  add = partial(add)
+  mul = partial(mul)
+model = outlines.models.transformers("WizardLM/WizardMath-7B-V1.1")
+generator = outlines.generate.json(model, Operation)
+result = generator("Return json with two float named c and d respectively. c is negative and d greater than 1.0.")
+print(result)
+# {'c': -3.14, 'd': 1.5}
+```
+
+## Prompting
+[](https://github.com/dottxt-ai/outlines/#prompting)
+Building prompts can get messy. **Outlines** makes it easier to write and manage prompts by encapsulating templates inside "template functions". Template functions use the Jinja2 templating engine to help build complex prompts in a concise manner.
+Template functions are created by loading a Jinja2 template from a text file. Assume you have the following prompt template defined in `prompt.txt`:
+```
+You are a sentiment-labelling assistant.
+{% for example in examples %}
+{{ example[0] }} // {{ example[1] }}
+{% endfor %}
+{{ to_label }} //
+
+```
+
+You can then load it and call it with:
+```
+import outlines
+examples = [
+  ("The food was disgusting", "Negative"),
+  ("We had a fantastic night", "Positive"),
+  ("Recommended", "Positive"),
+  ("The waiter was rude", "Negative")
+]
+labelling = outlines.Template.from_file("prompt.txt")
+prompt = labelling("Just awesome", examples)
+```
+
+This helps:
+  * Keep content separate from the code
+  * Design "white space perfect" prompts
+
+
+It is more maintainable and means prompts can be versioned separately from the code.
+## Join us
+[](https://github.com/dottxt-ai/outlines/#join-us)
+  * 💡 **Have an idea?** Come chat with us on [Discord](https://discord.gg/R9DSu34mGd)
+  * 🔨 **Want to contribute?** Consult our [contribution guide](https://dottxt-ai.github.io/outlines/latest/community/contribute/).
+  * 🐞 **Found a bug?** Open an [issue](https://github.com/dottxt-ai/outlines/issues)
+
+
+## Cite Outlines
+[](https://github.com/dottxt-ai/outlines/#cite-outlines)
+```
+@article{willard2023efficient,
+ title={Efficient Guided Generation for LLMs},
+ author={Willard, Brandon T and Louf, R{\'e}mi},
+ journal={arXiv preprint arXiv:2307.09702},
+ year={2023}
+}
+
+```
+
+## About
+Structured Text Generation 
+[dottxt-ai.github.io/outlines/](https://dottxt-ai.github.io/outlines/ "https://dottxt-ai.github.io/outlines/")
+### Topics
+[ json ](https://github.com/topics/json "Topic: json") [ regex ](https://github.com/topics/regex "Topic: regex") [ cfg ](https://github.com/topics/cfg "Topic: cfg") [ symbolic-ai ](https://github.com/topics/symbolic-ai "Topic: symbolic-ai") [ prompt-engineering ](https://github.com/topics/prompt-engineering "Topic: prompt-engineering") [ llms ](https://github.com/topics/llms "Topic: llms") [ generative-ai ](https://github.com/topics/generative-ai "Topic: generative-ai") [ structured-generation ](https://github.com/topics/structured-generation "Topic: structured-generation")
+### Resources
+[ Readme ](https://github.com/dottxt-ai/outlines/#readme-ov-file)
+### License
+[ Apache-2.0 license ](https://github.com/dottxt-ai/outlines/#Apache-2.0-1-ov-file)
+[ Activity](https://github.com/dottxt-ai/outlines/activity)
+[ Custom properties](https://github.com/dottxt-ai/outlines/custom-properties)
+### Stars
+[ **11.2k** stars](https://github.com/dottxt-ai/outlines/stargazers)
+### Watchers
+[ **51** watching](https://github.com/dottxt-ai/outlines/watchers)
+### Forks
+[ **576** forks](https://github.com/dottxt-ai/outlines/forks)
+[ Report repository ](https://github.com/contact/report-content?content_url=https%3A%2F%2Fgithub.com%2Fdottxt-ai%2Foutlines&report=dottxt-ai+%28user%29)
+##  [Releases 64](https://github.com/dottxt-ai/outlines/releases)
+[ Outlines v0.2.2 Latest  Mar 4, 2025 ](https://github.com/dottxt-ai/outlines/releases/tag/0.2.2)
+[+ 63 releases](https://github.com/dottxt-ai/outlines/releases)
+##  [Used by 1.6k](https://github.com/dottxt-ai/outlines/network/dependents)
+[
+  * ![@SeanLeng1](https://avatars.githubusercontent.com/u/52713101?s=64&v=4)
+  * ![@eformat](https://avatars.githubusercontent.com/u/712608?s=64&v=4)
+  * ![@KevinHuuu](https://avatars.githubusercontent.com/u/20177932?s=64&v=4)
+  * ![@neel-patel-1](https://avatars.githubusercontent.com/u/36992032?s=64&v=4)
+  * ![@Wbxxx](https://avatars.githubusercontent.com/u/73701166?s=64&v=4)
+  * ![@tinu1097](https://avatars.githubusercontent.com/u/56772460?s=64&v=4)
+  * ![@camel-ai](https://avatars.githubusercontent.com/u/134388954?s=64&v=4)
+  * ![@Franckmelvine](https://avatars.githubusercontent.com/u/139112270?s=64&v=4)
+
++ 1,607  ](https://github.com/dottxt-ai/outlines/network/dependents)
+##  [Contributors 134](https://github.com/dottxt-ai/outlines/graphs/contributors)
+  * [ ![@rlouf](https://avatars.githubusercontent.com/u/3885044?s=64&v=4) ](https://github.com/rlouf)
+  * [ ![@brandonwillard](https://avatars.githubusercontent.com/u/971601?s=64&v=4) ](https://github.com/brandonwillard)
+  * [ ![@lapp0](https://avatars.githubusercontent.com/u/2560255?s=64&v=4) ](https://github.com/lapp0)
+  * [ ![@cpfiffer](https://avatars.githubusercontent.com/u/422990?s=64&v=4) ](https://github.com/cpfiffer)
+  * [ ![@RobinPicard](https://avatars.githubusercontent.com/u/83579270?s=64&v=4) ](https://github.com/RobinPicard)
+  * [ ![@yvan-sraka](https://avatars.githubusercontent.com/u/705213?s=64&v=4) ](https://github.com/yvan-sraka)
+  * [ ![@benlipkin](https://avatars.githubusercontent.com/u/38060297?s=64&v=4) ](https://github.com/benlipkin)
+  * [ ![@alonsosilvaallende](https://avatars.githubusercontent.com/u/30263736?s=64&v=4) ](https://github.com/alonsosilvaallende)
+  * [ ![@parkervg](https://avatars.githubusercontent.com/u/44219290?s=64&v=4) ](https://github.com/parkervg)
+  * [ ![@eitanturok](https://avatars.githubusercontent.com/u/150733043?s=64&v=4) ](https://github.com/eitanturok)
+  * [ ![@leloykun](https://avatars.githubusercontent.com/u/14250344?s=64&v=4) ](https://github.com/leloykun)
+  * [ ![@saattrupdan](https://avatars.githubusercontent.com/u/47701536?s=64&v=4) ](https://github.com/saattrupdan)
+  * [ ![@jrysana](https://avatars.githubusercontent.com/u/51100181?s=64&v=4) ](https://github.com/jrysana)
+  * [ ![@jqueguiner](https://avatars.githubusercontent.com/u/690878?s=64&v=4) ](https://github.com/jqueguiner)
+
+
+[+ 120 contributors](https://github.com/dottxt-ai/outlines/graphs/contributors)
+## Languages
+  * [ Python 99.4% ](https://github.com/dottxt-ai/outlines/search?l=python)
+  * Other 0.6%
+
+
+## Footer
+[ ](https://github.com "GitHub") © 2025 GitHub, Inc. 
+### Footer navigation
+  * [Terms](https://docs.github.com/site-policy/github-terms/github-terms-of-service)
+  * [Privacy](https://docs.github.com/site-policy/privacy-policies/github-privacy-statement)
+  * [Security](https://github.com/security)
+  * [Status](https://www.githubstatus.com/)
+  * [Docs](https://docs.github.com/)
+  * [Contact](https://support.github.com?tags=dotcom-footer)
+  * Manage cookies 
+  * Do not share my personal information 
+
+
+You can’t perform that action at this time. 

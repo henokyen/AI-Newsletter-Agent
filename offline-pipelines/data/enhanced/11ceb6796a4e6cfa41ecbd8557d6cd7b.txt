@@ -1,0 +1,427 @@
+[Skip to content](https://github.com/Giskard-AI/giskard/#start-of-content)
+## Navigation Menu
+Toggle navigation
+[ ](https://github.com/)
+[ Sign in ](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2FGiskard-AI%2Fgiskard%2F)
+  * Product 
+    * [ GitHub Copilot Write better code with AI  ](https://github.com/features/copilot)
+    * [ Security Find and fix vulnerabilities  ](https://github.com/features/security)
+    * [ Actions Automate any workflow  ](https://github.com/features/actions)
+    * [ Codespaces Instant dev environments  ](https://github.com/features/codespaces)
+    * [ Issues Plan and track work  ](https://github.com/features/issues)
+    * [ Code Review Manage code changes  ](https://github.com/features/code-review)
+    * [ Discussions Collaborate outside of code  ](https://github.com/features/discussions)
+    * [ Code Search Find more, search less  ](https://github.com/features/code-search)
+Explore
+    * [ All features ](https://github.com/features)
+    * [ Documentation ](https://docs.github.com)
+    * [ GitHub Skills ](https://skills.github.com)
+    * [ Blog ](https://github.blog)
+  * Solutions 
+By company size
+    * [ Enterprises ](https://github.com/enterprise)
+    * [ Small and medium teams ](https://github.com/team)
+    * [ Startups ](https://github.com/enterprise/startups)
+    * [ Nonprofits ](https://github.com/solutions/industry/nonprofits)
+By use case
+    * [ DevSecOps ](https://github.com/solutions/use-case/devsecops)
+    * [ DevOps ](https://github.com/solutions/use-case/devops)
+    * [ CI/CD ](https://github.com/solutions/use-case/ci-cd)
+    * [ View all use cases ](https://github.com/solutions/use-case)
+By industry
+    * [ Healthcare ](https://github.com/solutions/industry/healthcare)
+    * [ Financial services ](https://github.com/solutions/industry/financial-services)
+    * [ Manufacturing ](https://github.com/solutions/industry/manufacturing)
+    * [ Government ](https://github.com/solutions/industry/government)
+    * [ View all industries ](https://github.com/solutions/industry)
+[ View all solutions ](https://github.com/solutions)
+  * Resources 
+Topics
+    * [ AI ](https://github.com/resources/articles/ai)
+    * [ DevOps ](https://github.com/resources/articles/devops)
+    * [ Security ](https://github.com/resources/articles/security)
+    * [ Software Development ](https://github.com/resources/articles/software-development)
+    * [ View all ](https://github.com/resources/articles)
+Explore
+    * [ Learning Pathways ](https://resources.github.com/learn/pathways)
+    * [ Events & Webinars ](https://resources.github.com)
+    * [ Ebooks & Whitepapers ](https://github.com/resources/whitepapers)
+    * [ Customer Stories ](https://github.com/customer-stories)
+    * [ Partners ](https://partner.github.com)
+    * [ Executive Insights ](https://github.com/solutions/executive-insights)
+  * Open Source 
+    * [ GitHub Sponsors Fund open source developers  ](https://github.com/sponsors)
+    * [ The ReadME Project GitHub community articles  ](https://github.com/readme)
+Repositories
+    * [ Topics ](https://github.com/topics)
+    * [ Trending ](https://github.com/trending)
+    * [ Collections ](https://github.com/collections)
+  * Enterprise 
+    * [ Enterprise platform AI-powered developer platform  ](https://github.com/enterprise)
+Available add-ons
+    * [ Advanced Security Enterprise-grade security features  ](https://github.com/enterprise/advanced-security)
+    * [ Copilot for business Enterprise-grade AI features  ](https://github.com/features/copilot/copilot-business)
+    * [ Premium Support Enterprise-grade 24/7 support  ](https://github.com/premium-support)
+  * [Pricing](https://github.com/pricing)
+
+
+Search or jump to...
+# Search code, repositories, users, issues, pull requests...
+Search 
+Clear
+[Search syntax tips](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax)
+#  Provide feedback 
+We read every piece of feedback, and take your input very seriously.
+Include my email address so I can be contacted
+Cancel  Submit feedback 
+#  Saved searches 
+## Use saved searches to filter your results more quickly
+Name
+Query
+To see all available qualifiers, see our [documentation](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax). 
+Cancel  Create saved search 
+[ Sign in ](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2FGiskard-AI%2Fgiskard%2F)
+[ Sign up ](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E&source=header-repo&source_repo=Giskard-AI%2Fgiskard) Reseting focus
+You signed in with another tab or window. [Reload](https://github.com/Giskard-AI/giskard/) to refresh your session. You signed out in another tab or window. [Reload](https://github.com/Giskard-AI/giskard/) to refresh your session. You switched accounts on another tab or window. [Reload](https://github.com/Giskard-AI/giskard/) to refresh your session. Dismiss alert
+{{ message }}
+[ Giskard-AI ](https://github.com/Giskard-AI) / **[giskard](https://github.com/Giskard-AI/giskard) ** Public
+  * [ Notifications ](https://github.com/login?return_to=%2FGiskard-AI%2Fgiskard) You must be signed in to change notification settings
+  * [ Fork 305 ](https://github.com/login?return_to=%2FGiskard-AI%2Fgiskard)
+  * [ Star  4.4k ](https://github.com/login?return_to=%2FGiskard-AI%2Fgiskard)
+
+
+🐢 Open-Source Evaluation & Testing for AI & LLM systems 
+[docs.giskard.ai](https://docs.giskard.ai "https://docs.giskard.ai")
+### License
+[ Apache-2.0 license ](https://github.com/Giskard-AI/giskard/blob/main/LICENSE)
+[ 4.4k stars ](https://github.com/Giskard-AI/giskard/stargazers) [ 305 forks ](https://github.com/Giskard-AI/giskard/forks) [ Branches ](https://github.com/Giskard-AI/giskard/branches) [ Tags ](https://github.com/Giskard-AI/giskard/tags) [ Activity ](https://github.com/Giskard-AI/giskard/activity)
+[ Star  ](https://github.com/login?return_to=%2FGiskard-AI%2Fgiskard)
+[ Notifications ](https://github.com/login?return_to=%2FGiskard-AI%2Fgiskard) You must be signed in to change notification settings
+  * [ Code ](https://github.com/Giskard-AI/giskard)
+  * [ Issues 13 ](https://github.com/Giskard-AI/giskard/issues)
+  * [ Pull requests 8 ](https://github.com/Giskard-AI/giskard/pulls)
+  * [ Discussions ](https://github.com/Giskard-AI/giskard/discussions)
+  * [ Actions ](https://github.com/Giskard-AI/giskard/actions)
+  * [ Security ](https://github.com/Giskard-AI/giskard/security)
+  * [ Insights ](https://github.com/Giskard-AI/giskard/pulse)
+
+
+Additional navigation options
+  * [ Code  ](https://github.com/Giskard-AI/giskard)
+  * [ Issues  ](https://github.com/Giskard-AI/giskard/issues)
+  * [ Pull requests  ](https://github.com/Giskard-AI/giskard/pulls)
+  * [ Discussions  ](https://github.com/Giskard-AI/giskard/discussions)
+  * [ Actions  ](https://github.com/Giskard-AI/giskard/actions)
+  * [ Security  ](https://github.com/Giskard-AI/giskard/security)
+  * [ Insights  ](https://github.com/Giskard-AI/giskard/pulse)
+
+
+# Giskard-AI/giskard
+main
+[Branches](https://github.com/Giskard-AI/giskard/branches)[Tags](https://github.com/Giskard-AI/giskard/tags)
+[](https://github.com/Giskard-AI/giskard/branches)[](https://github.com/Giskard-AI/giskard/tags)
+Go to file
+Code
+## Folders and files
+Name| Name| Last commit message| Last commit date  
+---|---|---|---  
+## Latest commit
+## History
+[10,260 Commits](https://github.com/Giskard-AI/giskard/commits/main/)[](https://github.com/Giskard-AI/giskard/commits/main/)  
+[.github](https://github.com/Giskard-AI/giskard/tree/main/.github ".github")| [.github](https://github.com/Giskard-AI/giskard/tree/main/.github ".github")  
+[.vscode](https://github.com/Giskard-AI/giskard/tree/main/.vscode ".vscode")| [.vscode](https://github.com/Giskard-AI/giskard/tree/main/.vscode ".vscode")  
+[docs](https://github.com/Giskard-AI/giskard/tree/main/docs "docs")| [docs](https://github.com/Giskard-AI/giskard/tree/main/docs "docs")  
+[giskard](https://github.com/Giskard-AI/giskard/tree/main/giskard "giskard")| [giskard](https://github.com/Giskard-AI/giskard/tree/main/giskard "giskard")  
+[readme](https://github.com/Giskard-AI/giskard/tree/main/readme "readme")| [readme](https://github.com/Giskard-AI/giskard/tree/main/readme "readme")  
+[sample_data](https://github.com/Giskard-AI/giskard/tree/main/sample_data "sample_data")| [sample_data](https://github.com/Giskard-AI/giskard/tree/main/sample_data "sample_data")  
+[scripts](https://github.com/Giskard-AI/giskard/tree/main/scripts "scripts")| [scripts](https://github.com/Giskard-AI/giskard/tree/main/scripts "scripts")  
+[src/scan-widget](https://github.com/Giskard-AI/giskard/tree/main/src/scan-widget "This path skips through empty directories")| [src/scan-widget](https://github.com/Giskard-AI/giskard/tree/main/src/scan-widget "This path skips through empty directories")  
+[tests](https://github.com/Giskard-AI/giskard/tree/main/tests "tests")| [tests](https://github.com/Giskard-AI/giskard/tree/main/tests "tests")  
+[.coveragerc](https://github.com/Giskard-AI/giskard/blob/main/.coveragerc ".coveragerc")| [.coveragerc](https://github.com/Giskard-AI/giskard/blob/main/.coveragerc ".coveragerc")  
+[.flake8](https://github.com/Giskard-AI/giskard/blob/main/.flake8 ".flake8")| [.flake8](https://github.com/Giskard-AI/giskard/blob/main/.flake8 ".flake8")  
+[.git-blame-ignore-revs](https://github.com/Giskard-AI/giskard/blob/main/.git-blame-ignore-revs ".git-blame-ignore-revs")| [.git-blame-ignore-revs](https://github.com/Giskard-AI/giskard/blob/main/.git-blame-ignore-revs ".git-blame-ignore-revs")  
+[.gitattributes](https://github.com/Giskard-AI/giskard/blob/main/.gitattributes ".gitattributes")| [.gitattributes](https://github.com/Giskard-AI/giskard/blob/main/.gitattributes ".gitattributes")  
+[.gitignore](https://github.com/Giskard-AI/giskard/blob/main/.gitignore ".gitignore")| [.gitignore](https://github.com/Giskard-AI/giskard/blob/main/.gitignore ".gitignore")  
+[.pre-commit-config.yaml](https://github.com/Giskard-AI/giskard/blob/main/.pre-commit-config.yaml ".pre-commit-config.yaml")| [.pre-commit-config.yaml](https://github.com/Giskard-AI/giskard/blob/main/.pre-commit-config.yaml ".pre-commit-config.yaml")  
+[.readthedocs.yaml](https://github.com/Giskard-AI/giskard/blob/main/.readthedocs.yaml ".readthedocs.yaml")| [.readthedocs.yaml](https://github.com/Giskard-AI/giskard/blob/main/.readthedocs.yaml ".readthedocs.yaml")  
+[CODE_OF_CONDUCT.md](https://github.com/Giskard-AI/giskard/blob/main/CODE_OF_CONDUCT.md "CODE_OF_CONDUCT.md")| [CODE_OF_CONDUCT.md](https://github.com/Giskard-AI/giskard/blob/main/CODE_OF_CONDUCT.md "CODE_OF_CONDUCT.md")  
+[CONTRIBUTING.md](https://github.com/Giskard-AI/giskard/blob/main/CONTRIBUTING.md "CONTRIBUTING.md")| [CONTRIBUTING.md](https://github.com/Giskard-AI/giskard/blob/main/CONTRIBUTING.md "CONTRIBUTING.md")  
+[ISSUES.md](https://github.com/Giskard-AI/giskard/blob/main/ISSUES.md "ISSUES.md")| [ISSUES.md](https://github.com/Giskard-AI/giskard/blob/main/ISSUES.md "ISSUES.md")  
+[LICENSE](https://github.com/Giskard-AI/giskard/blob/main/LICENSE "LICENSE")| [LICENSE](https://github.com/Giskard-AI/giskard/blob/main/LICENSE "LICENSE")  
+[README.md](https://github.com/Giskard-AI/giskard/blob/main/README.md "README.md")| [README.md](https://github.com/Giskard-AI/giskard/blob/main/README.md "README.md")  
+[SECURITY.md](https://github.com/Giskard-AI/giskard/blob/main/SECURITY.md "SECURITY.md")| [SECURITY.md](https://github.com/Giskard-AI/giskard/blob/main/SECURITY.md "SECURITY.md")  
+[conftest.py](https://github.com/Giskard-AI/giskard/blob/main/conftest.py "conftest.py")| [conftest.py](https://github.com/Giskard-AI/giskard/blob/main/conftest.py "conftest.py")  
+[gulpfile.js](https://github.com/Giskard-AI/giskard/blob/main/gulpfile.js "gulpfile.js")| [gulpfile.js](https://github.com/Giskard-AI/giskard/blob/main/gulpfile.js "gulpfile.js")  
+[package-lock.json](https://github.com/Giskard-AI/giskard/blob/main/package-lock.json "package-lock.json")| [package-lock.json](https://github.com/Giskard-AI/giskard/blob/main/package-lock.json "package-lock.json")  
+[package.json](https://github.com/Giskard-AI/giskard/blob/main/package.json "package.json")| [package.json](https://github.com/Giskard-AI/giskard/blob/main/package.json "package.json")  
+[pdm.lock](https://github.com/Giskard-AI/giskard/blob/main/pdm.lock "pdm.lock")| [pdm.lock](https://github.com/Giskard-AI/giskard/blob/main/pdm.lock "pdm.lock")  
+[postcss.config.js](https://github.com/Giskard-AI/giskard/blob/main/postcss.config.js "postcss.config.js")| [postcss.config.js](https://github.com/Giskard-AI/giskard/blob/main/postcss.config.js "postcss.config.js")  
+[pyproject.toml](https://github.com/Giskard-AI/giskard/blob/main/pyproject.toml "pyproject.toml")| [pyproject.toml](https://github.com/Giskard-AI/giskard/blob/main/pyproject.toml "pyproject.toml")  
+[sonar-project.properties](https://github.com/Giskard-AI/giskard/blob/main/sonar-project.properties "sonar-project.properties")| [sonar-project.properties](https://github.com/Giskard-AI/giskard/blob/main/sonar-project.properties "sonar-project.properties")  
+[tailwind.config.js](https://github.com/Giskard-AI/giskard/blob/main/tailwind.config.js "tailwind.config.js")| [tailwind.config.js](https://github.com/Giskard-AI/giskard/blob/main/tailwind.config.js "tailwind.config.js")  
+View all files  
+## Repository files navigation
+  * [README](https://github.com/Giskard-AI/giskard/)
+  * [Code of conduct](https://github.com/Giskard-AI/giskard/)
+  * [Apache-2.0 license](https://github.com/Giskard-AI/giskard/)
+  * [Security](https://github.com/Giskard-AI/giskard/)
+
+
+[![giskardlogo](https://raw.githubusercontent.com/giskard-ai/giskard/main/readme/giskard_logo.png#gh-light-mode-only)](https://raw.githubusercontent.com/giskard-ai/giskard/main/readme/giskard_logo.png#gh-light-mode-only) [![giskardlogo](https://raw.githubusercontent.com/giskard-ai/giskard/main/readme/giskard_logo_green.png#gh-dark-mode-only)](https://raw.githubusercontent.com/giskard-ai/giskard/main/readme/giskard_logo_green.png#gh-dark-mode-only)
+# The Evaluation & Testing framework for AI systems
+[](https://github.com/Giskard-AI/giskard/#the-evaluation--testing-framework-for-ai-systems)
+### Control risks of performance, bias and security issues in AI systems
+[](https://github.com/Giskard-AI/giskard/#control-risks-of-performance-bias-and-security-issues-in-ai-systems)
+[![GitHub release](https://camo.githubusercontent.com/6df843f241f8cbc9f8cb1b80c224f086f873480eb241e0806dc4b6b6bff74ce8/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f762f72656c656173652f4769736b6172642d41492f6769736b617264)](https://github.com/Giskard-AI/giskard/releases) [![License](https://camo.githubusercontent.com/5ce2e21e84680df1ab24807babebc3417d27d66e0826a350eb04ab57f4c8f3e5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c6963656e73652d4170616368655f322e302d626c75652e737667)](https://github.com/Giskard-AI/giskard/blob/main/LICENSE) [![Downloads](https://camo.githubusercontent.com/b27246efd75ce2f1546831b6e687df2a85d8adcec642ab25dfc251d03264baab/68747470733a2f2f7374617469632e706570792e746563682f62616467652f6769736b6172642f6d6f6e7468)](https://pepy.tech/project/giskard) [![CI](https://github.com/Giskard-AI/giskard/actions/workflows/build-python.yml/badge.svg?branch=main)](https://github.com/Giskard-AI/giskard/actions/workflows/build-python.yml?query=branch%3Amain) [![Giskard on Discord](https://camo.githubusercontent.com/34b72927fd7af3dcfb52dbf3ca4ca0799f55e76b684a0ecdc2f0c60436671d92/68747470733a2f2f696d672e736869656c64732e696f2f646973636f72642f3933393139303330333339373636363836383f6c6162656c3d446973636f7264)](https://gisk.ar/discord)
+[](https://fosstodon.org/@Giskard)
+###  [**Docs**](https://docs.giskard.ai/en/stable/getting_started/index.html) • [**Website**](https://www.giskard.ai/?utm_source=github&utm_medium=github&utm_campaign=github_readme&utm_id=readmeblog) • [**Community**](https://gisk.ar/discord)
+[](https://github.com/Giskard-AI/giskard/#---docs---website---community-)
+## Install Giskard 🐢
+[](https://github.com/Giskard-AI/giskard/#install-giskard-)
+Install the latest version of Giskard from PyPi using pip:
+```
+pip install "giskard[llm]" -U
+```
+
+We officially support Python 3.9, 3.10 and 3.11.
+## Try in Colab 📙
+[](https://github.com/Giskard-AI/giskard/#try-in-colab-)
+[Open Colab notebook](https://colab.research.google.com/github/giskard-ai/giskard/blob/main/docs/getting_started/quickstart/quickstart_llm.ipynb)
+Giskard is an open-source Python library that **automatically detects performance, bias & security issues in AI applications**. The library covers LLM-based applications such as RAG agents, all the way to traditional ML models for tabular data.
+## Scan: Automatically assess your LLM-based agents for performance, bias & security issues ⤵️
+[](https://github.com/Giskard-AI/giskard/#scan-automatically-assess-your-llm-based-agents-for-performance-bias--security-issues-️)
+Issues detected include:
+  * Hallucinations
+  * Harmful content generation
+  * Prompt injection
+  * Robustness issues
+  * Sensitive information disclosure
+  * Stereotypes & discrimination
+  * many more...
+
+
+[![Scan Example](https://raw.githubusercontent.com/giskard-ai/giskard/main/readme/scan_updates.gif)](https://raw.githubusercontent.com/giskard-ai/giskard/main/readme/scan_updates.gif) [ ![Scan Example](https://raw.githubusercontent.com/giskard-ai/giskard/main/readme/scan_updates.gif) ](https://raw.githubusercontent.com/giskard-ai/giskard/main/readme/scan_updates.gif) [ ](https://raw.githubusercontent.com/giskard-ai/giskard/main/readme/scan_updates.gif)
+## RAG Evaluation Toolkit (RAGET): Automatically generate evaluation datasets & evaluate RAG application answers ⤵️
+[](https://github.com/Giskard-AI/giskard/#rag-evaluation-toolkit-raget-automatically-generate-evaluation-datasets--evaluate-rag-application-answers-️)
+If you're testing a RAG application, you can get an even more in-depth assessment using **RAGET** , Giskard's RAG Evaluation Toolkit.
+  * **RAGET** can generate automatically a list of `question`, `reference_answer` and `reference_context` from the knowledge base of the RAG. You can then use this generated test set to evaluate your RAG agent.
+  * **RAGET** computes scores _for each component of the RAG agent_. The scores are computed by aggregating the correctness of the agent’s answers on different question types.
+    * Here is the list of components evaluated with **RAGET** : 
+      * `Generator`: the LLM used inside the RAG to generate the answers
+      * `Retriever`: fetch relevant documents from the knowledge base according to a user query
+      * `Rewriter`: rewrite the user query to make it more relevant to the knowledge base or to account for chat history
+      * `Router`: filter the query of the user based on his intentions
+      * `Knowledge Base`: the set of documents given to the RAG to generate the answers
+
+
+[![Test Suite Example](https://raw.githubusercontent.com/giskard-ai/giskard/main/readme/RAGET_updated.gif)](https://raw.githubusercontent.com/giskard-ai/giskard/main/readme/RAGET_updated.gif) [ ![Test Suite Example](https://raw.githubusercontent.com/giskard-ai/giskard/main/readme/RAGET_updated.gif) ](https://raw.githubusercontent.com/giskard-ai/giskard/main/readme/RAGET_updated.gif) [ ](https://raw.githubusercontent.com/giskard-ai/giskard/main/readme/RAGET_updated.gif)
+Giskard works with any model, in any environment and integrates seamlessly with your favorite tools ⤵️
+[![](https://raw.githubusercontent.com/giskard-ai/giskard/main/readme/tools_updated.png)](https://raw.githubusercontent.com/giskard-ai/giskard/main/readme/tools_updated.png)
+Looking for solutions to evaluate computer vision models? Check out [giskard-vision](https://github.com/Giskard-AI/giskard-vision), a library dedicated for computer vision tasks.
+# Contents
+[](https://github.com/Giskard-AI/giskard/#contents)
+  * 🤸‍♀️ **[Quickstart](https://github.com/Giskard-AI/giskard/#quickstart)**
+    * **1**. 🏗️ [Build a LLM agent](https://github.com/Giskard-AI/giskard/#build-a-llm-agent)
+    * **2**. 🔎 [Scan your model for issues](https://github.com/Giskard-AI/giskard/#scan-your-model-for-issues)
+    * **3**. 🪄 [Automatically generate an evaluation dataset for your RAG applications](https://github.com/Giskard-AI/giskard/#automatically-generate-an-evaluation-dataset-for-your-rag-applications)
+  * 👋 **[Community](https://github.com/Giskard-AI/giskard/#community)**
+
+
+# 🤸‍♀️ Quickstart
+[](https://github.com/Giskard-AI/giskard/#️-quickstart)
+## 1. 🏗️ Build a LLM agent
+[](https://github.com/Giskard-AI/giskard/#1-️-build-a-llm-agent)
+Let's build an agent that answers questions about climate change, based on the 2023 Climate Change Synthesis Report by the IPCC.
+Before starting let's install the required libraries:
+```
+pip install langchain tiktoken "pypdf<=3.17.0"
+```
+
+```
+from langchain import OpenAI, FAISS, PromptTemplate
+from langchain.embeddings import OpenAIEmbeddings
+from langchain.document_loaders import PyPDFLoader
+from langchain.chains import RetrievalQA
+from langchain.text_splitter import RecursiveCharacterTextSplitter
+# Prepare vector store (FAISS) with IPPC report
+text_splitter = RecursiveCharacterTextSplitter(chunk_size=1000, chunk_overlap=100, add_start_index=True)
+loader = PyPDFLoader("https://www.ipcc.ch/report/ar6/syr/downloads/report/IPCC_AR6_SYR_LongerReport.pdf")
+db = FAISS.from_documents(loader.load_and_split(text_splitter), OpenAIEmbeddings())
+# Prepare QA chain
+PROMPT_TEMPLATE = """You are the Climate Assistant, a helpful AI assistant made by Giskard.
+Your task is to answer common questions on climate change.
+You will be given a question and relevant excerpts from the IPCC Climate Change Synthesis Report (2023).
+Please provide short and clear answers based on the provided context. Be polite and helpful.
+Context:
+{context}
+Question:
+{question}
+Your answer:
+"""
+llm = OpenAI(model="gpt-3.5-turbo-instruct", temperature=0)
+prompt = PromptTemplate(template=PROMPT_TEMPLATE, input_variables=["question", "context"])
+climate_qa_chain = RetrievalQA.from_llm(llm=llm, retriever=db.as_retriever(), prompt=prompt)
+```
+
+## 2. 🔎 Scan your model for issues
+[](https://github.com/Giskard-AI/giskard/#2--scan-your-model-for-issues)
+Next, wrap your agent to prepare it for Giskard's scan:
+```
+import giskard
+import pandas as pd
+def model_predict(df: pd.DataFrame):
+  """Wraps the LLM call in a simple Python function.
+  The function takes a pandas.DataFrame containing the input variables needed
+  by your model, and must return a list of the outputs (one for each row).
+  """
+  return [climate_qa_chain.run({"query": question}) for question in df["question"]]
+# Don’t forget to fill the `name` and `description`: they are used by Giskard
+# to generate domain-specific tests.
+giskard_model = giskard.Model(
+  model=model_predict,
+  model_type="text_generation",
+  name="Climate Change Question Answering",
+  description="This model answers any question about climate change based on IPCC reports",
+  feature_names=["question"],
+)
+```
+
+✨✨✨Then run Giskard's magical scan✨✨✨
+```
+scan_results = giskard.scan(giskard_model)
+```
+
+Once the scan completes, you can display the results directly in your notebook:
+```
+display(scan_results)
+# Or save it to a file
+scan_results.to_html("scan_results.html")
+```
+
+_If you're facing issues, check out our[docs](https://docs.giskard.ai/en/stable/open_source/scan/scan_llm/index.html) for more information._
+## 3. 🪄 Automatically generate an evaluation dataset for your RAG applications
+[](https://github.com/Giskard-AI/giskard/#3--automatically-generate-an-evaluation-dataset-for-your-rag-applications)
+If the scan found issues in your model, you can automatically extract an evaluation dataset based on the issues found:
+```
+test_suite = scan_results.generate_test_suite("My first test suite")
+```
+
+By default, RAGET automatically generates 6 different question types (these can be selected if needed, see advanced question generation). The total number of questions is divided equally between each question type. To make the question generation more relevant and accurate, you can also provide a description of your agent.
+```
+from giskard.rag import generate_testset, KnowledgeBase
+# Load your data and initialize the KnowledgeBase
+df = pd.read_csv("path/to/your/knowledge_base.csv")
+knowledge_base = KnowledgeBase.from_pandas(df, columns=["column_1", "column_2"])
+# Generate a testset with 10 questions & answers for each question types (this will take a while)
+testset = generate_testset(
+  knowledge_base, 
+  num_questions=60,
+  language='en', # optional, we'll auto detect if not provided
+  agent_description="A customer support chatbot for company X", # helps generating better questions
+)
+```
+
+Depending on how many questions you generate, this can take a while. Once you’re done, you can save this generated test set for future use:
+```
+# Save the generated testset
+testset.save("my_testset.jsonl")
+```
+
+You can easily load it back
+```
+from giskard.rag import QATestset
+loaded_testset = QATestset.load("my_testset.jsonl")
+# Convert it to a pandas dataframe
+df = loaded_testset.to_pandas()
+```
+
+Here’s an example of a generated question:
+question | reference_context | reference_answer | metadata  
+---|---|---|---  
+For which countries can I track my shipping? | Document 1: We offer free shipping on all orders over $50. For orders below $50, we charge a flat rate of $5.99. We offer shipping services to customers residing in all 50 states of the US, in addition to providing delivery options to Canada and Mexico. Document 2: Once your purchase has been successfully confirmed and shipped, you will receive a confirmation email containing your tracking number. You can simply click on the link provided in the email or visit our website’s order tracking page. | We ship to all 50 states in the US, as well as to Canada and Mexico. We offer tracking for all our shippings. | `{"question_type": "simple", "seed_document_id": 1, "topic": "Shipping policy"}`  
+Each row of the test set contains 5 columns:
+  * `question`: the generated question
+  * `reference_context`: the context that can be used to answer the question
+  * `reference_answer`: the answer to the question (generated with GPT-4)
+  * `conversation_history`: not shown in the table above, contain the history of the conversation with the agent as a list, only relevant for conversational question, otherwise it contains an empty list.
+  * `metadata`: a dictionary with various metadata about the question, this includes the question_type, seed_document_id the id of the document used to generate the question and the topic of the question
+
+
+# 👋 Community
+[](https://github.com/Giskard-AI/giskard/#-community)
+We welcome contributions from the AI community! Read this [guide](https://github.com/Giskard-AI/giskard/blob/main/CONTRIBUTING.md) to get started, and join our thriving community on [Discord](https://gisk.ar/discord).
+🌟 [Leave us a star](https://github.com/Giskard-AI/giskard), it helps the project to get discovered by others and keeps us motivated to build awesome open-source tools! 🌟
+❤️ If you find our work useful, please consider [sponsoring us](https://github.com/sponsors/Giskard-AI) on GitHub. With a monthly sponsoring, you can get a sponsor badge, display your company in this readme, and get your bug reports prioritized. We also offer one-time sponsoring if you want us to get involved in a consulting project, run a workshop, or give a talk at your company.
+## 💚 Current sponsors
+[](https://github.com/Giskard-AI/giskard/#-current-sponsors)
+We thank the following companies which are sponsoring our project with monthly donations:
+**[Lunary](https://lunary.ai/)**
+[![Lunary logo](https://camo.githubusercontent.com/82982dfe57d8e3b9bd804a9e0b68450f7fcd13186cd16fe929241e5cf9a5ae06/68747470733a2f2f6c756e6172792e61692f6c6f676f2d626c75652d62672e737667)](https://camo.githubusercontent.com/82982dfe57d8e3b9bd804a9e0b68450f7fcd13186cd16fe929241e5cf9a5ae06/68747470733a2f2f6c756e6172792e61692f6c6f676f2d626c75652d62672e737667)
+**[Biolevate](https://www.biolevate.com/)**
+[![Biolevate logo](https://camo.githubusercontent.com/57d771e77e0452502172a8abead56fb7ea124e55c8f22d504e484f378a11677d/68747470733a2f2f6177736d702d6c6f676f732e73332e616d617a6f6e6177732e636f6d2f73656c6c65722d7767616d78357a36756d756e652f32643130626164643263636163343936393930393665613766623938366239382e706e67)](https://camo.githubusercontent.com/57d771e77e0452502172a8abead56fb7ea124e55c8f22d504e484f378a11677d/68747470733a2f2f6177736d702d6c6f676f732e73332e616d617a6f6e6177732e636f6d2f73656c6c65722d7767616d78357a36756d756e652f32643130626164643263636163343936393930393665613766623938366239382e706e67)
+## About
+🐢 Open-Source Evaluation & Testing for AI & LLM systems 
+[docs.giskard.ai](https://docs.giskard.ai "https://docs.giskard.ai")
+### Topics
+[ ai-security ](https://github.com/topics/ai-security "Topic: ai-security") [ mlops ](https://github.com/topics/mlops "Topic: mlops") [ fairness-ai ](https://github.com/topics/fairness-ai "Topic: fairness-ai") [ responsible-ai ](https://github.com/topics/responsible-ai "Topic: responsible-ai") [ ml-validation ](https://github.com/topics/ml-validation "Topic: ml-validation") [ red-team-tools ](https://github.com/topics/red-team-tools "Topic: red-team-tools") [ trustworthy-ai ](https://github.com/topics/trustworthy-ai "Topic: trustworthy-ai") [ ml-testing ](https://github.com/topics/ml-testing "Topic: ml-testing") [ llm ](https://github.com/topics/llm "Topic: llm") [ ai-red-team ](https://github.com/topics/ai-red-team "Topic: ai-red-team") [ ai-testing ](https://github.com/topics/ai-testing "Topic: ai-testing") [ llmops ](https://github.com/topics/llmops "Topic: llmops") [ llm-security ](https://github.com/topics/llm-security "Topic: llm-security") [ llm-eval ](https://github.com/topics/llm-eval "Topic: llm-eval") [ llm-evaluation ](https://github.com/topics/llm-evaluation "Topic: llm-evaluation") [ rag-evaluation ](https://github.com/topics/rag-evaluation "Topic: rag-evaluation") [ agent-evaluation ](https://github.com/topics/agent-evaluation "Topic: agent-evaluation")
+### Resources
+[ Readme ](https://github.com/Giskard-AI/giskard/#readme-ov-file)
+### License
+[ Apache-2.0 license ](https://github.com/Giskard-AI/giskard/#Apache-2.0-1-ov-file)
+### Code of conduct
+[ Code of conduct ](https://github.com/Giskard-AI/giskard/#coc-ov-file)
+### Security policy
+[ Security policy ](https://github.com/Giskard-AI/giskard/#security-ov-file)
+[ Activity](https://github.com/Giskard-AI/giskard/activity)
+[ Custom properties](https://github.com/Giskard-AI/giskard/custom-properties)
+### Stars
+[ **4.4k** stars](https://github.com/Giskard-AI/giskard/stargazers)
+### Watchers
+[ **34** watching](https://github.com/Giskard-AI/giskard/watchers)
+### Forks
+[ **305** forks](https://github.com/Giskard-AI/giskard/forks)
+[ Report repository ](https://github.com/contact/report-content?content_url=https%3A%2F%2Fgithub.com%2FGiskard-AI%2Fgiskard&report=Giskard-AI+%28user%29)
+##  [Releases 79](https://github.com/Giskard-AI/giskard/releases)
+[ v2.16.2 Latest  Mar 19, 2025 ](https://github.com/Giskard-AI/giskard/releases/tag/v2.16.2)
+[+ 78 releases](https://github.com/Giskard-AI/giskard/releases)
+## Sponsor this project
+Sponsor 
+[Learn more about GitHub Sponsors](https://github.com/sponsors)
+##  [Contributors 50](https://github.com/Giskard-AI/giskard/graphs/contributors)
+  * [ ![@andreybavt](https://avatars.githubusercontent.com/u/7889985?s=64&v=4) ](https://github.com/andreybavt)
+  * [ ![@kevinmessiaen](https://avatars.githubusercontent.com/u/114553769?s=64&v=4) ](https://github.com/kevinmessiaen)
+  * [ ![@henchaves](https://avatars.githubusercontent.com/u/44180294?s=64&v=4) ](https://github.com/henchaves)
+  * [ ![@rabah-khalek](https://avatars.githubusercontent.com/u/32709181?s=64&v=4) ](https://github.com/rabah-khalek)
+  * [ ![@mattbit](https://avatars.githubusercontent.com/u/1101742?s=64&v=4) ](https://github.com/mattbit)
+  * [ ![@Hartorn](https://avatars.githubusercontent.com/u/4953724?s=64&v=4) ](https://github.com/Hartorn)
+  * [ ![@Inokinoki](https://avatars.githubusercontent.com/u/8311300?s=64&v=4) ](https://github.com/Inokinoki)
+  * [ ![@jmsquare](https://avatars.githubusercontent.com/u/14276335?s=64&v=4) ](https://github.com/jmsquare)
+  * [ ![@pierlj](https://avatars.githubusercontent.com/u/26006094?s=64&v=4) ](https://github.com/pierlj)
+  * [ ![@luca-martial](https://avatars.githubusercontent.com/u/48870843?s=64&v=4) ](https://github.com/luca-martial)
+  * [ ![@mathieuroques](https://avatars.githubusercontent.com/u/84331949?s=64&v=4) ](https://github.com/mathieuroques)
+  * [ ![@princyiakov](https://avatars.githubusercontent.com/u/57955061?s=64&v=4) ](https://github.com/princyiakov)
+  * [ ![@Googleton](https://avatars.githubusercontent.com/u/1703741?s=64&v=4) ](https://github.com/Googleton)
+  * [ ![@qgk75](https://avatars.githubusercontent.com/u/102960967?s=64&v=4) ](https://github.com/qgk75)
+
+
+[+ 36 contributors](https://github.com/Giskard-AI/giskard/graphs/contributors)
+## Languages
+  * [ Python 96.3% ](https://github.com/Giskard-AI/giskard/search?l=python)
+  * [ JavaScript 2.1% ](https://github.com/Giskard-AI/giskard/search?l=javascript)
+  * Other 1.6%
+
+
+## Footer
+[ ](https://github.com "GitHub") © 2025 GitHub, Inc. 
+### Footer navigation
+  * [Terms](https://docs.github.com/site-policy/github-terms/github-terms-of-service)
+  * [Privacy](https://docs.github.com/site-policy/privacy-policies/github-privacy-statement)
+  * [Security](https://github.com/security)
+  * [Status](https://www.githubstatus.com/)
+  * [Docs](https://docs.github.com/)
+  * [Contact](https://support.github.com?tags=dotcom-footer)
+  * Manage cookies 
+  * Do not share my personal information 
+
+
+You can’t perform that action at this time. 

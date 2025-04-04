@@ -1,0 +1,119 @@
+✨ New course! Enroll in [Vibe Coding 101 with Replit](https://bit.ly/4l8QyZ5)
+[](https://www.deeplearning.ai/)
+  * [Explore Courses](https://www.deeplearning.ai/courses/)
+  * [AI Newsletter](https://www.deeplearning.ai/the-batch/)
+    * [The Batch](https://www.deeplearning.ai/the-batch/)
+    * [Andrew's Letter](https://www.deeplearning.ai/the-batch/tag/letters/)
+    * [Data Points](https://www.deeplearning.ai/the-batch/tag/data-points/)
+    * [ML Research](https://www.deeplearning.ai/the-batch/tag/research/)
+    * [Blog](https://www.deeplearning.ai/blog/)
+  * [Community](https://www.deeplearning.ai/community/)
+    * [Forum](https://community.deeplearning.ai/)
+    * [Events](https://www.deeplearning.ai/events/)
+    * [Ambassadors](https://www.deeplearning.ai/ambassador/)
+    * [Ambassador Spotlight](https://www.deeplearning.ai/blog/category/ambassador-spotlight/)
+  * [Resources](https://www.deeplearning.ai/resources/)
+  * [Company](https://www.deeplearning.ai/about/)
+    * [About](https://www.deeplearning.ai/about/)
+    * [Careers](https://www.deeplearning.ai/careers/)
+    * [Contact](https://www.deeplearning.ai/contact/)
+
+[Log In](https://bit.ly/3RB9T8a)
+  * [Overview](https://www.deeplearning.ai/short-courses/advanced-retrieval-for-ai/#overview)
+  * [Course Outline](https://www.deeplearning.ai/short-courses/advanced-retrieval-for-ai/#course-outline)
+  * [Instructors](https://www.deeplearning.ai/short-courses/advanced-retrieval-for-ai/#instructors)
+
+
+![](https://www.deeplearning.ai/_next/image/?url=https%3A%2F%2Fhome-wordpress.deeplearning.ai%2Fwp-content%2Fuploads%2F2023%2F12%2FMain_graphic_ChromaDB_2070x1080.png&w=1080&q=75)
+  * [All Courses](https://www.deeplearning.ai/courses/)
+  * [Short Courses](https://www.deeplearning.ai/courses/?courses_date_desc%5BrefinementList%5D%5Bcourse_type%5D%5B0%5D=Short%20Courses)
+  * Advanced Retrieval for AI with Chroma
+
+
+Short CourseIntermediate 53 Minutes
+# Advanced Retrieval for AI with Chroma
+Instructor: Anton Troynikov
+[![Chroma](https://home-wordpress.deeplearning.ai/wp-content/uploads/2023/12/chroma_logotype.png)](https://www.trychroma.com/)
+[Enroll for Free](https://learn.deeplearning.ai/advanced-retrieval-for-ai?utm_source=home&utm_medium=course-landing-page&utm_campaign=hero-cta-button)
+  * [All Courses](https://www.deeplearning.ai/courses/)
+  * [Short Courses](https://www.deeplearning.ai/courses/?courses_date_desc%5BrefinementList%5D%5Bcourse_type%5D%5B0%5D=Short%20Courses)
+  * Advanced Retrieval for AI with Chroma
+
+
+![](https://www.deeplearning.ai/_next/image/?url=https%3A%2F%2Fhome-wordpress.deeplearning.ai%2Fwp-content%2Fuploads%2F2023%2F12%2FYouTube-Thumbnails-15.png&w=3840&q=75)
+  * Intermediate
+  * 53 Minutes
+  * 7 Video Lessons
+  * 5 Code Examples
+  * Instructor: Anton Troynikov
+  *     * ![Chroma](https://www.deeplearning.ai/_next/image/?url=https%3A%2F%2Fhome-wordpress.deeplearning.ai%2Fwp-content%2Fuploads%2F2024%2F01%2FChroma.png&w=48&q=75)
+Chroma
+
+
+## What you'll learn
+  * Learn to recognize when queries are producing poor results.
+  * Learn to use a large language model (LLM) to improve your queries.
+  * Learn to fine-tune your embeddings with user feedback.
+
+
+## About this course
+Information Retrieval (IR) and Retrieval Augmented Generation (RAG) are only effective if the information retrieved from a database as a result of a query is relevant to the query and its application. 
+Too often, queries return semantically similar results but don’t answer the question posed. They may also return irrelevant material which can distract the LLM from the correct results. 
+This course teaches advanced retrieval techniques to improve the relevancy of retrieved results.
+The techniques covered include: 
+  * Query Expansion: Expanding user queries improves information retrieval by including related concepts and keywords. Utilizing an LLM makes this traditional technique even more effective. Another form of expansion has the LLM suggest a possible answer to the query which is then included in the query.
+  * Cross-encoder reranking: Reranking retrieval results to select the results most relevant to your query improves your results.
+  * Training and utilizing Embedding Adapters: Adding an adapter layer to reshape embeddings can improve retrieval by emphasizing elements relevant to your application. 
+
+
+## Who should join?
+Anyone who has intermediate Python knowledge and wants to learn advanced retrieval techniques for retrieving data from their vector database.
+## Course Outline
+7 Lessons・5 Code Examples
+  * Introduction
+Video・3 mins
+  * Overview of embeddings-based retrieval
+Video with code examples・12 mins
+  * Pitfalls of retrieval - when simple vector search fails
+Video with code examples・11 mins
+  * Query Expansion
+Video with code examples・9 mins
+  * Cross-encoder re-ranking
+Video with code examples・6 mins
+  * Embedding adaptors
+Video with code examples・8 mins
+  * Other Techniques
+Video・1 mins
+
+
+## Instructor
+![Anton Troynikov](https://www.deeplearning.ai/_next/image/?url=https%3A%2F%2Fhome-wordpress.deeplearning.ai%2Fwp-content%2Fuploads%2F2023%2F12%2FChroma-founder.jpg&w=256&q=75)
+### Anton Troynikov
+Co-founder, Chroma
+  * [](https://twitter.com/atroyn)
+
+
+## Advanced Retrieval for AI with Chroma
+  * Intermediate
+  * 53 Minutes
+  * 7 Video Lessons
+  * 5 Code Examples
+  * Instructor: Anton Troynikov
+  *     * ![Chroma](https://www.deeplearning.ai/_next/image/?url=https%3A%2F%2Fhome-wordpress.deeplearning.ai%2Fwp-content%2Fuploads%2F2024%2F01%2FChroma.png&w=48&q=75)
+Chroma
+
+
+[Enroll for Free](https://learn.deeplearning.ai/advanced-retrieval-for-ai?utm_source=home&utm_medium=course-landing-page&utm_campaign=summary-cta-button)
+Course access is free for a limited time during the DeepLearning.AI learning platform beta!
+[Enroll for Free](https://learn.deeplearning.ai/advanced-retrieval-for-ai?utm_source=home&utm_medium=course-landing-page&utm_campaign=promotional-banner-cta-button)
+## Want to learn more about Generative AI?
+Keep learning with updates on curated AI news, courses, and events, as well as Andrew’s thoughts from DeepLearning.AI! 
+[Enroll for Free](https://learn.deeplearning.ai/advanced-retrieval-for-ai?utm_source=home&utm_medium=course-landing-page&utm_campaign=summary-cta-button)
+  * [Courses](https://www.deeplearning.ai/courses/)
+  * [The Batch](https://www.deeplearning.ai/the-batch/)
+  * [Community](https://www.deeplearning.ai/community/)
+  * [Careers](https://www.deeplearning.ai/careers/)
+  * [About](https://www.deeplearning.ai/about/)
+
+
+[](https://www.facebook.com/1027125564106325)[](https://www.instagram.com/deeplearningai)[](https://twitter.com/deeplearningai)[](https://www.linkedin.com/company/18246783)[](https://www.youtube.com/c/Deeplearningai)

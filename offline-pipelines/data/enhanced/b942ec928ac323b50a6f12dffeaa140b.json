@@ -1,0 +1,23 @@
+{
+    "id": "b942ec928ac323b50a6f12dffeaa140b",
+    "metadata": {
+        "id": "b942ec928ac323b50a6f12dffeaa140b",
+        "url": "https://www.notion.so/Text-to-Video-b942ec928ac323b50a6f12dffeaa140b",
+        "title": "Text-to-Video",
+        "properties": {
+            "Type": "Leaf"
+        }
+    },
+    "parent_metadata": {
+        "id": "ca1edb0a9be939e389ea7944fb2319af",
+        "url": "",
+        "title": "",
+        "properties": {}
+    },
+    "content": "# Papers\n\n\t- [Nvidia - Align your Latents: High-Resolution Video Synthesis with Latent Diffusion Models](https://research.nvidia.com/labs/toronto-ai/VideoLDM/)",
+    "content_quality_score": 0.1,
+    "summary": null,
+    "child_urls": [
+        "https://research.nvidia.com/labs/toronto-ai/VideoLDM/"
+    ]
+}

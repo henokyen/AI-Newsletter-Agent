@@ -1,0 +1,262 @@
+[Skip to content](https://github.com/SylphAI-Inc/AdalFlow/#start-of-content)
+## Navigation Menu
+Toggle navigation
+[ ](https://github.com/)
+[ Sign in ](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2FSylphAI-Inc%2FAdalFlow%2F)
+  * Product 
+    * [ GitHub Copilot Write better code with AI  ](https://github.com/features/copilot)
+    * [ Security Find and fix vulnerabilities  ](https://github.com/features/security)
+    * [ Actions Automate any workflow  ](https://github.com/features/actions)
+    * [ Codespaces Instant dev environments  ](https://github.com/features/codespaces)
+    * [ Issues Plan and track work  ](https://github.com/features/issues)
+    * [ Code Review Manage code changes  ](https://github.com/features/code-review)
+    * [ Discussions Collaborate outside of code  ](https://github.com/features/discussions)
+    * [ Code Search Find more, search less  ](https://github.com/features/code-search)
+Explore
+    * [ All features ](https://github.com/features)
+    * [ Documentation ](https://docs.github.com)
+    * [ GitHub Skills ](https://skills.github.com)
+    * [ Blog ](https://github.blog)
+  * Solutions 
+By company size
+    * [ Enterprises ](https://github.com/enterprise)
+    * [ Small and medium teams ](https://github.com/team)
+    * [ Startups ](https://github.com/enterprise/startups)
+    * [ Nonprofits ](https://github.com/solutions/industry/nonprofits)
+By use case
+    * [ DevSecOps ](https://github.com/solutions/use-case/devsecops)
+    * [ DevOps ](https://github.com/solutions/use-case/devops)
+    * [ CI/CD ](https://github.com/solutions/use-case/ci-cd)
+    * [ View all use cases ](https://github.com/solutions/use-case)
+By industry
+    * [ Healthcare ](https://github.com/solutions/industry/healthcare)
+    * [ Financial services ](https://github.com/solutions/industry/financial-services)
+    * [ Manufacturing ](https://github.com/solutions/industry/manufacturing)
+    * [ Government ](https://github.com/solutions/industry/government)
+    * [ View all industries ](https://github.com/solutions/industry)
+[ View all solutions ](https://github.com/solutions)
+  * Resources 
+Topics
+    * [ AI ](https://github.com/resources/articles/ai)
+    * [ DevOps ](https://github.com/resources/articles/devops)
+    * [ Security ](https://github.com/resources/articles/security)
+    * [ Software Development ](https://github.com/resources/articles/software-development)
+    * [ View all ](https://github.com/resources/articles)
+Explore
+    * [ Learning Pathways ](https://resources.github.com/learn/pathways)
+    * [ Events & Webinars ](https://resources.github.com)
+    * [ Ebooks & Whitepapers ](https://github.com/resources/whitepapers)
+    * [ Customer Stories ](https://github.com/customer-stories)
+    * [ Partners ](https://partner.github.com)
+    * [ Executive Insights ](https://github.com/solutions/executive-insights)
+  * Open Source 
+    * [ GitHub Sponsors Fund open source developers  ](https://github.com/sponsors)
+    * [ The ReadME Project GitHub community articles  ](https://github.com/readme)
+Repositories
+    * [ Topics ](https://github.com/topics)
+    * [ Trending ](https://github.com/trending)
+    * [ Collections ](https://github.com/collections)
+  * Enterprise 
+    * [ Enterprise platform AI-powered developer platform  ](https://github.com/enterprise)
+Available add-ons
+    * [ Advanced Security Enterprise-grade security features  ](https://github.com/enterprise/advanced-security)
+    * [ Copilot for business Enterprise-grade AI features  ](https://github.com/features/copilot/copilot-business)
+    * [ Premium Support Enterprise-grade 24/7 support  ](https://github.com/premium-support)
+  * [Pricing](https://github.com/pricing)
+
+
+Search or jump to...
+# Search code, repositories, users, issues, pull requests...
+Search 
+Clear
+[Search syntax tips](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax)
+#  Provide feedback 
+We read every piece of feedback, and take your input very seriously.
+Include my email address so I can be contacted
+Cancel  Submit feedback 
+#  Saved searches 
+## Use saved searches to filter your results more quickly
+Name
+Query
+To see all available qualifiers, see our [documentation](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax). 
+Cancel  Create saved search 
+[ Sign in ](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2FSylphAI-Inc%2FAdalFlow%2F)
+[ Sign up ](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E&source=header-repo&source_repo=SylphAI-Inc%2FAdalFlow) Reseting focus
+You signed in with another tab or window. [Reload](https://github.com/SylphAI-Inc/AdalFlow/) to refresh your session. You signed out in another tab or window. [Reload](https://github.com/SylphAI-Inc/AdalFlow/) to refresh your session. You switched accounts on another tab or window. [Reload](https://github.com/SylphAI-Inc/AdalFlow/) to refresh your session. Dismiss alert
+{{ message }}
+[ SylphAI-Inc ](https://github.com/SylphAI-Inc) / **[AdalFlow](https://github.com/SylphAI-Inc/AdalFlow) ** Public
+  * [ Notifications ](https://github.com/login?return_to=%2FSylphAI-Inc%2FAdalFlow) You must be signed in to change notification settings
+  * [ Fork 254 ](https://github.com/login?return_to=%2FSylphAI-Inc%2FAdalFlow)
+  * [ Star  2.9k ](https://github.com/login?return_to=%2FSylphAI-Inc%2FAdalFlow)
+
+
+AdalFlow: The library to build & auto-optimize LLM applications. 
+[adalflow.sylph.ai/](http://adalflow.sylph.ai/ "http://adalflow.sylph.ai/")
+### License
+[ MIT license ](https://github.com/SylphAI-Inc/AdalFlow/blob/main/LICENSE.md)
+[ 2.9k stars ](https://github.com/SylphAI-Inc/AdalFlow/stargazers) [ 254 forks ](https://github.com/SylphAI-Inc/AdalFlow/forks) [ Branches ](https://github.com/SylphAI-Inc/AdalFlow/branches) [ Tags ](https://github.com/SylphAI-Inc/AdalFlow/tags) [ Activity ](https://github.com/SylphAI-Inc/AdalFlow/activity)
+[ Star  ](https://github.com/login?return_to=%2FSylphAI-Inc%2FAdalFlow)
+[ Notifications ](https://github.com/login?return_to=%2FSylphAI-Inc%2FAdalFlow) You must be signed in to change notification settings
+  * [ Code ](https://github.com/SylphAI-Inc/AdalFlow)
+  * [ Issues 23 ](https://github.com/SylphAI-Inc/AdalFlow/issues)
+  * [ Pull requests 10 ](https://github.com/SylphAI-Inc/AdalFlow/pulls)
+  * [ Discussions ](https://github.com/SylphAI-Inc/AdalFlow/discussions)
+  * [ Actions ](https://github.com/SylphAI-Inc/AdalFlow/actions)
+  * [ Projects 0 ](https://github.com/SylphAI-Inc/AdalFlow/projects)
+  * [ Security ](https://github.com/SylphAI-Inc/AdalFlow/security)
+  * [ Insights ](https://github.com/SylphAI-Inc/AdalFlow/pulse)
+
+
+Additional navigation options
+  * [ Code  ](https://github.com/SylphAI-Inc/AdalFlow)
+  * [ Issues  ](https://github.com/SylphAI-Inc/AdalFlow/issues)
+  * [ Pull requests  ](https://github.com/SylphAI-Inc/AdalFlow/pulls)
+  * [ Discussions  ](https://github.com/SylphAI-Inc/AdalFlow/discussions)
+  * [ Actions  ](https://github.com/SylphAI-Inc/AdalFlow/actions)
+  * [ Projects  ](https://github.com/SylphAI-Inc/AdalFlow/projects)
+  * [ Security  ](https://github.com/SylphAI-Inc/AdalFlow/security)
+  * [ Insights  ](https://github.com/SylphAI-Inc/AdalFlow/pulse)
+
+
+# SylphAI-Inc/AdalFlow
+main
+[Branches](https://github.com/SylphAI-Inc/AdalFlow/branches)[Tags](https://github.com/SylphAI-Inc/AdalFlow/tags)
+[](https://github.com/SylphAI-Inc/AdalFlow/branches)[](https://github.com/SylphAI-Inc/AdalFlow/tags)
+Go to file
+Code
+## Folders and files
+Name| Name| Last commit message| Last commit date  
+---|---|---|---  
+## Latest commit
+## History
+[1,632 Commits](https://github.com/SylphAI-Inc/AdalFlow/commits/main/)[](https://github.com/SylphAI-Inc/AdalFlow/commits/main/)  
+[.github](https://github.com/SylphAI-Inc/AdalFlow/tree/main/.github ".github")| [.github](https://github.com/SylphAI-Inc/AdalFlow/tree/main/.github ".github")  
+[adalflow](https://github.com/SylphAI-Inc/AdalFlow/tree/main/adalflow "adalflow")| [adalflow](https://github.com/SylphAI-Inc/AdalFlow/tree/main/adalflow "adalflow")  
+[benchmarks](https://github.com/SylphAI-Inc/AdalFlow/tree/main/benchmarks "benchmarks")| [benchmarks](https://github.com/SylphAI-Inc/AdalFlow/tree/main/benchmarks "benchmarks")  
+[docs](https://github.com/SylphAI-Inc/AdalFlow/tree/main/docs "docs")| [docs](https://github.com/SylphAI-Inc/AdalFlow/tree/main/docs "docs")  
+[notebooks](https://github.com/SylphAI-Inc/AdalFlow/tree/main/notebooks "notebooks")| [notebooks](https://github.com/SylphAI-Inc/AdalFlow/tree/main/notebooks "notebooks")  
+[tutorials](https://github.com/SylphAI-Inc/AdalFlow/tree/main/tutorials "tutorials")| [tutorials](https://github.com/SylphAI-Inc/AdalFlow/tree/main/tutorials "tutorials")  
+[use_cases](https://github.com/SylphAI-Inc/AdalFlow/tree/main/use_cases "use_cases")| [use_cases](https://github.com/SylphAI-Inc/AdalFlow/tree/main/use_cases "use_cases")  
+[.env_example](https://github.com/SylphAI-Inc/AdalFlow/blob/main/.env_example ".env_example")| [.env_example](https://github.com/SylphAI-Inc/AdalFlow/blob/main/.env_example ".env_example")  
+[.gitattributes](https://github.com/SylphAI-Inc/AdalFlow/blob/main/.gitattributes ".gitattributes")| [.gitattributes](https://github.com/SylphAI-Inc/AdalFlow/blob/main/.gitattributes ".gitattributes")  
+[.gitignore](https://github.com/SylphAI-Inc/AdalFlow/blob/main/.gitignore ".gitignore")| [.gitignore](https://github.com/SylphAI-Inc/AdalFlow/blob/main/.gitignore ".gitignore")  
+[.pre-commit-config.yaml](https://github.com/SylphAI-Inc/AdalFlow/blob/main/.pre-commit-config.yaml ".pre-commit-config.yaml")| [.pre-commit-config.yaml](https://github.com/SylphAI-Inc/AdalFlow/blob/main/.pre-commit-config.yaml ".pre-commit-config.yaml")  
+[CNAME](https://github.com/SylphAI-Inc/AdalFlow/blob/main/CNAME "CNAME")| [CNAME](https://github.com/SylphAI-Inc/AdalFlow/blob/main/CNAME "CNAME")  
+[LICENSE.md](https://github.com/SylphAI-Inc/AdalFlow/blob/main/LICENSE.md "LICENSE.md")| [LICENSE.md](https://github.com/SylphAI-Inc/AdalFlow/blob/main/LICENSE.md "LICENSE.md")  
+[Makefile](https://github.com/SylphAI-Inc/AdalFlow/blob/main/Makefile "Makefile")| [Makefile](https://github.com/SylphAI-Inc/AdalFlow/blob/main/Makefile "Makefile")  
+[README.md](https://github.com/SylphAI-Inc/AdalFlow/blob/main/README.md "README.md")| [README.md](https://github.com/SylphAI-Inc/AdalFlow/blob/main/README.md "README.md")  
+[poetry.lock](https://github.com/SylphAI-Inc/AdalFlow/blob/main/poetry.lock "poetry.lock")| [poetry.lock](https://github.com/SylphAI-Inc/AdalFlow/blob/main/poetry.lock "poetry.lock")  
+[pyproject.toml](https://github.com/SylphAI-Inc/AdalFlow/blob/main/pyproject.toml "pyproject.toml")| [pyproject.toml](https://github.com/SylphAI-Inc/AdalFlow/blob/main/pyproject.toml "pyproject.toml")  
+View all files  
+## Repository files navigation
+  * [README](https://github.com/SylphAI-Inc/AdalFlow/)
+  * [MIT license](https://github.com/SylphAI-Inc/AdalFlow/)
+
+
+####  [![AdalFlow logo](https://raw.githubusercontent.com/SylphAI-Inc/AdalFlow/main/docs/source/_static/images/adalflow-logo.png)](https://raw.githubusercontent.com/SylphAI-Inc/AdalFlow/main/docs/source/_static/images/adalflow-logo.png)
+[](https://github.com/SylphAI-Inc/AdalFlow/#----)
+⚡ Say Goodbye to Manual Prompting and Vendor Lock-In ⚡ 
+[](https://github.com/SylphAI-Inc/AdalFlow/#----------say-goodbye-to-manual-prompting-and-vendor-lock-in-----)
+[ ![Try Quickstart in Colab](https://camo.githubusercontent.com/96889048f8a9014fdeba2a891f97150c6aac6e723f5190236b10215a97ed41f3/68747470733a2f2f636f6c61622e72657365617263682e676f6f676c652e636f6d2f6173736574732f636f6c61622d62616467652e737667) ](https://colab.research.google.com/drive/1_YnD4HshzPRARvishoU4IA-qQuX9jHrT?usp=sharing)
+[View Documentation](https://adalflow.sylph.ai/)
+[](https://github.com/SylphAI-Inc/AdalFlow/#------------view-documentation------------)
+[ ![PyPI Version](https://camo.githubusercontent.com/e972aa4fafba4b9bdb173257e93c12d8aa65c0a133204098f0845e77fb2ef84a/68747470733a2f2f696d672e736869656c64732e696f2f707970692f762f6164616c666c6f773f7374796c653d666c61742d737175617265) ](https://pypi.org/project/adalflow/) [ ![PyPI Downloads](https://camo.githubusercontent.com/dcfc410b1994070978f938b842836679bc746fbdd7ae8739ef1a831f55ad2583/68747470733a2f2f7374617469632e706570792e746563682f62616467652f6164616c666c6f77) ](https://pypi.org/project/adalflow/) [ ![PyPI Downloads](https://camo.githubusercontent.com/a8e0e15237447500bf82fb03e1e575cae84ec67a1a69c1cac4160d420e5da401/68747470733a2f2f7374617469632e706570792e746563682f62616467652f6164616c666c6f772f6d6f6e7468) ](https://pypi.org/project/adalflow/) [ ![GitHub stars](https://camo.githubusercontent.com/c173375af6e3372e9c4e920c373d8d286296cc2fb7ea93469e6a2cfdef49583a/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f73746172732f53796c706841492d496e632f4164616c466c6f773f7374796c653d666c61742d737175617265) ](https://star-history.com/#SylphAI-Inc/AdalFlow) [ ![Open Issues](https://camo.githubusercontent.com/ade0a1dc8a2233ed2e5d2a74c81e2ca4d931cec32ee46af6862993c63a8043c3/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6973737565732d7261772f53796c706841492d496e632f4164616c466c6f773f7374796c653d666c61742d737175617265) ](https://github.com/SylphAI-Inc/AdalFlow/issues) [ ![License](https://camo.githubusercontent.com/dfe9856b9aa0a866a951543fe9630f4fc6ed5820bf8cbac0437ef0467ff44015/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6963656e73652f53796c706841492d496e632f4164616c466c6f77) ](https://opensource.org/license/MIT) [ ![discord-invite](https://camo.githubusercontent.com/8461deb3931cf0fd386e7590f74c5f2f8cec40bace6173ae04a1441d48038db3/68747470733a2f2f646362616467652e76657263656c2e6170702f6170692f7365727665722f657a7a737a72525a76543f7374796c653d666c6174) ](https://discord.gg/ezzszrRZvT)
+AdalFlow is a PyTorch-like library to build and auto-optimize any LM workflows, from Chatbots, RAG, to Agents. 
+[](https://github.com/SylphAI-Inc/AdalFlow/#adalflow-is-a-pytorch-like-library-to-build-and-auto-optimize-any-lm-workflows-from-chatbots-rag--to-agents)
+# Why AdalFlow
+[](https://github.com/SylphAI-Inc/AdalFlow/#why-adalflow)
+  1. **Say goodbye to manual prompting** : AdalFlow provides a unified auto-differentiative framework for both zero-shot optimization and few-shot prompt optimization. Our research, `LLM-AutoDiff` and `Learn-to-Reason Few-shot In Context Learning`, achieve the highest accuracy among all auto-prompt optimization libraries.
+  2. **Switch your LLM app to any model via a config** : AdalFlow provides `Model-agnostic` building blocks for LLM task pipelines, ranging from RAG, Agents to classical NLP tasks.
+
+
+[![AdalFlow Auto-optimization](https://raw.githubusercontent.com/SylphAI-Inc/AdalFlow/main/docs/source/_static/images/classification_training_map.png)](https://raw.githubusercontent.com/SylphAI-Inc/AdalFlow/main/docs/source/_static/images/classification_training_map.png)
+[![AdalFlow Optimized Prompt](https://raw.githubusercontent.com/SylphAI-Inc/AdalFlow/main/docs/source/_static/images/classification_opt_prompt.png)](https://raw.githubusercontent.com/SylphAI-Inc/AdalFlow/main/docs/source/_static/images/classification_opt_prompt.png)
+View [Documentation](https://adalflow.sylph.ai)
+# Quick Start
+[](https://github.com/SylphAI-Inc/AdalFlow/#quick-start)
+Install AdalFlow with pip:
+```
+pip install adalflow
+```
+
+View [Quickstart](https://colab.research.google.com/drive/1_YnD4HshzPRARvishoU4IA-qQuX9jHrT?usp=sharing): Learn AdalFlow end-to-end experience in 15 mins.
+# Research
+[](https://github.com/SylphAI-Inc/AdalFlow/#research)
+[Jan 2025] [Auto-Differentiating Any LLM Workflow: A Farewell to Manual Prompting](https://arxiv.org/abs/2501.16673)
+  * LLM Applications as auto-differentiation graphs
+  * Token-efficient and better performance than DsPy
+
+
+# Collaborations
+[](https://github.com/SylphAI-Inc/AdalFlow/#collaborations)
+We work closely with the [**VITA Group** at University of Texas at Austin](https://vita-group.github.io/), under the leadership of [Dr. Atlas Wang](https://www.ece.utexas.edu/people/faculty/atlas-wang), alongside [Dr. Junyuan Hong](https://jyhong.gitlab.io/), who provides valuable support in driving project initiatives.
+For collaboration, contact [Li Yin](https://www.linkedin.com/in/li-yin-ai/).
+# Documentation
+[](https://github.com/SylphAI-Inc/AdalFlow/#documentation)
+AdalFlow full documentation available at [adalflow.sylph.ai](https://adalflow.sylph.ai/):
+# AdalFlow: A Tribute to Ada Lovelace
+[](https://github.com/SylphAI-Inc/AdalFlow/#adalflow-a-tribute-to-ada-lovelace)
+AdalFlow is named in honor of [Ada Lovelace](https://en.wikipedia.org/wiki/Ada_Lovelace), the pioneering female mathematician who first recognized that machines could go beyond mere calculations. As a team led by a female founder, we aim to inspire more women to pursue careers in AI.
+# Community & Contributors
+[](https://github.com/SylphAI-Inc/AdalFlow/#community--contributors)
+The AdalFlow is a community-driven project, and we welcome everyone to join us in building the future of LLM applications.
+Join our [Discord](https://discord.gg/ezzszrRZvT) community to ask questions, share your projects, and get updates on AdalFlow.
+To contribute, please read our [Contributor Guide](https://adalflow.sylph.ai/contributor/index.html).
+# Contributors
+[](https://github.com/SylphAI-Inc/AdalFlow/#contributors)
+[![contributors](https://camo.githubusercontent.com/51852a3a837632d7634fbbba3d089ace9a95e9395f1cb65cf4b529a3d6951eb7/68747470733a2f2f636f6e747269622e726f636b732f696d6167653f7265706f3d53796c706841492d496e632f4164616c466c6f77266d61783d32303030)](https://github.com/SylphAI-Inc/AdalFlow/graphs/contributors)
+# Acknowledgements
+[](https://github.com/SylphAI-Inc/AdalFlow/#acknowledgements)
+Many existing works greatly inspired AdalFlow library! Here is a non-exhaustive list:
+  * 📚 [PyTorch](https://github.com/pytorch/pytorch/) for design philosophy and design pattern of `Component`, `Parameter`, `Sequential`.
+  * 📚 [Micrograd](https://github.com/karpathy/micrograd): A tiny autograd engine for our auto-differentiative architecture.
+  * 📚 [Text-Grad](https://github.com/zou-group/textgrad) for the `Textual Gradient Descent` text optimizer.
+  * 📚 [DSPy](https://github.com/stanfordnlp/dspy) for inspiring the `__{input/output}__fields` in our `DataClass` and the bootstrap few-shot optimizer.
+  * 📚 [OPRO](https://github.com/google-deepmind/opro) for adding past text instructions along with its accuracy in the text optimizer.
+  * 📚 [PyTorch Lightning](https://github.com/Lightning-AI/pytorch-lightning) for the `AdalComponent` and `Trainer`.
+
+
+## About
+AdalFlow: The library to build & auto-optimize LLM applications. 
+[adalflow.sylph.ai/](http://adalflow.sylph.ai/ "http://adalflow.sylph.ai/")
+### Topics
+[ python ](https://github.com/topics/python "Topic: python") [ nlp ](https://github.com/topics/nlp "Topic: nlp") [ agent ](https://github.com/topics/agent "Topic: agent") [ machine-learning ](https://github.com/topics/machine-learning "Topic: machine-learning") [ information-retrieval ](https://github.com/topics/information-retrieval "Topic: information-retrieval") [ framework ](https://github.com/topics/framework "Topic: framework") [ ai ](https://github.com/topics/ai "Topic: ai") [ chatbot ](https://github.com/topics/chatbot "Topic: chatbot") [ optimizer ](https://github.com/topics/optimizer "Topic: optimizer") [ question-answering ](https://github.com/topics/question-answering "Topic: question-answering") [ summarization ](https://github.com/topics/summarization "Topic: summarization") [ trainer ](https://github.com/topics/trainer "Topic: trainer") [ bm25 ](https://github.com/topics/bm25 "Topic: bm25") [ retriever ](https://github.com/topics/retriever "Topic: retriever") [ faiss ](https://github.com/topics/faiss "Topic: faiss") [ reranker ](https://github.com/topics/reranker "Topic: reranker") [ rag ](https://github.com/topics/rag "Topic: rag") [ llm ](https://github.com/topics/llm "Topic: llm") [ generative-ai ](https://github.com/topics/generative-ai "Topic: generative-ai") [ auto-prompting ](https://github.com/topics/auto-prompting "Topic: auto-prompting")
+### Resources
+[ Readme ](https://github.com/SylphAI-Inc/AdalFlow/#readme-ov-file)
+### License
+[ MIT license ](https://github.com/SylphAI-Inc/AdalFlow/#MIT-1-ov-file)
+[ Activity](https://github.com/SylphAI-Inc/AdalFlow/activity)
+[ Custom properties](https://github.com/SylphAI-Inc/AdalFlow/custom-properties)
+### Stars
+[ **2.9k** stars](https://github.com/SylphAI-Inc/AdalFlow/stargazers)
+### Watchers
+[ **22** watching](https://github.com/SylphAI-Inc/AdalFlow/watchers)
+### Forks
+[ **254** forks](https://github.com/SylphAI-Inc/AdalFlow/forks)
+[ Report repository ](https://github.com/contact/report-content?content_url=https%3A%2F%2Fgithub.com%2FSylphAI-Inc%2FAdalFlow&report=SylphAI-Inc+%28user%29)
+##  [Releases 3](https://github.com/SylphAI-Inc/AdalFlow/releases)
+[ Alpha release Latest  Jul 3, 2024 ](https://github.com/SylphAI-Inc/AdalFlow/releases/tag/v0.0.0-alpha-8)
+[+ 2 releases](https://github.com/SylphAI-Inc/AdalFlow/releases)
+##  [Packages 0](https://github.com/orgs/SylphAI-Inc/packages?repo_name=AdalFlow)
+No packages published 
+##  [Contributors 28](https://github.com/SylphAI-Inc/AdalFlow/graphs/contributors)
+[+ 14 contributors](https://github.com/SylphAI-Inc/AdalFlow/graphs/contributors)
+## Languages
+  * [ Python 99.9% ](https://github.com/SylphAI-Inc/AdalFlow/search?l=python)
+  * [ Makefile 0.1% ](https://github.com/SylphAI-Inc/AdalFlow/search?l=makefile)
+
+
+## Footer
+[ ](https://github.com "GitHub") © 2025 GitHub, Inc. 
+### Footer navigation
+  * [Terms](https://docs.github.com/site-policy/github-terms/github-terms-of-service)
+  * [Privacy](https://docs.github.com/site-policy/privacy-policies/github-privacy-statement)
+  * [Security](https://github.com/security)
+  * [Status](https://www.githubstatus.com/)
+  * [Docs](https://docs.github.com/)
+  * [Contact](https://support.github.com?tags=dotcom-footer)
+  * Manage cookies 
+  * Do not share my personal information 
+
+
+You can’t perform that action at this time. 

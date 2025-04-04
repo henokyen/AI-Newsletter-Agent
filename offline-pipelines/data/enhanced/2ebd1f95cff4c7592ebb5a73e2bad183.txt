@@ -1,0 +1,82 @@
+[ ![SQLite](https://www.sqlite.org/images/sqlite370_banner.svg) ](https://www.sqlite.org/index.html)
+Small. Fast. Reliable.Choose any three. 
+  * [Home](https://www.sqlite.org/index.html)
+  * [Menu](javascript:void\(0\))
+  * [About](https://www.sqlite.org/about.html)
+  * [Documentation](https://www.sqlite.org/docs.html)
+  * [Download](https://www.sqlite.org/download.html)
+  * [License](https://www.sqlite.org/copyright.html)
+  * [Support](https://www.sqlite.org/support.html)
+  * [Purchase](https://www.sqlite.org/prosupport.html)
+  * [Search](javascript:void\(0\))
+
+
+  * [About](https://www.sqlite.org/about.html)
+  * [Documentation](https://www.sqlite.org/docs.html)
+  * [Download](https://www.sqlite.org/download.html)
+  * [Support](https://www.sqlite.org/support.html)
+  * [Purchase](https://www.sqlite.org/prosupport.html)
+
+
+Search Documentation Search Changelog
+### Common Links
+  * [Features](https://www.sqlite.org/features.html)
+  * [When to use SQLite](https://www.sqlite.org/whentouse.html)
+  * [Getting Started](https://www.sqlite.org/quickstart.html)
+  * [Try it live!](https://sqlite.org/fiddle)
+[ ](https://sqlite.org/fiddle)
+  * [ ](https://sqlite.org/fiddle)[SQL Syntax](https://www.sqlite.org/lang.html)
+    * [Pragmas](https://www.sqlite.org/pragma.html#toc)
+    * [SQL functions](https://www.sqlite.org/lang_corefunc.html)
+    * [Date & time functions](https://www.sqlite.org/lang_datefunc.html)
+    * [Aggregate functions](https://www.sqlite.org/lang_aggfunc.html#aggfunclist)
+    * [Window functions](https://www.sqlite.org/windowfunctions.html#biwinfunc)
+    * [Math functions](https://www.sqlite.org/lang_mathfunc.html)
+    * [JSON functions](https://www.sqlite.org/json1.html)
+  * [C/C++ Interface Spec](https://www.sqlite.org/c3ref/intro.html)
+    * [Introduction](https://www.sqlite.org/cintro.html)
+    * [List of C-language APIs](https://www.sqlite.org/c3ref/funclist.html)
+  * [The TCL Interface Spec](https://www.sqlite.org/tclsqlite.html)
+  * [Quirks and Gotchas](https://www.sqlite.org/quirks.html)
+  * [Frequently Asked Questions](https://www.sqlite.org/faq.html)
+  * [Commit History](https://www.sqlite.org/src/timeline)
+  * [Prior Releases](https://www.sqlite.org/chronology.html)
+  * [Bugs](https://www.sqlite.org/src/wiki?name=Bug+Reports)
+  * [News](https://www.sqlite.org/news.html)
+
+
+### What Is SQLite?
+SQLite is a C-language library that implements a [small](https://www.sqlite.org/footprint.html), [fast](https://www.sqlite.org/fasterthanfs.html), [self-contained](https://www.sqlite.org/selfcontained.html), [high-reliability](https://www.sqlite.org/hirely.html), [full-featured](https://www.sqlite.org/fullsql.html), SQL database engine. SQLite is the [most used](https://www.sqlite.org/mostdeployed.html) database engine in the world. SQLite is built into all mobile phones and most computers and comes bundled inside countless other applications that people use every day. [More Information...](https://www.sqlite.org/about.html)
+The SQLite [file format](https://www.sqlite.org/fileformat2.html) is stable, cross-platform, and backwards compatible and the developers pledge to keep it that way [through the year 2050](https://www.sqlite.org/lts.html). SQLite database files are commonly used as containers to transfer rich content between systems [[1]](https://www.sqlite.org/aff_short.html) [[2]](https://www.sqlite.org/sqlar.html) [[3]](https://www.sqlite.org/appfileformat.html) and as a long-term archival format for data [[4]](https://www.sqlite.org/locrsf.html). There are over 1 trillion (1e12) SQLite databases in active use [[5]](https://www.sqlite.org/mostdeployed.html). 
+SQLite [source code](https://sqlite.org/src) is in the [public-domain](https://www.sqlite.org/copyright.html) and is free to everyone to use for any purpose. 
+### Latest Release
+[Version 3.49.1](https://www.sqlite.org/releaselog/3_49_1.html) (2025-02-18). [Download](https://www.sqlite.org/download.html) [Prior Releases](https://www.sqlite.org/chronology.html)
+### Common Links
+  * [Features](https://www.sqlite.org/features.html)
+  * [When to use SQLite](https://www.sqlite.org/whentouse.html)
+  * [Getting Started](https://www.sqlite.org/quickstart.html)
+  * [Try it live!](https://sqlite.org/fiddle)
+[ ](https://sqlite.org/fiddle)
+  * [ ](https://sqlite.org/fiddle)[SQL Syntax](https://www.sqlite.org/lang.html)
+    * [Pragmas](https://www.sqlite.org/pragma.html#toc)
+    * [SQL functions](https://www.sqlite.org/lang_corefunc.html)
+    * [Date & time functions](https://www.sqlite.org/lang_datefunc.html)
+    * [Aggregate functions](https://www.sqlite.org/lang_aggfunc.html#aggfunclist)
+    * [Window functions](https://www.sqlite.org/windowfunctions.html#biwinfunc)
+    * [Math functions](https://www.sqlite.org/lang_mathfunc.html)
+    * [JSON functions](https://www.sqlite.org/json1.html)
+  * [C/C++ Interface Spec](https://www.sqlite.org/c3ref/intro.html)
+    * [Introduction](https://www.sqlite.org/cintro.html)
+    * [List of C-language APIs](https://www.sqlite.org/c3ref/funclist.html)
+  * [The TCL Interface Spec](https://www.sqlite.org/tclsqlite.html)
+  * [Quirks and Gotchas](https://www.sqlite.org/quirks.html)
+  * [Frequently Asked Questions](https://www.sqlite.org/faq.html)
+  * [Commit History](https://www.sqlite.org/src/timeline)
+  * [Prior Releases](https://www.sqlite.org/chronology.html)
+  * [Bugs](https://www.sqlite.org/src/wiki?name=Bug+Reports)
+  * [News](https://www.sqlite.org/news.html)
+
+
+Ongoing development and support of SQLite is made possible in part by [SQLite Consortium](https://www.sqlite.org/consortium.html) members, including:
+[![](https://www.sqlite.org/images/foreignlogos/nds.png)](http://www.nds-association.org/) [![](https://www.sqlite.org/images/foreignlogos/expensify.png)](https://www.expensify.com/) [![](https://www.sqlite.org/images/foreignlogos/bloomberg.png)](https://www.techatbloomberg.com/) [![](https://www.sqlite.org/images/foreignlogos/bentley.gif)](https://www.bentley.com/)
+_This page last modified on[2025-02-25 16:11:29](https://sqlite.org/docsrc/honeypot) UTC _

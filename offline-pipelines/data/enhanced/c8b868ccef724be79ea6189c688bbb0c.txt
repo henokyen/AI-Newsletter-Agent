@@ -1,0 +1,951 @@
+[Skip to content](https://github.com/DS4SD/docling/#start-of-content)
+## Navigation Menu
+Toggle navigation
+[ ](https://github.com/)
+[ Sign in ](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fdocling-project%2Fdocling)
+  * Product 
+    * [ GitHub Copilot Write better code with AI  ](https://github.com/features/copilot)
+    * [ Security Find and fix vulnerabilities  ](https://github.com/features/security)
+    * [ Actions Automate any workflow  ](https://github.com/features/actions)
+    * [ Codespaces Instant dev environments  ](https://github.com/features/codespaces)
+    * [ Issues Plan and track work  ](https://github.com/features/issues)
+    * [ Code Review Manage code changes  ](https://github.com/features/code-review)
+    * [ Discussions Collaborate outside of code  ](https://github.com/features/discussions)
+    * [ Code Search Find more, search less  ](https://github.com/features/code-search)
+Explore
+    * [ All features ](https://github.com/features)
+    * [ Documentation ](https://docs.github.com)
+    * [ GitHub Skills ](https://skills.github.com)
+    * [ Blog ](https://github.blog)
+  * Solutions 
+By company size
+    * [ Enterprises ](https://github.com/enterprise)
+    * [ Small and medium teams ](https://github.com/team)
+    * [ Startups ](https://github.com/enterprise/startups)
+    * [ Nonprofits ](https://github.com/solutions/industry/nonprofits)
+By use case
+    * [ DevSecOps ](https://github.com/solutions/use-case/devsecops)
+    * [ DevOps ](https://github.com/solutions/use-case/devops)
+    * [ CI/CD ](https://github.com/solutions/use-case/ci-cd)
+    * [ View all use cases ](https://github.com/solutions/use-case)
+By industry
+    * [ Healthcare ](https://github.com/solutions/industry/healthcare)
+    * [ Financial services ](https://github.com/solutions/industry/financial-services)
+    * [ Manufacturing ](https://github.com/solutions/industry/manufacturing)
+    * [ Government ](https://github.com/solutions/industry/government)
+    * [ View all industries ](https://github.com/solutions/industry)
+[ View all solutions ](https://github.com/solutions)
+  * Resources 
+Topics
+    * [ AI ](https://github.com/resources/articles/ai)
+    * [ DevOps ](https://github.com/resources/articles/devops)
+    * [ Security ](https://github.com/resources/articles/security)
+    * [ Software Development ](https://github.com/resources/articles/software-development)
+    * [ View all ](https://github.com/resources/articles)
+Explore
+    * [ Learning Pathways ](https://resources.github.com/learn/pathways)
+    * [ Events & Webinars ](https://resources.github.com)
+    * [ Ebooks & Whitepapers ](https://github.com/resources/whitepapers)
+    * [ Customer Stories ](https://github.com/customer-stories)
+    * [ Partners ](https://partner.github.com)
+    * [ Executive Insights ](https://github.com/solutions/executive-insights)
+  * Open Source 
+    * [ GitHub Sponsors Fund open source developers  ](https://github.com/sponsors)
+    * [ The ReadME Project GitHub community articles  ](https://github.com/readme)
+Repositories
+    * [ Topics ](https://github.com/topics)
+    * [ Trending ](https://github.com/trending)
+    * [ Collections ](https://github.com/collections)
+  * Enterprise 
+    * [ Enterprise platform AI-powered developer platform  ](https://github.com/enterprise)
+Available add-ons
+    * [ Advanced Security Enterprise-grade security features  ](https://github.com/enterprise/advanced-security)
+    * [ Copilot for business Enterprise-grade AI features  ](https://github.com/features/copilot/copilot-business)
+    * [ Premium Support Enterprise-grade 24/7 support  ](https://github.com/premium-support)
+  * [Pricing](https://github.com/pricing)
+
+
+Search or jump to...
+# Search code, repositories, users, issues, pull requests...
+Search 
+Clear
+[Search syntax tips](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax)
+#  Provide feedback 
+We read every piece of feedback, and take your input very seriously.
+Include my email address so I can be contacted
+Cancel  Submit feedback 
+#  Saved searches 
+## Use saved searches to filter your results more quickly
+Name
+Query
+To see all available qualifiers, see our [documentation](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax). 
+Cancel  Create saved search 
+[ Sign in ](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fdocling-project%2Fdocling)
+[ Sign up ](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E&source=header-repo&source_repo=docling-project%2Fdocling) Reseting focus
+You signed in with another tab or window. [Reload](https://github.com/DS4SD/docling/) to refresh your session. You signed out in another tab or window. [Reload](https://github.com/DS4SD/docling/) to refresh your session. You switched accounts on another tab or window. [Reload](https://github.com/DS4SD/docling/) to refresh your session. Dismiss alert
+{{ message }}
+[ docling-project ](https://github.com/docling-project) / **[docling](https://github.com/docling-project/docling) ** Public
+  * [ Notifications ](https://github.com/login?return_to=%2Fdocling-project%2Fdocling) You must be signed in to change notification settings
+  * [ Fork 1.5k ](https://github.com/login?return_to=%2Fdocling-project%2Fdocling)
+  * [ Star  25.7k ](https://github.com/login?return_to=%2Fdocling-project%2Fdocling)
+
+
+Get your documents ready for gen AI 
+[docling-project.github.io/docling](https://docling-project.github.io/docling "https://docling-project.github.io/docling")
+### License
+[ MIT license ](https://github.com/docling-project/docling/blob/main/LICENSE)
+[ 25.7k stars ](https://github.com/docling-project/docling/stargazers) [ 1.5k forks ](https://github.com/docling-project/docling/forks) [ Branches ](https://github.com/docling-project/docling/branches) [ Tags ](https://github.com/docling-project/docling/tags) [ Activity ](https://github.com/docling-project/docling/activity)
+[ Star  ](https://github.com/login?return_to=%2Fdocling-project%2Fdocling)
+[ Notifications ](https://github.com/login?return_to=%2Fdocling-project%2Fdocling) You must be signed in to change notification settings
+  * [ Code ](https://github.com/docling-project/docling)
+  * [ Issues 211 ](https://github.com/docling-project/docling/issues)
+  * [ Pull requests 15 ](https://github.com/docling-project/docling/pulls)
+  * [ Discussions ](https://github.com/docling-project/docling/discussions)
+  * [ Actions ](https://github.com/docling-project/docling/actions)
+  * [ Projects 0 ](https://github.com/docling-project/docling/projects)
+  * [ Security ](https://github.com/docling-project/docling/security)
+  * [ Insights ](https://github.com/docling-project/docling/pulse)
+
+
+Additional navigation options
+  * [ Code  ](https://github.com/docling-project/docling)
+  * [ Issues  ](https://github.com/docling-project/docling/issues)
+  * [ Pull requests  ](https://github.com/docling-project/docling/pulls)
+  * [ Discussions  ](https://github.com/docling-project/docling/discussions)
+  * [ Actions  ](https://github.com/docling-project/docling/actions)
+  * [ Projects  ](https://github.com/docling-project/docling/projects)
+  * [ Security  ](https://github.com/docling-project/docling/security)
+  * [ Insights  ](https://github.com/docling-project/docling/pulse)
+
+
+# docling-project/docling
+main
+[**23** Branches](https://github.com/docling-project/docling/branches)[**92** Tags](https://github.com/docling-project/docling/tags)
+[](https://github.com/docling-project/docling/branches)[](https://github.com/docling-project/docling/tags)
+Go to file
+Code
+## Folders and files
+Name| Name| Last commit message| Last commit date  
+---|---|---|---  
+## Latest commit
+[![github-actions\[bot\]](https://avatars.githubusercontent.com/in/15368?v=4&size=40)](https://github.com/apps/github-actions)[github-actions[bot]](https://github.com/docling-project/docling/commits?author=github-actions%5Bbot%5D)[chore: bump version to 2.28.4 [skip ci]](https://github.com/docling-project/docling/commit/44f2b081ec6ee7cc0e3fcd39f0f87244f98cf875)Mar 29, 2025[44f2b08](https://github.com/docling-project/docling/commit/44f2b081ec6ee7cc0e3fcd39f0f87244f98cf875) · Mar 29, 2025
+## History
+[428 Commits](https://github.com/docling-project/docling/commits/main/)[](https://github.com/docling-project/docling/commits/main/)  
+[.actor](https://github.com/docling-project/docling/tree/main/.actor ".actor")| [.actor](https://github.com/docling-project/docling/tree/main/.actor ".actor")| [feat(actor): Docling Actor on Apify infrastructure (](https://github.com/docling-project/docling/commit/772487f9c91ad2ee53c591c314c72443f9cbfd23 "feat\(actor\): Docling Actor on Apify infrastructure \(#875\)
+* fix: Improve OCR results, stricten criteria before dropping bitmap areas \(#719\)
+fix: Properly care for all bitmap elements in OCR
+Signed-off-by: Christoph Auer <cau@zurich.ibm.com>
+Signed-off-by: Adam Kliment <adam@netmilk.net>
+* chore: bump version to 2.15.1 \[skip ci\]
+* Actor: Initial implementation
+Signed-off-by: Václav Vančura <commit@vancura.dev>
+Signed-off-by: Adam Kliment <adam@netmilk.net>
+* Actor: .dockerignore update
+Signed-off-by: Václav Vančura <commit@vancura.dev>
+* Actor: Adding the Actor badge
+Signed-off-by: Václav Vančura <commit@vancura.dev>
+* Actor: Moving the badge where it belongs
+Signed-off-by: Václav Vančura <commit@vancura.dev>
+* Actor: Documentation update
+Signed-off-by: Václav Vančura <commit@vancura.dev>
+Signed-off-by: Adam Kliment <adam@netmilk.net>
+* Actor: Switching Docker to python:3.11-slim-bookworm
+Signed-off-by: Václav Vančura <commit@vancura.dev>
+* Actor: Enhance Docker security with proper user permissions
+- Set proper ownership and permissions for runtime directory.
+- Switch to non-root user for enhanced security.
+- Use `--chown` flag in COPY commands to maintain correct file ownership.
+- Ensure all files and directories are owned by `appuser`.
+Signed-off-by: Václav Vančura <commit@vancura.dev>
+* Actor: Optimize Dockerfile with security and size improvements
+- Combine RUN commands to reduce image layers and overall size.
+- Add non-root user `appuser` for improved security.
+- Use `--no-install-recommends` flag to minimize installed packages.
+- Install only necessary dependencies in a single RUN command.
+- Maintain proper cleanup of package lists and caches.
+Signed-off-by: Václav Vančura <commit@vancura.dev>
+* Actor: Add Docker image metadata labels
+Signed-off-by: Václav Vančura <commit@vancura.dev>
+* Actor: Update dependencies with fixed versions
+Upgrade pip and npm to latest versions, pin docling to 2.15.1 and apify-cli to 2.7.1 for better stability and reproducibility. This change helps prevent unexpected behavior from dependency updates and ensures consistent builds across environments.
+Signed-off-by: Václav Vančura <commit@vancura.dev>
+* Actor: Fix apify-cli version problem
+Signed-off-by: Václav Vančura <commit@vancura.dev>
+* Actor: Create Apify user home directory in Docker setup
+Add and configure `/home/appuser/.apify` directory with proper permissions for the appuser in the Docker container. This ensures the Apify SDK has a writable home directory for storing its configuration and temporary files.
+Signed-off-by: Václav Vančura <commit@vancura.dev>
+* Actor: Update Docker configuration for improved security
+- Add `ACTOR_PATH_IN_DOCKER_CONTEXT` argument to ignore the Apify-tooling related warning.
+- Improve readability with consistent formatting and spacing in RUN commands.
+- Enhance security by properly setting up appuser home directory and permissions.
+- Streamline directory structure and ownership for runtime operations.
+- Remove redundant `.apify` directory creation as it's handled by the CLI.
+Signed-off-by: Václav Vančura <commit@vancura.dev>
+* Actor: Improve shell script robustness and error handling
+The shell script has been enhanced with better error handling, input validation, and cleanup procedures. Key improvements include:
+- Added proper quoting around variables to prevent word splitting.
+- Improved error messages and logging functionality.
+- Implemented a cleanup trap to ensure temporary files are removed.
+- Enhanced validation of input parameters and output formats.
+- Added better handling of the log file and its storage.
+- Improved command execution with proper evaluation.
+- Added comments for better code readability and maintenance.
+- Fixed potential security issues with proper variable expansion.
+Signed-off-by: Václav Vančura <commit@vancura.dev>
+* Actor: Improve script logging and error handling
+- Initialize log file at `/tmp/docling.log` and redirect all output to it
+- Remove exit on error trap, now only logs error line numbers
+- Use temporary directory for timestamp file
+- Capture Docling exit code and handle errors more gracefully
+- Update log file references to use `LOG_FILE` variable
+- Remove local log file during cleanup
+Signed-off-by: Václav Vančura <commit@vancura.dev>
+* Actor: Updating Docling to 2.17.0
+Signed-off-by: Václav Vančura <commit@vancura.dev>
+* Actor: Adding README
+Signed-off-by: Václav Vančura <commit@vancura.dev>
+* Actor: README update
+Signed-off-by: Václav Vančura <commit@vancura.dev>
+* Actor: Enhance Dockerfile with additional utilities and env vars
+- Add installation of `time` and `procps` packages for better resource monitoring.
+- Set environment variables `PYTHONUNBUFFERED`, `MALLOC_ARENA_MAX`, and `EASYOCR_DOWNLOAD_CACHE` for improved performance.
+- Create a cache directory for EasyOCR to optimize storage usage.
+Signed-off-by: Václav Vančura <commit@vancura.dev>
+* Actor: README update
+Signed-off-by: Václav Vančura <commit@vancura.dev>
+* Actor: Adding the Apify FirstPromoter integration
+Signed-off-by: Václav Vančura <commit@vancura.dev>
+* Actor: Adding the "Run on Apify" button
+Signed-off-by: Václav Vančura <commit@vancura.dev>
+* Actor: Fixing example PDF document URLs
+Signed-off-by: Václav Vančura <commit@vancura.dev>
+* Actor: Documentation update
+Signed-off-by: Václav Vančura <commit@vancura.dev>
+* Actor: Adding input document URL validation
+Signed-off-by: Václav Vančura <commit@vancura.dev>
+* Actor: Fix quoting in `DOC_CONVERT_CMD` variable
+Signed-off-by: Václav Vančura <commit@vancura.dev>
+* Actor: Documentation update
+Removing the dollar signs due to what we discovered at https://cirosantilli.com/markdown-style-guide/#dollar-signs-in-shell-code
+Signed-off-by: Václav Vančura <commit@vancura.dev>
+* Actor: Add specific error codes for better error handling
+- `ERR_INVALID_INPUT` for missing document URL
+- `ERR_URL_INACCESSIBLE` for inaccessible URLs
+- `ERR_DOCLING_FAILED` for Docling command failures
+- `ERR_OUTPUT_MISSING` for missing or empty output files
+- `ERR_STORAGE_FAILED` for failures in storing the output document
+Signed-off-by: Václav Vančura <commit@vancura.dev>
+* Actor: Enhance error handling and data logging
+- Add `apify pushData` calls to log errors when the document URL is missing or inaccessible.
+- Introduce dataset record creation with processing results, including a success status and output file URL.
+- Modify completion message to indicate successful processing and provide a link to the results.
+Signed-off-by: Václav Vančura <commit@vancura.dev>
+* Actor: Normalize key-value store terminology
+Signed-off-by: Václav Vančura <commit@vancura.dev>
+* Actor: Enhance `README.md` with output details
+Added detailed information about the Actor's output storage to the `README.md`. This includes specifying where processed documents, processing logs, and dataset records are stored.
+Signed-off-by: Václav Vančura <commit@vancura.dev>
+* Actor: Adding CHANGELOG.md
+Signed-off-by: Václav Vančura <commit@vancura.dev>
+* Actor: Adding dataset schema
+Signed-off-by: Václav Vančura <commit@vancura.dev>
+* Actor: Update README with output URL details
+Signed-off-by: Václav Vančura <commit@vancura.dev>
+* Actor: Fix the Apify call syntax and final result URL message
+Signed-off-by: Václav Vančura <commit@vancura.dev>
+* Actor: Add section on Actors to README
+Signed-off-by: Václav Vančura <commit@vancura.dev>
+* Actor: Replace Docling CLI with docling-serve API
+This commit transitions the Actor from using the full Docling CLI package to the more lightweight docling-serve API. Key changes include:
+- Redesign Dockerfile to use docling-serve as base image
+- Update actor.sh to communicate with API instead of running CLI commands
+- Improve content type handling for various output formats
+- Update input schema to align with API parameters
+- Reduce Docker image size from ~6GB to ~600MB
+- Update documentation and changelog to reflect architectural changes
+The image size reduction will make the Actor more cost-effective for users while maintaining all existing functionality including OCR capabilities.
+Issue: No official docling-serve Docker image is currently available, which will be addressed in a future commit.
+Signed-off-by: Václav Vančura <commit@vancura.dev>
+* Actor: Overhaul the implementation using official docling-serve image
+This commit completely revamps the Actor implementation with two major improvements:
+1\) CRITICAL CHANGE: Switch to official docling-serve image
+  * Now using quay.io/ds4sd/docling-serve-cpu:latest as base image
+  * Eliminates need for custom docling installation
+  * Ensures compatibility with latest docling-serve features
+  * Provides more reliable and consistent document processing
+2\) Fix Apify Actor KVS storage issues:
+  * Standardize key names to follow Apify conventions:
+   - Change "OUTPUT_RESULT" to "OUTPUT"
+   - Change "DOCLING_LOG" to "LOG"
+  * Add proper multi-stage Docker build:
+   - First stage builds dependencies including apify-cli
+   - Second stage uses official image and adds only necessary tools
+  * Fix permission issues in Docker container:
+   - Set up proper user and directory permissions
+   - Create writable directories for temporary files and models
+   - Configure environment variables for proper execution
+3\) Solve EACCES permission errors during CLI version checks:
+  * Create temporary HOME directory with proper write permissions
+  * Set APIFY_DISABLE_VERSION_CHECK=1 environment variable
+  * Add NODE_OPTIONS="--no-warnings" to suppress update checks
+  * Support --no-update-notifier CLI flag when available
+4\) Improve code organization and reliability:
+  * Create reusable upload_to_kvs\(\) function for all KVS operations
+  * Ensure log files are uploaded before tools directory is removed
+  * Set proper MIME types based on output format
+  * Add detailed error reporting and proper cleanup
+  * Display final output URLs for easy verification
+This major refactoring significantly improves reliability and maintainability by leveraging the official docling-serve image while solving persistent permission and storage issues. The Actor now properly follows Apify standards while providing a more robust document processing pipeline.
+Signed-off-by: Václav Vančura <commit@vancura.dev>
+* Actor: Refactor `actor.sh` and add `docling_processor.py`
+Refactor the `actor.sh` script to modularize functions for finding the Apify CLI, setting up a temporary environment, and cleaning it up. Introduce a new function, `get_actor_input\(\)`, to handle input detection more robustly. Replace inline Python conversion logic with an external script, `docling_processor.py`, for processing documents via the docling-serve API.
+Signed-off-by: Václav Vančura <commit@vancura.dev>
+* Actor: Update CHANGELOG and README for Docker and API changes
+Signed-off-by: Václav Vančura <commit@vancura.dev>
+* Actor: Removing obsolete actor.json keys
+Signed-off-by: Václav Vančura <commit@vancura.dev>
+* Actor: Fixed input getter
+Signed-off-by: Adam Kliment <adam@netmilk.net>
+* Actor: Always output a zip
+Signed-off-by: Adam Kliment <adam@netmilk.net>
+* Actor: Resolving conflicts with main
+Signed-off-by: Václav Vančura <commit@vancura.dev>
+* Actor: Resolving conflicts with main \(pass 2\)
+Signed-off-by: Václav Vančura <commit@vancura.dev>
+* Actor: Updated main Readme and Actor Readme
+Signed-off-by: Adam Kliment <adam@netmilk.net>
+---------
+Signed-off-by: Christoph Auer <cau@zurich.ibm.com>
+Signed-off-by: Adam Kliment <adam@netmilk.net>
+Signed-off-by: Václav Vančura <commit@vancura.dev>
+Co-authored-by: Christoph Auer <60343111+cau-git@users.noreply.github.com>
+Co-authored-by: github-actions\[bot\] <github-actions\[bot\]@users.noreply.github.com>
+Co-authored-by: Adam Kliment <adam@netmilk.net>")[#875](https://github.com/docling-project/docling/pull/875)[)](https://github.com/docling-project/docling/commit/772487f9c91ad2ee53c591c314c72443f9cbfd23 "feat\(actor\): Docling Actor on Apify infrastructure \(#875\)
+* fix: Improve OCR results, stricten criteria before dropping bitmap areas \(#719\)
+fix: Properly care for all bitmap elements in OCR
+Signed-off-by: Christoph Auer <cau@zurich.ibm.com>
+Signed-off-by: Adam Kliment <adam@netmilk.net>
+* chore: bump version to 2.15.1 \[skip ci\]
+* Actor: Initial implementation
+Signed-off-by: Václav Vančura <commit@vancura.dev>
+Signed-off-by: Adam Kliment <adam@netmilk.net>
+* Actor: .dockerignore update
+Signed-off-by: Václav Vančura <commit@vancura.dev>
+* Actor: Adding the Actor badge
+Signed-off-by: Václav Vančura <commit@vancura.dev>
+* Actor: Moving the badge where it belongs
+Signed-off-by: Václav Vančura <commit@vancura.dev>
+* Actor: Documentation update
+Signed-off-by: Václav Vančura <commit@vancura.dev>
+Signed-off-by: Adam Kliment <adam@netmilk.net>
+* Actor: Switching Docker to python:3.11-slim-bookworm
+Signed-off-by: Václav Vančura <commit@vancura.dev>
+* Actor: Enhance Docker security with proper user permissions
+- Set proper ownership and permissions for runtime directory.
+- Switch to non-root user for enhanced security.
+- Use `--chown` flag in COPY commands to maintain correct file ownership.
+- Ensure all files and directories are owned by `appuser`.
+Signed-off-by: Václav Vančura <commit@vancura.dev>
+* Actor: Optimize Dockerfile with security and size improvements
+- Combine RUN commands to reduce image layers and overall size.
+- Add non-root user `appuser` for improved security.
+- Use `--no-install-recommends` flag to minimize installed packages.
+- Install only necessary dependencies in a single RUN command.
+- Maintain proper cleanup of package lists and caches.
+Signed-off-by: Václav Vančura <commit@vancura.dev>
+* Actor: Add Docker image metadata labels
+Signed-off-by: Václav Vančura <commit@vancura.dev>
+* Actor: Update dependencies with fixed versions
+Upgrade pip and npm to latest versions, pin docling to 2.15.1 and apify-cli to 2.7.1 for better stability and reproducibility. This change helps prevent unexpected behavior from dependency updates and ensures consistent builds across environments.
+Signed-off-by: Václav Vančura <commit@vancura.dev>
+* Actor: Fix apify-cli version problem
+Signed-off-by: Václav Vančura <commit@vancura.dev>
+* Actor: Create Apify user home directory in Docker setup
+Add and configure `/home/appuser/.apify` directory with proper permissions for the appuser in the Docker container. This ensures the Apify SDK has a writable home directory for storing its configuration and temporary files.
+Signed-off-by: Václav Vančura <commit@vancura.dev>
+* Actor: Update Docker configuration for improved security
+- Add `ACTOR_PATH_IN_DOCKER_CONTEXT` argument to ignore the Apify-tooling related warning.
+- Improve readability with consistent formatting and spacing in RUN commands.
+- Enhance security by properly setting up appuser home directory and permissions.
+- Streamline directory structure and ownership for runtime operations.
+- Remove redundant `.apify` directory creation as it's handled by the CLI.
+Signed-off-by: Václav Vančura <commit@vancura.dev>
+* Actor: Improve shell script robustness and error handling
+The shell script has been enhanced with better error handling, input validation, and cleanup procedures. Key improvements include:
+- Added proper quoting around variables to prevent word splitting.
+- Improved error messages and logging functionality.
+- Implemented a cleanup trap to ensure temporary files are removed.
+- Enhanced validation of input parameters and output formats.
+- Added better handling of the log file and its storage.
+- Improved command execution with proper evaluation.
+- Added comments for better code readability and maintenance.
+- Fixed potential security issues with proper variable expansion.
+Signed-off-by: Václav Vančura <commit@vancura.dev>
+* Actor: Improve script logging and error handling
+- Initialize log file at `/tmp/docling.log` and redirect all output to it
+- Remove exit on error trap, now only logs error line numbers
+- Use temporary directory for timestamp file
+- Capture Docling exit code and handle errors more gracefully
+- Update log file references to use `LOG_FILE` variable
+- Remove local log file during cleanup
+Signed-off-by: Václav Vančura <commit@vancura.dev>
+* Actor: Updating Docling to 2.17.0
+Signed-off-by: Václav Vančura <commit@vancura.dev>
+* Actor: Adding README
+Signed-off-by: Václav Vančura <commit@vancura.dev>
+* Actor: README update
+Signed-off-by: Václav Vančura <commit@vancura.dev>
+* Actor: Enhance Dockerfile with additional utilities and env vars
+- Add installation of `time` and `procps` packages for better resource monitoring.
+- Set environment variables `PYTHONUNBUFFERED`, `MALLOC_ARENA_MAX`, and `EASYOCR_DOWNLOAD_CACHE` for improved performance.
+- Create a cache directory for EasyOCR to optimize storage usage.
+Signed-off-by: Václav Vančura <commit@vancura.dev>
+* Actor: README update
+Signed-off-by: Václav Vančura <commit@vancura.dev>
+* Actor: Adding the Apify FirstPromoter integration
+Signed-off-by: Václav Vančura <commit@vancura.dev>
+* Actor: Adding the "Run on Apify" button
+Signed-off-by: Václav Vančura <commit@vancura.dev>
+* Actor: Fixing example PDF document URLs
+Signed-off-by: Václav Vančura <commit@vancura.dev>
+* Actor: Documentation update
+Signed-off-by: Václav Vančura <commit@vancura.dev>
+* Actor: Adding input document URL validation
+Signed-off-by: Václav Vančura <commit@vancura.dev>
+* Actor: Fix quoting in `DOC_CONVERT_CMD` variable
+Signed-off-by: Václav Vančura <commit@vancura.dev>
+* Actor: Documentation update
+Removing the dollar signs due to what we discovered at https://cirosantilli.com/markdown-style-guide/#dollar-signs-in-shell-code
+Signed-off-by: Václav Vančura <commit@vancura.dev>
+* Actor: Add specific error codes for better error handling
+- `ERR_INVALID_INPUT` for missing document URL
+- `ERR_URL_INACCESSIBLE` for inaccessible URLs
+- `ERR_DOCLING_FAILED` for Docling command failures
+- `ERR_OUTPUT_MISSING` for missing or empty output files
+- `ERR_STORAGE_FAILED` for failures in storing the output document
+Signed-off-by: Václav Vančura <commit@vancura.dev>
+* Actor: Enhance error handling and data logging
+- Add `apify pushData` calls to log errors when the document URL is missing or inaccessible.
+- Introduce dataset record creation with processing results, including a success status and output file URL.
+- Modify completion message to indicate successful processing and provide a link to the results.
+Signed-off-by: Václav Vančura <commit@vancura.dev>
+* Actor: Normalize key-value store terminology
+Signed-off-by: Václav Vančura <commit@vancura.dev>
+* Actor: Enhance `README.md` with output details
+Added detailed information about the Actor's output storage to the `README.md`. This includes specifying where processed documents, processing logs, and dataset records are stored.
+Signed-off-by: Václav Vančura <commit@vancura.dev>
+* Actor: Adding CHANGELOG.md
+Signed-off-by: Václav Vančura <commit@vancura.dev>
+* Actor: Adding dataset schema
+Signed-off-by: Václav Vančura <commit@vancura.dev>
+* Actor: Update README with output URL details
+Signed-off-by: Václav Vančura <commit@vancura.dev>
+* Actor: Fix the Apify call syntax and final result URL message
+Signed-off-by: Václav Vančura <commit@vancura.dev>
+* Actor: Add section on Actors to README
+Signed-off-by: Václav Vančura <commit@vancura.dev>
+* Actor: Replace Docling CLI with docling-serve API
+This commit transitions the Actor from using the full Docling CLI package to the more lightweight docling-serve API. Key changes include:
+- Redesign Dockerfile to use docling-serve as base image
+- Update actor.sh to communicate with API instead of running CLI commands
+- Improve content type handling for various output formats
+- Update input schema to align with API parameters
+- Reduce Docker image size from ~6GB to ~600MB
+- Update documentation and changelog to reflect architectural changes
+The image size reduction will make the Actor more cost-effective for users while maintaining all existing functionality including OCR capabilities.
+Issue: No official docling-serve Docker image is currently available, which will be addressed in a future commit.
+Signed-off-by: Václav Vančura <commit@vancura.dev>
+* Actor: Overhaul the implementation using official docling-serve image
+This commit completely revamps the Actor implementation with two major improvements:
+1\) CRITICAL CHANGE: Switch to official docling-serve image
+  * Now using quay.io/ds4sd/docling-serve-cpu:latest as base image
+  * Eliminates need for custom docling installation
+  * Ensures compatibility with latest docling-serve features
+  * Provides more reliable and consistent document processing
+2\) Fix Apify Actor KVS storage issues:
+  * Standardize key names to follow Apify conventions:
+   - Change "OUTPUT_RESULT" to "OUTPUT"
+   - Change "DOCLING_LOG" to "LOG"
+  * Add proper multi-stage Docker build:
+   - First stage builds dependencies including apify-cli
+   - Second stage uses official image and adds only necessary tools
+  * Fix permission issues in Docker container:
+   - Set up proper user and directory permissions
+   - Create writable directories for temporary files and models
+   - Configure environment variables for proper execution
+3\) Solve EACCES permission errors during CLI version checks:
+  * Create temporary HOME directory with proper write permissions
+  * Set APIFY_DISABLE_VERSION_CHECK=1 environment variable
+  * Add NODE_OPTIONS="--no-warnings" to suppress update checks
+  * Support --no-update-notifier CLI flag when available
+4\) Improve code organization and reliability:
+  * Create reusable upload_to_kvs\(\) function for all KVS operations
+  * Ensure log files are uploaded before tools directory is removed
+  * Set proper MIME types based on output format
+  * Add detailed error reporting and proper cleanup
+  * Display final output URLs for easy verification
+This major refactoring significantly improves reliability and maintainability by leveraging the official docling-serve image while solving persistent permission and storage issues. The Actor now properly follows Apify standards while providing a more robust document processing pipeline.
+Signed-off-by: Václav Vančura <commit@vancura.dev>
+* Actor: Refactor `actor.sh` and add `docling_processor.py`
+Refactor the `actor.sh` script to modularize functions for finding the Apify CLI, setting up a temporary environment, and cleaning it up. Introduce a new function, `get_actor_input\(\)`, to handle input detection more robustly. Replace inline Python conversion logic with an external script, `docling_processor.py`, for processing documents via the docling-serve API.
+Signed-off-by: Václav Vančura <commit@vancura.dev>
+* Actor: Update CHANGELOG and README for Docker and API changes
+Signed-off-by: Václav Vančura <commit@vancura.dev>
+* Actor: Removing obsolete actor.json keys
+Signed-off-by: Václav Vančura <commit@vancura.dev>
+* Actor: Fixed input getter
+Signed-off-by: Adam Kliment <adam@netmilk.net>
+* Actor: Always output a zip
+Signed-off-by: Adam Kliment <adam@netmilk.net>
+* Actor: Resolving conflicts with main
+Signed-off-by: Václav Vančura <commit@vancura.dev>
+* Actor: Resolving conflicts with main \(pass 2\)
+Signed-off-by: Václav Vančura <commit@vancura.dev>
+* Actor: Updated main Readme and Actor Readme
+Signed-off-by: Adam Kliment <adam@netmilk.net>
+---------
+Signed-off-by: Christoph Auer <cau@zurich.ibm.com>
+Signed-off-by: Adam Kliment <adam@netmilk.net>
+Signed-off-by: Václav Vančura <commit@vancura.dev>
+Co-authored-by: Christoph Auer <60343111+cau-git@users.noreply.github.com>
+Co-authored-by: github-actions\[bot\] <github-actions\[bot\]@users.noreply.github.com>
+Co-authored-by: Adam Kliment <adam@netmilk.net>")| Mar 18, 2025  
+[.github](https://github.com/docling-project/docling/tree/main/.github ".github")| [.github](https://github.com/docling-project/docling/tree/main/.github ".github")| [chore: move to docling-project org (](https://github.com/docling-project/docling/commit/fa16b12316c7325063246ae47e058c52592bbe37 "chore: move to docling-project org \(#1160\)
+* chore: rename org
+Signed-off-by: Michele Dolfi <dol@zurich.ibm.com>
+* Update docs/faq/index.md
+Co-authored-by: Panos Vagenas <35837085+vagenas@users.noreply.github.com>
+Signed-off-by: Michele Dolfi <97102151+dolfim-ibm@users.noreply.github.com>
+* update github pages
+Signed-off-by: Michele Dolfi <dol@zurich.ibm.com>
+* revert test content
+Signed-off-by: Michele Dolfi <dol@zurich.ibm.com>
+---------
+Signed-off-by: Michele Dolfi <dol@zurich.ibm.com>
+Signed-off-by: Michele Dolfi <97102151+dolfim-ibm@users.noreply.github.com>
+Co-authored-by: Panos Vagenas <35837085+vagenas@users.noreply.github.com>")[#1160](https://github.com/docling-project/docling/pull/1160)[)](https://github.com/docling-project/docling/commit/fa16b12316c7325063246ae47e058c52592bbe37 "chore: move to docling-project org \(#1160\)
+* chore: rename org
+Signed-off-by: Michele Dolfi <dol@zurich.ibm.com>
+* Update docs/faq/index.md
+Co-authored-by: Panos Vagenas <35837085+vagenas@users.noreply.github.com>
+Signed-off-by: Michele Dolfi <97102151+dolfim-ibm@users.noreply.github.com>
+* update github pages
+Signed-off-by: Michele Dolfi <dol@zurich.ibm.com>
+* revert test content
+Signed-off-by: Michele Dolfi <dol@zurich.ibm.com>
+---------
+Signed-off-by: Michele Dolfi <dol@zurich.ibm.com>
+Signed-off-by: Michele Dolfi <97102151+dolfim-ibm@users.noreply.github.com>
+Co-authored-by: Panos Vagenas <35837085+vagenas@users.noreply.github.com>")| Mar 14, 2025  
+[docling](https://github.com/docling-project/docling/tree/main/docling "docling")| [docling](https://github.com/docling-project/docling/tree/main/docling "docling")| [fix: Fixes tables when using OCR (](https://github.com/docling-project/docling/commit/7afad7e52da642b258edd67f8f4815ea430f05e1 "fix: Fixes tables when using OCR \(#1261\)
+Fix for the tables when using OCR
+Signed-off-by: Maksym Lysak <mly@zurich.ibm.com>
+Co-authored-by: Maksym Lysak <mly@zurich.ibm.com>")[#1261](https://github.com/docling-project/docling/pull/1261)[)](https://github.com/docling-project/docling/commit/7afad7e52da642b258edd67f8f4815ea430f05e1 "fix: Fixes tables when using OCR \(#1261\)
+Fix for the tables when using OCR
+Signed-off-by: Maksym Lysak <mly@zurich.ibm.com>
+Co-authored-by: Maksym Lysak <mly@zurich.ibm.com>")| Mar 29, 2025  
+[docs](https://github.com/docling-project/docling/tree/main/docs "docs")| [docs](https://github.com/docling-project/docling/tree/main/docs "docs")| [docs(examples): batch conversion doc](https://github.com/docling-project/docling/commit/0974ba4e1ca165f9916d17861491f482e33909ca "docs\(examples\): batch conversion doc `raises_on_error` \(#1147\)
+Signed-off-by: Clément Doumouro <clement.doumouro@gmail.com>") `raises_on_error[](https://github.com/docling-project/docling/commit/0974ba4e1ca165f9916d17861491f482e33909ca "docs\(examples\): batch conversion doc `raises_on_error` \(#1147\)
+Signed-off-by: Clément Doumouro <clement.doumouro@gmail.com>")` [(](https://github.com/docling-project/docling/commit/0974ba4e1ca165f9916d17861491f482e33909ca "docs\(examples\): batch conversion doc `raises_on_error` \(#1147\)
+Signed-off-by: Clément Doumouro <clement.doumouro@gmail.com>")[#1147](https://github.com/docling-project/docling/pull/1147)[)](https://github.com/docling-project/docling/commit/0974ba4e1ca165f9916d17861491f482e33909ca "docs\(examples\): batch conversion doc `raises_on_error` \(#1147\)
+Signed-off-by: Clément Doumouro <clement.doumouro@gmail.com>")| Mar 25, 2025  
+[tests](https://github.com/docling-project/docling/tree/main/tests "tests")| [tests](https://github.com/docling-project/docling/tree/main/tests "tests")| [fix: improve HTML layer detection, various MD fixes (](https://github.com/docling-project/docling/commit/9210812bfaad1fb138194464f0d563788f63f4c2 "fix: improve HTML layer detection, various MD fixes \(#1241\)
+Markdown fixes:
+- properly propagate section header levels
+- improve handling of list subroots without text
+Signed-off-by: Panos Vagenas <pva@zurich.ibm.com>")[#1241](https://github.com/docling-project/docling/pull/1241)[)](https://github.com/docling-project/docling/commit/9210812bfaad1fb138194464f0d563788f63f4c2 "fix: improve HTML layer detection, various MD fixes \(#1241\)
+Markdown fixes:
+- properly propagate section header levels
+- improve handling of list subroots without text
+Signed-off-by: Panos Vagenas <pva@zurich.ibm.com>")| Mar 26, 2025  
+[.gitignore](https://github.com/docling-project/docling/blob/main/.gitignore ".gitignore")| [.gitignore](https://github.com/docling-project/docling/blob/main/.gitignore ".gitignore")| [ci: Add Github Actions (](https://github.com/docling-project/docling/commit/e45dc5d1a5772571d222fcf94b1e254989b87aed "ci: Add Github Actions \(#4\)
+* add Github Actions
+Signed-off-by: Michele Dolfi <dol@zurich.ibm.com>
+* apply styling
+Signed-off-by: Michele Dolfi <dol@zurich.ibm.com>
+* Update .github/actions/setup-poetry/action.yml
+Co-authored-by: Panos Vagenas <35837085+vagenas@users.noreply.github.com>
+Signed-off-by: Michele Dolfi <97102151+dolfim-ibm@users.noreply.github.com>
+* add semantic-release config
+Signed-off-by: Panos Vagenas <35837085+vagenas@users.noreply.github.com>
+---------
+Signed-off-by: Michele Dolfi <dol@zurich.ibm.com>
+Signed-off-by: Michele Dolfi <97102151+dolfim-ibm@users.noreply.github.com>
+Signed-off-by: Panos Vagenas <35837085+vagenas@users.noreply.github.com>
+Co-authored-by: Panos Vagenas <35837085+vagenas@users.noreply.github.com>")[#4](https://github.com/docling-project/docling/pull/4)[)](https://github.com/docling-project/docling/commit/e45dc5d1a5772571d222fcf94b1e254989b87aed "ci: Add Github Actions \(#4\)
+* add Github Actions
+Signed-off-by: Michele Dolfi <dol@zurich.ibm.com>
+* apply styling
+Signed-off-by: Michele Dolfi <dol@zurich.ibm.com>
+* Update .github/actions/setup-poetry/action.yml
+Co-authored-by: Panos Vagenas <35837085+vagenas@users.noreply.github.com>
+Signed-off-by: Michele Dolfi <97102151+dolfim-ibm@users.noreply.github.com>
+* add semantic-release config
+Signed-off-by: Panos Vagenas <35837085+vagenas@users.noreply.github.com>
+---------
+Signed-off-by: Michele Dolfi <dol@zurich.ibm.com>
+Signed-off-by: Michele Dolfi <97102151+dolfim-ibm@users.noreply.github.com>
+Signed-off-by: Panos Vagenas <35837085+vagenas@users.noreply.github.com>
+Co-authored-by: Panos Vagenas <35837085+vagenas@users.noreply.github.com>")| Jul 16, 2024  
+[.pre-commit-config.yaml](https://github.com/docling-project/docling/blob/main/.pre-commit-config.yaml ".pre-commit-config.yaml")| [.pre-commit-config.yaml](https://github.com/docling-project/docling/blob/main/.pre-commit-config.yaml ".pre-commit-config.yaml")| [feat!: Docling v2 (](https://github.com/docling-project/docling/commit/7d3be0edebb420f5840499aa04e4ab928d33cda2 "feat!: Docling v2 \(#117\)
+
+---------
+Signed-off-by: Christoph Auer <cau@zurich.ibm.com>
+Signed-off-by: Maxim Lysak <mly@zurich.ibm.com>
+Signed-off-by: Michele Dolfi <dol@zurich.ibm.com>
+Signed-off-by: Panos Vagenas <35837085+vagenas@users.noreply.github.com>
+Co-authored-by: Maxim Lysak <mly@zurich.ibm.com>
+Co-authored-by: Michele Dolfi <dol@zurich.ibm.com>
+Co-authored-by: Panos Vagenas <35837085+vagenas@users.noreply.github.com>")[#117](https://github.com/docling-project/docling/pull/117)[)](https://github.com/docling-project/docling/commit/7d3be0edebb420f5840499aa04e4ab928d33cda2 "feat!: Docling v2 \(#117\)
+
+---------
+Signed-off-by: Christoph Auer <cau@zurich.ibm.com>
+Signed-off-by: Maxim Lysak <mly@zurich.ibm.com>
+Signed-off-by: Michele Dolfi <dol@zurich.ibm.com>
+Signed-off-by: Panos Vagenas <35837085+vagenas@users.noreply.github.com>
+Co-authored-by: Maxim Lysak <mly@zurich.ibm.com>
+Co-authored-by: Michele Dolfi <dol@zurich.ibm.com>
+Co-authored-by: Panos Vagenas <35837085+vagenas@users.noreply.github.com>")| Oct 16, 2024  
+[CHANGELOG.md](https://github.com/docling-project/docling/blob/main/CHANGELOG.md "CHANGELOG.md")| [CHANGELOG.md](https://github.com/docling-project/docling/blob/main/CHANGELOG.md "CHANGELOG.md")| [chore: bump version to 2.28.4 [skip ci]](https://github.com/docling-project/docling/commit/44f2b081ec6ee7cc0e3fcd39f0f87244f98cf875 "chore: bump version to 2.28.4 \[skip ci\]")| Mar 29, 2025  
+[CITATION.cff](https://github.com/docling-project/docling/blob/main/CITATION.cff "CITATION.cff")| [CITATION.cff](https://github.com/docling-project/docling/blob/main/CITATION.cff "CITATION.cff")| [chore: add downloads in README, security policy and update ci actions (](https://github.com/docling-project/docling/commit/97d571af97fd85a4fcb06d65f535ccfcef6ab6a5 "chore: add downloads in README, security policy and update ci actions \(#401\)
+* add security policy
+Signed-off-by: Michele Dolfi <dol@zurich.ibm.com>
+* update deprecated actions
+Signed-off-by: Michele Dolfi <dol@zurich.ibm.com>
+* add comment about licenses for new dependencies
+Signed-off-by: Michele Dolfi <dol@zurich.ibm.com>
+* add pypi downloads badge
+Signed-off-by: Michele Dolfi <dol@zurich.ibm.com>
+* add citation file
+Signed-off-by: Michele Dolfi <dol@zurich.ibm.com>
+---------
+Signed-off-by: Michele Dolfi <dol@zurich.ibm.com>")[…](https://github.com/docling-project/docling/pull/401)| Nov 21, 2024  
+[CODE_OF_CONDUCT.md](https://github.com/docling-project/docling/blob/main/CODE_OF_CONDUCT.md "CODE_OF_CONDUCT.md")| [CODE_OF_CONDUCT.md](https://github.com/docling-project/docling/blob/main/CODE_OF_CONDUCT.md "CODE_OF_CONDUCT.md")| [docs: Linux Foundation AI & Data (](https://github.com/docling-project/docling/commit/1d680b0a321d95fc6bd65b7bb4d5e15005a0250a "docs: Linux Foundation AI & Data \(#1183\)
+* point the auxiliary files to the community repo and add lfai in README
+Signed-off-by: Michele Dolfi <dol@zurich.ibm.com>
+* update docs index
+Signed-off-by: Michele Dolfi <dol@zurich.ibm.com>
+---------
+Signed-off-by: Michele Dolfi <dol@zurich.ibm.com>")[#1183](https://github.com/docling-project/docling/pull/1183)[)](https://github.com/docling-project/docling/commit/1d680b0a321d95fc6bd65b7bb4d5e15005a0250a "docs: Linux Foundation AI & Data \(#1183\)
+* point the auxiliary files to the community repo and add lfai in README
+Signed-off-by: Michele Dolfi <dol@zurich.ibm.com>
+* update docs index
+Signed-off-by: Michele Dolfi <dol@zurich.ibm.com>
+---------
+Signed-off-by: Michele Dolfi <dol@zurich.ibm.com>")| Mar 19, 2025  
+[CONTRIBUTING.md](https://github.com/docling-project/docling/blob/main/CONTRIBUTING.md "CONTRIBUTING.md")| [CONTRIBUTING.md](https://github.com/docling-project/docling/blob/main/CONTRIBUTING.md "CONTRIBUTING.md")| [docs: Linux Foundation AI & Data (](https://github.com/docling-project/docling/commit/1d680b0a321d95fc6bd65b7bb4d5e15005a0250a "docs: Linux Foundation AI & Data \(#1183\)
+* point the auxiliary files to the community repo and add lfai in README
+Signed-off-by: Michele Dolfi <dol@zurich.ibm.com>
+* update docs index
+Signed-off-by: Michele Dolfi <dol@zurich.ibm.com>
+---------
+Signed-off-by: Michele Dolfi <dol@zurich.ibm.com>")[#1183](https://github.com/docling-project/docling/pull/1183)[)](https://github.com/docling-project/docling/commit/1d680b0a321d95fc6bd65b7bb4d5e15005a0250a "docs: Linux Foundation AI & Data \(#1183\)
+* point the auxiliary files to the community repo and add lfai in README
+Signed-off-by: Michele Dolfi <dol@zurich.ibm.com>
+* update docs index
+Signed-off-by: Michele Dolfi <dol@zurich.ibm.com>
+---------
+Signed-off-by: Michele Dolfi <dol@zurich.ibm.com>")| Mar 19, 2025  
+[Dockerfile](https://github.com/docling-project/docling/blob/main/Dockerfile "Dockerfile")| [Dockerfile](https://github.com/docling-project/docling/blob/main/Dockerfile "Dockerfile")| [chore: properly clean up apt temporary files in Dockerfile (](https://github.com/docling-project/docling/commit/8ebb0bf1a096b3e965b309a6a90df71aed4611ea "chore: properly clean up apt temporary files in Dockerfile \(#1223\)
+Signed-off-by: Peter Dave Hello <hsu@peterdavehello.org>")[#1223](https://github.com/docling-project/docling/pull/1223)[)](https://github.com/docling-project/docling/commit/8ebb0bf1a096b3e965b309a6a90df71aed4611ea "chore: properly clean up apt temporary files in Dockerfile \(#1223\)
+Signed-off-by: Peter Dave Hello <hsu@peterdavehello.org>")| Mar 25, 2025  
+[LICENSE](https://github.com/docling-project/docling/blob/main/LICENSE "LICENSE")| [LICENSE](https://github.com/docling-project/docling/blob/main/LICENSE "LICENSE")| [chore: fix placeholders in license (](https://github.com/docling-project/docling/commit/6f1811e050e8beaa5e82bc8a755a4c1a56a0fba3 "chore: fix placeholders in license \(#63\)
+Signed-off-by: Michele Dolfi <97102151+dolfim-ibm@users.noreply.github.com>")[#63](https://github.com/docling-project/docling/pull/63)[)](https://github.com/docling-project/docling/commit/6f1811e050e8beaa5e82bc8a755a4c1a56a0fba3 "chore: fix placeholders in license \(#63\)
+Signed-off-by: Michele Dolfi <97102151+dolfim-ibm@users.noreply.github.com>")| Sep 6, 2024  
+[MAINTAINERS.md](https://github.com/docling-project/docling/blob/main/MAINTAINERS.md "MAINTAINERS.md")| [MAINTAINERS.md](https://github.com/docling-project/docling/blob/main/MAINTAINERS.md "MAINTAINERS.md")| [docs: Linux Foundation AI & Data (](https://github.com/docling-project/docling/commit/1d680b0a321d95fc6bd65b7bb4d5e15005a0250a "docs: Linux Foundation AI & Data \(#1183\)
+* point the auxiliary files to the community repo and add lfai in README
+Signed-off-by: Michele Dolfi <dol@zurich.ibm.com>
+* update docs index
+Signed-off-by: Michele Dolfi <dol@zurich.ibm.com>
+---------
+Signed-off-by: Michele Dolfi <dol@zurich.ibm.com>")[#1183](https://github.com/docling-project/docling/pull/1183)[)](https://github.com/docling-project/docling/commit/1d680b0a321d95fc6bd65b7bb4d5e15005a0250a "docs: Linux Foundation AI & Data \(#1183\)
+* point the auxiliary files to the community repo and add lfai in README
+Signed-off-by: Michele Dolfi <dol@zurich.ibm.com>
+* update docs index
+Signed-off-by: Michele Dolfi <dol@zurich.ibm.com>
+---------
+Signed-off-by: Michele Dolfi <dol@zurich.ibm.com>")| Mar 19, 2025  
+[README.md](https://github.com/docling-project/docling/blob/main/README.md "README.md")| [README.md](https://github.com/docling-project/docling/blob/main/README.md "README.md")| [feat(SmolDocling): Support MLX acceleration in VLM pipeline (](https://github.com/docling-project/docling/commit/1c26769785bcd17c0b8b621c5182ad81134d3915 "feat\(SmolDocling\): Support MLX acceleration in VLM pipeline \(#1199\)
+* Initial implementation to support MLX for VLM pipeline and SmolDocling
+Signed-off-by: Maksym Lysak <mly@zurich.ibm.com>
+* mlx_model unit
+Signed-off-by: Maksym Lysak <mly@zurich.ibm.com>
+* Add CLI choices for VLM pipeline and model
+Signed-off-by: Christoph Auer <cau@zurich.ibm.com>
+* Initial implementation to support MLX for VLM pipeline and SmolDocling
+Signed-off-by: Maksym Lysak <mly@zurich.ibm.com>
+* mlx_model unit
+Signed-off-by: Maksym Lysak <mly@zurich.ibm.com>
+* Add CLI choices for VLM pipeline and model
+Signed-off-by: Christoph Auer <cau@zurich.ibm.com>
+* Updated minimal vlm pipeline example
+Signed-off-by: Maksym Lysak <mly@zurich.ibm.com>
+* make vlm_pipeline python3.9 compatible
+Signed-off-by: Maksym Lysak <mly@zurich.ibm.com>
+* Fixed extract_text_from_backend definition
+Signed-off-by: Maksym Lysak <mly@zurich.ibm.com>
+* Updated README
+Signed-off-by: Maksym Lysak <mly@zurich.ibm.com>
+* Updated example
+Signed-off-by: Maksym Lysak <mly@zurich.ibm.com>
+* Updated documentation
+Signed-off-by: Maksym Lysak <mly@zurich.ibm.com>
+* corrections in the documentation
+Signed-off-by: Maksym Lysak <mly@zurich.ibm.com>
+* Consmetic changes
+Signed-off-by: Christoph Auer <cau@zurich.ibm.com>
+---------
+Signed-off-by: Maksym Lysak <mly@zurich.ibm.com>
+Signed-off-by: Christoph Auer <cau@zurich.ibm.com>
+Co-authored-by: Maksym Lysak <mly@zurich.ibm.com>
+Co-authored-by: Christoph Auer <cau@zurich.ibm.com>")[#1199](https://github.com/docling-project/docling/pull/1199)[)](https://github.com/docling-project/docling/commit/1c26769785bcd17c0b8b621c5182ad81134d3915 "feat\(SmolDocling\): Support MLX acceleration in VLM pipeline \(#1199\)
+* Initial implementation to support MLX for VLM pipeline and SmolDocling
+Signed-off-by: Maksym Lysak <mly@zurich.ibm.com>
+* mlx_model unit
+Signed-off-by: Maksym Lysak <mly@zurich.ibm.com>
+* Add CLI choices for VLM pipeline and model
+Signed-off-by: Christoph Auer <cau@zurich.ibm.com>
+* Initial implementation to support MLX for VLM pipeline and SmolDocling
+Signed-off-by: Maksym Lysak <mly@zurich.ibm.com>
+* mlx_model unit
+Signed-off-by: Maksym Lysak <mly@zurich.ibm.com>
+* Add CLI choices for VLM pipeline and model
+Signed-off-by: Christoph Auer <cau@zurich.ibm.com>
+* Updated minimal vlm pipeline example
+Signed-off-by: Maksym Lysak <mly@zurich.ibm.com>
+* make vlm_pipeline python3.9 compatible
+Signed-off-by: Maksym Lysak <mly@zurich.ibm.com>
+* Fixed extract_text_from_backend definition
+Signed-off-by: Maksym Lysak <mly@zurich.ibm.com>
+* Updated README
+Signed-off-by: Maksym Lysak <mly@zurich.ibm.com>
+* Updated example
+Signed-off-by: Maksym Lysak <mly@zurich.ibm.com>
+* Updated documentation
+Signed-off-by: Maksym Lysak <mly@zurich.ibm.com>
+* corrections in the documentation
+Signed-off-by: Maksym Lysak <mly@zurich.ibm.com>
+* Consmetic changes
+Signed-off-by: Christoph Auer <cau@zurich.ibm.com>
+---------
+Signed-off-by: Maksym Lysak <mly@zurich.ibm.com>
+Signed-off-by: Christoph Auer <cau@zurich.ibm.com>
+Co-authored-by: Maksym Lysak <mly@zurich.ibm.com>
+Co-authored-by: Christoph Auer <cau@zurich.ibm.com>")| Mar 19, 2025  
+[mkdocs.yml](https://github.com/docling-project/docling/blob/main/mkdocs.yml "mkdocs.yml")| [mkdocs.yml](https://github.com/docling-project/docling/blob/main/mkdocs.yml "mkdocs.yml")| [docs: move apify to docs (](https://github.com/docling-project/docling/commit/54a78c307de833b93f9b84cf1f8ed6dace8573cb "docs: move apify to docs \(#1182\)
+move apify to docs
+Signed-off-by: Michele Dolfi <dol@zurich.ibm.com>")[#1182](https://github.com/docling-project/docling/pull/1182)[)](https://github.com/docling-project/docling/commit/54a78c307de833b93f9b84cf1f8ed6dace8573cb "docs: move apify to docs \(#1182\)
+move apify to docs
+Signed-off-by: Michele Dolfi <dol@zurich.ibm.com>")| Mar 18, 2025  
+[poetry.lock](https://github.com/docling-project/docling/blob/main/poetry.lock "poetry.lock")| [poetry.lock](https://github.com/docling-project/docling/blob/main/poetry.lock "poetry.lock")| [fix: Word-level pdf cells for tables (](https://github.com/docling-project/docling/commit/8bd71e8e331de3a176110341554e026c9e0ecf6c "fix: Word-level pdf cells for tables \(#1238\)
+* word-level pdf cells for tables
+Signed-off-by: Maksym Lysak <mly@zurich.ibm.com>
+* removed comments
+Signed-off-by: Maksym Lysak <mly@zurich.ibm.com>
+* Updated dependency to docling-core
+Signed-off-by: Maksym Lysak <mly@zurich.ibm.com>
+---------
+Signed-off-by: Maksym Lysak <mly@zurich.ibm.com>
+Co-authored-by: Maksym Lysak <mly@zurich.ibm.com>")[#1238](https://github.com/docling-project/docling/pull/1238)[)](https://github.com/docling-project/docling/commit/8bd71e8e331de3a176110341554e026c9e0ecf6c "fix: Word-level pdf cells for tables \(#1238\)
+* word-level pdf cells for tables
+Signed-off-by: Maksym Lysak <mly@zurich.ibm.com>
+* removed comments
+Signed-off-by: Maksym Lysak <mly@zurich.ibm.com>
+* Updated dependency to docling-core
+Signed-off-by: Maksym Lysak <mly@zurich.ibm.com>
+---------
+Signed-off-by: Maksym Lysak <mly@zurich.ibm.com>
+Co-authored-by: Maksym Lysak <mly@zurich.ibm.com>")| Mar 28, 2025  
+[pyproject.toml](https://github.com/docling-project/docling/blob/main/pyproject.toml "pyproject.toml")| [pyproject.toml](https://github.com/docling-project/docling/blob/main/pyproject.toml "pyproject.toml")| [chore: bump version to 2.28.4 [skip ci]](https://github.com/docling-project/docling/commit/44f2b081ec6ee7cc0e3fcd39f0f87244f98cf875 "chore: bump version to 2.28.4 \[skip ci\]")| Mar 29, 2025  
+View all files  
+## Repository files navigation
+  * [README](https://github.com/DS4SD/docling/)
+  * [Code of conduct](https://github.com/DS4SD/docling/)
+  * [MIT license](https://github.com/DS4SD/docling/)
+  * [Security](https://github.com/DS4SD/docling/)
+
+
+[ ![Docling](https://github.com/docling-project/docling/raw/main/docs/assets/docling_processing.png) ](https://github.com/docling-project/docling)
+# Docling
+[](https://github.com/DS4SD/docling/#docling)
+[![DS4SD%2Fdocling | Trendshift](https://camo.githubusercontent.com/2397b9a4d2107753af74afc82fed46cdc5d4cdd78b033bdffe924d60fad49840/68747470733a2f2f7472656e6473686966742e696f2f6170692f62616467652f7265706f7369746f726965732f3132313332)](https://trendshift.io/repositories/12132)
+[![arXiv](https://camo.githubusercontent.com/2610bebade789d244a2ef0446592fc58fe1c4506570f064e65e1b2b77b1879cf/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f61725869762d323430382e30393836392d6233316231622e737667)](https://arxiv.org/abs/2408.09869) [![Docs](https://camo.githubusercontent.com/3801aa3df692a6e677d79aab6d8753c115904773be47cd47ad67c392f4515250/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f646f63732d6c6976652d627269676874677265656e)](https://docling-project.github.io/docling/) [![PyPI version](https://camo.githubusercontent.com/0798c9df01764984318db919ff970737823a3cab2fd3608b4cfde31afb5f18d2/68747470733a2f2f696d672e736869656c64732e696f2f707970692f762f646f636c696e67)](https://pypi.org/project/docling/) [![PyPI - Python Version](https://camo.githubusercontent.com/581db71834c2fe0d4d06db68b7f2f65af1f58f538597c8db3989e454247cdc6d/68747470733a2f2f696d672e736869656c64732e696f2f707970692f707976657273696f6e732f646f636c696e67)](https://pypi.org/project/docling/) [![Poetry](https://camo.githubusercontent.com/e9de59b7d2a7896f05d977ca76c28c69c6ff163840e5526baeb18e56c532ad5f/68747470733a2f2f696d672e736869656c64732e696f2f656e64706f696e743f75726c3d68747470733a2f2f707974686f6e2d706f657472792e6f72672f62616467652f76302e6a736f6e)](https://python-poetry.org/) [![Code style: black](https://camo.githubusercontent.com/5bf9e9fa18966df7cb5fac7715bef6b72df15e01a6efa9d616c83f9fcb527fe2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f636f64652532307374796c652d626c61636b2d3030303030302e737667)](https://github.com/psf/black) [![Imports: isort](https://camo.githubusercontent.com/4e71e9b7ea25fbc70f186444684f4bfd9def4c737dfc327796cc2c332cbf0b46/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f253230696d706f7274732d69736f72742d2532333136373462313f7374796c653d666c6174266c6162656c436f6c6f723d656638333336)](https://pycqa.github.io/isort/) [![Pydantic v2](https://camo.githubusercontent.com/1ec3b5f774c66556456b4b855a73c1706f5454fa0ac3d2e4bcdabda9153b6b45/68747470733a2f2f696d672e736869656c64732e696f2f656e64706f696e743f75726c3d68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f707964616e7469632f707964616e7469632f6d61696e2f646f63732f62616467652f76322e6a736f6e)](https://pydantic.dev) [![pre-commit](https://camo.githubusercontent.com/c8dfc1d0c35fe0cc438cf57a44b9d915e0baa2aef9da75d07ad3ee2cdb237214/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7072652d2d636f6d6d69742d656e61626c65642d627269676874677265656e3f6c6f676f3d7072652d636f6d6d6974266c6f676f436f6c6f723d7768697465)](https://github.com/pre-commit/pre-commit) [![License MIT](https://camo.githubusercontent.com/116042ab89d583f38f25c4fc925ad3b428e641c647494e40ab68f20ed20b0cf9/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6963656e73652f646f636c696e672d70726f6a6563742f646f636c696e67)](https://opensource.org/licenses/MIT) [![PyPI Downloads](https://camo.githubusercontent.com/4d0005a1700620d43adf3bb56108360995e28f58c3f7f381ddd8d70085f21d05/68747470733a2f2f7374617469632e706570792e746563682f62616467652f646f636c696e672f6d6f6e7468)](https://pepy.tech/projects/docling) [![Docling Actor](https://camo.githubusercontent.com/7871c94f672afdd5d86438eff98da6f03bdb3d8a3cf29ef2226e4fbb1163e893/68747470733a2f2f61706966792e636f6d2f6163746f722d62616467653f6163746f723d76616e637572612f646f636c696e673f6670723d646f636c696e67)](https://apify.com/vancura/docling) [![LF AI & Data](https://camo.githubusercontent.com/1bd2541e3e865f5e967a6af94ef9d1f0c22246dce0d31e08d3243438e66b4efd/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c462532304149253230253236253230446174612d3030333737383f6c6f676f3d6c696e7578666f756e646174696f6e266c6f676f436f6c6f723d66666626636f6c6f723d303039346666266c6162656c436f6c6f723d303033373738)](https://lfaidata.foundation/projects/)
+Docling simplifies document processing, parsing diverse formats — including advanced PDF understanding — and providing seamless integrations with the gen AI ecosystem.
+## Features
+[](https://github.com/DS4SD/docling/#features)
+  * 🗂️ Parsing of [multiple document formats](https://docling-project.github.io/docling/usage/supported_formats/) incl. PDF, DOCX, XLSX, HTML, images, and more
+  * 📑 Advanced PDF understanding incl. page layout, reading order, table structure, code, formulas, image classification, and more
+  * 🧬 Unified, expressive [DoclingDocument](https://docling-project.github.io/docling/concepts/docling_document/) representation format
+  * ↪️ Various [export formats](https://docling-project.github.io/docling/usage/supported_formats/) and options, including Markdown, HTML, and lossless JSON
+  * 🔒 Local execution capabilities for sensitive data and air-gapped environments
+  * 🤖 Plug-and-play [integrations](https://docling-project.github.io/docling/integrations/) incl. LangChain, LlamaIndex, Crew AI & Haystack for agentic AI
+  * 🔍 Extensive OCR support for scanned PDFs and images
+  * 🥚 Support of Visual Language Models ([SmolDocling](https://huggingface.co/ds4sd/SmolDocling-256M-preview)) 🆕
+  * 💻 Simple and convenient CLI
+
+
+### Coming soon
+[](https://github.com/DS4SD/docling/#coming-soon)
+  * 📝 Metadata extraction, including title, authors, references & language
+  * 📝 Chart understanding (Barchart, Piechart, LinePlot, etc)
+  * 📝 Complex chemistry understanding (Molecular structures)
+
+
+## Installation
+[](https://github.com/DS4SD/docling/#installation)
+To use Docling, simply install `docling` from your package manager, e.g. pip:
+```
+pip install docling
+```
+
+Works on macOS, Linux and Windows environments. Both x86_64 and arm64 architectures.
+More [detailed installation instructions](https://docling-project.github.io/docling/installation/) are available in the docs.
+## Getting started
+[](https://github.com/DS4SD/docling/#getting-started)
+To convert individual documents with python, use `convert()`, for example:
+```
+from docling.document_converter import DocumentConverter
+source = "https://arxiv.org/pdf/2408.09869" # document per local path or URL
+converter = DocumentConverter()
+result = converter.convert(source)
+print(result.document.export_to_markdown()) # output: "## Docling Technical Report[...]"
+```
+
+More [advanced usage options](https://docling-project.github.io/docling/usage/) are available in the docs.
+## CLI
+[](https://github.com/DS4SD/docling/#cli)
+Docling has a built-in CLI to run conversions.
+```
+docling https://arxiv.org/pdf/2206.01062
+```
+
+You can also use 🥚[SmolDocling](https://huggingface.co/ds4sd/SmolDocling-256M-preview) and other VLMs via Docling CLI:
+```
+docling --pipeline vlm --vlm-model smoldocling https://arxiv.org/pdf/2206.01062
+```
+
+This will use MLX acceleration on supported Apple Silicon hardware.
+Read more [here](https://docling-project.github.io/docling/usage/)
+## Documentation
+[](https://github.com/DS4SD/docling/#documentation)
+Check out Docling's [documentation](https://docling-project.github.io/docling/), for details on installation, usage, concepts, recipes, extensions, and more.
+## Examples
+[](https://github.com/DS4SD/docling/#examples)
+Go hands-on with our [examples](https://docling-project.github.io/docling/examples/), demonstrating how to address different application use cases with Docling.
+## Integrations
+[](https://github.com/DS4SD/docling/#integrations)
+To further accelerate your AI application development, check out Docling's native [integrations](https://docling-project.github.io/docling/integrations/) with popular frameworks and tools.
+## Get help and support
+[](https://github.com/DS4SD/docling/#get-help-and-support)
+Please feel free to connect with us using the [discussion section](https://github.com/docling-project/docling/discussions).
+## Technical report
+[](https://github.com/DS4SD/docling/#technical-report)
+For more details on Docling's inner workings, check out the [Docling Technical Report](https://arxiv.org/abs/2408.09869).
+## Contributing
+[](https://github.com/DS4SD/docling/#contributing)
+Please read [Contributing to Docling](https://github.com/docling-project/docling/blob/main/CONTRIBUTING.md) for details.
+## References
+[](https://github.com/DS4SD/docling/#references)
+If you use Docling in your projects, please consider citing the following:
+```
+@techreport{Docling,
+ author = {Deep Search Team},
+ month = {8},
+ title = {Docling Technical Report},
+ url = {https://arxiv.org/abs/2408.09869},
+ eprint = {2408.09869},
+ doi = {10.48550/arXiv.2408.09869},
+ version = {1.0.0},
+ year = {2024}
+}
+```
+
+## License
+[](https://github.com/DS4SD/docling/#license)
+The Docling codebase is under MIT license. For individual model usage, please refer to the model licenses found in the original packages.
+## LF AI & Data
+[](https://github.com/DS4SD/docling/#lf-ai--data)
+Docling is hosted as a project in the [LF AI & Data Foundation](https://lfaidata.foundation/projects/).
+### IBM ❤️ Open Source AI
+[](https://github.com/DS4SD/docling/#ibm-️-open-source-ai)
+The project was started by the AI for knowledge team at IBM Research Zurich.
+## About
+Get your documents ready for gen AI 
+[docling-project.github.io/docling](https://docling-project.github.io/docling "https://docling-project.github.io/docling")
+### Topics
+[ html ](https://github.com/topics/html "Topic: html") [ markdown ](https://github.com/topics/markdown "Topic: markdown") [ pdf ](https://github.com/topics/pdf "Topic: pdf") [ ai ](https://github.com/topics/ai "Topic: ai") [ convert ](https://github.com/topics/convert "Topic: convert") [ xlsx ](https://github.com/topics/xlsx "Topic: xlsx") [ pdf-converter ](https://github.com/topics/pdf-converter "Topic: pdf-converter") [ docx ](https://github.com/topics/docx "Topic: docx") [ documents ](https://github.com/topics/documents "Topic: documents") [ pptx ](https://github.com/topics/pptx "Topic: pptx") [ pdf-to-text ](https://github.com/topics/pdf-to-text "Topic: pdf-to-text") [ tables ](https://github.com/topics/tables "Topic: tables") [ document-parser ](https://github.com/topics/document-parser "Topic: document-parser") [ pdf-to-json ](https://github.com/topics/pdf-to-json "Topic: pdf-to-json") [ document-parsing ](https://github.com/topics/document-parsing "Topic: document-parsing")
+### Resources
+[ Readme ](https://github.com/DS4SD/docling/#readme-ov-file)
+### License
+[ MIT license ](https://github.com/DS4SD/docling/#MIT-1-ov-file)
+### Code of conduct
+[ Code of conduct ](https://github.com/DS4SD/docling/#coc-ov-file)
+### Security policy
+[ Security policy ](https://github.com/DS4SD/docling/#security-ov-file)
+### Citation
+Cite this repository 
+Loading
+Something went wrong. 
+[ Activity](https://github.com/docling-project/docling/activity)
+[ Custom properties](https://github.com/docling-project/docling/custom-properties)
+### Stars
+[ **25.7k** stars](https://github.com/docling-project/docling/stargazers)
+### Watchers
+[ **109** watching](https://github.com/docling-project/docling/watchers)
+### Forks
+[ **1.5k** forks](https://github.com/docling-project/docling/forks)
+[ Report repository ](https://github.com/contact/report-content?content_url=https%3A%2F%2Fgithub.com%2Fdocling-project%2Fdocling&report=docling-project+%28user%29)
+##  [Releases 92](https://github.com/docling-project/docling/releases)
+[ v2.28.4 Latest  Mar 29, 2025 ](https://github.com/docling-project/docling/releases/tag/v2.28.4)
+[+ 91 releases](https://github.com/docling-project/docling/releases)
+##  [Used by 1.1k](https://github.com/docling-project/docling/network/dependents)
+[
+  * ![@jamieroszel22](https://avatars.githubusercontent.com/u/157253276?s=64&v=4)
+  * ![@poloHuni](https://avatars.githubusercontent.com/u/204557457?s=64&v=4)
+  * ![@gabsoft](https://avatars.githubusercontent.com/u/32176125?s=64&v=4)
+  * ![@TreesWise](https://avatars.githubusercontent.com/u/140375595?s=64&v=4)
+  * ![@horus84](https://avatars.githubusercontent.com/u/174241184?s=64&v=4)
+  * ![@Ndifreke000](https://avatars.githubusercontent.com/u/111875002?s=64&v=4)
+  * ![@developerproductivity](https://avatars.githubusercontent.com/u/153051784?s=64&v=4)
+  * ![@shruti-bhadak](https://avatars.githubusercontent.com/u/159998848?s=64&v=4)
+
++ 1,112  ](https://github.com/docling-project/docling/network/dependents)
+##  [Contributors 58](https://github.com/docling-project/docling/graphs/contributors)
+  * [ ![@dolfim-ibm](https://avatars.githubusercontent.com/u/97102151?s=64&v=4) ](https://github.com/dolfim-ibm)
+  * [ ![@github-actions\[bot\]](https://avatars.githubusercontent.com/in/15368?s=64&v=4) ](https://github.com/apps/github-actions)
+  * [ ![@vagenas](https://avatars.githubusercontent.com/u/35837085?s=64&v=4) ](https://github.com/vagenas)
+  * [ ![@cau-git](https://avatars.githubusercontent.com/u/60343111?s=64&v=4) ](https://github.com/cau-git)
+  * [ ![@maxmnemonic](https://avatars.githubusercontent.com/u/101627549?s=64&v=4) ](https://github.com/maxmnemonic)
+  * [ ![@ceberam](https://avatars.githubusercontent.com/u/75900930?s=64&v=4) ](https://github.com/ceberam)
+  * [ ![@PeterStaar-IBM](https://avatars.githubusercontent.com/u/91719829?s=64&v=4) ](https://github.com/PeterStaar-IBM)
+  * [ ![@nikos-livathinos](https://avatars.githubusercontent.com/u/100353117?s=64&v=4) ](https://github.com/nikos-livathinos)
+  * [ ![@farzad528](https://avatars.githubusercontent.com/u/40604067?s=64&v=4) ](https://github.com/farzad528)
+  * [ ![@Matteo-Omenetti](https://avatars.githubusercontent.com/u/43417658?s=64&v=4) ](https://github.com/Matteo-Omenetti)
+  * [ ![@rateixei](https://avatars.githubusercontent.com/u/5182878?s=64&v=4) ](https://github.com/rateixei)
+  * [ ![@gaspardpetit](https://avatars.githubusercontent.com/u/9883156?s=64&v=4) ](https://github.com/gaspardpetit)
+  * [ ![@fadkeabhi](https://avatars.githubusercontent.com/u/31249309?s=64&v=4) ](https://github.com/fadkeabhi)
+  * [ ![@vancura](https://avatars.githubusercontent.com/u/4982?s=64&v=4) ](https://github.com/vancura)
+
+
+[+ 44 contributors](https://github.com/docling-project/docling/graphs/contributors)
+## Languages
+  * [ Python 70.8% ](https://github.com/docling-project/docling/search?l=python)
+  * [ HTML 27.4% ](https://github.com/docling-project/docling/search?l=html)
+  * [ Shell 1.4% ](https://github.com/docling-project/docling/search?l=shell)
+  * [ Dockerfile 0.4% ](https://github.com/docling-project/docling/search?l=dockerfile)
+
+
+## Footer
+[ ](https://github.com "GitHub") © 2025 GitHub, Inc. 
+### Footer navigation
+  * [Terms](https://docs.github.com/site-policy/github-terms/github-terms-of-service)
+  * [Privacy](https://docs.github.com/site-policy/privacy-policies/github-privacy-statement)
+  * [Security](https://github.com/security)
+  * [Status](https://www.githubstatus.com/)
+  * [Docs](https://docs.github.com/)
+  * [Contact](https://support.github.com?tags=dotcom-footer)
+  * Manage cookies 
+  * Do not share my personal information 
+
+
+You can’t perform that action at this time. 
