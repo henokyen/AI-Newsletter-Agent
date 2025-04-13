@@ -48,4 +48,5 @@ def generate_dataset(
         summarization_max_characters=summarization_max_characters,
     )
 
-    save_dataset_to_disk(dataset, output_dir=data_dir / "instruct_dataset" / load_dataset_id)
+    save_dataset_to_disk(dataset, 
+                         output_dir=data_dir / "instruct_dataset" / load_dataset_id)

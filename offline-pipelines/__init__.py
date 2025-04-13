@@ -1,6 +1,7 @@
-from . import steps, pipelines, dataset
+from . import steps, pipelines, dataset, tools
 
 __all__ =["steps",
           "pipelines",
-          "dataset"
+          "dataset",
+          "tools"
           ]
