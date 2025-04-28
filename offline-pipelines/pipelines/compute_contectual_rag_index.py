@@ -39,7 +39,7 @@ def compute_rag_vector_index(
         documents=documents,
         content_quality_score_threshold=content_quality_score_threshold,
     ) 
-    
+
     chunk_embed_load(
         documents=documents,
         collection_name=load_collection_name,

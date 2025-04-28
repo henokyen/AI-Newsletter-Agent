@@ -59,6 +59,7 @@ class MongoDBService(Generic[T]):
         self.mongodb_uri = mongodb_uri
 
         try:
+            print(f"connecting to {self.mongodb_uri}")
             self.client = MongoClient(mongodb_uri, appname="ai-newsletter")
             self.client.admin.command("ping")
         except Exception as e:

@@ -1,14 +1,13 @@
 from typing import Literal, Union
 
 from langchain_mongodb import MongoDBAtlasVectorSearch
-
 from langchain_mongodb.retrievers import (
     MongoDBAtlasHybridSearchRetriever,
     MongoDBAtlasParentDocumentRetriever,
 )
 from loguru import logger
 
-from steps.config import settings
+from config import settings
 
 from .embeddings import EmbeddingModelType, EmbeddingsModel, get_embedding_model
 from .splitters import get_splitter
