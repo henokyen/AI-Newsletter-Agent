@@ -35,6 +35,10 @@ class AgentWrapper:
     @property
     def input_messages(self) -> list[dict]:
         return self.__agent.input_messages
+    
+    @property
+    def agent_name(self) -> str:
+        return self.__agent.agent_name
 
     @property
     def name(self) -> str:

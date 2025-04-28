@@ -7,6 +7,9 @@ from opik.evaluation.metrics import AnswerRelevance, Hallucination, Moderation
 import opik_utils
 from application.agents import agents, extract_tool_responses
 from config import settings
+import os
+from dotenv import load_dotenv
+load_dotenv(override=True)
 
 from .summary_density_heuristic import SummaryDensityHeuristic
 from .summary_density_judge import SummaryDensityJudge
@@ -15,7 +18,7 @@ opik_utils.configure()
 
 
 def evaluate_agent(prompts: list[str], retriever_config_path: Path) -> None:
-    assert settings.COMET_API_KEY, (
+    assert os.environ['COMET_API_KEY'], (
         "COMET_API_KEY is not set. We need it to track the experiment with Opik."
     )
 
@@ -36,7 +39,7 @@ def evaluate_agent(prompts: list[str], retriever_config_path: Path) -> None:
         }
 
     # Get or create dataset
-    dataset_name = "second_brain_rag_agentic_app_evaluation_dataset"
+    dataset_name = "ai_note_analyzer_rag_agentic_app_evaluation_dataset"
     dataset = opik_utils.get_or_create_dataset(name=dataset_name, prompts=prompts)
 
     # Evaluate
